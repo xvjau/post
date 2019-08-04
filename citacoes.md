@@ -5,6 +5,7 @@ date: 2019-06-06
 ---
 Lembre-se:
 
+ - Escreva com a porta fechada, reescreva com a porta aberta. On Writing, Stephen King
  - A lógica implícita de construir disciplina é estabilizar um relacionamento mais construtivo e melhorar o equilíbrio de poderes entre suas funções executivas superiores -- sua mente adulta racional -- e sua criança de três anos interior que o faz se desanimar com suas decisões. [Practical discipline](http://www.wisdomination.com/practical-discipline/)
  - Finalizar com sucesso tarefas traz o estado interior que procrastinadores crônicos pensam que precisam para iniciar as tarefas em primeiro lugar. [Practical discipline](http://www.wisdomination.com/practical-discipline/)
  - Consistência é questão de vida-e-morte para seu sentido de eu. [Practical discipline](http://www.wisdomination.com/practical-discipline/)
