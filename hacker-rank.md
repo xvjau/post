@@ -4,9 +4,9 @@ title: "Some things I learned in a Hacker Rank exercise (in C++)"
 desc: "About the heap issue and how to keep balanced items wihtout overload the processing."
 categories: [ "blog" ]
 ---
-A couple of days ago I subscribed to Hacker Hank [1], a website specialized in provide interview exercises. The site is as a better version of Code Jam, with the possibility to Compile & Run the code, as well as running several test cases.
+A couple of days ago I subscribed to [Hacker Hank](https://www.hackerrank.com), a website specialized in provide interview exercises. The site is as a better version of Code Jam, with the possibility to Compile & Run the code, as well as running several test cases.
 
-Talking with friends about one of them proposed a interesting puzzle called Find the Running Median [2]. This is a good problem because it is easy to understand and tricky to implement.
+Talking with friends about one of them proposed a interesting puzzle called Find the [Running Median](https://www.hackerrank.com/challenges/find-the-running-median). This is a good problem because it is easy to understand and tricky to implement.
 
 My first attempt was naive, but worked for test cases where there were no duplicated numbers, a detail I overlooked in the description and happenned the very first test (lucky me it is possible to download the test cases, input and output, giving in return some of the points accumulated solving other problems).
 
@@ -116,17 +116,10 @@ And it worked. Now what I learned looking the other solutions.
 
 #### Know your libs
 
-There are incredible tools in C++, even since 98 or 11, that are frequently overlooked, but it is important to notice that the language has a framework for processing: containers, algorithms and so on. By example, looking for other solutions I learned about the characteristics of `multiset` [3] and `priority_queue` [4] (spoiler: both have a ordering predicate and are logarithmic). There are smart functions in algorithm, too, as `lower_bound` [5].
+There are incredible tools in C++, even since 98 or 11, that are frequently overlooked, but it is important to notice that the language has a framework for processing: containers, algorithms and so on. By example, looking for other solutions I learned about the characteristics of [`multiset`](https://www.hackerrank.com/rest/contests/master/challenges/find-the-running-median/hackers/ctzsm/download_solution) and [`priority_queue`](https://www.hackerrank.com/rest/contests/master/challenges/find-the-running-median/hackers/kartikkukreja92/download_solution) (spoiler: both have a ordering predicate and are logarithmic). There are smart functions in algorithm, too, as [`lower_bound`](https://www.hackerrank.com/rest/contests/master/challenges/find-the-running-median/hackers/dvirtz/download_solution).
 
 #### Changing everything
 
 A lot of solutions simply ignored the skeleton provided by the site and began its own code from scratch, eliminating the "request" that the numbers must be stored first in a vector. Sometimes, when there as skeleton in our life, we use them as guidelines, forgetting that "there is no spoon".
 
-I hope you learned something, too. You can see my Hacker Rank attempts in the site (nickname caloni) or my GitHug repository [6].
-
- - [1] https://www.hackerrank.com
- - [2] https://www.hackerrank.com/challenges/find-the-running-median
- - [3] https://www.hackerrank.com/rest/contests/master/challenges/find-the-running-median/hackers/ctzsm/download_solution
- - [4] https://www.hackerrank.com/rest/contests/master/challenges/find-the-running-median/hackers/kartikkukreja92/download_solution
- - [5] https://www.hackerrank.com/rest/contests/master/challenges/find-the-running-median/hackers/dvirtz/download_solution
- - [6] https://github.com/Caloni/hackerrank
+I hope you learned something, too. You can see my Hacker Rank attempts in the site (nickname caloni) or my [GitHub repository](https://github.com/Caloni/hackerrank).
