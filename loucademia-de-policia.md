@@ -1,6 +1,6 @@
 ---
 date: "2019-08-10"
-title: "Loucademia de Policia"
+title: "Loucademia de Polícia"
 desc: '"Police Academy" (EUA, 1984), escrito por Neal Israel, Pat Proft e Hugh Wilson, dirigido por Hugh Wilson, com Steve Guttenberg, Kim Cattrall, G.W. Bailey, Bubba Smith, Donovan Scott, George Gaynes, Andrew Rubin, David Graf, Leslie Easterbrook e Michael Winslow. Assisti porque saiu na Netflix.'
 imdb: "0087928"
 categories: [ "movies" ]
