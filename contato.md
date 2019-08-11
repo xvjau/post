@@ -1,7 +1,7 @@
 ---
 title: Contato
 categories: [ "blog" ]
-date: 2004-03-01
+date: 0000-00-00
 ---
 #### EMail
 
