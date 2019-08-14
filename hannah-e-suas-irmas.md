@@ -1,7 +1,7 @@
 ---
 date: "2019-08-14"
 title: "Hannah e Suas Irmãs"
-desc: '"Hannah and Her Sisters" (EUA, 1986), escrito por Woody Allen, dirigido por Woody Allen, com Barbara Hershey, Carrie Fisher, Michael Caine, Mia Farrow, Dianne Wiest, Maureen O'Sullivan, Lloyd Nolan, Max von Sydow, Woody Allen e Lewis Black.'
+desc: '"Hannah and Her Sisters" (EUA, 1986), escrito por Woody Allen, dirigido por Woody Allen, com Barbara Hershey, Carrie Fisher, Michael Caine, Mia Farrow, Dianne Wiest, Maureen O''Sullivan, Lloyd Nolan, Max von Sydow, Woody Allen e Lewis Black. Peguei do box de DVDs do cineasta.'
 imdb: "0091167"
 categories: [ "movies" ]
 stars: "5/5"
