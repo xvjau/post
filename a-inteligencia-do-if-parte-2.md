@@ -4,7 +4,7 @@ title: A inteligência do if - parte 2
 categories: [ "code" ]
 desc: "Artigo dividido em duas partes. Atualizado em 2019-07-18 para inclusão no Livro do Caloni."
 ---
-Vimos na primeira parte desse artigo [1] como o `if` revolucionou o mundo da computação trazendo um salto que depende de condições anteriores e, portanto, depende do estado do programa. A ele chamamos de **salto condicional**. Agora veremos como implementar uma condição baseando-se no fato de que o computador pode apenas realizar operações matemáticas.
+Vimos na [primeira parte desse artigo](http://www.caloni.com.br/a-inteligencia-do-if-parte-1) como o `if` revolucionou o mundo da computação trazendo um salto que depende de condições anteriores e, portanto, depende do estado do programa. A ele chamamos de **salto condicional**. Agora veremos como implementar uma condição baseando-se no fato de que o computador pode apenas realizar operações matemáticas.
 
 Uma **condição**, item necessário para o funcionamento do salto condicional, nada mais é do que um cálculo matemático e o seu resultado, sendo o salto dependente desse resultado. Geralmente o resultado usado é uma flag definida pela arquitetura como o armazenador de resultado para cálculo matemático. Na plataforma **8086**, por exemplo, os cálculos matemáticos de comparação definem uma flag chamada de **Zero Flag (ZF)**, que é modificada ao ser realizado um cálculo:
 
@@ -21,7 +21,7 @@ Uma **condição**, item necessário para o funcionamento do salto condicional, 
                                      |ZF = 0|       |ZF = 1|
                                      +------+       +------+
 
-Mas como comparar? Aí é que está a mágica das portas lógicas e operações booleanas. A comparação acima pode ser feita com um **XOR** [2], por exemplo, e o resultado pode ser obtido e armazenado se a saída for conectada a um **flip-flop** (um flip-flop, ou **multivibrador biestável**, é um circuito de computador capaz de armazenar o valor de 1 bit, o necessário para o nosso salto).
+Mas como comparar? Aí é que está a mágica das portas lógicas e operações booleanas. A comparação acima pode ser feita com um [**XOR**](https://pt.wikipedia.org/wiki/Porta_XOR), por exemplo, e o resultado pode ser obtido e armazenado se a saída for conectada a um **flip-flop** (um flip-flop, ou **multivibrador biestável**, é um circuito de computador capaz de armazenar o valor de 1 bit, o necessário para o nosso salto).
 
                  +---+ +---+ +---+ +---+   +---+ +---+ +---+ +---+
       A Register | 1 | | 1 | | 0 | | 0 |   | 0 | | 1 | | 1 | | 0 |
@@ -96,5 +96,4 @@ Lembre-se que essa é apenas uma demonstração de como pode funcionar um salto 
 
 Acredito ser a solução da multiplicação a pior das três citadas, e a solução da defasagem a mais intuitiva por analogia (se você já programou em assembly). Meu objetivo foi apenas ilustrar que, dado um problema, pode haver várias soluções. Talvez mais para a frente veremos como é implementado um `if` em assembly, subindo mais um nível de abstração.
 
- - [1] http://www.caloni.com.br/a-inteligencia-do-if-parte-1
- - [2] https://pt.wikipedia.org/wiki/Porta_XOR
+
