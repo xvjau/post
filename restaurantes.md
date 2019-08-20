@@ -3,6 +3,10 @@ title: "Restaurantes"
 categories: [ "lists" ]
 date: 2019-02-16
 ---
+2019-08-19 Um almoço com um amigo no meio de um bairro entre a estação Brigadeiro e Paraíso da Paulista. Um daqueles inúmeros restaurantes árabes da região com cara de boteco. Sentei para esperar meu amigo e já fui recebido com simpatia pelo dono do local. Me apresentou o cardápio e nele estava escrito bem na frente: "não servimos esfiha". De cara já gostei do lugar.
+
+2019-08-17 Localizado fora do circuito dos lámens, o Jojo tem tudo o que um millenial precisa para ser feliz: lámen (que tá na moda), fila (que nunca sai de moda) e pessoas comentando o tempo todo, no melhor/pior estilo de paulista, em como é bom esse lugar.
+
 2019-02-16 O Ikkousha Tonkotsu Ramen na Liberdade tem a maior concentração de colágeno por caldo quadrado. Isso porque eles deixam mais de 24 horas cozinhando ossos de porco até o cálcio começar a derreter. O resultado? Manjar dos deuses. Para paladares corajosos.
 
 2018-12-31 Angus Black do Mania de Churrasco é um ancho argentino de fato (o corte), com a parte que desmancha na boca e a gordura no meio. Só é meio pequeno. O prato de 41 reais tem um acompanhamento, e a batata rústica é uma ótima pedida (vem bastante pra quem não come como um porco).
