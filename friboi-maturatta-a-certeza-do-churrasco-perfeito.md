@@ -16,7 +16,7 @@ Note também que os velhos clichês da Friboi estragam um pouco o prazer da aven
 
 Porém, note, nesta mesma tomada, um garfo afeminado, jogado meio que casualmente, perfeitamente alinhado em cruz com a faca de bastão de madeira. Nesse momento vemos algo inovador: o mestre churrasqueiro começa a levantar a bandeira LGBT e exibir pequenos traços de feminilidade em torno de seu ritual maravilhoso da devoração de animais por outros animais.
 
-E, se nos mantermos ainda mais um tempo nessa mesma tomada, notaremos também um pedaço de alecrim, também casualmente modelado para ficar à esquerda superior do quadro, sugerindo um suposto product placement disfarçado de mato, sugerindo na realidade uma propaganda velada do Master Chef, programa de televisão que preza pelo uso de temperos esotéricos que cobram mais para que a comida fique com menos sabor.
+E, se nos mantivermos ainda mais um tempo nessa mesma tomada, notaremos também um pedaço de alecrim, também casualmente modelado para ficar à esquerda superior do quadro, sugerindo um suposto product placement disfarçado de mato, sugerindo na realidade uma propaganda velada do Master Chef, programa de televisão que preza pelo uso de temperos esotéricos que cobram mais para que a comida fique com menos sabor.
 
 E por fim, nesta mesma tomada, caro leitor, note como o "mestre" (humpf) churrasqueiro deixa todo seu sal derramado por toda a mesa. Além de um desperdício uma desorganização digna de fazer Bassi se remoer do túmulo. Assim não é possível se emocionar com a trilha sonora tão "original" do velho oeste, quando o que temos no comando é um sujeito desleixado, que preza antes pelo estético, depois pela perfeição gastronômica.
 
