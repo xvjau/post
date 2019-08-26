@@ -13,6 +13,7 @@ date: 0000-00-00
  - Twitter: https://twitter.com/caloni
  - Patreon: https://www.patreon.com/caloni
  - Facebook: https://www.facebook.com/wanderleycaloni
+ - Letterboxd: https://letterboxd.com/caloni/
  - Minecraft: **socaloni**
 
 #### Outras Informações
