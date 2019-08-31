@@ -1,8 +1,10 @@
 ---
 title: "Cafés"
 categories: [ "lists" ]
-date: 2019-07-01
+date: 2019-08-30
 ---
+2019-08-30 Pilão em grãos é o segundo café de mercado acessível que compro para moer em casa e descubro que brasileiro não sabe fazer café, mesmo. É só moer a proporção certa, passar pelo tempo certo pela aeropress e pronto: um café razoável com bom custo/benefício.
+
 2019-07-28 Coffee Roasters, segundo café que trouxe de Poços, Bourbon produzido em Botelhos tem menos gosto de Minas, pois é selecionado. Ele possui aquela força de café bem torrado, e portanto devo usar menos pó na próxima passada.
 
 2019-07-01 Cafeteria gourmet na parte de cima do mercado municipal de Poços de Caldas imita a tendência atual de ter vários métodos de extração, como Hario V60 (coado) e Aeropress (coado com brutalidade) e até a brasileira Pressca! Provei dois espresso deles: Bourbon Amarelo e Caujaí Vermelho. O Bourbon possui um pouco de acidez e final semi-amargo em corpo suave, enquanto o Caujaí é menos ácido, mais doce e com um corpo mais equilibrado. Trouxe 250g do Bourbon para dar uma olhada mais de perto.
