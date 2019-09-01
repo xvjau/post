@@ -15,6 +15,7 @@ date: 0000-00-00
  - Facebook: https://www.facebook.com/wanderleycaloni
  - Letterboxd: https://letterboxd.com/caloni/
  - Minecraft: **socaloni**
+ - Lichess: https://lichess.org/@/caloni
 
 #### Outras Informações
 
