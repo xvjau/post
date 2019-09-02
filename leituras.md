@@ -1,7 +1,7 @@
 ---
 title: "Leituras"
 categories: [ "lists" ]
-date: 2019-08-26
+date: 2019-09-02
 ---
 
 2019-08-19 Story, by Robert McKee
@@ -22,6 +22,16 @@ date: 2019-08-26
  - To PLOT means to navigate through the dangerous terrain of story and when confronted by a dozen branching possibilities to choose the correct path. Plot is the writer’s choice of events and their design in time.
  - CLASSICAL DESIGN means a story built around an active protagonist who struggles against primarily external forces of antagonism to pursue his or her desire, through continuous time, within a consistent and causally connected fictional reality, to a closed ending of absolute, irreversible change.
  - Story is a metaphor for life. It takes us beyond the factual to the essential. Therefore, it’s a mistake to apply a one-for-one standard from reality to story.
+ - Americans are escapees from prisons of stagnant culture and rigid class who crave change. We change and change again, trying to find what, if anything, works. After weaving the trillion-dollar safety net of the Great Society, we're now shredding it. The Old World, on the other hand, has learned through centuries of hard experience to fear such change, that social transformations inevitably bring war, famine, chaos.
+ - The cause of this worldwide epidemic is simple and clear; the source of all clichés can be traced to one thing and one thing alone: The writer does not know the world of his story.
+ - A story’s SETTING is four-dimensional -- Period, Duration, Location, Level of Conflict.
+ - The world of a story must be small enough that the mind of a single artist can surround the fictional universe it creates and come to know it in the same depth and detail that God knows the one He created.
+ - The function of STRUCTURE is to provide progressively building pressures that force characters into more and more difficult dilemmas where they must make more and more difficult risk-taking choices and actions, gradually revealing their true natures, even down to the unconscious self. The function of CHARACTER is to bring to the story the qualities of characterization necessary to convincingly act out choices. Put simply, a character must be credible: young enough or old enough, strong or weak, worldly or naive, educated or ignorant, generous or selfish, witty or dull, in the right proportions. Each must bring to the story the combination of qualities that allows an audience to believe that the character could and would do what he does.
+ - The source of all art is the human psyche's primal, prelinguistic need for the resolution of stress and discord through beauty and harmony, for the use of creativity to revive a life deadened by routine, for a link to reality through our instinctive, sensory feel for the truth.
+ - Life on its own, without art to shape it, leaves you in confusion and chaos, but aesthetic emotion harmonizes what you know with what you feel to give you a heightened awareness and a sureness of your place in reality. In short, a story well told gives you the very thing you cannot get from life: meaningful emotional experience. In life, experiences become meaningful with reflection in time. In art, they are meaningful now, at the instant they happen.
+ - STORYTELLING is the creative demonstration of truth.
+ - The Controlling Idea is the purest form of a story's meaning, the how and why of change, the vision of life the audience members carry away into their lives.
+
 
 2019-08-18 [The Age of the Essay, by Paul Graham](http://www.paulgraham.com/essay.html)
 
