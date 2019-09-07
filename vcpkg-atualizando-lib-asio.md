@@ -10,3 +10,12 @@ Primeiro de tudo, os pacotes disponíveis no vcpkg podem não ser os disponívei
 
 É lá que fica a pasta asio, com seus quatro arquivos: asio-config.cmake, CMakeLists.txt, CONTROL e portfile.cmake. No CONTROL temos o sumário do pacote (nome, descrição, versão), no asio-config.cmake a receita CMake para fazer o build e em CMakeLists.txt como instalar. Isso varia de pacote para pacote, mas no caso de libs como a asio ela fica no GitHub, então em algum lugar nas instruções de instalação (aqui no caso em portfile.cmake) você irá encontrar o uso da função vcpkg_from_github.
 
+```
+vcpkg_from_github(
+    OUT_SOURCE_PATH SOURCE_PATH
+    REPO chriskohlhoff/asio
+    REF asio-1-12-2
+    SHA512 7c2e213ff154bb2e5776b37906d437a62206f973316c94706e6d42e3c2f0866e7d97f3e40225ab5f28bf2c4a33fa0b38a4b75421aef86ddf9f2da0811caa2d00
+    HEAD_REF master
+)
+```
