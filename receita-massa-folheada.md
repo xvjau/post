@@ -1,5 +1,5 @@
 ---
-title: "Massa Folheada Caseira"
+title: "Receita: Massa Folheada Caseira"
 categories: [ "food" ]
 date: 2019-06-18
 ---

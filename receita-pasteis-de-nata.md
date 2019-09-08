@@ -1,5 +1,5 @@
 ---
-title: "Pastéis de Nata"
+title: "Receita: Pastéis de Nata"
 categories: [ "food" ]
 date: 2019-06-23
 ---

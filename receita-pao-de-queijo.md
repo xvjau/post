@@ -1,5 +1,5 @@
 ---
-title: "Pão de Queijo Mineiro"
+title: "Receita: Pão de Queijo Mineiro"
 categories: [ "food" ]
 date: 2019-06-23
 ---
