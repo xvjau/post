@@ -1,15 +1,14 @@
 ---
-imdb: "1228705"
-
 date: "2010-04-03"
-categories: [ "movies" ]
+imdb: "1228705"
 title: "Homem de Ferro 2"
+desc: '"Iron Man 2" (EUA, 2010), escrito por Justin Theroux, Stan Lee e Don Heck, dirigido por Jon Favreau, com Robert Downey Jr., Gwyneth Paltrow e Don Cheadle.'
+categories: [ "movies" ]
 stars: "3/5"
-desc: "Homem de Ferro 2. Iron Man 2 (USA, 2010). Dirigido por Jon Favreau. Escrito por Justin Theroux, Stan Lee, Don Heck, Larry Lieber, Jack Kirby. Com Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Mickey Rourke, Samuel L. Jackson, Clark Gregg, John Slattery."
 ---
 Se a primeira aventura do até então desconhecido Homem de Ferro impressionou o público, a crítica e a própria Marvel, essa continuação morna é a consolidação de Tony Stark como garoto-propaganda dessa fase. Não só isso, mas serve como o gancho que os produtores precisavam para inserir novos personagens secundários que serão mais ou menos relevantes na teia de eventos (ou colcha de retalhos) criada em torno da tão esperada estreia de Os Vingadores, filme que pretende unir uma série de heróis que terão cada um seus trabalhos solo. Uma aposta inédita que parece ter ganhado força justamente por conta da atuação surpreendente de Robert Downey Jr.
 
-Aliás, se no primeiro filme ele consegue expressar tão bem a dualidade entre realismo e quadrinhos, aqui mantém sua simpática arrogância favorecendo um roteiro menos ambicioso e mais burocrático, que se importa pelo menos em situá-lo naquele universo como um herói já consolidado, exceto, claro, pelas preocupações monopolistas e bélicas do governo americano. Já do lado do povo... bem, ele voa em um robô de ferro. Se eu fosse um garoto, não precisaria de mais nada para adorá-lo.
+Aliás, se no primeiro filme ele consegue expressar tão bem a dualidade entre realismo e quadrinhos, aqui ele mantém sua simpática arrogância, favorecendo um roteiro menos ambicioso e mais burocrático, que se importa pelo menos em situá-lo naquele universo como um herói já consolidado. Exceto, claro, pelas preocupações monopolistas e bélicas do governo americano. Já do lado do povo... bem, ele voa em um robô de ferro. Se eu fosse um garoto, não precisaria de mais nada para adorá-lo.
 
 Mesmo assim, ainda precisamos de um vilão nos moldes de alguém para dar porrada, e apesar do Victor criado pelo bem-vindo Mickey Rourke (O Lutador) ser um candidato à altura, seu desenvolvimento na história segue a aborrecida cartilha de arqui-inimigos ressentidos por acontecimentos passados. Mas não me leve a mal: seu ódio por Stark é bem justificado, mas não a sua execução, que lembra vilões mais descerebrados e instintivos do que poderíamos esperar do gênio que Victor seria pela sua história.
 
