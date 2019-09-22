@@ -8,9 +8,9 @@ date: 2019-09-22
 
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
-<tr><td>2019-09-22 Argentina, Nieto Senetiner Malbec 2016 é mais uma marca conhecida de Luján de Cuyo, Mendoza, que pode comprar sem temer; qualidade e consistência.</tr>td>
-<tr><td>2019-09-22 Chile, Santa Helena Reservado é marca de confiança, mesmo sendo um Merlot, que particularmente não gosto, mas por ser uma terceira garrafa do churras, veio bem a calhar.</tr>td>
-<tr><td>2019-09-22 Espanha, Don Román Rioja é um blend com outra uva que diminui o frutado do Tempranillo, tornando a combinação frutada menos enjoativa que de costume.</tr>td>
+<tr><td>2019-09-22 Argentina, Nieto Senetiner Malbec 2016 é mais uma marca conhecida de Luján de Cuyo, Mendoza, que pode comprar sem temer; qualidade e consistência.</td></tr>
+<tr><td>2019-09-22 Chile, Santa Helena Reservado é marca de confiança, mesmo sendo um Merlot, que particularmente não gosto, mas por ser uma terceira garrafa do churras, veio bem a calhar.</td></tr>
+<tr><td>2019-09-22 Espanha, Don Román Rioja é um blend com outra uva que diminui o frutado do Tempranillo, tornando a combinação frutada menos enjoativa que de costume.</td></tr>
 <tr><td>2019-09-22 Argentina, Neuquen, Malma Universo Malbec Blend 2011 foi um experimento que fiz de comprar um vinho velho de uma vinícola que gosto no mercado local. Passou do ponto, perdeu muito álcool e sabor tânico (fora os aromas). Agora já sei que tenho que abrir antes a safra 2015.</td></tr>
 <tr><td>2019-20-09 Argentina, 5ta Generacion Gran Reserva Malbec 2014 é um vinho que havia esquecido na adega e levei pro churrasco de um casal de amigos. Estou destreinado e sem beber vinho faz uns meses, mas me lembrei como é bom experimentar vinho bom. Não tem comparação com os de mercado.</td></tr>
 <tr><td>2019-07-14 Argentina, Finca Flichman Chardonay Roble 2008 foi um vinho esquecido na geladeira por alguns meses, que veio não sei daonde (a origem é de Mendoza, Argentina) e que não está com gosto de vinagre.</td></tr>
