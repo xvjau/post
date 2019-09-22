@@ -3,20 +3,30 @@ title: Sobre o autor
 categories: [ "blog" ]
 date: 0000-00-00
 ---
-<img src="/img/author.png" style="float: left; margin: 24px;"/>
+<img src="/img/author.png"/>
+
+### >whoami
 
 Wanderley Caloni é um programador C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo, Rodrigo Strauss, que já estava blogando [há algum tempo](http://www.1bit.com.br). Ele tentou mantê-lo atualizado, então, por longos anos de programação, depuração e transpiração, com suas peripécias do dia-a-dia.
 
+### Comunidade
+
 Colaborador frequente do Grupo C/C++ Brasil, ele e Strauss se consideram fundadores do grupo ao organizarem e participarem do primeiro encontro de programadores e aficionados da linguagem [C/C++ do Brasil](http://groups.google.com/group/ccppbrasil), que ocorreu em São Paulo dia 17/12/2005 às 15:00 no Outback Eldorado. Desde então o grupo vem realizando encontros técnicos [no decorrer dos anos](http://ccppbrasil.github.io/encontros/encontros/).
+
+### Trabalho enobrece o homem
 
 Caloni trabalhou por dez anos na área de Segurança da Informação, principalmente em um [Sistema de Controle de Acesso a Usuários e Aplicações 100% brasileiro](http://www.scua.com.br) e [Análise de Trojans com Engenharia Reversa](http://www.opencs.com.br). Em seguida migrou para a [Área Financeira](http://www.ezmarket.com.br), vindo a ser sócio de uma empresa especializada, também desenvolvedora de [sua própria solução](http://www.intelitrader.com.br). Hoje é um dos sócios da [BitForge](http://www.bitforge.com.b4), uma empresa que auxilia empresas e equipes de desenvolvimento em problemas complexos, seja em arquitetura, metodologias, cursos ou escovação de bits, mesmo.
 
+### Quem não sabe ensina
+
 No mundo acadêmico Caloni participou de sua primeira faculdade em 1998 na Faculdade de Filosofia, Letras e Ciências Humanas da USP por um ano e meio antes de se descobrir perdidamente apaixonado por computação. Eventualmente se formou em Arquitetura de Redes pelo Instituto Brasileiro de Tecnologia Avançada em 2007. Fast foward e totalmente não-relacionado, de 2013 a 2018 foi nomeado MVP (Most Valued Professional) pela [Microsoft](https://mvp.microsoft.com/pt-br/PublicProfile/5000295), um prêmio em consideração pelas colaborações à comunidade C/C++.
+
+### Crítico de cinema? hein?
 
 Entre xadrez e andar de bicicleta, seu principal hobby, ou o que ele levou mais a sério, é ser cinéfilo inveterado, tendo mantido de 2010 a 2019 um [blogue especializado no assunto](http://cinetenisverde.com.br). Levando este hobby a sério demais, desde 2014 é colaborador do [CinemAqui](http://www.cinemaqui.com.br), participando de cabines de imprensa e escrevendo críticas sobre cinema, geralmente sobre pré-estreias de filmes fora do circuito hollywoodiano.
 
 
-## Voltando para a programação
+### Voltando para a programação
 
 Abaixo temos uma breve lista (não-exaustiva) das coisas que eu andei fazendo na minha breve vida de programador. Em inglês tenho o que chamamos de [resume](/resume).
 
