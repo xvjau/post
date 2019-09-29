@@ -9,7 +9,7 @@ date: 2019-09-29
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
 
-<tr><td>2019-09-29 Achei esse vinho da Etchart no Hirota que não consegui provar em Cafayate porque a vinícola estava fechada. Peguei a linha jovem deles, Malbec, e tive uma surpresa: ele é muito bom. Com tons de frutos secos como ameixa e ao mesmo tempo uma acidez pouco elevada, o corpo médio pra leve desse vinho é boa pedida para carnes mais leves, uma sopinha de legumes com carne, queijos leves para forte, ou só pra tomar sozinho, mesmo.</td></tr>
+<tr><td>2019-09-29 Argentina, Etchart Privado Malbec 2018; achei esse vinho da Etchart no Hirota que não consegui provar em Cafayate porque a vinícola estava fechada. Peguei a linha jovem deles, Malbec, e tive uma surpresa: ele é muito bom. Com tons de frutos secos como ameixa e ao mesmo tempo uma acidez pouco elevada, o corpo médio pra leve desse vinho é boa pedida para carnes mais leves, uma sopinha de legumes com carne, queijos leves para forte, ou só pra tomar sozinho, mesmo.</td></tr>
 <tr><td>2019-09-22 Argentina, Nieto Senetiner Malbec 2016 é mais uma marca conhecida de Luján de Cuyo, Mendoza, que pode comprar sem temer; qualidade e consistência.</td></tr>
 <tr><td>2019-09-22 Chile, Santa Helena Reservado é marca de confiança, mesmo sendo um Merlot, que particularmente não gosto, mas por ser uma terceira garrafa do churras, veio bem a calhar.</td></tr>
 <tr><td>2019-09-22 Espanha, Don Román Rioja é um blend com outra uva que diminui o frutado do Tempranillo, tornando a combinação frutada menos enjoativa que de costume.</td></tr>
