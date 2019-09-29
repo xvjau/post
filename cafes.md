@@ -1,13 +1,14 @@
 ---
 title: "Cafés"
 categories: [ "lists" ]
-date: 2019-08-30
+date: 2019-09-29
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
 
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
+<tr><td>2019-09-29 Este café Bravo se acha em mercado em grãos, é blend 100% arábica de três varietais que puxam pra baunilha e chocolate, pouco aromático e nada ácido.</td></tr>
 <tr><td>2019-08-30 Pilão em grãos é o segundo café de mercado acessível que compro para moer em casa e descubro que brasileiro não sabe fazer café, mesmo. É só moer a proporção certa, passar pelo tempo certo pela aeropress e pronto: um café razoável com bom custo/benefício.</td></tr>
 <tr><td>2019-07-28 Coffee Roasters, segundo café que trouxe de Poços, Bourbon produzido em Botelhos tem menos gosto de Minas, pois é selecionado. Ele possui aquela força de café bem torrado, e portanto devo usar menos pó na próxima passada.</td></tr>
 <tr><td>2019-07-01 Cafeteria gourmet na parte de cima do mercado municipal de Poços de Caldas imita a tendência atual de ter vários métodos de extração, como Hario V60 (coado) e Aeropress (coado com brutalidade) e até a brasileira Pressca! Provei dois espresso deles: Bourbon Amarelo e Caujaí Vermelho. O Bourbon possui um pouco de acidez e final semi-amargo em corpo suave, enquanto o Caujaí é menos ácido, mais doce e com um corpo mais equilibrado. Trouxe 250g do Bourbon para dar uma olhada mais de perto.</td></tr>

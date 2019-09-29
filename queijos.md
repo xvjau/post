@@ -1,13 +1,16 @@
 ---
 title: "Queijos"
 categories: [ "lists" ]
-date: 2019-06-19
+date: 2019-09-29
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
 
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
+
+<tr><td>2019-09-29 Queijo Minas Artesanal Meia Cura D'Farm Microrregião Serro que achei no Hirota é intenso e salgado, realmente lembra queijo de leite cru. Não segui ainda e dica da embalagem de lavar e deixar respirar, mas farei em seguida.</td></tr>
+<tr><td>2019-09-29 O Minas Padrão da Quatá é macio e levemente leitoso. Separei metade para curar por uns dias.</td></tr>
 <tr><td>2019-02-16 Tirando minas padrão do Carioca, que já está intenso na casca como parmesão e intenso por dentro como queijo curado. Arrumei mais um andar na curadeira e deixei um pedaço do curado em cima junto de 1/4 de minas padrão do Joanin. Embaixo há metade do mesmo minas padrão e do seu lado, à esquerda, um meia cura do Joanin.</td></tr>
 <tr><td>2019-02-18 Os queijos mais frescos mofaram depois de um dia de chuva e com a nova caixa. Pode ser que ela esteja muito fechada ou o uso de papel toalha. Cortei a parte mofada dos queijos e joguei.</td></tr>
 <tr><td>2019-02-20 Depois de retirar o papel toalha e o pano o queijo vai afundando aos poucos pelos buracos da caixa, mas ao virar ele volta à sua forma. Notei um pequeno sinal na parte de baixo que talvez seja mofo, mas talvez seja impressão. De qualquer forma é melhor virar no começo e no final do dia para garantir a saúde dos queijos.</td></tr>

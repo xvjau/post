@@ -1,13 +1,15 @@
 ---
 title: "Cervejas"
 categories: [ "lists" ]
-date: 2019-07-01
+date: 2019-09-29
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
 
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
+
+<tr><td>2019-09-29 Cerveja American IPA da Eiseinbaun chegou aqui no mercado. Versão mais amarga Pale Ale, mas essa o amargo é mais forte. Talvez forte demais.</td></tr>
 <tr><td>2019-01-02 Vixnu é uma Imperial IPA, o que quer dizer um soco no estômago., mas por ser uma Colorado também quer dizer que esse soco está equilibradíssimo entre as doses de malte e lúpulo, com aromas detectáveis só de cheirar. Aprecie com comidas fortes.</td></tr>
 <tr><td>2019-01-04 Colorado ICI 02 French IPA (chope) é amargurado na medida com lúpulos aromáticos franceses, o que a torna menos amarga (porque franceses são bixas) mas mais fácil de beber sozinha, o que lhe dá um ótimo atrativo para esse verão dos infernos em terras tupiniquins.</td></tr>
 <tr><td>2019-02-03 Carmen Cerveja Forte Clara com Laranja e Maracujá já diz tudo pelo seu nome. O consumidor não deve intepretar pois não possui senso crítico. Nada melhor que uma cerveja forte, clara, com laranja, com maracujá e sem exigir cérebro do degustador. Um brinde!</td></tr>

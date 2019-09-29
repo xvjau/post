@@ -1,13 +1,17 @@
 ---
 title: "Restaurantes"
 categories: [ "lists" ]
-date: 2019-02-16
+date: 2019-09-29
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
 
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
+
+<tr><td>2019-09-29 [Daiki Sushi](/restaurante-daiki-sushi) tem ótimo atendimento, linha de saquês interessante, preço condizente com a qualidade e muito, muito sabor da culinária japonesa fria.</td></tr>
+<tr><td>2019-08-17 [Jojo Ramen](/restaurante-jojo-lamen) é daqueles hipsters onde você paga 50 conto por um prato de miojo com tempero de vinagrete.</td></tr>
+<tr><td>2019-08-19 [Tenda Do Nilo](/restaurante-tenda-do-nilo) é restaurante libanês de bairro que lembra um boteco, mas que tem um autêntico sabor regional.</td></tr>
 <tr><td>2019-02-16 O Ikkousha Tonkotsu Ramen na Liberdade tem a maior concentração de colágeno por caldo quadrado. Isso porque eles deixam mais de 24 horas cozinhando ossos de porco até o cálcio começar a derreter. O resultado? Manjar dos deuses. Para paladares corajosos.</td></tr>
 <tr><td>2019-08-17 Localizado fora do circuito dos lámens, o Jojo tem tudo o que um millenial precisa para ser feliz: lámen (que tá na moda), fila (que nunca sai de moda) e pessoas comentando o tempo todo, no melhor/pior estilo de paulista, em como é bom esse lugar.</td></tr>
 <tr><td>2019-08-19 Um almoço com um amigo no meio de um bairro entre a estação Brigadeiro e Paraíso da Paulista. Um daqueles inúmeros restaurantes árabes da região com cara de boteco. Sentei para esperar meu amigo e já fui recebido com simpatia pelo dono do local. Me apresentou o cardápio e nele estava escrito bem na frente: "não servimos esfiha". De cara já gostei do lugar.</td></tr>
