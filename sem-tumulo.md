@@ -1,7 +1,7 @@
 ---
 date: "2019-10-01"
 title: "Sem Túmulo"
-desc: '"As I Lay Dying" (Irã, 2018), escrito por Behnam Abedi, Hamed Hosseini Sangari e Mostafa Sayari, dirigido por Mostafa Sayari, com Madjid Aghakarimi, Nader Fallah e Elham Korda. Escrito para o CinemAqui.'
+desc: '"As I Lay Dying" (Irã, 2018), escrito por Behnam Abedi, Hamed Hosseini Sangari e Mostafa Sayari, dirigido por Mostafa Sayari, com Madjid Aghakarimi, Nader Fallah e Elham Korda. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "8473532"
 categories: [ "movies" ]
 stars: "3/5"
