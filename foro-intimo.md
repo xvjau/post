@@ -5,7 +5,6 @@ desc: '"Foro Íntimo (aka Inner Court)" (Brasil, 2017), escrito por Guilherme Le
 imdb: "7064620"
 categories: [ "movies" ]
 stars: "4/5"
-draft: true
 ---
 Foro Íntimo é uma viagem claustofóbica e tensa que usa todos os artifícios técnicos do cinema para contar uma história e manter seu efeito por toda sua interminável hora e pouco, se esquecendo até do motivo por trás do clima deste pesadelo em forma de filme.
 
