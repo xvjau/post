@@ -2,7 +2,7 @@
 date: "2019-09-07"
 title: "Vcpkg: Atualizando Lib Asio"
 desc: "Guia mais ou menos simples de como atualizar/modificar uma lib/pacote disponível no vcpkg."
-categories: [ "code" ]
+categories: [ "blog" ]
 ---
 Hoje tive que compilar a versão 1.13.0 do Asio para Windows, mas o [vcpkg](/vcpkg) não suporta essa versão ainda, apesar de suportar uma versão (1.12.2.2). Daí entra os problemas que todo programador Windows tem para manter bibliotecas de terceiro compilando em seu ambiente, mas agora com o vcpkg isso nem é tão difícil assim. Vamos lá.
 

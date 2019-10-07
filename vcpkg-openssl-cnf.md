@@ -2,7 +2,7 @@
 date: "2019-09-17"
 title: "Vcpkg: openssl.cnf"
 desc: "Descobri que o arquivo de configuração do OpeSSL é essencial para alguns comandos, e o vcpkg, apesar de gerá-lo, não o instala."
-categories: [ "code" ]
+categories: [ "blog" ]
 ---
 Mais uma aventura em vcpkg. Dessa vez o projeto openssl, a biblioteca de SSL open-source multiplataforma. O vcpkg divide esse port por SO, sendo o openssl-windows o port que alterei. A alteração foi enviada como PR para a Microsoft, mas no momento está apenas no [repo da BitForge](https://github.com/bitforgebr/vcpkg/commit/5506984bcd69a9fba9f86f9952d6ca6518f2c746).
 
