@@ -1,7 +1,7 @@
 ---
 title: "Vinhos"
 categories: [ "lists" ]
-date: 2019-09-29
+date: 2019-10-27
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
@@ -9,6 +9,7 @@ date: 2019-09-29
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
 
+<tr><td>2019-10-27 Argentina, El Porvenir Icon Blend Malbec 2014; pelo menos 18 meses de barrica e quase 2 anos de guarda na bodega antes de ser comercializado. O vinho de referência da bodega familiar da cidade de Cafayate, em Salta, é um blend feito ano a ano com o que a vinícola produziu de melhor. As fincas ficam nos arredores da própria cidade, e essa garrafa foi composta com vinhos de fincas de 13 anos pelo menos. Esse blend de 2014 veio com Malbec 60%, Cabernet Sauvignon 30%, Tannat %7 e Petit Verdot 3% e não é um vinho fácil de decifrar tamanha complexidade do aroma e sabor. Corpo médio para forte, taninos médios e sabores com acidez equilibrada. O álcool ainda pode ser bem sentido, mas na mesma proporção vem à mente frutas secas como ameixa e terrenos arenosos. Abri com um espagueti ao molho carnudo e curtido por uma semana. Em suma, foda demais esse vinho.</td></tr>
 <tr><td>2019-09-29 Argentina, Etchart Privado Malbec 2018; achei esse vinho da Etchart no Hirota que não consegui provar em Cafayate porque a vinícola estava fechada. Peguei a linha jovem deles, Malbec, e tive uma surpresa: ele é muito bom. Com tons de frutos secos como ameixa e ao mesmo tempo uma acidez pouco elevada, o corpo médio pra leve desse vinho é boa pedida para carnes mais leves, uma sopinha de legumes com carne, queijos leves para forte, ou só pra tomar sozinho, mesmo.</td></tr>
 <tr><td>2019-09-22 Argentina, Nieto Senetiner Malbec 2016 é mais uma marca conhecida de Luján de Cuyo, Mendoza, que pode comprar sem temer; qualidade e consistência.</td></tr>
 <tr><td>2019-09-22 Chile, Santa Helena Reservado é marca de confiança, mesmo sendo um Merlot, que particularmente não gosto, mas por ser uma terceira garrafa do churras, veio bem a calhar.</td></tr>
