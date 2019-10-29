@@ -31,7 +31,6 @@ Tentando descobrir o motivo encontrei [alguns issues](https://github.com/sipwise
 
 ```
 SSL_CTX_set_options(ctx, SSL_OP_NO_QUERY_MTU); // IMPORTANT: before SSL_new
-
 ssl = SSL_new(ctx);
 
 SSL_set_mtu(ssl, 1500);
@@ -64,4 +63,11 @@ No. Time Source Destination Protocol Length Info
 
 Faltam as mensagens Finished após ChangeCipherSpec, o que terminaria o fluxo, mas por algum motivo o Finished nunca chega em nenhum dos lados, e as mensagens a partir de ServerHello se repetem até o retorno de erro de conexão (`SSL_ERROR_SSL`). O Sequence Number do server e client indicam que apesar da troca de mensagens estar ocorrendo existe um loop.
 
+
+Ao pesquisar a respeito encontrei [um artigo](https://chris-wood.github.io/2016/05/06/OpenSSL-DTLS.html) de Christopher A. Wood que também está explorando esse protocolo usando OpenSSL. Antes disso também havia encontrado um [gist](https://gist.github.com/Jxck/b211a12423622fe304d2370b1f1d30d5) que acompanha passo a passo o setup necessário da biblioteca.
+
+```
+openssl req -x509 -newkey rsa:2048 -days 3650 -nodes -keyout client-key.pem -out client-cert.pem
+openssl req -x509 -newkey rsa:2048 -days 3650 -nodes -keyout server-key.pem -out server-cert.pem
+```
 TK
