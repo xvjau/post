@@ -1,28 +1,22 @@
 ---
-imdb: "0901475"
-
 date: "2010-12-20"
-categories: [ "movies" ]
+review: [ "2019" ]
 title: "Fôlego"
+desc: '"Soom" (Coreia do Sul, 2007), escrito por Ki-duk Kim, dirigido por Ki-duk Kim, com Chen Chang, In-Hyeong Gang e Jung-woo Ha. Vi no Belas Artes em 2010 e revi em DVD.'
+imdb: "0901475"
+categories: [ "movies" ]
 stars: "4/5"
-desc: "Fôlego. Soom (South Korea, 2007). Dirigido por Ki-duk Kim. Escrito por Ki-duk Kim. Com Chen Chang, In-Hyeong Gang, Jung-woo Ha, Ki-duk Kim, Ji-a Park."
 ---
-Também sem usar muitos sons fora do universo do filme, o diretor se foca nas emoções dos personagens traduzidas por atitudes muitas vezes inusitadas, como guardar um fio de cabelo da mulher misteriosa que visita um homem que assassinou a família. Curioso que a própria mulher se vê na mesma condição dele, pois, condenado à execução, ele tenta se suicidar, fato que aparece nos noticiários e chama a atenção da mulher. E ela mesma, quando criança, "morreu" por 5 minutos prendendo a respiração debaixo da água. Por outro lado, a relação com um homem que matou sua esposa e duas filhas não deixa de ter mais significados, sabendo que ela própria também tem problemas de relacionamento com o marido e sua própria filha, da qual pega o pregador de cabelo, tentando voltar à infância e aquela sensação de estar morta.
+Em um período mais inocente da minha vida de cinéfilo Kim Ki Duk estava entre os poucos dos meus diretores favoritos, em uma lista que hoje em dia está esparsa demais para fazer algum sentido. Mas o diretor coreano continua sendo para mim um exemplo de contar histórias para chamar a atenção do seu público, sempre utilizando o chamariz das situações bizarras que nos prende e nos impede de desgrudar os olhos da tela até o final do filme.
 
-Os simbolismos são mais fortes ainda se considerarmos outras partes da história, como o fato de nunca vermos o diretor da penitenciária, mas notarmos seus gestos pelo reflexo do monitor, da mesma forma com que acompanhamos a vida privada dessas pessoas, com a câmera por vezes atrás da cortina da casa dela, ou por trás das grades da cela dele. Um filme também de sutilezas, quando percebemos na primeira vez que seu marido atende o celular.
+Escrevi a respeito de Fôlego em 2010, no primeiro semestre que estava começando a escrever sobre os filmes que assistia. Eram anotações em um caderninho que rabiscava durante a sessão, no Cine Belas Artes, em São Paulo. Depois eu repassava esses rabiscos em algo inteligível. Mas essa não é desculpa para minha inocência em desvendar um filme falando sobre símbolos e detalhes que devem ser vistos como um todo. O meu texto de 2010 é meramente um capricho, e um rabisco, que hoje não me serve mais para análise.
 
-A mudança na expressão dela, que começa a esboçar um sorriso logo depois da primeira visita, é nítido. E são esses tipos de detalhes que marca o filme, como os enquadramentos super-econômicos, a exemplo da trilha sonora, como quando vemos a ação pelos buracos da cela, devidamente enquadrados pelo próprio buraco.
+Fôlego é um filme sobre sobrevivência, pura e simples. A sobrevivência de um casamento, a sobrevivência de uma carreira, a sobrevivência da própria vida. Quando perdemos o sentido de nossas vidas as que estão em nossa volta perdem o sentido também. Temos esse condenado à pena capital que matou a mulher e duas filhas. É de se pensar se poderia haver algum motivo para esses assassinatos que pudesse fazer sentido à razão humana, e a própria proposta de suavizar o ato deste criminoso pode soar repulsiva para a maioria das pessoas.
 
-Ou até o gesto do diretor indo em direção ao botão de fim de visita, quando vemos que o casal vai se beijar pela primeira vez.
+Porém, Kim Ki Duk não está interessado na opinião do espectador nem em justificar as ações passadas desse meliante. Ele nunca está. Seu interesse é em encontrar um eco, uma resposta positiva, para o que essa pessoa está pensando, presa em um cubículo com outros presos que estão alheios à sua situação.
 
-O crescente aumento nas tensões inerentes à própria história, assim como a tensão no romance proibido dos dois, é colocada num ritmo que é facilmente cativador do espectador, que se coloca no lugar do diretor da prisão e acompanha com os olhos bem atentos todos os movimentos dentro da casa, da prisão e entre os dois.
+E para isso ele encontra uma esposa com marido e uma filha e cujo sentido da vida anda lhe faltando. O marido a trai e isso a deixou deprimida ou vice-versa. Ela acompanha o noticiário e vê que esse criminoso tentou acabar com sua própria vida antes do Estado cumprir com seu dever legal e tirá-la antes. Ele fica sem voz, e era apenas o que faltava para esses dois seres encontrarem semelhanças o suficiente para se envolverem.
 
-O fato de vermos os movimentos com as mãos dela na primeira canção (primavera) ser repetida pelo diretor da prisão pode ser uma dica que se trata de uma canção parte de infância ou cultura daquele povo, e portanto familiar a todos.
+Fôlego não deixa fácil desvendá-lo porque o espectador não deseja, no fundo, fazê-lo. Seria amoral demais encontrar sentido em um assassino de família. Uma esposa insatisfeita em busca de conexão com outra pessoa, com o seu passado, é algo mais mundano e fácil de se relacionar. O que está implícito nesse drama sensual vai se desdobrando conforme o marido também entra na mente de sua mulher, a entende, a perdoa.
 
-O som que ela escuta nos ouvidos pode também ser a tradução da pouca trilha que ouvimos fora desse universo.
-
-A estilização das árvores do outono se unem de forma multidimensional quando a câmera caminha dele (encostado em um árvore no papel de parede) até ela, por um galho.
-
-E o último enquadramento, em que a vemos de preto no ato fatídico, de preto, em formato de viúva-negra, prestes a liquidar seu parceiro sexual, me parece tão simbólico quanto todo o resto do filme. Tanto que após isso vamos para uma cena de neve, onde toda a pureza está representada nos tons brancos do carro, da neve e do próprio final.
-
-
+Quantos filmes conseguem abordar temas tão delicados com tamanha propriedade? Quase nenhum. E por isso Kim Ki Duk continua na minha lista de favoritos. Ele é o diretor que faz temas impossíveis parecerem fáceis. Que o espectador não perceba isso de maneira consciente é mero detalhe.
