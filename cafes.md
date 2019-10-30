@@ -8,6 +8,7 @@ date: 2019-09-29
 
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
+<tr><td>2019-10-30 Blend Campo Místico (50%) com Café Bravo de mercado (50%). Misturei os grãos e coloquei para moer para filtro, passando na Aeropress 27g para 350ml. A adstringência que gostei no Bravo diminuiu a acidez exagerada do Campo, mas surgiram sabores secundários que não harmonizaram entre eles.</td></tr>
 <tr><td>2019-10-27 O Campo Místico Arábica da região de Bueno Brandão pode ser encontrado em um café próximo do Shopping Ibirapuera em São Paulo. É ácido além do que aprecio passado na Aeropress, mas ele é equilibrado no sabor frutado que se propõe. Bom para tomar com doces de acidez equiparável, eu tomei com pão com manteiga e também ficou apreciável.</td></tr>
 <tr><td>2019-09-29 Este café Bravo se acha em mercado em grãos, é blend 100% arábica de três varietais que puxam pra baunilha e chocolate, pouco aromático e nada ácido.</td></tr>
 <tr><td>2019-08-30 Pilão em grãos é o segundo café de mercado acessível que compro para moer em casa e descubro que brasileiro não sabe fazer café, mesmo. É só moer a proporção certa, passar pelo tempo certo pela aeropress e pronto: um café razoável com bom custo/benefício.</td></tr>
