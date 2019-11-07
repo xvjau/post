@@ -61,13 +61,16 @@ No. Time Source Destination Protocol Length Info
  so on...
 ```
 
-Faltam as mensagens Finished após ChangeCipherSpec, o que terminaria o fluxo, mas por algum motivo o Finished nunca chega em nenhum dos lados, e as mensagens a partir de ServerHello se repetem até o retorno de erro de conexão (`SSL_ERROR_SSL`). O Sequence Number do server e client indicam que apesar da troca de mensagens estar ocorrendo existe um loop.
-
-
-Ao pesquisar a respeito encontrei [um artigo](https://chris-wood.github.io/2016/05/06/OpenSSL-DTLS.html) de Christopher A. Wood que também está explorando esse protocolo usando OpenSSL. Antes disso também havia encontrado um [gist](https://gist.github.com/Jxck/b211a12423622fe304d2370b1f1d30d5) que acompanha passo a passo o setup necessário da biblioteca.
+Criação das chaves e certificados:
 
 ```
 openssl req -x509 -newkey rsa:2048 -days 3650 -nodes -keyout client-key.pem -out client-cert.pem
 openssl req -x509 -newkey rsa:2048 -days 3650 -nodes -keyout server-key.pem -out server-cert.pem
 ```
+
+Faltam as mensagens Finished após ChangeCipherSpec, o que terminaria o fluxo, mas por algum motivo o Finished nunca chega em nenhum dos lados, e as mensagens a partir de ServerHello se repetem até o retorno de erro de conexão (`SSL_ERROR_SSL`). O Sequence Number do server e client indicam que apesar da troca de mensagens estar ocorrendo existe um loop.
+
+
+Encontrei um [gist](https://gist.github.com/Jxck/b211a12423622fe304d2370b1f1d30d5) que acompanha passo a passo o setup necessário da biblioteca. Ao pesquisar mais a respeito encontrei [um artigo](https://chris-wood.github.io/2016/05/06/OpenSSL-DTLS.html) de Christopher A. Wood que também está explorando esse protocolo usando OpenSSL e que é o autor do primeiro repositório de exemplo de DTLS, que falha não por não funcionar, mas por estar usando TCP em vez de UDP ao usar a flag SOCK_STREAM em vez de SOCK_DGRAM na criação do socket.
+
 TK
