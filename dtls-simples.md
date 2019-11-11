@@ -73,4 +73,119 @@ Faltam as mensagens Finished após ChangeCipherSpec, o que terminaria o fluxo, m
 
 Encontrei um [gist](https://gist.github.com/Jxck/b211a12423622fe304d2370b1f1d30d5) que acompanha passo a passo o setup necessário da biblioteca. Ao pesquisar mais a respeito encontrei [um artigo](https://chris-wood.github.io/2016/05/06/OpenSSL-DTLS.html) de Christopher A. Wood que também está explorando esse protocolo usando OpenSSL e que é o autor do primeiro repositório de exemplo de DTLS, que falha não por não funcionar, mas por estar usando TCP em vez de UDP ao usar a flag SOCK_STREAM em vez de SOCK_DGRAM na criação do socket.
 
+TIL Se eu usar o openssl.exe com os parâmetros abaixo (dentro do projeto de teste) eu consigo executar o protocolo DTLS em UDP IPV4 sem nenhuma falha:
+
+#### Server
+
+```
+c:\Projects\Project1>openssl
+OpenSSL> s_server -4 -dtls -cert certs/server-cert.pem -key certs/server-key.pem
+Using default temp DH parameters
+ACCEPT
+-----BEGIN SSL SESSION PARAMETERS-----
+MFsCAQECAwD+/QQCwDAEAAQwb1UxP7ZeFQKcICmi1dDeS2k51i0yUa2uOkJYDgtu
+ap/goWNPAYkdc3P8ADlBW3xToQYCBF3JwWaiBAICHCCkBgQEAQAAAK0DAgEB
+-----END SSL SESSION PARAMETERS-----
+Shared ciphers:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:DHE-RSA-CHACHA20-POLY1305:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-SHA384:ECDHE-RSA-AES256-SHA384:DHE-RSA-AES256-SHA256:ECDHE-ECDSA-AES128-SHA256:ECDHE-RSA-AES128-SHA256:DHE-RSA-AES128-SHA256:ECDHE-ECDSA-AES256-SHA:ECDHE-RSA-AES256-SHA:DHE-RSA-AES256-SHA:ECDHE-ECDSA-AES128-SHA:ECDHE-RSA-AES128-SHA
+Signature Algorithms: ECDSA+SHA256:ECDSA+SHA384:ECDSA+SHA512:Ed25519:Ed448:RSA-PSS+SHA256:RSA-PSS+SHA384:RSA-PSS+SHA512:RSA-PSS+SHA256:RSA-PSS+SHA384:RSA-PSS+SHA512:RSA+SHA256:RSA+SHA384:RSA+SHA512:ECDSA+SHA224:ECDSA+SHA1:RSA+SHA224:RSA+SHA1:DSA+SHA224:DSA+SHA1:DSA+SHA256:DSA+SHA384:DSA+SHA512
+Shared Signature Algorithms: ECDSA+SHA256:ECDSA+SHA384:ECDSA+SHA512:Ed25519:Ed448:RSA-PSS+SHA256:RSA-PSS+SHA384:RSA-PSS+SHA512:RSA-PSS+SHA256:RSA-PSS+SHA384:RSA-PSS+SHA512:RSA+SHA256:RSA+SHA384:RSA+SHA512:ECDSA+SHA224:ECDSA+SHA1:RSA+SHA224:RSA+SHA1:DSA+SHA224:DSA+SHA1:DSA+SHA256:DSA+SHA384:DSA+SHA512
+Supported Elliptic Curve Point Formats: uncompressed:ansiX962_compressed_prime:ansiX962_compressed_char2
+Supported Elliptic Groups: X25519:P-256:X448:P-521:P-384
+Shared Elliptic groups: X25519:P-256:X448:P-521:P-384
+---
+No server certificate CA names sent
+CIPHER is ECDHE-RSA-AES256-GCM-SHA384
+Secure Renegotiation IS supported
+a
+b
+c
+```
+
+#### Client
+```
+OpenSSL> s_client -4 -dtls
+CONNECTED(00000124)
+depth=0 C = AU, ST = Some-State, O = Internet Widgits Pty Ltd
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 C = AU, ST = Some-State, O = Internet Widgits Pty Ltd
+verify return:1
+---
+Certificate chain
+ 0 s:C = AU, ST = Some-State, O = Internet Widgits Pty Ltd
+   i:C = AU, ST = Some-State, O = Internet Widgits Pty Ltd
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDazCCAlOgAwIBAgIUYOjmm3NHvT8FQAz/4wvbfv6ykKswDQYJKoZIhvcNAQEL
+BQAwRTELMAkGA1UEBhMCQVUxEzARBgNVBAgMClNvbWUtU3RhdGUxITAfBgNVBAoM
+GEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDAeFw0xOTEwMjgxNDU2MDdaFw0yOTEw
+MjUxNDU2MDdaMEUxCzAJBgNVBAYTAkFVMRMwEQYDVQQIDApTb21lLVN0YXRlMSEw
+HwYDVQQKDBhJbnRlcm5ldCBXaWRnaXRzIFB0eSBMdGQwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCt2SElEZkqsoZAE3f+UBCgq/rwskTOVMD79g3AG23b
+HLX4ClXXu2ahoQMA38GpnwotEMUsltrWeItABpGkQL6oPVBvEJDi8mzS4trzI5Cg
+qHMsIfq63x4HtdJI2Zs30ichCWkSj3qXNSlbe1uuNC8/oRWkfCGQC/8XfdCfTAnq
+DZAVRnWVfVRJu78VokzSB+Rmj+UODzGFdZiVdDFRuDw7ZR6a30UYOpi3uwOAIwcI
+PwbyZg/frqtvSjME63ZhV50jVZOxvABq7mG9S6jhHhKBVgbwwBorTGbv5RURFB8c
+bEiIAg6VQrhsTEYi7M2neRhYjN19h19yz0ejP1NpazCFAgMBAAGjUzBRMB0GA1Ud
+DgQWBBS0NNpwAZpmVcalqQnHXW5L26NDhzAfBgNVHSMEGDAWgBS0NNpwAZpmVcal
+qQnHXW5L26NDhzAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQCQ
+qah3mYWeJIeSn1z6eFk8/mbPZIEb/0XaJOe3jcjXpelJ3AjBn4r/bLtA3etIfGL9
+WO7F8d3zPxTjxMYUFp7iw7Sr46t5b24aaVftRf+mhq3YNcIh/W13e3LUH3WiVYrB
+GWI8vJYDXkj8H3l4vO4lsEp6Isaz8wWQu4Cn/9GNfWURkrxO0vJGqUghPiWzc7eh
+uzRRAsOazupAGaPMxUsbYmG0bnFT73ZzVbPSgEW0/WjXPHy8WScMtns905nLbUVY
+r4UfKT+FORmrewj+BWQ0UB0ZEkRtV2YW1t8G/cBKXkpN/GKmYkp/y4+xp938lRIX
+T+onWnAAo2kiqHxrLGOB
+-----END CERTIFICATE-----
+subject=C = AU, ST = Some-State, O = Internet Widgits Pty Ltd
+
+issuer=C = AU, ST = Some-State, O = Internet Widgits Pty Ltd
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 1806 bytes and written 661 bytes
+Verification error: self signed certificate
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : DTLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1D5361970DA157A70164F826FEFB7CE08B9A36A4DB0A831DE0801958ECF7D026
+    Session-ID-ctx:
+    Master-Key: 6F55313FB65E15029C2029A2D5D0DE4B6939D62D3251ADAE3A42580E0B6E6A9FE0A1634F01891D7373FC0039415B7C53
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 40 c9 90 ed 5c ec 1c 9d-7f cc 69 2c 92 f1 13 c6   @...\.....i,....
+    0010 - c2 68 a5 66 d3 e0 69 e2-96 7b 5c b9 7e b9 fa a9   .h.f..i..{\.~...
+    0020 - 52 59 a8 58 b3 37 ca f7-22 42 66 a0 8a d9 71 f2   RY.X.7.."Bf...q.
+    0030 - ec e0 dd 9c 2e c2 01 8a-14 d9 65 48 a2 70 e4 cd   ..........eH.p..
+    0040 - 1a b7 56 54 af 32 08 46-9e 7e 60 64 3e 07 3e 51   ..VT.2.F.~`d>.>Q
+    0050 - 92 82 c1 a3 36 a1 6e f8-bf 45 12 f9 f0 af 70 73   ....6.n..E....ps
+    0060 - ea f3 82 34 59 72 98 c2-8e bd 15 f3 65 1c 9f b9   ...4Yr......e...
+    0070 - 69 46 eb bb 78 3c 71 1d-2c 58 79 49 07 24 ea ac   iF..x<q.,XyI.$..
+    0080 - 18 51 2e 01 a6 8b 53 94-f0 f0 65 4e ec fc fa 99   .Q....S...eN....
+    0090 - e3 c5 00 9b 03 4e 46 7e-e8 dd f6 bd 8d 3c 4c 02   .....NF~.....<L.
+
+    Start Time: 1573503334
+    Timeout   : 7200 (sec)
+    Verify return code: 18 (self signed certificate)
+    Extended master secret: yes
+---
+a
+b
+c
+```
+
 TK
