@@ -1,13 +1,20 @@
 ---
-title: Sobre o autor
+title: WhoAmI
 categories: [ "blog" ]
 date: 0000-00-00
 ---
 <img src="/img/author.png"/>
 
-### >whoami
-
 Wanderley Caloni é um programador C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo, Rodrigo Strauss, que já estava blogando [há algum tempo](http://www.1bit.com.br). Ele tentou mantê-lo atualizado, então, por longos anos de programação, depuração e transpiração, com suas peripécias do dia-a-dia.
+
+ - EMail: wanderley.caloni@bitforge.com.br
+ - GitHub: https://github.com/Caloni
+ - Twitter: https://twitter.com/caloni
+ - Telegram: https://t.me/caloni
+ - Facebook: https://www.facebook.com/wanderleycaloni
+ - Letterboxd: https://letterboxd.com/caloni/
+ - Lichess: https://lichess.org/@/caloni
+ - Gostou de algo que escrevi? Me pague [um café](https://ko-fi.com/caloni) =)
 
 ### Comunidade
 
