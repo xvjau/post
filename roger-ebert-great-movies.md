@@ -2,7 +2,7 @@
 date: "2019-09-22"
 title: "Roger Ebert Great Movies"
 desc: "Lista dos Grandes Filmes do Grande Crítico de cinema Roger Ebert com meus comentários (se eu já assisti)."
-categories: [ "lists" ]
+categories: [ "blog" ]
 ---
  - 12 Angry Men 1957
  - 2001: A Space Odyssey 1968

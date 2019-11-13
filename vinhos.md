@@ -1,7 +1,7 @@
 ---
 title: "Vinhos"
-categories: [ "lists" ]
-date: 2019-10-27
+categories: [ "food" ]
+date: 2019-11-12
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
@@ -9,6 +9,8 @@ date: 2019-10-27
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
 
+<tr><td>2019-11-12 Argentina, Patagônia, Universo Malma Malbec 2015. Foi a única garrafa que encontrei nas vinícolas da região de Neuquen que valeu comprar um estoque. Com o frutado do Malbec acompanhado de um equilíbrio entre taninos, o corpo médio desse vinho e sua reserva permitem observá-lo envelhecer pelos próximos 10 anos; no momento ainda merece mais um pouco de tempo de guarda. Ótimo para tomar com churrasco selecionado com amigos.</td></tr>
+<tr><td>2019-11-12 Argentina, Mendoza, Fincas Alfreco Roca, Pinot Noir 2011. Não acho que seja um vinho com para envelhecer, mas o resultado desse achado do meu amigo em um mercado da região é um vinho sem álcool, corpo leve e um quentinho na garganta e no coração. Bom como primeira garrafa a abrir no churrasco selecionado com amigos.</td></tr>
 <tr><td>2019-10-27 Argentina, El Porvenir Icon Blend Malbec 2014; pelo menos 18 meses de barrica e quase 2 anos de guarda na bodega antes de ser comercializado. O vinho de referência da bodega familiar da cidade de Cafayate, em Salta, é um blend feito ano a ano com o que a vinícola produziu de melhor. As fincas ficam nos arredores da própria cidade, e essa garrafa foi composta com vinhos de fincas de 13 anos pelo menos. Esse blend de 2014 veio com Malbec 60%, Cabernet Sauvignon 30%, Tannat %7 e Petit Verdot 3% e não é um vinho fácil de decifrar tamanha complexidade do aroma e sabor. Corpo médio para forte, taninos médios e sabores com acidez equilibrada. O álcool ainda pode ser bem sentido, mas na mesma proporção vem à mente frutas secas como ameixa e terrenos arenosos. Abri com um espagueti ao molho carnudo e curtido por uma semana. Em suma, foda demais esse vinho.</td></tr>
 <tr><td>2019-09-29 Argentina, Etchart Privado Malbec 2018; achei esse vinho da Etchart no Hirota que não consegui provar em Cafayate porque a vinícola estava fechada. Peguei a linha jovem deles, Malbec, e tive uma surpresa: ele é muito bom. Com tons de frutos secos como ameixa e ao mesmo tempo uma acidez pouco elevada, o corpo médio pra leve desse vinho é boa pedida para carnes mais leves, uma sopinha de legumes com carne, queijos leves para forte, ou só pra tomar sozinho, mesmo.</td></tr>
 <tr><td>2019-09-22 Argentina, Nieto Senetiner Malbec 2016 é mais uma marca conhecida de Luján de Cuyo, Mendoza, que pode comprar sem temer; qualidade e consistência.</td></tr>

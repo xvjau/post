@@ -1,6 +1,6 @@
 ---
 title: "Cafés"
-categories: [ "lists" ]
+categories: [ "food" ]
 date: 2019-09-29
 ---
 <script src="/js/jquery.min.js"></script>

@@ -73,7 +73,7 @@ Faltam as mensagens Finished após ChangeCipherSpec, o que terminaria o fluxo, m
 
 Encontrei um [gist](https://gist.github.com/Jxck/b211a12423622fe304d2370b1f1d30d5) que acompanha passo a passo o setup necessário da biblioteca. Ao pesquisar mais a respeito encontrei [um artigo](https://chris-wood.github.io/2016/05/06/OpenSSL-DTLS.html) de Christopher A. Wood que também está explorando esse protocolo usando OpenSSL e que é o autor do primeiro repositório de exemplo de DTLS, que falha não por não funcionar, mas por estar usando TCP em vez de UDP ao usar a flag SOCK_STREAM em vez de SOCK_DGRAM na criação do socket.
 
-TIL Se eu usar o openssl.exe com os parâmetros abaixo (dentro do projeto de teste) eu consigo executar o protocolo DTLS em UDP IPV4 sem nenhuma falha:
+Se eu usar o openssl.exe com os parâmetros abaixo (dentro do projeto de teste) eu consigo executar o protocolo DTLS em UDP IPV4 sem nenhuma falha:
 
 #### Server
 

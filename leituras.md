@@ -1,18 +1,8 @@
 ---
 title: "Leituras"
-categories: [ "lists" ]
+categories: [ "reading" ]
 date: 2019-09-16
 ---
-Lendo:
-
- - The Great Movies (Roger Ebert)
-  - All lists of great movies are a foolish attempt to codify works which must stand alone.
-  - You cannot know the history of the movies, or love them, unless you understand why b&w can give more, not less, than color.
- - Prometheus Rising (Robert Anton Wilson)
-  - **Exercício**: visualize uma moeda de 25 centavos e você a obtendo do chão da rua. Faça isso até obtê-la de fato.
-
-Lido:
-
  - [12 Regras para a Vida, de Jordan Peterson](/12-rules-for-life-jordan-b-peterson), é o livro contemporâneo mais relevante que andei lendo (não que eu leia muito). Diz sobre como cuidar de sua própria vida através de regras embasadas em ciência e tradição.
  - [A Linguagem de Programação C](/the-c-programming-language), de K&R, é clássico absoluto da área.
  - [Amazonita, de Nati Oliver](/amazonita), é ficção curtinha de época sobre folclores brasileiro.
