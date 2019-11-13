@@ -1,15 +1,25 @@
 ---
-date: "2019-10-06"
+date: 2019-11-13
 title: "DTLS Simples... simples?"
 desc: "Como utilizar o protocolo DTLS usando a biblioteca OpenSSL no Windows."
 categories: [ "code" ]
-draft: true
 ---
-O [protocolo DTLS](https://tools.ietf.org/html/rfc4347), grosso modo, é um addon do TLS, que é a versão mais nova e segura do SSL, só que em vez de usar por baixo o TCP, que garante entrega na ordem certa dos pacotes, além de outras garantias, o UDP é permitido. Ou seja, datagramas. Em teoria essa forma de usar TLS é uma versão mais light. E a pergunta que tento responder aqui é: será que isso é verdade?
+### Introdução
 
-A primeira tarefa é conseguir compilar e rodar um sample DTLS para Windows, que é meu sistema operacional alvo. Para criar um sample client/server de DTLS usando a biblioteca OpenSSL (no momento 1.1.1d) você irá precisar de alguns passos de setup, conforme especificado [neste tutorial](https://github.com/nplab/DTLS-Examples/blob/master/DTLS.pdf). O repositório [DTLS-Examples](https://github.com/nplab/DTLS-Examples) possui alguns starts para começarmos a compilar e rodar um pouco de código, mas nem tudo são flores na hora de rodar para Windows.
+O [protocolo DTLS](https://tools.ietf.org/html/rfc4347), grosso modo, é um addon do TLS, que é a versão mais nova e segura do SSL, só que em vez de usar por baixo o TCP, que garante entrega na ordem certa dos pacotes, além de outras garantias, o UDP é permitido. Ou seja, datagramas. Em teoria essa forma de usar TLS é uma versão mais light, com menos overheadh e tráfico de banda. E a pergunta que tento responder aqui é: será que isso é verdade?
+
+A primeira tarefa é conseguir compilar e rodar um sample DTLS para Windows, que é meu sistema operacional alvo. Para criar um sample client/server de DTLS usando a biblioteca OpenSSL (no momento 1.1.1d) precisei de alguns passos de setup, conforme especificado [neste tutorial](https://github.com/nplab/DTLS-Examples/blob/master/DTLS.pdf). O repositório [DTLS-Examples](https://github.com/nplab/DTLS-Examples) possui alguns starts para começarmos a compilar e rodar um pouco de código, mas nem tudo são flores na hora de rodar para Windows.
 
 O exemplo que peguei, `dtls_udp_echo.c`, como diz o nome, usa DTLS em cima de UDP. As funções de setup e de definição de callbacks e settings do OpenSSL são configuradas de acordo com o esperado, mas por algum motivo quando a conexão entre um server e um client é estabelecida o server dispara vários listenings e a conexão estabelecida pelo client permanece sem escrita e leitura.
+
+### Primeiros testes
+
+Após compilar o OpenSSL e antes de iniciar os testes gerei os certificados:
+
+```
+openssl req -x509 -newkey rsa:2048 -days 3650 -nodes -keyout client-key.pem -out client-cert.pem
+openssl req -x509 -newkey rsa:2048 -days 3650 -nodes -keyout server-key.pem -out server-cert.pem
+```
 
 Analisando a troca de pacotes pelo Wire Shark descobri um erro no handshake envolvendo fragmentação.
 
@@ -26,6 +36,8 @@ No. Time Source Destination Protocol Length Info
  19 2019-10-14 12:31:42.476444 127.0.0.1 127.0.0.1 DTLSv1.0 260 Client Hello[Reassembly error,
 ...
 ```
+
+### Primeiras correções
 
 Tentando descobrir o motivo encontrei [alguns issues](https://github.com/sipwise/rtpengine/issues/413) no GitHub a respeito de problemas no OpenSSL, e a solução era definir um MTU (Maximum transmission unit) em vez de deixar o OpenSSL usar o default, que é pequeno demais para poder enviar as mensagens do handshake de uma só vez, requisito do protocolo.
 
@@ -61,19 +73,13 @@ No. Time Source Destination Protocol Length Info
  so on...
 ```
 
-Criação das chaves e certificados:
-
-```
-openssl req -x509 -newkey rsa:2048 -days 3650 -nodes -keyout client-key.pem -out client-cert.pem
-openssl req -x509 -newkey rsa:2048 -days 3650 -nodes -keyout server-key.pem -out server-cert.pem
-```
-
-Faltam as mensagens Finished após ChangeCipherSpec, o que terminaria o fluxo, mas por algum motivo o Finished nunca chega em nenhum dos lados, e as mensagens a partir de ServerHello se repetem até o retorno de erro de conexão (`SSL_ERROR_SSL`). O Sequence Number do server e client indicam que apesar da troca de mensagens estar ocorrendo existe um loop.
-
+Do roteiro descrito pela RFC faltam as mensagens Finished após ChangeCipherSpec, o que terminaria o fluxo, mas por algum motivo o Finished nunca chega em nenhum dos lados, e as mensagens a partir de ServerHello se repetem até o retorno de erro de conexão (`SSL_ERROR_SSL`). O Sequence Number do server e client indicam que apesar da troca de mensagens estar ocorrendo existe um loop.
 
 Encontrei um [gist](https://gist.github.com/Jxck/b211a12423622fe304d2370b1f1d30d5) que acompanha passo a passo o setup necessário da biblioteca. Ao pesquisar mais a respeito encontrei [um artigo](https://chris-wood.github.io/2016/05/06/OpenSSL-DTLS.html) de Christopher A. Wood que também está explorando esse protocolo usando OpenSSL e que é o autor do primeiro repositório de exemplo de DTLS, que falha não por não funcionar, mas por estar usando TCP em vez de UDP ao usar a flag SOCK_STREAM em vez de SOCK_DGRAM na criação do socket.
 
-Se eu usar o openssl.exe com os parâmetros abaixo (dentro do projeto de teste) eu consigo executar o protocolo DTLS em UDP IPV4 sem nenhuma falha:
+### Um passo atrás
+
+Depois de muito analisar o protocolo desenhando cada pacote na janela do escritório resolvi abandonar essa miríade de detalhes e dar um passo atrás, usando o próprio openssl.exe compilado com os parâmetros abaixo. E, surpreso, mas nem tanto (afinal de contas, a compilação do OpenSSL passou pelos testes pós-build) eu consigo executar o protocolo DTLS em UDP IPV4 sem nenhuma falha:
 
 #### Server
 
@@ -188,4 +194,24 @@ b
 c
 ```
 
-TK
+### Um passo adiante
+
+O passo seguinte foi entender [o código](https://github.com/openssl/openssl/blob/master/apps/s_server.c) e as diferenças com os samples que havia tentado fazer funcionar da única maneira que penso ser possível: depurando. Sem conseguir navegar em todos os detalhes do fonte do OpenSSL recompilei o projeto com full debug alterando as flags de compilação no Makefile gerado para Windows (/Od e /Zi ajudam) e iniciei os dois modos acima depurando em duas instâncias do Visual Studio. Encontrei uma ou outra chamada à biblioteca OpenSSL que não havia notado ainda, mas nada que parece fazer a diferença.
+
+```
+// from s_server.c
+SSL_CTX_clear_mode(ctx, SSL_MODE_AUTO_RETRY);
+SSL_CTX_set_quiet_shutdown(ctx, 1);
+SSL_CTX_sess_set_cache_size(ctx, 128);
+
+// client has to authenticate
+SSL_CTX_set_verify(ctx, SSL_VERIFY_PEER | SSL_VERIFY_CLIENT_ONCE, dtls_verify_callback);
+// s_server.c version
+SSL_CTX_set_verify(ctx, 0, dtls_verify_callback);
+```
+
+Mas nenhuma dessas mudanças fez efeito no projeto de teste. O próximo passo seria copiar cada chamada feita à lib OpenSSL pelo openssl.exe e colar no projeto de teste para descobrir onde está o pulo do gato que nenhum dos samples na internet parece ter encontrado (ao menos para Windows), mas há uma solução preguiçosa que é muito mais efetiva e testada: usar os fontes da própria pasta apps do projeto OpenSSL.
+
+### Último passo
+
+O próximo e último passo é customizar o código-fonte base no qual a OpenSSL valida o protocolo DTLS para o uso que pretendo fazer para ele: um executador de processos remoto.
