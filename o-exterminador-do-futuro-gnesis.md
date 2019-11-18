@@ -5,6 +5,7 @@ desc: "O Exterminador do Futuro: Gênesis. Terminator Genisys (USA, 2015). Dirig
 imdb: "1340138"
 categories: [ "movies" ]
 stars: "3/5"
+review: [ "2019" ]
 ---
 O novo filme da franquia Exterminador do Futuro resolve homenagear cada pedacinho de toda [a saga original](/o-exterminador-do-futuro) repetindo cenários, cenas, diálogos, ideias e reviravoltas. Como tradição, inova o modelo T-800, dessa vez, pra variar, um que usa nanotecnologia. Não se saindo tão mal quanto o terceiro filme, sua sacada genial é revelada no meio da história, e para os que tiveram a sorte de não assistir nenhum trailer e não ver nenhum pôster, pode até ser uma surpresa. Eu disse pode, pois até no começo há dicas demais sobre o que irá acontecer.
 
