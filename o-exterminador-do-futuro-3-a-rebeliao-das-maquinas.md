@@ -1,7 +1,7 @@
 ---
 date: "2019-11-16"
 title: "O Exterminador do Futuro 3: A Rebelião Das Máquinas"
-desc: '"Terminator 3: Rise of the Machines" (EUA, Alemanha e Reino Unido, 2003), escrito por John Brancato e Michael Ferris, dirigido por Jonathan Mostow, com Arnold Schwarzenegger, Nick Stahl e Claire Danes. Mais uma sessão do Paulão, mas já tinha visto no cinema e posso confirmar que a persequição inicial é inesquecivelmente barulhenta e destruidora.'
+desc: '"Terminator 3: Rise of the Machines" (EUA, Alemanha e Reino Unido, 2003), escrito por John Brancato e Michael Ferris, dirigido por Jonathan Mostow, com Arnold Schwarzenegger, Nick Stahl e Claire Danes. Mais uma sessão do Paulão, mas já tinha visto no cinema e posso confirmar que a persequição inicial é inesquecivelmente barulhenta e destruidora. Passando o texto para o especial no CinemAqui.'
 imdb: "0181852"
 categories: [ "movies" ]
 stars: "3/5"
