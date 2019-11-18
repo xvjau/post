@@ -1,6 +1,6 @@
 ---
 title: "Story, by Robert McKee"
-categories: [ "reading" ]
+categories: [ "blog" ]
 date: 2019-09-08
 ---
 

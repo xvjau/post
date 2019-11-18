@@ -1,6 +1,6 @@
 ---
 title: "Citações"
-categories: [ "reading" ]
+categories: [ "blog" ]
 date: 2019-09-08
 ---
 Lembre-se:

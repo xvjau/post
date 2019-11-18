@@ -1,7 +1,7 @@
 ---
 date: 2018-02-27T19:30:59-03:00
 title: "Just the Arguments"
-categories: [ "reading" ]
+categories: [ "blog" ]
 ---
 [Just The Arguments](https://books.google.com.br/books/about/Just_the_Arguments.html?id=a8okaQ1-htgC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false), como o próprio nome diz, explora apenas os argumentos dos debates filosóficos mais relevantes na história da Filosofia, e também tenta na contemporaneidade se manter neutro ou equilibrado (como se isso fosse possível).
 
