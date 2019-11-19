@@ -1,6 +1,6 @@
 ---
 date: "2019-11-17"
-title: "Why Are Movies So Bad? or, The Numbers"
+title: "Why Are Movies So Bad? by Pauline Kael"
 desc: "Texto publicado no New Yorker 23 junho de 1980 por Pauline Kael. É de difícil acesso, esta versão foi editada de um PDF que encontrei na internet."
 categories: [ "blog" ]
 ---

@@ -1,6 +1,6 @@
 ---
 date: "2019-11-17"
-title: "Circles and Squares (excerpts)"
+title: "Circles and Squares by Pauline Kael (excerpts)"
 desc: "Trechos de um artigo do livro I Lost it At The Movies, por Pauline Kael."
 categories: [ "blog" ]
 ---

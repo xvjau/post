@@ -1,6 +1,6 @@
 ---
 date: "2019-11-17"
-title: "Criticism Is an Art"
+title: "Criticism Is an Art by Pauline Kael"
 desc: "Artigo por Pauline Kael antes disponível na Cinemazine."
 categories: [ "blog" ]
 ---
