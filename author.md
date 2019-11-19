@@ -11,16 +11,17 @@ Wanderley Caloni é um programador C/C++ especializado em backend para Windows q
  - GitHub: https://github.com/Caloni
  - Twitter: https://twitter.com/caloni
  - Telegram: https://t.me/caloni
- - Facebook: https://www.facebook.com/wanderleycaloni
+ - Medium: https://medium.com/@caloni
  - Letterboxd: https://letterboxd.com/caloni/
  - Lichess: https://lichess.org/@/caloni
- - Gostou de algo que escrevi? Me pague [um café](https://ko-fi.com/caloni) =)
+
+Gostou de algo que escrevi? Me pague [um café](https://ko-fi.com/caloni) =)
 
 ### Comunidade
 
 Colaborador frequente do Grupo C/C++ Brasil, ele e Strauss se consideram fundadores do grupo ao organizarem e participarem do primeiro encontro de programadores e aficionados da linguagem [C/C++ do Brasil](http://groups.google.com/group/ccppbrasil), que ocorreu em São Paulo dia 17/12/2005 às 15:00 no Outback Eldorado. Desde então o grupo vem realizando encontros técnicos [no decorrer dos anos](http://ccppbrasil.github.io/encontros/encontros/).
 
-### Trabalho enobrece o homem
+### O trabalho nos torna livres
 
 Caloni trabalhou por dez anos na área de Segurança da Informação, principalmente em um [Sistema de Controle de Acesso a Usuários e Aplicações 100% brasileiro](http://www.scua.com.br) e [Análise de Trojans com Engenharia Reversa](http://www.opencs.com.br). Em seguida migrou para a [Área Financeira](http://www.ezmarket.com.br), vindo a ser sócio de uma empresa especializada, também desenvolvedora de [sua própria solução](http://www.intelitrader.com.br). Hoje é um dos sócios da [BitForge](http://www.bitforge.com.b4), uma empresa que auxilia empresas e equipes de desenvolvimento em problemas complexos, seja em arquitetura, metodologias, cursos ou escovação de bits, mesmo.
 
