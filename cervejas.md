@@ -1,13 +1,20 @@
 ---
 title: "Cervejas"
 categories: [ "food" ]
-date: 2019-09-29
+date: 2019-12-02
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
 
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
+
+<tr><td>
+</tr></td>
+
+<tr><td>
+2019-12-02 Toda cidade hoje em dia tem pelo menos uma cervejaria, não? Em Monte Verde há a Fritz, que não frequentei, e essa homônima, que achei no mercadinho, uma IPA pouco encorpada e não muito amarga, mas bem equilibrada.
+</tr></td>
 
 <tr><td>2019-09-29 Cerveja American IPA da Eiseinbaun chegou aqui no mercado. Versão mais amarga Pale Ale, mas essa o amargo é mais forte. Talvez forte demais.</td></tr>
 <tr><td>2019-01-02 Vixnu é uma Imperial IPA, o que quer dizer um soco no estômago., mas por ser uma Colorado também quer dizer que esse soco está equilibradíssimo entre as doses de malte e lúpulo, com aromas detectáveis só de cheirar. Aprecie com comidas fortes.</td></tr>

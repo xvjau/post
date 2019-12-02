@@ -1,13 +1,20 @@
 ---
 title: "Cafés"
 categories: [ "food" ]
-date: 2019-11-28
+date: 2019-12-02
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
 
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
+
+<tr><td>
+</tr></td>
+
+<tr><td>
+2019-12-02 Fiz novamente o Toninho com 15g na Aeropress e a doçura sem amargor continua (e aquele gostinho de pó mineiro), o que me fez pensar que é possível tentar mais pó, mas mantendo a temperatura e a rapidez com que se baixa o êmbolo. Talvez variar um desses três elementos (pó, temperatura, tempo) de cada vez e olhar os resultados. Há muito pó ainda para testar.
+</tr></td>
 
 <tr><td>2019-11-28 Aê, sr. "Ain, só bebo 100% Arábica", esse café do Toninho, gente boa, é um blend com o odiado Conilon, que tem cheiro de mato mineiro, sim, é moído como se fosse turco e 18g rende uma bebida doce com taninos em uma Aeropress (método padrão, 5s mexendo, 30s descendo êmbolo). E a embalagem é tão tosca que remete a tempos pré-micro-colheita e outras bichisses.</td></tr>
 <tr><td>2019-11-19 Fui no Suplicy da Vila Olímpia tomar este blend de Mundo Novo e Icatu Amarelo da fazenda Santa Alina/Pinhal da região de Alta Mogiana (Sul de Minas). Experimentei o equilibrado coado, meio sem graça e sem acidez, e acabei tomando também o do meu amigo que veio comigo e saiu às pressas, um feito em um método que lembra um laboratório que popularmente parece ser conhecido como o Método do Sifão, que demora uns três minutos e faz a passagem da água por evaporação e depois desce. É complicado, mas o resultado é que ele extraiu mais sabor do mesmo café coado, dando um resultado com corpo para mais médio e de fato você se lembra do que o rótulo diz: frutado e notas amendoadas. Sim, acabei levando para casa e experimentando na Aeropress, que a barista do local me sugeriu usar 18g para 200ml e uma moagem entre coado e francesa com uns 3 a 4 minutos de descanso. Eu fiz, mas não gostei, prefiri um pouco menos de pó e a passagem do manual. Bom, mas não sensacional.</td></tr>
