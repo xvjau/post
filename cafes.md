@@ -1,7 +1,7 @@
 ---
 title: "Cafés"
 categories: [ "food" ]
-date: 2019-12-02
+date: 2019-12-03
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
@@ -10,6 +10,10 @@ date: 2019-12-02
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
 
 <tr><td>
+</tr></td>
+
+<tr><td>
+Coloquei 18g do Café do Toninho e o doce continua, mas agora com um amargo mais presente. No entanto, o sabor fica mais intenso e ácido.
 </tr></td>
 
 <tr><td>
