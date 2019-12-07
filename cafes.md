@@ -1,7 +1,7 @@
 ---
 title: "Cafés"
 categories: [ "food" ]
-date: 2019-12-03
+date: 2019-12-07
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
@@ -13,7 +13,27 @@ date: 2019-12-03
 </tr></td>
 
 <tr><td>
-Coloquei 18g do Café do Toninho e o doce continua, mas agora com um amargo mais presente. No entanto, o sabor fica mais intenso e ácido.
+2019-12-07 Pike Place com 30s agora de espera para mexer de novo, com 16g ele funciona muito bem. Talvez seja uma boa experimentar essa técnica com os cafés mais baratos, mas pelo rendimento, posso também passar a experimentar outros cafezes da Starbucks.
+</tr></td>
+
+<tr><td>
+2019-12-06 Café do Toninho, 16g, mexendo antes e depois de 30s na Aeropress, o resultado fica bem mais bruto. Todo o sabor toma conta da boca, uma ácidez áspera, o doce diminui frente aos outros sabores, e não sei se é algo bom. Lembra café para machos, mas sem o queimado, apenas um amargo atordoante junto do doce.
+</tr></td>
+
+<tr><td>
+2019-12-04 "Parece cocaína, mas é só" Pike Place, o café mais viciante da Starbucks. É difícil achá-lo novo em SP, essa embalagem era de maio, mas ao passar 20g para 300ml em moagem de coador na Aeropress e dar 20 segundos de descanso entre uma mexida e outra antes de baixar o êmbolo o resultado é um aroma e um sabor que lá pelo terceiro gole apenas me faz lembrar: "parece cocaína..."
+</tr></td>
+
+<tr><td>
+2019-12-04 Testando Pike Place com 20g (300ml), mexendo antes e depois de 20s de espera na Aeropress. Sabor e aromas frutados com leve toque de amargor em corpo quase fraco. E uma cocaína pura.
+</tr></td>
+
+<tr><td>
+2019-12-04 Voltei pros 15g, mas mexi duas vezes e acredito que a temperatura da água tenha passado bem um pouquinho. O amargo intensificou, mas acho que era só a pasta de dente.
+</tr></td>
+
+<tr><td>
+2019-12-03 Coloquei 18g do Café do Toninho e o doce continua, mas agora com um amargo mais presente. No entanto, o sabor fica mais intenso e ácido.
 </tr></td>
 
 <tr><td>

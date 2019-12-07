@@ -1,13 +1,20 @@
 ---
 title: "Vinhos"
 categories: [ "food" ]
-date: 2019-11-12
+date: 2019-12-04
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
 
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
+
+<tr><td>
+</tr></td>
+
+<tr><td>
+2019-12-04 Este Reservado da Concha y Toro é um blend Cabernet/Carmenere da Indústria chilena de vinhos cujo custo/benefício quase se aproxima de uma experiência completa. Não é nada demais, então depende de você criar o momento. Ficou bom bom spaghetti com molho de tomate natural e pedaços de ancho assados na churrasqueira e curtidos ao molho.
+</tr></td>
 
 <tr><td>2019-11-12 Argentina, Patagônia, Universo Malma Malbec 2015. Foi a única garrafa que encontrei nas vinícolas da região de Neuquen que valeu comprar um estoque. Com o frutado do Malbec acompanhado de um equilíbrio entre taninos, o corpo médio desse vinho e sua reserva permitem observá-lo envelhecer pelos próximos 10 anos; no momento ainda merece mais um pouco de tempo de guarda. Ótimo para tomar com churrasco selecionado com amigos.</td></tr>
 <tr><td>2019-11-12 Argentina, Mendoza, Fincas Alfreco Roca, Pinot Noir 2011. Não acho que seja um vinho com para envelhecer, mas o resultado desse achado do meu amigo em um mercado da região é um vinho sem álcool, corpo leve e um quentinho na garganta e no coração. Bom como primeira garrafa a abrir no churrasco selecionado com amigos.</td></tr>
