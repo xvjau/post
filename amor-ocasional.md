@@ -4,7 +4,7 @@ title: "Amor Ocasional"
 desc: "Plan Coeur. França, 2018. Criado por Chris Lang e Noémie Saglio. Com Tom Dingler como Matthieu, Joséphine Drai como Emilie, Zita Hanrot como Elsa, Guillaume Labbé como Maxime, Yvan Naubron como Roman, Sabrina Ouazani como Charlotte, Marc Rucmann como Jules e Syrus Shahidi como Antoine."
 imdb: "9170638"
 
-categories: [ "series" ]
+categories: [ "movies" ]
 stars: "3/5"
 ---
 Essa série estilo comédia romântica da Netflix está ligeiramente acima da média, graças à performance adorável de Zita Hanrot como a vulnerável Elsa e também ao tratamento um pouco mais sério à história criada pela dupla Chris Lang e Noémie Saglio. Ela é francesa e é uma série, o que quer dizer que não termina. Mas seus personagens são suportáveis por talvez mais alguns episódios, embora no fundo tudo pudesse ser resolvido em um longa metragem.

@@ -1,7 +1,7 @@
 ---
 date: 2018-04-15T21:12:02-03:00
 title: "The Handmaid's Tale (O Conto da Aia)"
-categories: [ "series" ]
+categories: [ "movies" ]
 imdb: "5834204"
 
 stars: "4/5"

@@ -4,7 +4,7 @@ title: "Merlí"
 desc: ""
 imdb: "4580372"
 
-categories: [ "series" ]
+categories: [ "movies" ]
 stars: "3/5"
 ---
 Merlí de Héctor Lozano segue uma cartilha de novela moderada, onde seus personagens nunca se transformam em algo diferente do que são, mas coisas do cotidiano acontecem a eles para movimentar uma história em torno de um professor de filosofia.

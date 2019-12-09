@@ -1,7 +1,7 @@
 ---
 date: 2018-05-20T13:07:43-03:00
 title: "Kakegurui"
-categories: [ "series" ]
+categories: [ "movies" ]
 imdb: "7131720"
 
 stars: "3/5"

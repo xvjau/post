@@ -2,7 +2,7 @@
 imdb: "5709230"
 
 date: "2016-10-28"
-categories: [ "series" ]
+categories: [ "movies" ]
 title: "Black Mirror - S03E03 - Shut Up and Dance"
 stars: "4/5"
 desc: "Shut Up and Dance. Black Mirror (UK, 2011). Dirigido por James Watkins. Escrito por William Bridges, Charlie Brooker. Com Alex Lawther, Jerome Flynn, Susannah Doyle."

@@ -2,7 +2,7 @@
 date: 2018-01-12T01:19:37
 imdb: "2085059"
 
-categories: [ "series" ]
+categories: [ "movies" ]
 stars: "3/5"
 title: "Black Mirror - S04E01 - USS Calister"
 desc: "USS Calister. Black Mirror (UK, 2011). Dirigido por Toby Haynes. Escrito por William Bridges e Charlie Brooker. Com Jesse Plemons, Cristin Milioti, Jimmi Simpson."

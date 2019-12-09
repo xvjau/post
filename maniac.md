@@ -4,7 +4,7 @@ title: "Maniac"
 desc: "Maniac. EUA, 2018. Criado por Cary Joji Fukunaga e Patrick Somerville, dirigiro por Fukunaga. Com Jonah Hill, Emma Stone, Sonoya Mizuno."
 imdb: "5580146"
 
-categories: [ "series" ]
+categories: [ "movies" ]
 stars: "4/5"
 ---
 Dois estranhos se encontram casualmente. Ambos possuem traumas no passado. Um deles é curável, e o outro tem esquizofrenia. Ambos parecem pensar na mesma frequência e frequentam os mesmos sonhos gerados por computador. Ambientado em um mundo ligeiramente futurista e esquisito, com um toque de retrô, a série Maniac tem um quê estético (e temático) que aos poucos nos revela ser um sci-fi pautado em algumas ideias muito mais psicológicas e filosóficas que poderia-se esperar.

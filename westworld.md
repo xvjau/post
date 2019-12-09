@@ -2,7 +2,7 @@
 imdb: "0475784"
 
 date: 2018-12-30
-categories: [ "series" ]
+categories: [ "movies" ]
 title: "Westworld"
 stars: "4/5"
 desc: "Westworld (USA, 2016). Dirigido por Jonathan Nolan, Fred Toye. Escrito por Lisa Joy, Jonathan Nolan, Michael Crichton, Halley Wegryn Gross, Dan Dietz, Charles Yu. Com Evan Rachel Wood (Dolores Abernathy), Thandie Newton (Maeve Millay), James Marsden (Teddy Flood), Jeffrey Wright (Bernard Lowe), Ed Harris (Man in Black), Anthony Hopkins (Dr. Robert Ford)."

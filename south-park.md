@@ -2,7 +2,7 @@
 imdb: "0121955"
 
 date: "2015-07-28"
-categories: [ "series" ]
+categories: [ "movies" ]
 title: "South Park"
 stars: "5/5"
 desc: "South Park. South Park (USA, 1997). Dirigido por Trey Parker, Eric Stough, Matt Stone. Escrito por Trey Parker, Matt Stone, Brian Graden, Kyle McCulloch, Vernon Chatman, David R. Goodman, Erica Rivinoja, Pam Brady, Nancy Pimental. Com Trey Parker, Matt Stone, Mona Marshall, April Stewart, Isaac Hayes."

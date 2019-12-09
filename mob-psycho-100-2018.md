@@ -1,7 +1,7 @@
 ---
 date: 2018-05-27T14:08:12-03:00
 title: "Mob Psycho 100 (2018)"
-categories: [ "series" ]
+categories: [ "movies" ]
 imdb: "7701694"
 
 stars: "3/5"

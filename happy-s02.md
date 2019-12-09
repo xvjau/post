@@ -1,7 +1,7 @@
 ---
 date: 2019-06-09
 title: "Feliz! S02"
-categories: [ "series" ]
+categories: [ "movies" ]
 imdb: "2452242"
 
 stars: "2/5"

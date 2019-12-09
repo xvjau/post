@@ -1,7 +1,7 @@
 ---
 date: 2018-05-16T19:35:32-03:00
 title: "Aggretsuko"
-categories: [ "series" ]
+categories: [ "movies" ]
 imdb: "8019444"
 
 stars: "4/5"

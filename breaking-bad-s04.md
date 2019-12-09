@@ -2,7 +2,7 @@
 imdb: "0903747"
 
 date: "2016-07-16"
-categories: [ "series" ]
+categories: [ "movies" ]
 title: "Breaking Bad - Quarta Temporada"
 stars: "5/5"
 desc: "Breaking Bad - Quarta Temporada. Breaking Bad (USA, 2008). Dirigido por Michelle MacLaren, Adam Bernstein, Vince Gilligan, Colin Bucksey, Michael Slovis, Bryan Cranston, Terry McDonough, Johan Renck, Rian Johnson. Escrito por Vince Gilligan, Peter Gould, George Mastras, Sam Catlin, Moira Walley-Beckett, Thomas Schnauz, Gennifer Hutchison, John Shiban, J. Roberts. Com Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris, Betsy Brandt, RJ Mitte, Bob Odenkirk, Steven Michael Quezada, Jonathan Banks."
