@@ -4,7 +4,7 @@ title: "Chuva de Verão"
 imdb: "0287645"
 desc: "Rain. New Zealand, 2001. Dirigido por Christine Jeffs, escrito por Kirsty Gunn, Christine Jeffs. Com Alicia Fulford-Wierzbicki, Sarah Peirse, Marton Csokas."
 
-categories: [ "movies" ]
+categories: [ "blog" ]
 stars: "5/5"
 ---
 O DVD da quinta é um trabalho intimista, que usa a linguagem cinematográfica para nos absorver através de seu tom em um álbum de músicas dessa família "perfeita". Mas desde o começo é um filme niilista, ou sobre o paraíso perdido da vida em família. Estamos no paraíso, mas ele é vazio de alma. Suas cores estão drenadas, e por mais que esta seja uma das trilhas sonoras neo-zeolandesas mais belas e escolhidas e dedo para cada cena, quanto mais belo mais acusa uma nostalgia sobre uma vida que não existe. Está nas coisas que vemos, mas não nas pessoas, que não vivem. Flutuam sobre o nada.

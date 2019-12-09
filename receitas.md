@@ -1,6 +1,6 @@
 ---
 title: "Receitas"
-categories: [ "food" ]
+categories: [ "blog" ]
 date: 2019-09-08
 ---
 Lista de receitas já feitas:

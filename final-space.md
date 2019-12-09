@@ -4,7 +4,7 @@ title: "Final Space"
 desc: "Criado por Olan Rogers e David Sacks."
 imdb: "6317068"
 
-categories: [ "movies" ]
+categories: [ "blog" ]
 stars: "3/5"
 ---
 Esta é uma série animada da Netflix que apresenta uma espécie anti-herói (embora bem infantil) e personagens que possuem a pretensão de estarem em uma super-aventura galáctica. Só que não. E por algum motivo, apesar de irreverente, lhe escapa esse sentido do humor: que quando você tira importância de alguns elementos da história, mas mantém outros, você não entendeu direito a ideia por trás do seu próprio projeto.

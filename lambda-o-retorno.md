@@ -1,7 +1,7 @@
 ---
 date: "2014-04-08"
 title: 'Lambda: o Retorno!'
-categories: [ "code" ]
+categories: [ "blog" ]
 ---
 [![Lambda: o Retorno](http://i.imgur.com/Hrbu1ue.jpg)](/images/13717451604_33225e217c_o.jpg)
 

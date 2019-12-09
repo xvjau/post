@@ -1,6 +1,6 @@
 ---
 title: "Receita: Pão de Alho"
-categories: [ "food" ]
+categories: [ "blog" ]
 date: 2017-05-30
 ---
 

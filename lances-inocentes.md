@@ -2,7 +2,7 @@
 imdb: "0108065"
 
 date: "2014-09-21"
-categories: [ "movies" ]
+categories: [ "blog" ]
 title: "Lances Inocentes"
 stars: "5/5"
 desc: "Lances Inocentes. Searching for Bobby Fischer (USA, 1993). Dirigido por Steven Zaillian. Escrito por Fred Waitzkin, Steven Zaillian. Com Max Pomeranc, Joe Mantegna, Joan Allen, Ben Kingsley, Laurence Fishburne, Michael Nirenberg, Robert Stephens, David Paymer, Hal Scardino."

@@ -1,7 +1,7 @@
 ---
 date: "2015-01-26"
 title: Origem do tipo char
-categories: [ "code" ]
+categories: [ "blog" ]
 ---
 ![](http://i.imgur.com/SKX1ZjT.jpg?1)
 

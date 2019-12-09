@@ -3,7 +3,7 @@ imdb: "0398286"
 
 date: "2011-01-30"
 review: [ "2014" ]
-categories: [ "movies" ]
+categories: [ "blog" ]
 title: "Enrolados"
 stars: "3/5"
 desc: "Enrolados. Tangled (USA, 2010). Dirigido por Nathan Greno, Byron Howard. Escrito por Dan Fogelman, Jacob Grimm, Wilhelm Grimm, Mark Kennedy, Dean Wellins. Com Mandy Moore, Zachary Levi, Donna Murphy, Ron Perlman, M.C. Gainey, Jeffrey Tambor, Brad Garrett, Paul F. Tompkins, Richard Kiel."

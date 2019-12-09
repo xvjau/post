@@ -4,7 +4,7 @@ title: "A Mulher Do Fazendeiro"
 desc: "The Farmer's Wife. Reino Unido, 1928. Escrito por Eliot Stannard adaptado da peça de Eden Phillpotts. Dirigido por um ainda jovem Alfred Hitchcock. Com Jameson Thomas, Lillian Hall-Davis, Gordon Harker."
 imdb: "0018876"
 
-categories: [ "movies" ]
+categories: [ "blog" ]
 stars: "4/5"
 ---
 Hitchcock dirige aqui mais uma comédia de costumes sobre casamento, e extrai o drama do bom humor. Ele continua com suas trucagens já vistas em filmes anteriores, como movimentar a câmera em alguns momentos e aproximar-se dos personagens com cortes que abrem um plano mais fechado.

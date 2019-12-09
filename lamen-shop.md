@@ -4,7 +4,7 @@ title: "Lámen Shop"
 desc: "Ramen Teh. Singapura, Japão, França, 2018. Dirigido por Eric Khoo. Com Tsuyoshi Ihara, Takumi Saitoh, Seiko Matsuda."
 imdb: "6720618"
 
-categories: [ "movies" ]
+categories: [ "blog" ]
 stars: "3/5"
 ---
 Lámen Shop é um filme sem roteiro. O que praticamente diz tudo o que você precisa saber sobre os defeitos incorrigíveis de um filme onde o espectador não consegue enxergar o que move seu protagonista, nem qual o grande conflito que ele tenta resolver durante uma história que foi feita para chorar (e consegue), mas que não entrega profundidade alguma nesse choro.

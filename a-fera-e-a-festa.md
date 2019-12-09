@@ -3,7 +3,7 @@ date: "2019-10-21"
 title: "A Fera e a Festa"
 desc: '"Holy Beasts" (República Dominicana, Argentina e México, 2019), escrito por Israel Cárdenas e Laura Amelia Guzmán, dirigido por Israel Cárdenas e Laura Amelia Guzmán, com Geraldine Chaplin, Udo Kier e Luis Ospina. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "7764804"
-categories: [ "movies" ]
+categories: [ "blog" ]
 stars: "3/5"
 ---
 Este filme nos presenteia com uma visão do passado do cineasta que homenageia, Jean-Louis Jorges, cineasta da República Dominicana, e ao mesmo tempo nos faz pensar em cinema não apenas como uma história sendo contada, mas como uma visão muito particular da realidade.

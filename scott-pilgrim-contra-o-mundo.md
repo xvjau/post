@@ -3,7 +3,7 @@ imdb: "0446029"
 
 date: "2011-05-16"
 review: [ "2013" ]
-categories: [ "movies" ]
+categories: [ "blog" ]
 title: "Scott Pilgrim Contra o Mundo"
 stars: "5/5"
 desc: "Scott Pilgrim Contra o Mundo. Scott Pilgrim vs. the World (USA, 2010). Dirigido por Edgar Wright. Escrito por Michael Bacall, Edgar Wright, Bryan Lee O'Malley. Com Michael Cera, Alison Pill, Mark Webber, Johnny Simmons, Ellen Wong, Kieran Culkin, Anna Kendrick, Aubrey Plaza, Mary Elizabeth Winstead."

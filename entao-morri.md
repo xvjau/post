@@ -1,6 +1,6 @@
 ---
 date: "2016-11-02"
-categories: [ "movies" ]
+categories: [ "blog" ]
 title: "Então Morri"
 stars: "4/5"
 desc: "Então Morri. Então Morri (Brazil, 2016). Dirigido por Bia Lessa, Dany Roland. Escrito por Bia Lessa."

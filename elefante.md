@@ -4,7 +4,7 @@ title: "Elefante"
 desc: "Elephant. EUA, 2003. Escrito e dirigido por Gus Van Sant. Com Elias McConnell, Alex Frost, Eric Deulen."
 imdb: "0363589"
 
-categories: [ "movies" ]
+categories: [ "blog" ]
 stars: "5/5"
 ---
 Coincidência ver esse filme agora, pois semana passada estava conversando com um amigo meu sobre [Boyhood](/boyhood) e se a produção de um filme deve/pode interferir na forma como o filme é visto e avaliado. Esta é uma coincidência porque Elefante é um caso mais extremo ainda, pois se assistimos sem saber nada de antemão descobrimos apenas nos créditos finais que seus personagens são estudantes reais, e isso reflete diretamente sobre como enxegamos este trabalho excepcional de Cinema.

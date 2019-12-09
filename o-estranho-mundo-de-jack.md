@@ -3,7 +3,7 @@ imdb: "0107688"
 
 date: "2014-03-02"
 review: [ "2015" ]
-categories: [ "movies" ]
+categories: [ "blog" ]
 title: "O Estranho Mundo de Jack"
 stars: "4/5"
 desc: "O Estranho Mundo de Jack. The Nightmare Before Christmas (USA, 1993). Dirigido por Henry Selick. Escrito por Tim Burton, Michael McDowell, Caroline Thompson. Com Danny Elfman, Chris Sarandon, Catherine O'Hara, William Hickey, Glenn Shadix, Paul Reubens, Ken Page, Edward Ivory, Susan McBride."

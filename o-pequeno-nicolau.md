@@ -3,7 +3,7 @@ imdb: "1264904"
 
 date: "2010-06-02"
 review: [ "2013", "2019" ]
-categories: [ "movies" ]
+categories: [ "blog" ]
 title: "O Pequeno Nicolau"
 stars: "3/5"
 desc: "O Pequeno Nicolau. Le petit Nicolas (France, 2009). Dirigido por Laurent Tirard. Escrito por Laurent Tirard, Grégoire Vigneron, Laurent Tirard, Grégoire Vigneron, Alain Chabat, René Goscinny, Jean-Jacques Sempé. Com Maxime Godart, Valérie Lemercier, Kad Merad, Sandrine Kiberlain, François-Xavier Demaison, Michel Duchaussoy, Daniel Prévost, Michel Galabru, Anémone."

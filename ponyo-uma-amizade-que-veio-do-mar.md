@@ -3,7 +3,7 @@ imdb: "0876563"
 
 date: "2010-06-30"
 review: [ "2013" ]
-categories: [ "movies" ]
+categories: [ "blog" ]
 title: "Ponyo Uma Amizade que Veio do Mar"
 stars: "4/5"
 desc: "Ponyo Uma Amizade que Veio do Mar. Gake no ue no Ponyo (Japan, 2008). Dirigido por Hayao Miyazaki. Escrito por Hayao Miyazaki. Com Tomoko Yamaguchi, Kazushige Nagashima, Yûki Amami, Jôji Tokoro, Yuria Nara, Hiroki Doi, Rumi Hiiragi, Akiko Yano, Kazuko Yoshiyuki."

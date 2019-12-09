@@ -4,7 +4,7 @@ title: "Samantha!"
 desc: "Série criada por Felipe Braga. Com Emanuelle Araújo, Cauã Gonçalves, Sabrina Nonata e um monte de artista que você pensou que já tinha morrido."
 imdb: "6626676"
 
-categories: [ "movies" ]
+categories: [ "blog" ]
 stars: "1/5"
 ---
 O plano-sequência inicial de "Samantha!", série da Netflix produzida no Brasil, irá revelar uma miríade de sentimentos e mensagens conflitantes sobre o que significavam os anos 80. Incluindo a figura de uma caixa de cigarros em um programa infantil protagonizado por uma garota mimada, uma criança erotizada na TV brasileira. Até agora, nada de novo. Só que piora.

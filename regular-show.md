@@ -2,7 +2,7 @@
 imdb: "1710308"
 
 date: "2015-07-28"
-categories: [ "movies" ]
+categories: [ "blog" ]
 title: "Regular Show"
 stars: "3/5"
 desc: "Regular Show. Regular Show (USA, 2009). Dirigido por John Infantino, Sean Szeles, J.G. Quintel, Mike Roth. Escrito por J.G. Quintel, Mike Roth, Matt Price, John Infantino, Sean Szeles, Michele Cavin, Benton Connor, Calvin Wong, Jack C. Thomas. Com J.G. Quintel, William Salyers, Sam Marin, Mark Hamill, Roger Craig Smith."
