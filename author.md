@@ -1,7 +1,7 @@
 ---
 title: WhoAmI
+date: 2019-11-19
 categories: [ "blog" ]
-date: 0000-00-00
 ---
 <img src="/img/author.png"/>
 
