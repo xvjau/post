@@ -1,7 +1,7 @@
 ---
 title: "Vinhos"
 categories: [ "food" ]
-date: 2019-12-04
+date: 2019-12-10
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
@@ -10,6 +10,10 @@ date: 2019-12-04
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
 
 <tr><td>
+</tr></td>
+
+<tr><td>
+2019-12-10 Familia Schoeder Merlot. Estava bêbado para comprar um Merlot na Argentina, mas tudo bem. Valeu a pena. Essa vinícola de Neuquen, na Patagônia, tem o costume de atrair brasileiros e cariocas para suas instalações. O tour fica mais animado com gente bêbada falando português #sqn, e no final você vê se as pessoas têm dinheiro ou não. Só comprei porque não tinha na degustação, esse e o Malbec premium deles, ambos 18 meses no carvalho. Esse tem um azedo que lá no fundo grita de complexidade. Não é nada parecido com um Merlot brasileiro ou americano. E não é nada que você não possa viver sem. Mas o rótulo é bonito...
 </tr></td>
 
 <tr><td>
