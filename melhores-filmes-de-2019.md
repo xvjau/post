@@ -7,35 +7,36 @@ draft: true
 ---
 Indicados:
 
- - homem-aranha-no-aranhaverso.md
- - a-favorita.md
- - border.md
- - o-anjo.md
- - fora-de-serie.md
- - toy-story-4.md
- - atentado-ao-hotel-taj-mahal.md
- - inocencia-roubada.md
- - o-rei-leao-2019.md
- - no-coracao-do-mundo.md
- - socrates.md
- - coringa.md
- - segredos-oficiais.md
- - cade-voce-bernadete.md
- - azougue-nazare.md
- - a-vida-invisivel.md
- - um-dia-de-chuva-em-nova-york.md
- - finalmente-livres.md
- - o-paraiso-deve-ser-aqui.md
- - uma-aventura-lego-2.md
- - guerra-fria.md
+ - [A Favorita](/a-favorita)
+ - [A Vida Invisível](/a-vida-invisivel)
+ - [Atentado ao Hotel Taj Mahal](/atentado-ao-hotel-taj-mahal)
+ - [Azougue Nazaré](/azougue-nazare)
+ - [Border](/border)
+ - [Cade Você, Bernadete?](/cade-voce-bernadete)
+ - [Coringa](/coringa)
+ - [Finalmente Livres](/finalmente-livres)
+ - [Fora de Série](/fora-de-serie)
+ - [Guerra Fria](/guerra-fria)
+ - [Homem-Aranha no Aranhaverso](/homem-aranha-no-aranhaverso)
+ - [Inocência Roubada](/inocencia-roubada)
+ - [No Coração do Mundo](/no-coracao-do-mundo)
+ - [O Anjo](/o-anjo)
+ - [O Irlandês](/o-irlandes)
+ - [O Paraíso Deve Ser Aqui](/o-paraiso-deve-ser-aqui)
+ - [O Rei Leão (2019)](/o-rei-leao-2019)
+ - [Rocketman](/rocketman)
+ - [Segredos Oficiais](/segredos-oficiais)
+ - [Sócrates](/socrates)
+ - [Toy Story 4](/toy-story-4)
+ - [Um Dia De Chuva Em Nova York](/um-dia-de-chuva-em-nova-york)
+ - [Uma Aventura Lego 2](/uma-aventura-lego-2)
 
 Preciso ver:
 
- - http://www.adorocinema.com/filmes/filme-146552/
- - http://www.adorocinema.com/filmes/filme-197810/
- - http://www.adorocinema.com/filmes/filme-211892/
- - http://www.adorocinema.com/filmes/filme-255999/
- - http://www.adorocinema.com/filmes/filme-257534/
- - http://www.adorocinema.com/filmes/filme-262272/
- - http://www.adorocinema.com/filmes/filme-263120/
- - http://www.adorocinema.com/filmes/filme-270186/
+ - [A Maldição da Chorona](http://www.adorocinema.com/filmes/filme-263120/)
+ - [A Mula](http://www.adorocinema.com/filmes/filme-262272/)
+ - [Nós](http://www.adorocinema.com/filmes/filme-255999/)
+ - [O Exterminador do Futuro: Destino Sombrio](http://www.adorocinema.com/filmes/filme-146552/)
+ - [Querido Menino](http://www.adorocinema.com/filmes/filme-211892/)
+ - [Rainha de Copas](http://www.adorocinema.com/filmes/filme-270186/)
+ - [Verão de 84](http://www.adorocinema.com/filmes/filme-257534/)

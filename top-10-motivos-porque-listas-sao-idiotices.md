@@ -19,6 +19,6 @@ Você já se perguntou qual o sentido de um top5? E um top10? Já notou quantos 
 
 ### #3 Cinema não é corrida
 
-OK, essa vai ser difícil justificar depois que a Marvel transformou a bilheteria dos filmes (sem descontar a inflação) em um motivo para os filmes ganharem algum mérito. E esse mérito seria... arrancar mais dinheiro dos seus fãs?
+OK, essa vai ser difícil justificar depois que a Marvel transformou a bilheteria dos filmes (sem descontar a inflação) em um motivo para os filmes ganharem algum mérito. E esse mérito seria... arrancar mais dinheiro dos seus fãs? Cinema não se mede por números, apenas tendências e sucesso de marketing se mede assim. Enquanto produção, números são OK. A partir do momento que é analisado como arte, números são uma ofensa pessoal.
 
 #### #4 A ver
