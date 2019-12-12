@@ -3,7 +3,7 @@ date: "2009-03-19"
 title: Provas de conceito... yes!
 categories: [ "blog" ]
 ---
-![Cientista Feliz](http://i.imgur.com/0Dte2PN.png)Uma [prova de conceito](http://en.wikipedia.org/wiki/Proof_of_concept) bem feita segue todos os passos em uma **forma micro** para entender e provar como as coisas irão funcionar no código de produção: a **forma macro**.
+![Cientista Feliz](/images/0Dte2PN.png)Uma [prova de conceito](http://en.wikipedia.org/wiki/Proof_of_concept) bem feita segue todos os passos em uma **forma micro** para entender e provar como as coisas irão funcionar no código de produção: a **forma macro**.
 
 .
 

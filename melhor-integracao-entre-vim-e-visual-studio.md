@@ -5,11 +5,11 @@ categories: [ "blog" ]
 ---
 Pelo menos é a mais rápida:
 
-[![VisualStudioWithVim1-3](http://i.imgur.com/aRIuhsP.png)](/images/VisualStudioWithVim1-3.png)
+[![VisualStudioWithVim1-3](/images/aRIuhsP.png)](/images/VisualStudioWithVim1-3.png)
 
-[![VisualStudioWithVim2-3](http://i.imgur.com/GrwuWwd.png)](/images/VisualStudioWithVim2-31.png)
+[![VisualStudioWithVim2-3](/images/GrwuWwd.png)](/images/VisualStudioWithVim2-31.png)
 
-[![VisualStudioWithVim3-3](http://i.imgur.com/8ebwJG7.png)](/images/VisualStudioWithVim3-3.png)
+[![VisualStudioWithVim3-3](/images/8ebwJG7.png)](/images/VisualStudioWithVim3-3.png)
 
 **Observações Finais:**
 

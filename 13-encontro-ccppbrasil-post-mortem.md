@@ -5,11 +5,11 @@ categories: [ "blog" ]
 ---
 Mais um encontro que deu certo. No interior de SP em um sábado meio friozinho meio calor houve o décimo-terceiro encontro de nossa comunidade C/C++ Brasil, em um espaço e coffee-break fornecidos pela empresa Diebold em Indaiatuba. Houve cinco palestras e o dia passou bem rápido. Parabéns a todos os envolvidos pelo sucesso do encontro.
 
-![](http://i.imgur.com/VorULlV.jpg)
+![](/images/VorULlV.jpg)
 
-![](http://i.imgur.com/CkP296j.jpg)
+![](/images/CkP296j.jpg)
 
-![](http://i.imgur.com/NxCKTnr.jpg)
+![](/images/NxCKTnr.jpg)
 
-![](http://i.imgur.com/dW7Zl45.jpg)
+![](/images/dW7Zl45.jpg)
 

@@ -22,7 +22,7 @@ Então vamos aos detalhes:
 |-----------|------------------|
 | Data      | 2015-03-28       |
 | Local     | Micro$oft Brasil |
-| Palestras | ![](http://i.imgur.com/1s692J2.jpg) |
+| Palestras | ![](/images/1s692J2.jpg) |
 
 Ops, deu um errinho acima. Acho que é porque ainda não temos as palestras.
 

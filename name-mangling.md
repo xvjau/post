@@ -7,14 +7,14 @@ A [sobrecarga estática](http://www.caloni.com.br/polimorfismo-estatico) possui 
 
 Em dois projetos usando Visual C++ 2008 e Borland C++ Builder 5 (última versão que funciona direito) eu fiz uma exportação da função soma em linguagem C (o fonte é um .c). Veja o resultado:
 
-![name-mangling-borland-c.png](http://i.imgur.com/AbTPx4W.png)
+![name-mangling-borland-c.png](/images/AbTPx4W.png)
 
-![name-mangling-vcpp-c.png](http://i.imgur.com/mFZYUTr.png)
+![name-mangling-vcpp-c.png](/images/mFZYUTr.png)
 
 Já usando a linguagem C++ (o fonte é um .cpp) temos outro resultado totalmente diferente para nossas duas funções soma descritas [no artigo anterior](http://www.caloni.com.br/polimorfismo-estatico):
 
-![name-mangling-borland-cpp.png](http://i.imgur.com/eJmq1VZ.png)
+![name-mangling-borland-cpp.png](/images/eJmq1VZ.png)
 
-![name-mangling-vcpp-cpp.png](http://i.imgur.com/CRimP7B.png)
+![name-mangling-vcpp-cpp.png](/images/CRimP7B.png)
 
 Se quiser tentar entender essas letrinhas bizarras, recomendo baixar [projetos de exemplo](/images/name-mangling.7z). Se apenas entender que você não conseguirá juntar classes VC++ e Builder usando **[dllexport](http://msdn.microsoft.com/en-us/library/a90k134d(VS.80).aspx)** para tudo quanto é lado, então terminamos por aqui.

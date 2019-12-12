@@ -5,7 +5,7 @@ categories: [ "code" ]
 ---
 No princípio... não, não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados Srs. dos Laboratórios Bell, K. Thompson e D. Ritchie, criaram uma linguagem chamada B. E B era bom.
 
-![](http://i.imgur.com/PMj2AF4.jpg)
+![](/images/PMj2AF4.jpg)
 
 *Ken Thompson (esquerda) e Dennis Ritchie (direita). Fonte: wikipedia.org.*
 

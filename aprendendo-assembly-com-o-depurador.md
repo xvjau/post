@@ -118,7 +118,7 @@ Como vemos, ao empilhar coisas na pilha, o valor do registrador sp diminui. E ao
     0:000> g
     ModLoad: 75f50000 7604d000   C:\WINDOWS\system32\BROWSEUI.dll
 
-[![WinDbg x Notepad](http://i.imgur.com/hyDEQtn.png)](/images/windbgxnotepad.png)
+[![WinDbg x Notepad](/images/hyDEQtn.png)](/images/windbgxnotepad.png)
 
 Aposto que você sabe em qual dos três botões eu cliquei =)
 

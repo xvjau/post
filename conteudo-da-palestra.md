@@ -3,7 +3,7 @@ date: "2012-03-11"
 title: Conteúdo da Palestra
 categories: [ "blog" ]
 ---
-[![](http://i.imgur.com/3Dfi9Jr.png)](/images/tagcloud.png)
+[![](/images/3Dfi9Jr.png)](/images/tagcloud.png)
 
 Uma nuvem mágica...
 

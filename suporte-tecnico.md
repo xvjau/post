@@ -54,7 +54,7 @@ Partindo disso, imaginei que o que ocorria era que havia algo faltando no regist
 	
   * Importei ambos os registros no esquema "apaga tudo cria tudo de novo".
 
-![Exportando e importando registro](http://i.imgur.com/l7Rc7kY.png)
+![Exportando e importando registro](/images/l7Rc7kY.png)
 
 Problema reproduzido.
 
@@ -82,7 +82,7 @@ Foi esse o procedimento seguido:
 	
   6. Se não deu erro, testar os passos 3 e 4 com a outra metade.
 
-![Snapshots da VMWare](http://i.imgur.com/hhxZgqZ.png)
+![Snapshots da VMWare](/images/hhxZgqZ.png)
 
 Essa série de passos foi reproduzida em menos de uma hora até chegarmos a apenas uma linha no registro:
 

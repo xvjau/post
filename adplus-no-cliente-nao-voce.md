@@ -12,7 +12,7 @@ Ele pode ser usado na situação mais comum: o programa trava/quebra em um clien
 
 Esse notepad, viu! Sempre ele!
 
-![notepad-adplux-together.png](http://i.imgur.com/5tmP63l.png)
+![notepad-adplux-together.png](/images/5tmP63l.png)
 
 Bom, vamos fazer alguma brincadeira de desmontar para ver seu funcionamento. Com o notepad recém-aberto por esse comando, vamos abrir outro depurador em modo de visualização e alterar alguma chamada-chave para quebrar propositadamente:
 
@@ -25,11 +25,11 @@ Bom, vamos fazer alguma brincadeira de desmontar para ver seu funcionamento. Com
 
 Após isso só precisamos abrir um arquivo qualquer que não existe:
 
-![notepad-opening-file-crash.png](http://i.imgur.com/2Vro4W5.png)
+![notepad-opening-file-crash.png](/images/2Vro4W5.png)
 
 Depois desse lapso de memória o AdPlus irá gerar dois _"dumpões_" e um "_dumpinho_" para você:
 
-![notepad-crash-adplus-dumping.png](http://i.imgur.com/IrC0jFJ.png)
+![notepad-crash-adplus-dumping.png](/images/IrC0jFJ.png)
 
 O dumpinho é a exceção de _first chance_, que ele iria gerar de qualquer forma se houvesse uma exceção capturada pelo programa. É apenas um _minidump_.
 

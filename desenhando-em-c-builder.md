@@ -40,7 +40,7 @@ void __fastcall TForm1::FormMouseDown(TObject *Sender, TMouseButton Button,
 
 Saber quando o _mouse_ está sendo arrastado também é um passo trivial, uma vez que temos esse evento (OnMove) para tratar no controle da janela.
 
-[![Builder OnMouseMove](http://i.imgur.com/biH37HA.png)](/images/builder-onmousemove.png)
+[![Builder OnMouseMove](/images/biH37HA.png)](/images/builder-onmousemove.png)
 
 Para desenhar, todo formulário e mais alguns controles gráficos possuem um objeto chamado **Canvas**, do tipo TCanvas (duh). Essa classe representa uma superfície de desenho que você pode acessar a partir de seus métodos. Isso é a abstração do conhecido _[device context](http://www.google.com/search?q=device+context+site%3Amsdn.microsoft.com)_ da GDI, tornando a programação mais fácil. O desenho de uma linha, por exemplo, é feito literalmente em uma linha de código.
 
@@ -86,4 +86,4 @@ private:
 
 ```
 
-[![Amo o Builder](http://i.imgur.com/HGbLN0n.gif)](/images/amobuilder.gif)
+[![Amo o Builder](/images/HGbLN0n.gif)](/images/amobuilder.gif)

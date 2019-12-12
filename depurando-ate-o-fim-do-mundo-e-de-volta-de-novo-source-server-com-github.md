@@ -20,7 +20,7 @@ Pensando nisso, resolvi fazer uma primeira versão, em Python, de um script em q
 
 O funcionamento é muito simples, mas pede muitos parâmetros (recomendo criar um batch para armazená-los). Então vejamos:
 
-![](http://i.imgur.com/6m3En11.png)
+![](/images/6m3En11.png)
 
  - dbgtools (caminho onde está o Debugging Tools for Windows)
  - pdbpath (caminho de onde devem ser pegos os PDBs, como um output da vida)

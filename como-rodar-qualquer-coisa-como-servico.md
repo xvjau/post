@@ -36,4 +36,4 @@ Porém porém, o SCM não mata os processos filhos do processo-serviço. Bug? _F
 
 Agora, quando iniciarmos o serviço Msvcmon, o processo cmd.exe será criado, que por sua vez irá rodar o msvcmon.exe que queríamos, e ficará esperando inocentemente pela sua "funesta morte" pelo SCM.
 
-[![MsvcMon Service](http://i.imgur.com/y7WmPEK.png)](/images/msvcmon-service.png)
+[![MsvcMon Service](/images/y7WmPEK.png)](/images/msvcmon-service.png)
