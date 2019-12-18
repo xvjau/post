@@ -36,6 +36,19 @@ Os servidores bridge são simples, eles apenas redirecionam os pacote do mpclien
 
 Para a solução ser rodável em Linux, Windows e Mac OS os fontes compilam em um ambiente POSIX mínimo, já disponível nos três SOs, sendo que para Windows este ambiente é o Cygwin.
 
+# Linux
+## Ubuntu
+
+O resumo para compilar em Linux é instalar o gcc, o make, o git, as dependências, baixar o projeto e compilar. Esses passos devem funcionar em qualquer Linux, mas foi testado em Ubuntu.
+
+```
+caloni@ubuntu:~$ sudo apt install gcc
+caloni@ubuntu:~$ sudo apt install make
+caloni@ubuntu:~$ sudo apt install git
+caloni@ubuntu:~$ sudo apt install libev-dev
+caloni@ubuntu:~$ git clone https://github.com/bitforgebr/mptunnel && cd mptunnel
+```
+
 # Windows
 
 O primeiro passo é [baixar e instalar o cygwin](https://www.cygwin.com/) com os seguintes pacotes adicionais ao padrão: 
