@@ -13,6 +13,10 @@ date: 2019-12-07
 </tr></td>
 
 <tr><td>
+2019-12-21 Fazia um bom tempo desse o último café Sumatra, da Starbucks. Me decepciono com as cafeterias brasileiras da franquia sempre venderem pacotes velhos e próximos da validade (esse vence logo depois do Natal), mas o sabor picante e o amargor robusto desse café de corpo médio pra forte compensa a idade avançada dos grãos. Moído na hora (fino), 15g para 250ml, passado em Aeropress convencional a 85 graus com pausa para mexer após 30s de infusão.
+</tr></td>
+
+<tr><td>
 2019-12-07 Pike Place com 30s agora de espera para mexer de novo, com 16g ele funciona muito bem. Talvez seja uma boa experimentar essa técnica com os cafés mais baratos, mas pelo rendimento, posso também passar a experimentar outros cafezes da Starbucks.
 </tr></td>
 

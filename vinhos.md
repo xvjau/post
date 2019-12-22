@@ -13,6 +13,22 @@ date: 2019-12-10
 </tr></td>
 
 <tr><td>
+2019-12-21 Este Malbec da Finca Terranostra (meio comunista esse nome) é Malbec de mesa, Malbec jovem, Malbec honesto, Malbec barato. O bom dessa uva argentina é que sua elegância frutada nunca decepciona. Esse com sabor menos fresco, puxando pra compota.
+</tr></td>
+
+<tr><td>
+2019-12-21 Mais uma degustação da Malma blend 2015 na casa do meu amigo, no dia do meu aniversário. Verifiquei que seu corpo ainda está bem forte, com estrutura pra aguentar mais alguns anos na adega. Que bom. A ideia é provar novamente outra garrafa no meu próximo niver, e ver se o Malbec se mistura aos outros elementos da barrica e conversam numa boa.
+</tr></td>
+
+<tr><td>
+2019-12-21 Geraldo di Cale blend é vinho honesto da região de Jundiaí. Vinho de mesa, só pra beber acompanhado de uma boa conversa e apenas isso. Um pouco azedo e empapado depois de uns cinco goles, já possui um aviso embutido em sua estrutura simples que diz a hora de parar.
+</tr></td>
+
+<tr><td>
+2019-12-21 Ziobaffa, da região da Toscana, na Itália. A safra de 2014 dessa uva da variedade Primitiva, colhida à mão como de costume, chegou na minha taça pelas mãos do meu amigo Incrível. Levamos essa garrafa para degustar em uma pizzaria em Jundiaí. O corpo dessa garrafa em reserva é forte, abraça a boca junto de um sabor doce, pouco amargo e fácil de beber acompanhado com massa italiana e mussarela de búfala.
+</tr></td>
+
+<tr><td>
 2019-12-10 Familia Schoeder Merlot. Estava bêbado para comprar um Merlot na Argentina, mas tudo bem. Valeu a pena. Essa vinícola de Neuquen, na Patagônia, tem o costume de atrair brasileiros e cariocas para suas instalações. O tour fica mais animado com gente bêbada falando português #sqn, e no final você vê se as pessoas têm dinheiro ou não. Só comprei porque não tinha na degustação, esse e o Malbec premium deles, ambos 18 meses no carvalho. Esse tem um azedo que lá no fundo grita de complexidade. Não é nada parecido com um Merlot brasileiro ou americano. E não é nada que você não possa viver sem. Mas o rótulo é bonito...
 </tr></td>
 

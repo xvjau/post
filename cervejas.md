@@ -13,6 +13,14 @@ date: 2019-12-02
 </tr></td>
 
 <tr><td>
+2019-12-21 Touro Sentado tem um lúpulo tão aromático que é capaz que você fique cheirando essa cerveja IPA mais tempo que o normal. Seu amargor é equilibrado e pode ser sentido durante toda a degustação. Sabores cítricos fazem parte da sensação.
+</tr></td>
+
+<tr><td>
+2019-12-21 Cacildis! Esse puro malte chegou no mercadinho aqui de casa. E não é que é bonzinhus esse mé? Corpo levis, cheiro frescs, sabor suavis. Pro verão, se você não encontrar leite de mula manca no bar de sua região.
+</tr></td>
+
+<tr><td>
 2019-12-02 Toda cidade hoje em dia tem pelo menos uma cervejaria, não? Em Monte Verde há a Fritz, que não frequentei, e essa homônima, que achei no mercadinho, uma IPA pouco encorpada e não muito amarga, mas bem equilibrada.
 </tr></td>
 
