@@ -37,7 +37,7 @@ Se você já é um programador esperto já deve ter percebido que na saída do p
 
 Note que falei chamada porque se a stack não retornou da função ela não terminou ainda seu trabalho. Não houve o "return". Outra forma de entender isso é que ela é chamada aos poucos. Enfim, deixo para você a discussão semântica. O fato é que a saída é "Hello, world":
 
-![](https://i.imgur.com/bPO1fFa.png)
+![](/images/bPO1fFa.png)
 
 Vamos depurar.
 
@@ -47,7 +47,7 @@ https://www.youtube.com/embed/xoAxig6vdTM
 
 Oh, não. O depurador do Visual Studio está fazendo caquinha, pois rodando passo-a-passo voltei para a mesma função cooperative sem passar pelo main. No entanto, a vírgula ", " foi impressa.
 
-![](https://i.imgur.com/S1Ywlhl.png)
+![](/images/S1Ywlhl.png)
 
 Para conseguirmos depurar diferentes rotinas dentro da mesma thread é imperativo entendermos como o mecanismo de troca de contexto funciona por baixo dos panos. Para isso nada como depurar as próprias trocas de contexto.
 
@@ -83,7 +83,7 @@ O tamanho total da stack reservada no Windows é de 1 MB, mas a granuralidade pa
 
 > The default size for the reserved and initially committed stack memory is specified in the executable file header. Thread or fiber creation fails if there is not enough memory to reserve or commit the number of bytes requested. The default stack reservation size used by the linker is 1 MB. To specify a different default stack reservation size for all threads and fibers, use the STACKSIZE statement in the module definition (.def) file. The operating system rounds up the specified size to the nearest multiple of the system's allocation granularity (typically 64 KB). To retrieve the allocation granularity of the current system, use the GetSystemInfo function.
 
-![](https://i.imgur.com/0dMVf0k.png)
+![](/images/0dMVf0k.png)
 
 _Detalhe curioso de arquitetura x86 (32 bits): na hora de alocar, o sp (stack pointer) aponta para o final da pilha. Isso porque no x86 a **pilha cresce "para baixo"**._
 
@@ -177,11 +177,11 @@ inline void push()
 
 Com os dados disponíveis nos objetos de contexto (no exemplo do main, a variável source) é possível pelo Windbg analisar qualquer tipo de stack com o comando **k**.
 
-![](https://i.imgur.com/mDcM4jk.png)
+![](/images/mDcM4jk.png)
 
 A variável de uma coroutine contém o contexto do chamador e do chamado. Quando houver a necessidade de explorar uma pilha não-ativa é preciso obter o valor de **sp** através dessa variável. Ela fica um pouco escondida, mas está lá. Acredite.
 
-![](https://i.imgur.com/uQ7WYl8.png)
+![](/images/uQ7WYl8.png)
 
 Usando o comando `k = BasePtr StackPtr InstructionPtr` passando o conteúdo de sp como o stack pointer o Windbg deve mostrar a pilha de todas as formas possíveis (especificar se terá FPO, mostrar código-fonte, argumentos, etc). Para a demonstração live fica bom ter um loop "eterno" para poder repetir a análise quantas vezes forem necessárias:
 
@@ -213,7 +213,7 @@ int main()
 }
 ```
 
-![](https://i.imgur.com/bBIzRrm.png)
+![](/images/bBIzRrm.png)
 
 ```
 0:000> ~kvn

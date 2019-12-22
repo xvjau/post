@@ -3,7 +3,7 @@ date: "2008-11-15"
 title: HouaissParaBabylon versão beta
 categories: [ "blog" ]
 ---
-[![Tela principal do conversor Houaiss para Babylon](/images/vaSJkF8.thumbnail.png)](http://i.imgur.com/p6ES79y.png)Depois de muitos fins-de-semana divididos em horas picadinhas de programação de lazer, está disponível em vosso saite a primeira versão para usuários do **conversor do dicionário Houaiss para o aplicativo Babylon**.
+[![Tela principal do conversor Houaiss para Babylon](/images/vaSJkF8.thumbnail.png)](/images/p6ES79y.png)Depois de muitos fins-de-semana divididos em horas picadinhas de programação de lazer, está disponível em vosso saite a primeira versão para usuários do **conversor do dicionário Houaiss para o aplicativo Babylon**.
 
 Foi uma longa jornada, sim, mas espero que valha a pena para quem esperou. Também espero poder receber inúmeras respostas com dúvidas, sugestões e até mesmo mais problemas que vierem a acontecer.
 
@@ -33,7 +33,7 @@ Tudo isso verificado, basta então clicar no botão de Iniciar Conversão, senta
 
 Na segunda fase, após toda essa movimentação de HD, existe apenas uma coisa a fazer: **instalar o dicionário no Babylon**.
 
-[![Instalando dicionário Houaiss Babylon](/images/71tsvab.thumbnail.png)](http://i.imgur.com/Fsw5rUt.png) Quem faz isso é o próprio Babylon, se devidamente instalado. Se tudo deu certo, o HouaissParaBabylon sai de fininho e deixa o usuário com o progresso da instalação do dicionário Houaiss-Babylon.
+[![Instalando dicionário Houaiss Babylon](/images/71tsvab.thumbnail.png)](/images/Fsw5rUt.png) Quem faz isso é o próprio Babylon, se devidamente instalado. Se tudo deu certo, o HouaissParaBabylon sai de fininho e deixa o usuário com o progresso da instalação do dicionário Houaiss-Babylon.
 
 #### Problemas?
 

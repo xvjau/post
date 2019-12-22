@@ -6,7 +6,7 @@ desc: "Baseado no texto de Leandro C. Bellato em vídeo de Alysson Augusto sobre
 ---
 O que será que faz pessoas durante suas vidas ficarem mais ricas ou pobres de onde começaram? Nascer rico com certeza ajuda, mas e se não for apenas isso? Há habilidades inatas de cada indivíduo, carregadas pelos genes de seus pais, que poderiam influenciar nesse processo? E se sim, qual a relevância de quem são seus pais? Um estudo genético quis investigar as possíveis respostas.
 
-![](https://i.imgur.com/K86WNXG.png)
+![](/images/K86WNXG.png)
 
 O [vídeo](https://youtu.be/4x5Ttz1u-Zs) do filósofo Alysson Augusto, baseado no texto de Leandro C. Bellato, tenta explorar os resultados de uma [pesquisa recente](https://drive.google.com/file/d/1-bHLzdUcZgOYxJ5cqk_CJsGxpJSD30Af/view?usp=sharing) realizada e suas três hipóteses levantadas:
 

@@ -40,7 +40,7 @@ Voltando para o tema portabilidade, Rodrigo Strauss volta a repetir sua performa
 
 Por exemplo, a manipulação de arquivos e diretórios não é lá o forte da STL, concentrada no conceito de streams. Com o uso do Boost, podemos ter o melhor da STL, só que turbinada. Além disso, o novo padrão de _threads _ainda está longe de chegar ao mercado, e o Boost.Threads é uma solução viável atualmente.
 
-![kumpera.jpg](/images/zZ8iled.jpg)![tupi.jpg](http://i.imgur.com/xcyNlkM.jpg)
+![kumpera.jpg](/images/zZ8iled.jpg)![tupi.jpg](/images/xcyNlkM.jpg)
 
 **Técnicas de Otimização de Código**
 Rodrigo Kumpera & André Tupinambá

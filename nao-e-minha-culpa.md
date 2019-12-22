@@ -7,7 +7,7 @@ Recebi a dica de meu [amigo kernel-mode](http://www.driverentry.com.br) sobre o 
 
 Como os problemas gerados pela ferramenta são todos de kernel, resolvi escrever meu próprio conjunto de bugs para o pessoal da userland. E como nada na vida se cria, tudo se copia, tenho o orgulho de apresentar a vocês o **NotMyFaultEither**!
 
-![notmyfaulteither.png](/images/9k3goIZ.png) ![notmyfaulteither-crash.png](http://i.imgur.com/Y1GUCUN.png)
+![notmyfaulteither.png](/images/9k3goIZ.png) ![notmyfaulteither-crash.png](/images/Y1GUCUN.png)
 
 Seu uso é bem simples. Escolha o problema, aperte a teclar "Fazer Bug" e pronto!
 
@@ -15,7 +15,7 @@ O resultado pode variar dependendo do sistema operacional e da arquitetura (há 
 
 Após a análise do SO ele exibe uma tela onde é possível achar onde está o despejo de memória que podemos usar.
 
-![notmyfaulteither-crash-dump-automatic.png](/images/g2E7tcD.png)   ![notmyfaulteither-crash-dump-task-manager.png](http://i.imgur.com/nTwkVVx.png)
+![notmyfaulteither-crash-dump-automatic.png](/images/g2E7tcD.png)   ![notmyfaulteither-crash-dump-task-manager.png](/images/nTwkVVx.png)
 
 Esse é um minidump (mdmp), que possui a pilha da thread faltosa e informações de ambiente. Podemos gerar um dump completo através do Gerenciador de Tarefas.
 
