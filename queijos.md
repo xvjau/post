@@ -1,7 +1,8 @@
 ---
-title: "Queijos"
+title: "Degustação de Queijos"
 categories: [ "food" ]
-date: 2019-09-29
+date: 2019-07-19
+desc: "Histórico de degustação de queijos."
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>

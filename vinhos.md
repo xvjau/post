@@ -1,7 +1,8 @@
 ---
-title: "Vinhos"
+title: "Degustação de Vinhos"
 categories: [ "food" ]
-date: 2019-12-21
+date: 2019-07-19
+desc: "Histórico de degustação de vinhos."
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>

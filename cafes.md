@@ -1,7 +1,8 @@
 ---
-title: "Cafés"
+title: "Degustação de Cafés"
 categories: [ "food" ]
-date: 2019-12-21
+date: 2019-07-19
+desc: "Histórico de degustação de cafés."
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
@@ -10,6 +11,10 @@ date: 2019-12-21
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
 
 <tr><td>
+</tr></td>
+
+<tr><td>
+2019-12-22 Hoje coloquei 18g e 40s de espera e ficou com um amargor mais intenso.
 </tr></td>
 
 <tr><td>

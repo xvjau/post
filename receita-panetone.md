@@ -1,6 +1,6 @@
 ---
 date: "2019-12-11"
-title: "Panetone"
+title: "Receita: Panetone"
 desc: "Receita de panetone artesanal que arrisquei esse fim de ano."
 categories: [ "blog" ]
 ---
@@ -10,13 +10,11 @@ categories: [ "blog" ]
 
 Usando [uma receita de YouTube](https://youtu.be/bLA2hUJvX6s), na tentativa alfa a massa não cresceu como deveria e na tentativa beta ficou um pouco mais macia e molhada porque coloquei um pouco de água no preparo do glúten. A elasticidade que a farinha ganhou com isso tornou um prazer sovar. É preciso paciência para ver todo o grude finalmente virar algo que sairá da mão, mas o aspecto lúdico da brincadeira ganha nessa.
 
-Na alfa usei água de frutas cristalizadas com essência de baunilha com resultado fraco, e na beta já usei a essência de panetone que produzi com resultados aromáticos agradáveis.
+ - 2019-12-12 Na alfa usei água de frutas cristalizadas com essência de baunilha com resultado fraco.
+ - 2019-12-16 Na beta já usei a essência de panetone que produzi com resultados aromáticos agradáveis. Mesmo colocando muito fermento seco a massa ainda demorou a crescer, e acredito que na próxima devo já ensacar a massa na forma e aguardar apenas pelo primeiro crescimento. Na hora de assar, muito cuidado para não queimar, e principalmente secar, pois irá perder todo o sabor molhado produzido pela essência e pela massa.
+ - 2019-12-22 Assado um panetone no mesmo dia quente, pois cresceu bem, e os outros quatro no dia seguinte, mas ao cortar eles afundaram. Não devo cortar de ponta a ponta, apenas uma pequena cruz no meio (ou nem isso).
 
-Mesmo colocando muito fermento seco a massa ainda demorou a crescer, e acredito que na próxima devo já ensacar a massa na forma e aguardar apenas pelo primeiro crescimento.
-
-Na hora de assar, muito cuidado para não queimar, e principalmente secar, pois irá perder todo o sabor molhado produzido pela essência e pela massa.
-
-## Essência
+## Essência de Panetone
 
 **Ingredientes**: Raspas de um limão, Suco de um limão, Raspas de duas laranjas, Suco de uma laranja, Noz-moscada a gosto, Meia xícara de água, Meia xícara de açúcar, Uma xícara de rum, dois paus de canela.
 
