@@ -1,15 +1,13 @@
 ---
-date: 2018-12-07T21:12:06-02:00
+date: "2018-12-07"
 title: "Harry Potter e a Pedra Filosofal"
-desc: "Harry Potter and the Sorcerer's Stone. Reino Unido, EUA, 2001. Escrito por Steve Kloves baseado no romance infanto-juvenil de J.K. Rowling. Com Daniel Radcliffe, Rupert Grint, Richard Harris. Nostalgia, efeitos antigos."
+desc: "Harry Potter and the Sorcerer's Stone. Reino Unido, EUA, 2001. Escrito por Steve Kloves baseado no romance infanto-juvenil de J.K. Rowling. Com Daniel Radcliffe, Rupert Grint, Richard Harris. Nostalgia, efeitos antigos. Atualizado em 2019-12-27."
 imdb: "0241527"
-
 categories: [ "movies" ]
 stars: "3/5"
+review: [ "2019" ]
 ---
-Assistir novamente a Harry Potter e A Pedra Filosofal depois dos atores crescidos e a computação dominar o cenário de efeitos visuais cria uma nostalgia quentinha no coração.
-
-Por ser um filme de origem, muitos detalhes da história tiveram que ser contados de forma burocrática, mas a imaginação de J. K. Rowling transforma o exagero do mundo mágico dos bruxos, coexistindo debaixo das barbas dos não bruxos (trouxas, esse é o nome), em uma diversão à parte. Quando uma chuva de cartas inunda a residência dos tios do pequeno órfão Harry Potter nós sabemos que as regras da magia podem dominar nossa percepção daquela realidade.
+Assistir novamente a "Harry Potter e A Pedra Filosofal" depois dos atores crescidos e a computação dominar o cenário de efeitos visuais cria uma nostalgia quentinha no coração. Por ser um filme de origem, muitos detalhes da história tiveram que ser contados de forma burocrática, mas a imaginação de J. K. Rowling transforma o exagero do mundo mágico dos bruxos, coexistindo debaixo das barbas dos não bruxos (trouxas, esse é o nome), em uma diversão à parte. Quando uma chuva de cartas inunda a residência dos tios do pequeno órfão Harry Potter nós sabemos que as regras da magia podem dominar nossa percepção daquela realidade.
 
 Além disso, detalhes desse mundo peculiar dos bruxos também preenche nossa imaginação, como os banqueiros que guardam moedas de ouro em cofres acessíveis por um sistema de minas, ou a maneira poderosa como objetos como um chapéu escolhe a escola dos recém chegados alunos, ou como é a varinha mágica que escolhe o seu dono e não o contrário, como imaginaríamos.
 

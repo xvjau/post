@@ -10,5 +10,6 @@ A partir de um [vídeo do canal Pão da Casa](https://youtu.be/_UIjznz7Xzg) come
 
 **Preparo**: Misture e deixe fermentar entre 12 e 16h (depende da temperatura ambiente), pré aquecer o forno a 250° com uma panela de ferro dentro, coloque o pão na panela e deixe no forno por 25 minutos a 250°, tire a tampa da panela e deixe mais 25 minutos, é só deixar o pão esfriar e partir pro abraço.
 
- - 2019-12-24 Terceira vez que faço esse pão, mas dessa vez com o fermento natural que levei para a casa da sogra e a Farinha Dia, a primeira vez que uso uma farinha comum de mercado. O resultado da minha fermentação foi o azedo, mesmo. Para pães menos azedo precisa de uma fermentação mais curta. Ele não cresceu tanto, também.
+ - 2019-12-24 Meu próximo teste de pão mais fácil do mundo foi sem balança, com um fermento alimentado três horas antes, com farinha da marca Dia e com a umidade do ar alta e temperatura baixando em Osasco. Deixei 16 horas descansando e estava bem molhado, apesar de ter crescido. Usei bastante farinha para conseguir manipular a massa para dobrar e virar a massa para novo descanso, e penso que boa parte do ar se foi. Veremos se a farinha extra deu uma potência extra ao crescimento daqui a algumas horas antes de ir para o forno.
+ - 2019-12-18 Segunda vez que faço esse pão, mas dessa vez com o fermento natural. O resultado ficou igualmente ou pouco mais azedo, mas com um crescimento interessante.
 

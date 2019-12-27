@@ -14,6 +14,16 @@ desc: "Histórico de degustação de vinhos."
 </tr></td>
 
 <tr><td>
+2019-12-25
+Pegamos este Rosé da Vinícola de Neuquen, na Patagônia argentina, e foi o único frisante da história de frisantes não-cereser que acabou em família. Doce frutado, corpo e bolhas que te abraçam.
+</tr></td>
+
+<tr><td>
+2019-12-25
+Pata Negra Tempranillo é o vinho espanhol de melhor custo/benefício. É fácil de beber com seu corpo leve, aromático e sabores frutados. Bom para servir para a família em festa de fim de ano.
+</tr></td>
+
+<tr><td>
 2019-12-21 Este Malbec da Finca Terranostra (meio comunista esse nome) é Malbec de mesa, Malbec jovem, Malbec honesto, Malbec barato. O bom dessa uva argentina é que sua elegância frutada nunca decepciona. Esse com sabor menos fresco, puxando pra compota.
 </tr></td>
 
