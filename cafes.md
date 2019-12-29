@@ -14,6 +14,11 @@ desc: "Histórico de degustação de cafés."
 </tr></td>
 
 <tr><td>
+2019-12-29
+Tentando aumentar o tempo de espera entre 40 e 50s com 15 a 18g de pó, mas o resultado é que o amargor fica mais forte.
+</tr></td>
+
+<tr><td>
 2019-12-22 Hoje coloquei 18g e 40s de espera e ficou com um amargor mais intenso.
 </tr></td>
 
