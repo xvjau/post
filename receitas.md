@@ -1,16 +1,13 @@
 ---
 title: "Receitas"
 categories: [ "food" ]
-date: 2019-12-11
+date: 2019-07-19
 ---
 <script src="/js/jquery.min.js"></script>
 <script src="/js/list.js"></script>
 
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
-
-<tr><td>
-</tr></td>
 
 <tr><td><a href="/receita-batata-no-forno">Batata no Forno</a>: batatas (tipo asterix de preferência), azeite pimenta (páprica picante de preferência), salsa/alecrim/sal a gosto.</tr></td>
 <tr><td><a href="/receita-bolo-de-cenoura-com-chocolate">Bolo de Cenoura com Chocolate</a>: cenouras, óleo, açúcar, ovos, farinha de trigo, fermento em pó, chocolate em pó, leite, manteiga.</tr></td>
@@ -28,7 +25,10 @@ date: 2019-12-11
 <tr><td><a href="/receita-pao-de-alho">Pão de Alho</a>: margarina, parmesão, requeijão, alho, orégano, manjericão, pimenta do reino, pão francês.</tr></td>
 <tr><td><a href="/receita-pao-de-forma-da-dona-neusa">Pão de Forma da Dona Neusa</a>: banha, ovo, margarina, açúcar, leite, fermento, farinha de trigo.</tr></td>
 <tr><td><a href="/receita-pao-de-queijo">Pão de Queijo Mineiro</a>: polvilho (doce e/ou azedo), leite, óleo, queijo, ovos, sal.</tr></td>
+<tr><td><a href="/receita-pao-frances">Pão Francês</a>: farinha, fermento seco e natural.</tr></td>
+<tr><td><a href="/receita-pao-mais-facil">Pão Francês</a>: farinha, fermento seco ou natural.</tr></td>
 <tr><td><a href="/receita-pasteis-de-nata">Pastéis de Nata</a>: leite integral, açúcar, farinha, ovos, canela, limão, massa folheada.</tr></td>
 <tr><td><a href="/receita-pipoca-caramelizada">Pipoca Caramelizada</a>: milho de pipoca, óleo, açúcar mascavo, cacau (opcional).</tr></td>
+<tr><td><a href="/receita-suspiro">Suspiro</a>: claras e açúcar.</tr></td>
 
 </table>

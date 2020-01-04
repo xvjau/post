@@ -14,8 +14,33 @@ desc: "Histórico de degustação de vinhos."
 </tr></td>
 
 <tr><td>
+2020-01-04
+Domaine Les Barthes Comté Tolosan 2018: mais uma vez esse Malbec francês. Ele é bom por ser totalmente diferente do argentino, mas dessa vez acho que faltou um pouco de personalidade.
+</tr></td>
+
+<tr><td>
+2020-01-04
+Susana Balbo não decepciona, e este Crios jovem da bodega Dominio del Plata, de Mendoza (Argentina) é um blend que traz o frutado do Bonarda com a permanência do Syrah.
+</tr></td>
+
+<tr><td>
+2020-01-04
+Nota mental para não tomar Riesling chileno (a uva é tipicamente alemã), como este Olas Del Sur 2018. Corpo médio para forte se pensarmos que é um vinho branco, mas falta "aquela impressão do mar", como meu amigo colocou.
+</tr></td>
+
+<tr><td>
+2020-01-04
+Collezione Cinquanta San Marzano 2012 são 50 safras em uma garrafa italiana. Qual o propósito? Não sei. Mas o sabor deste vinho é agradabilíssimo, mesmo que falte complexidade.
+</tr></td>
+
+<tr><td>
+2019-12-30
+Carvalho Vino é vinho argentino de Mendonza com duas uvas típicas da região. O Malbec dispensa apresentações e dá o tom frutado. O Bonarda traz elegância ao conjunto, diminuindo os taninos. Esta safra de 2015 já diminuiu sua adstringência ao ponto de um corpo leve pra médio que acompanha massas com molho branco. Vai particularmente bem com Carbonara.
+</tr></td>
+
+<tr><td>
 2019-12-25
-Pegamos este Rosé da Vinícola de Neuquen, na Patagônia argentina, e foi o único frisante da história de frisantes não-cereser que acabou em família. Doce frutado, corpo e bolhas que te abraçam.
+Pegamos este Deseado Rosé da Vinícola de Neuquen, na Patagônia argentina, e foi o único frisante da história de frisantes não-cereser que acabou em família. Doce frutado, corpo e bolhas que te abraçam.
 </tr></td>
 
 <tr><td>

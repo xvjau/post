@@ -14,6 +14,11 @@ desc: "Histórico de degustação de cervejas."
 </tr></td>
 
 <tr><td>
+2019-12-30
+Esse Tropicana é o sazonal da Colorado, estilo Lagger, mas lembra mais Pilsen. Decepcionante, embora frutada, cítrica. Não que me importe muito. Refresca, se isso lhe importa, mas não muito.
+</tr></td>
+
+<tr><td>
 2019-12-21 Touro Sentado tem um lúpulo tão aromático que é capaz que você fique cheirando essa cerveja IPA mais tempo que o normal. Seu amargor é equilibrado e pode ser sentido durante toda a degustação. Sabores cítricos fazem parte da sensação.
 </tr></td>
 
