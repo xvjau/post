@@ -2,7 +2,7 @@
 date: "2019-12-11"
 title: "Receita: Panetone"
 desc: "Receita de panetone artesanal que arrisquei esse fim de ano."
-categories: [ "blog" ]
+categories: [ "food" ]
 ---
 ## Massa de Panetone
 
