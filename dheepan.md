@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "4082068"
 
 date: "2015-10-24"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Dheepan"
 stars: "4/5"
 desc: "Dheepan. Dheepan (France, 2015). Dirigido por Jacques Audiard. Escrito por Jacques Audiard, Jacques Audiard, Thomas Bidegain, Thomas Bidegain, Noé Debré, Noé Debré. Com Jesuthasan Antonythasan, Kalieaswari Srinivasan, Claudine Vinasithamby, Vincent Rottiers, Faouzi Bensaïdi, Marc Zinga, Bass Dhem, Franck Falise, Joséphine de Meaux. Crítica escrita para o site CinemAqui."

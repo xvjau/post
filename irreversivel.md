@@ -3,7 +3,7 @@ date: "2019-11-07"
 title: "Irreversível"
 desc: '"Irréversible" (França, 2002), escrito por Gaspar Noé, dirigido por Gaspar Noé, com Monica Bellucci, Vincent Cassel e Albert Dupontel. Assisti o DVD.'
 imdb: "0290673"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "5/5"
 ---
 Irreversível é essa experiência angustiante que vai desconstruindo uma história simples através dos seus momentos mais tensos. "O tempo destrói tudo" é o seu lema, e este é um filme que destrói o tempo antes que ele nos destrua.

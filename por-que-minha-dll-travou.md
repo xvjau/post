@@ -1,7 +1,7 @@
 ---
 date: "2007-10-18"
 title: Por que minha DLL travou?
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 Saiu um [documento da Microsoft](http://www.microsoft.com/whdc/driver/kernel/DLL_bestprac.mspx) alertando sobre os perigos em colocar código no **DllMain**. É algo mais completo e didático do que as simples observações do [help do MSDN](http://msdn.microsoft.com/library/en-us/dllproc/base/dllmain.asp). Vale a pena dar uma lida, especialmente por causa das explicações sobre o _loader lock_ e seus efeitos colaterais.
 

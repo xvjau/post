@@ -4,7 +4,7 @@ title: "Planeta dos Macacos: A Guerra"
 desc: "War for the Planet of the Apes. EUA, Canadá, Nova Zelândia, 2017. Escrito por Mark Bomback e Matt Reeves baseado nos personagens de Rick Jaffa e Amanda Silver e sugerido na novela de Pierre Boulle 'La planète des singes'. Dirigido por Matt Reeves. Com Andy Serkis, Woody Harrelson, Steve Zahn e Amiah Miller como Nova. Música de Michael Giacchino. Fotografia por Michael Seresin. Sci-fi apocalíptico, remake, prequel, captura de movimentos e expressões."
 imdb: "3450958"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 É impressionante a qualidade constante dessa nova trilogia. Planeta dos Macacos: A Guerra mantêm as mesmas virtudes técnicas e narrativas de seu antecessor ([Planeta dos Macacos: O Confronto](/planeta-dos-macacos-o-confronto)) e segue a mesma história do filme inicial que é o mais fraco de todos, mas se ancora na força de sua ideia e nas referências ao "Planeta dos Macacos" original (aquele com Charton Helston).

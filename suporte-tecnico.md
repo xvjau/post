@@ -1,7 +1,7 @@
 ---
 date: "2010-11-05"
 title: Suporte técnico
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 Máquina com parte do registro corrompida, notadamente alguma sub-chave de HKEY_CLASSES_ROOT. Resultado: ao rodar um script que abre uma segunda janela e tenta usar seu método focus é exibida a seguinte mensagem:
 

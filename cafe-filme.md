@@ -4,7 +4,7 @@ title: "Café"
 desc: "Caffè (Bélgica/China/Itália, 2016), escrito por Cristiano Bortone, Annalaura Ciervo, Minghua Shi, Matthew Thompson, dirigido por Cristiano Bortone, com Dario Aita, Hichem Yacoubi, Miriam Dalmazio. Crítica escrita para o site CinemAqui."
 imdb: "4947672"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

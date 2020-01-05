@@ -2,7 +2,7 @@
 date: 2018-03-14T23:36:56
 imdb: "6285776"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 title: "Górgona"
 desc: "Górgona. Crítica escrita para o site CinemAqui."

@@ -4,7 +4,7 @@ title: "Caminhos Magnétykos"
 desc: "Caminhos Magnétykos (Portugal, Brasil, 2018), dirigido por Edgar Pêra, com Dominique Pinon, Albano Jerónimo, Alba Baptista, Ney Matogrosso. #mostrasp Crítica escrita para o site CinemAqui."
 imdb: "5262162"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "5/5"
 external: "cinemaqui"
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2007-07-30"
 title: C and C++ Operators Precedence Table
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 > _Wanderley,__[your explanation](http://www.caloni.com.br/precedence-difference) about why a program compiles in C++ and not in C seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing.__I checked out the Appendix A in the "[C ++ - How To Program](http://compare.buscape.com.br/categoria?lkout=1&id=3482&kw=C+++How+to+Program&site_origem=1293522)" (sixth edition) and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article.__I went to the internet and found out in two websites the table and both are equal to the book table. __[http://en.wikipedia.org/wiki/Operators_in_C_and_C](http://en.wikipedia.org/wiki/Operators_in_C_and_C)
 [http://www.cppreference.com/operator_precedence.html](http://www.cppreference.com/operator_precedence.html)__

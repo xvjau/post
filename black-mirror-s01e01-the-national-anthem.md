@@ -2,7 +2,7 @@
 imdb: "2085059"
 
 date: "2015-12-13"
-categories: [ "series" ]
+tags: [ "series" ]
 title: "Black Mirror - S01E01 - The National Anthem"
 stars: "5/5"
 desc: "The National Anthem. Black Mirror (UK, 2011). Dirigido por Otto Bathurst. Escrito por Charlie Brooker, Charlie Brooker. Com Rory Kinnear, Lindsay Duncan, Donald Sumpter."

@@ -1,6 +1,6 @@
 ---
 title: Contato
-categories: [ "blog" ]
+tags: [ "blog" ]
 date: 0000-00-00
 ---
  - EMail: wanderley.caloni@bitforge.com.br

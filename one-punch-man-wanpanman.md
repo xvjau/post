@@ -2,7 +2,7 @@
 imdb: "4508902"
 
 date: "2017-01-17"
-categories: [ "series" ]
+tags: [ "series" ]
 title: "One Punch Man: Wanpanman"
 stars: "4/5"
 desc: "One Punch Man: Wanpanman. One Punch Man: Wanpanman (Japan, 2015). Dirigido por Shingo Natsume. Escrito por One. Com Max Mittelman (Saitama), Makoto Furukawa (Saitama), Kaito Ishikawa (Genos), Zach Aguilar (Genos), Yôji Ueda (Bespectacled Worker / ...), Shinya Hamazoe (Artillery Crew / ...), Yoshiaki Hasegawa (Eyelashes / ...), Shôta Yamamoto (Bearded Worker / ...), Hiroki Gotô (D-Pad / ...)."

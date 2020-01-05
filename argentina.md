@@ -4,7 +4,7 @@ cinemaqui: "http://www.cinemaqui.com.br/argentina/"
 imdb: "4483460"
 
 date: "2017-03-31"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Argentina"
 stars: "5/5"
 desc: "Argentina. Zonda: folclore argentino (Argentina, 2015). Dirigido por Carlos Saura. Escrito por Carlos Saura. Com Pedro Aznar, Juan Falú, Marian Farías Gómez, Gabo Ferro, Liliana Herrero, Jairo, Luciana Jury, Horacio Lavandera, Luis Salinas. Crítica escrita para o site CinemAqui."

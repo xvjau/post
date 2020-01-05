@@ -1,6 +1,6 @@
 ---
 title: "Degustação de Queijos"
-categories: [ "food" ]
+tags: [ "food" ]
 date: 2019-07-19
 desc: "Histórico de degustação de queijos."
 ---

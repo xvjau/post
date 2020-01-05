@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "6304046"
 
 date: 2017-11-16T01:06:11
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Thelma"
 stars: "4/5"
 desc: "Thelma. Thelma (Norway, 2017). Dirigido por Joachim Trier. Escrito por Joachim Trier, Eskil Vogt. Com Eili Harboe (Thelma), Kaya Wilkins (Anja), Henrik Rafaelsen (Trond), Ellen Dorrit Petersen (Unni), Ludvig Algeback (Little brother), Isabel Christine Andreasen (Student), Camilla Belsvik (Nurse), Lars Berge (Lifeguard), Vanessa Borgli (Anja's mother Vilde). Crítica escrita para o site CinemAqui."

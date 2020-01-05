@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "3806654"
 
 date: "2016-03-29"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Para Minha Amada Morta"
 stars: "4/5"
 desc: "Para Minha Amada Morta. Para Minha Amada Morta (Brazil, 2015). Dirigido por Aly Muritiba. Escrito por Aly Muritiba, Aly Muritiba. Com Fernando Alves Pinto, Mayana Neiva, Lourinelson Vladmir, Giuly Biancato, Michelle Pucci, Vinicius Sabbag. Crítica escrita para o site CinemAqui."

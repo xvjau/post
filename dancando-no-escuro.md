@@ -4,7 +4,7 @@ title: "Dançando No Escuro"
 desc: "Dancer in the Dark. Dinamarca, Alemanha, Nova Zelândia, ah, fala sério, 20 países, ano 2000. Dirigido e escrito por Lars Von Trier, com Björk, Catherine Deneuve, David Morse."
 imdb: "0168629"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "5/5"
 ---
 "Eu gosto de musicais porque nada de ruim acontece em musicais", diz a personagem de Björk. Bom, ela não contava com um musical por Lars Von Trier. Pobre garota.

@@ -3,7 +3,7 @@ imdb: "1323594"
 
 date: "2010-12-20"
 review: [ "2011" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Meu Malvado Favorito"
 stars: "3/5"
 desc: "Meu Malvado Favorito. Despicable Me (USA, 2010). Dirigido por Pierre Coffin, Chris Renaud. Escrito por Cinco Paul, Ken Daurio, Sergio Pablos. Com Steve Carell, Jason Segel, Russell Brand, Julie Andrews, Will Arnett, Kristen Wiig, Miranda Cosgrove, Dana Gaier, Elsie Fisher."

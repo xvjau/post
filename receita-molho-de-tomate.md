@@ -1,6 +1,6 @@
 ---
 title: "Receita: Molho de Tomate"
-categories: [ "food" ]
+tags: [ "food" ]
 date: 2017-05-30
 ---
 

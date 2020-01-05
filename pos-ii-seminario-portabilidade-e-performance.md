@@ -1,7 +1,7 @@
 ---
 date: "2010-12-21"
 title: "Pós-II Seminário Portabilidade e Performance"
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 O nosso [seminário da semana retrasada](http://www.temporealeventos.com.br/?area=1&tipo=1&id=3719) sobre portabilidade e performance teve um clima mais familiar, lembrando os antigos eventos. O tamanho menor da sala, aliado ao fato dos palestrantes não precisarem usar microfone, como foi da última vez, fez com que houvesse mais interação com o público, com destaque para minha própria palestra, onde tivemos um hiato significativo para falar sobre o desempenho da classe std::string e outros assuntos mais obscuros.
 

@@ -2,7 +2,7 @@
 imdb: "2397535"
 
 date: "2015-01-18"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "O Predestinado"
 stars: "5/5"
 desc: "O Predestinado. Predestination (Australia, 2014). Dirigido por Michael Spierig, Peter Spierig. Escrito por Michael Spierig, Peter Spierig, Robert A. Heinlein. Com Ethan Hawke, Sarah Snook, Christopher Kirby, Christopher Sommers, Kuni Hashimoto, Sara El-Yafi, Paul Moder, Grant Piro, Christopher Bunworth."

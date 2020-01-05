@@ -3,7 +3,7 @@ date: "2019-12-11"
 title: "Chernobyl"
 desc: '"Chernobyl" (EUA e Reino Unido, 2019), escrito por Craig Mazin, dirigido por Johan Renck, com Jessie Buckley, Jared Harris e Stellan Skarsgård. Assisti após um tempo baixado.'
 imdb: "7366338"
-categories: [ "series" ]
+tags: [ "series" ]
 stars: "4/5"
 ---
 Um russo tudo fala na frente de um gravador. Em inglês. Ele prepara seis fitas cassete e deixa em um local premeditado para não serem descobertas pela KGB. Logo em seguida se mata. O clima de conspiração em plena União Soviética não impressiona mais. Na verdade é até esperado. Só não é esperado que russos falem em inglês.

@@ -4,7 +4,7 @@ title: "Garotas em Fuga"
 desc: "Cavale (Bélgica, 2018), escrito por Micha Wald, dirigido por Virginie Gourmel, com Lisa Viance, Yamina Zaghouanie, Noa Pellizari. #mostrasp Crítica escrita para o site CinemAqui."
 imdb: "8633250"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

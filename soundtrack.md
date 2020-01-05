@@ -4,7 +4,7 @@ cinemaqui: "http://www.cinemaqui.com.br/soundtrack/"
 imdb: "3332372"
 
 date: "2017-06-03"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Soundtrack"
 stars: "3/5"
 desc: "Soundtrack. Com Selton Mello (Cris), Ralph Ineson (Mark), Seu Jorge (Cao), Thomas Chaanhing (Huang), Lukas Loughran (Rafnar), J.G. Franklin (Nordic). Crítica escrita para o site CinemAqui."

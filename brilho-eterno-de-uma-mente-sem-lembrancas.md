@@ -4,7 +4,7 @@ title: "Brilho Eterno de uma Mente Sem Lembranças"
 desc: "Eternal Sunshine of the Spotless Mind. EUA, 2004. Escrito por Charlie Kaufman, com história por Kaufman, Michel Gondry e Pierre Bismuth. Dirigido por Michel Gondry. Com Jim Carrey, Kate Winslet, Tom Wilkinson, Mark Ruffalo, Kirsten Dunst e Elijah Wood."
 imdb: "0338013"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "5/5"
 ---
 Por que as pessoas hoje em dia estão tão ansiosas em ser felizes e se livrar rapidamente das partes ruins de um relacionamento em suas mentes? A pergunta que o roteirista Charlie Kaufman ([Quero ser John Malkovich](/quero-ser-john-malkovich), [Adaptação](/adaptacao), [Anomalisa](/anomalisa)) e seu parceiro de costume, o diretor Michel Gondry ([Natureza Quase Humana](/natureza-quase-humana), "Rebobine, por Favor", [A Espuma dos Dias](/a-espuma-dos-dias)) fazem neste filme é: e se elas pudessem?

@@ -4,7 +4,7 @@ title: "Edifício Master"
 desc: "Edifício Master. Brasil, 2002. De Eduardo Coutinho com Fernando José."
 imdb: "0333388"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Esse Eduardo Coutinho sabe fazer documentários. Olhe como ele organiza uma força-tarefa para entrevistar moradores do Edifício Master, que tem cerca de 500 moradores, em frente ao Copacabana no Rio. Ele não apenas encontra histórias interessantes como realiza uma primorosa edição que foca nas histórias e nas pessoas, pura e simplesmente. Não há rodeios. Não dá sono. Dá vontade de viver e conhecer mais pessoas.

@@ -2,7 +2,7 @@
 imdb: "2168180"
 
 date: "2016-05-29"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Nise: O Coração da Loucura"
 stars: "4/5"
 desc: "Nise: O Coração da Loucura. Nise: O Coração da Loucura (Brazil, 2015). Dirigido por Roberto Berliner. Escrito por Flávia Castro, Mauricio Lissovski, Maria Camargo. Com Glória Pires, Claudio Jaborandy, Flavio Bauraqui."

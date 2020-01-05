@@ -4,7 +4,7 @@ title: "Christopher Robin: Um Reencontro Inesquecível"
 desc: "Christopher Robin (EUA, 2018), escrito por Alex Ross Perry, Tom McCarthy, Allison Schroeder, dirigido por Marc Forster, com Ewan McGregor, Hayley Atwell, Bronte Carmichael, Jim Cummings. Crítica escrita para o site CinemAqui."
 imdb: "4575576"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
 ---

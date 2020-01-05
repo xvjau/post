@@ -4,7 +4,7 @@ title: "A Quietude"
 desc: "La quietud (aka The Quietude) (Argentina, 2018), escrito e dirigido por Pablo Trapero, com Martina Gusman, Bérénice Bejo, Edgar Ramírez, Graciela Borges, Joaquín Furriel, Isidoro Tolcachir. Drama, atuação. #mostrasp Crítica escrita para o site CinemAqui."
 imdb: "7658384"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
 ---

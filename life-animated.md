@@ -4,7 +4,7 @@ cinemaqui: "http://www.cinemaqui.com.br/life-animated/"
 imdb: "3917210"
 
 date: "2017-02-25"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Life, Animated"
 stars: "3/5"
 desc: "Life, Animated. Life, Animated (USA, 2016). Dirigido por Roger Ross Williams. Escrito por Ron Suskind. Com Jonathan Freeman (Himself), Gilbert Gottfried (Himself), Alan Rosenblatt (Himself), Owen Suskind (Himself), Ron Suskind (Himself). Crítica escrita para o site CinemAqui."

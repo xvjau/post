@@ -3,7 +3,7 @@ date: "2019-08-02"
 title: "Queimando ao Vento"
 desc: "Burning in the Wind. Italy, Switzerland, 2002. Dirigido por Silvio Soldini, escrito por Agota Kristof, Doriana Leondeff, Silvio Soldini. Com Ivan Franek, Barbora Lukesová, Ctirad Götz."
 imdb: "0308071"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Há algo de literário em trabalhos de adaptação de livros, como este, dirigido por Silvio Soldini e escrito com Doriana Leondeff, que se baseia no romance de Agota Kristof. É essa mania do protagonista ser o narrador e estar escrevendo um livro, mesmo que ele seja um maníaco desde criança e viva recluso fugido de seu país de origem.

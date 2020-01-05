@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "1726592"
 
 date: "2015-01-15"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Antes de Dormir"
 stars: "3/5"
 desc: "Antes de Dormir. Before I Go to Sleep (USA, 2014). Dirigido por Rowan Joffe. Escrito por Rowan Joffe, S.J. Watson. Com Nicole Kidman, Colin Firth, Mark Strong, Ben Crompton, Anne-Marie Duff, Adam Levy, Gabriel Strong, Flynn MacArthur, Dean-Charles Chapman. Crítica escrita para o site CinemAqui."

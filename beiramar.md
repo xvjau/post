@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "4427060"
 
 date: "2015-10-02"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Beira-Mar"
 stars: "5/5"
 desc: "Beira-Mar. Beira-Mar (Brazil, 2015). Dirigido por Filipe Matzembacher, Marcio Reolon. Escrito por Filipe Matzembacher, Marcio Reolon. Com Mateus Almada, Ariel Artur, Maurício Barcellos, Irene Brietzke, Elisa Brittes, Maitê Felistoffa, Francisco Gick, Fernando Hart, Danuta Zaguetto. Crítica escrita para o site CinemAqui."

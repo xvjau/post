@@ -4,7 +4,7 @@ title: "A Prece"
 desc: " Crítica escrita para o site CinemAqui."
 imdb: "7839456"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
 ---

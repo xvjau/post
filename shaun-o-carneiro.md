@@ -3,7 +3,7 @@ imdb: "2872750"
 
 date: "2015-06-01"
 review: [ "2017" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Shaun: O Carneiro"
 stars: "4/5"
 desc: "Shaun: O Carneiro. Shaun the Sheep Movie (UK, 2015). Dirigido por Mark Burton, Richard Starzak. Escrito por Mark Burton, Richard Starzak. Com Justin Fletcher, John Sparkes, Omid Djalili, Richard Webber, Kate Harbour, Tim Hands, Andy Nyman, Simon Greenall, Emma Tate."

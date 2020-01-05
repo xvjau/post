@@ -1,7 +1,7 @@
 ---
 date: "2016-10-16"
 title: "Crítica: Comercial Friboi - A certeza do churrasco perfeito"
-categories: [ "blog" ]
+tags: [ "blog" ]
 stars: "3/5"
 desc: "Crítica: Comercial Friboi - A certeza do churrasco perfeito."
 ---

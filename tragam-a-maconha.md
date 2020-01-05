@@ -4,7 +4,7 @@ title: "Tragam a Maconha"
 desc: "Misión No Oficial (aka Get the Weed) (Uruguai, EUA, 2017), escrito e dirigido por Denny Brechner, Alfonso Guerrero e Marcos Hecht, com Denny Brechner, Talma Friedler, Pepe Mujica, Gustavo Olmos, Ignacio Roqueta. #mostrasp Crítica escrita para o site CinemAqui."
 imdb: "5069072"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

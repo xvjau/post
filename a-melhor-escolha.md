@@ -2,7 +2,7 @@
 date: 2018-01-18T21:25:58
 imdb: "6018306"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 title: "A Melhor Escolha"
 desc: "A Melhor Escolha. Crítica escrita para o site CinemAqui."

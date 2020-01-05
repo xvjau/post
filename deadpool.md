@@ -2,7 +2,7 @@
 imdb: "1431045"
 
 date: "2016-02-27"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Deadpool"
 stars: "4/5"
 desc: "Deadpool. Deadpool (USA, 2016). Dirigido por Tim Miller. Escrito por Rhett Reese, Paul Wernick, Fabian Nicieza, Rob Liefeld. Com Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer, Stefan Kapicic, Brianna Hildebrand, Style Dayne, Kyle Cassie, Taylor Hickson."

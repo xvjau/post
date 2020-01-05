@@ -3,7 +3,7 @@ date: "2019-10-10"
 title: "Malévola: Dona do Mal"
 desc: '"Maleficent: Mistress of Evil" (EUA, 2019), escrito por Micah Fitzerman-Blue, Noah Harpster e Linda Woolverton, dirigido por Joachim Rønning, com Angelina Jolie, Michelle Pfeiffer, Elle Fanning, Harris Dickinson e Juno Temple. Escrito para o CinemAqui.'
 imdb: "4777008"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Para fazer continuação de contos de fadas o "Era Uma Vez" se torna "Eram Duas Vezes", "Três Vezes" e assim por diante. O limite é o momento em que o mundo criado para contar a mesma história infinitas vezes começa a colapsar diante do cansaço inevitável da plateia. "Malévola: Dona do Mal" é o segundo round do conto da Bela Adormecida reciclada que ganhou notoriedade graças à presença de Angelina Jolie no papel-título, mas que agora se torna uma atriz pequena para um tema maior e, seguindo os passos de seu antecessor, melhor explorado em seu design de arte digital do que em sua narrativa.

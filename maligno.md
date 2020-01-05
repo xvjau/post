@@ -4,7 +4,7 @@ title: "Maligno"
 desc: "Maligno (Canadá, EUA, 2019), escrito por Jeff Buhler, dirigido por Nicholas McCarthy, com Jackson Robert Scott, Taylor Schilling, Peter Mooney, Colm Feore. Crítica escrita para o site CinemAqui."
 imdb: "4504044"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
 ---

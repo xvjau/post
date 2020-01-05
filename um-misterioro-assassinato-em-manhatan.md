@@ -2,7 +2,7 @@
 imdb: "0107507"
 
 date: "2012-05-14"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Um Misterioso Assassinato em Manhattan"
 stars: "3/5"
 desc: "Um Misterioso Assassinato em Manhattan. Manhattan Murder Mystery (USA, 1993). Dirigido por Woody Allen. Escrito por Woody Allen, Marshall Brickman. Com Woody Allen, Diane Keaton, Jerry Adler, Lynn Cohen, Ron Rifkin, Joy Behar, William Addy, John Doumanian, Sylvia Kauders."

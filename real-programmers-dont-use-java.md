@@ -1,7 +1,7 @@
 ---
 date: "2014-02-20"
 title: Real Programmers Don't Use Java
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 [![real-programmer](/images/RwtN7j8.png)](/images/12645504174_342d92250f_o.png)
 

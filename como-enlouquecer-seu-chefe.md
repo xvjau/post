@@ -3,7 +3,7 @@ imdb: "0151804"
 
 date: "2011-08-22"
 review: [ "2012" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Como Enlouquecer seu Chefe"
 stars: "3/5"
 desc: "Como Enlouquecer seu Chefe. Office Space (USA, 1999). Dirigido por Mike Judge. Escrito por Mike Judge, Mike Judge. Com Ron Livingston, Jennifer Aniston, David Herman, Ajay Naidu, Diedrich Bader, Stephen Root, Gary Cole, Richard Riehle, Alexandra Wentworth."

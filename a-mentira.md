@@ -2,7 +2,7 @@
 imdb: "1282140"
 
 date: "2014-03-14"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "A Mentira"
 stars: "1/5"
 desc: "A Mentira. Easy A (USA, 2010). Dirigido por Will Gluck. Escrito por Bert V. Royal. Com Emma Stone, Penn Badgley, Amanda Bynes, Dan Byrd, Thomas Haden Church, Patricia Clarkson, Cam Gigandet, Lisa Kudrow, Malcolm McDowell."

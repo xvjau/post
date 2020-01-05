@@ -1,7 +1,7 @@
 ---
 date: "2014-11-21"
 title: "MVP C++ Summit e/ou Visual C++ ressurgindo das cinzas."
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 <a href="/images/Ct5ZO60.jpg" title="building-1-at-microsoft-campus by Wanderley Caloni, on Flickr"><img src="/images/15658259358_e564826fc9_z.jpg" alt="building-1-at-microsoft-campus"></a>
 

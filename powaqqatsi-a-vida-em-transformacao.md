@@ -4,7 +4,7 @@ title: "Powaqqatsi - A Vida em Transformação"
 desc: "Powaqqatsi. EUA, 1988. Dirigido por Godfrey Reggio, escrito por Godfrey Reggio e Ken Richards. Com música de Philip Glass. Com Christie Brinkley, David Brinkley, Pope John Paul II e outros."
 imdb: "0095895"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "5/5"
 ---
 Powaqqatsi é o filme do meio da trilogia Qatsi, uma série documental não-narrativa produzido e dirigido por Godfrey Reggio com a trilha sonora encantadoramente repetitiva de Philip Glass. O filme tem sido promovido pelos diretores Francis Ford Coppola e George Lucas, como sua capinha do DVD nos diz. O filme segue o estilo do documentário clássico [Um Homem com uma Câmera](/man-with-a-movie-camera), mas moderno, só que no bom sentido.

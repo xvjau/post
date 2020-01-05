@@ -2,7 +2,7 @@
 date: "2019-10-26"
 title: "O Mês Que Não Terminou"
 desc: '"O Mês Que Não Terminou" (Brasil, 2019), escrito por Francisco Bosco, dirigido por Francisco Bosco e Raul Mourão, com Fernanda Torres (narração). Escrito para o CinemAqui na cobertura da #mostrasp.'
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "5/5"
 ---
 Entre as dezenas de documentários que surgiram sobre o momento político do Brasil, "O Mês Que Não Terminou" é finalmente o que entendeu a maior dificuldade em traduzir esse momento para os dois lados que o país se dividiu: empatia.

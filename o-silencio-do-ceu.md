@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "5125930"
 
 date: "2016-09-13"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "O Silêncio do Céu"
 stars: "5/5"
 desc: "O Silêncio do Céu. Era el Cielo (Brazil, 2016). Dirigido por Marco Dutra. Escrito por Sergio Bizzio, Sergio Bizzio, Caetano Gotardo, Lucía Puenzo. Com Leonardo Sbaraglia, Carolina Dieckmann, Chino Darín, Alvaro Armand Ugon, Mirella Pascual, Roberto Suárez, Paula Cohen, Dylan Cortes, Priscila Bellora. Crítica escrita para o site CinemAqui."

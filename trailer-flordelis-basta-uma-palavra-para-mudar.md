@@ -3,7 +3,7 @@ date: "2019-08-24"
 title: "Trailer: Flordelis: Basta Uma Palavra Para Mudar"
 desc: '"Flordelis: Basta Uma Palavra Para Mudar" (Brazil, 2009), escrito por Marco Antônio Ferraz, Ed Nobrega e Marco Antônio Ferraz, dirigido por Anderson Corrêa e Marco Antônio Ferraz, com Letícia Sabatella, Fernanda Machado e Deborah Secco. Texto escrito para o CinemAqui.'
 imdb: "2069774"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "1/5"
 ---
 Dizem que Deus escreve certo por linhas tortas. Também dizem que ele já fez milagres como abrir o mar do Egito e ressuscitar seu filho dentro os mortos. Porém, esses milagres empalidecem frente ao trailer do filme "Flordelis: Basta Uma Palavra Para Mudar". Este, sim, um verdadeiro sinal de que Deus existe, e Ele é Muito Zuero. Amém.

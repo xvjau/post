@@ -1,7 +1,7 @@
 ---
 date: 2018-04-09T16:17:32-03:00
 title: "Todo Clichê do Amor"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "5607038"
 
 stars: "4/5"

@@ -4,7 +4,7 @@ title: "O Mau Exemplo de Cameron Post"
 desc: "The Miseducation of Cameron Post. EUA, 2018. Escrito por Desiree Akhavan e Cecilia Frugiuele baseado no romance de Emily M. Danforth. Dirigido por Akhavan. Com Chloë Grace Moretz, Steven Hauck, Quinn Shephard. Gays, homossexualidade, drama, religião. #mostrasp"
 imdb: "6257174"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 O Mau Exemplo de Cameron Post é um dos melhores exemplos sobre hipocrisia e lavagem cerebral religiosa quando o tema é homossexualidade. Ele é tão bom assim porque ele espalha as incoerências e intolerância durante um suposto tratamento para uma cura gay. E quer melhor momento para rever esse tema?

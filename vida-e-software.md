@@ -1,7 +1,7 @@
 ---
 date: "2011-10-22"
 title: Vida e Software
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 [caption id="attachment_1229" align="alignleft" width="168" caption="Fonte: semichaotic.spreadshirt.com"][![](/images/sR2DCZ0.png)](/images/life-code_design.png)[/caption]
 

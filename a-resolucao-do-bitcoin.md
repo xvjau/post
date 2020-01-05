@@ -1,7 +1,7 @@
 ---
 date: "2016-01-18"
 title: "A resolução do bitcoin"
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 Recentemente está havendo fuxicos sobre [o último texto de Mike Hearn](https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.byqa8kj97), um dos desenvolvedores do projeto "Bitcoin Core", que desenha o comportamento da blockchain e acessórios. Nele Mike, que está sendo já há um tempo crítico das mudanças que tem ocorrido no projeto (incluindo um [fork](https://medium.com/faith-and-future/why-is-bitcoin-forking-d647312d22c1#.khrfklcsn) pra lá de controverso), pondera sobre o que pode se o início do fim do experimento bitcoin, graças perifericamente à mudança mais estúpida já feita talvez no projeto, o [RBF](https://medium.com/@octskyward/replace-by-fee-43edd9a1dd6d#.ityek2t45) (replace by fee), que distorce completamente a visão original do paper do Satoshi, criador do Bitcoin, mas principalmente ao já conhecido controle massivo dos servidores atrás do Grande Firewall da China. O detalhe é que nem um nem outro acontecimento deveria se tornar decisivo para o futuro do Bitcoin, cujo teor é ser descentralizado "by design". Porém, quando as questões técnicas caem no colo dos humanos, eles tendem a jogar merda para tudo que é bom e moral.
 

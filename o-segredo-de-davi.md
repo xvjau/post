@@ -4,7 +4,7 @@ title: "O Segredo De Davi"
 desc: "O Segredo de Davi (Brasil, 2018), escrito e dirigido por Diego Freitas, com Nicolas Prattes, Eucir de Souza, Cris Vianna. Crítica escrita para o site CinemAqui."
 imdb: "5230380"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
 ---

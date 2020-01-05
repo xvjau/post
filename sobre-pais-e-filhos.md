@@ -4,7 +4,7 @@ title: "Sobre Pais E Filhos"
 desc: "Of Fathers and Sons (Alemanha, Líbano, Quatar, Síria, 2017), dirigido por Talal Derki, com Abu Osama. Documentário, guerra, Síria, muçulmanos, religião, crianças, direitos humanos. #mostrasp Crítica escrita para o site CinemAqui."
 imdb: "7519174"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "5/5"
 external: "cinemaqui"
 ---

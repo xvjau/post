@@ -2,7 +2,7 @@
 imdb: "0069293"
 
 date: "2012-10-21"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Solaris"
 stars: "5/5"
 desc: "Solaris. Solyaris (Soviet Union, 1972). Dirigido por Andrei Tarkovsky. Escrito por Stanislaw Lem, Fridrikh Gorenshteyn, Andrei Tarkovsky. Com Natalya Bondarchuk, Donatas Banionis, Jüri Järvet, Vladislav Dvorzhetskiy, Nikolay Grinko, Anatoliy Solonitsyn, Olga Barnet, Vitalik Kerdimun, Olga Kizilova."

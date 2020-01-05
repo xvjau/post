@@ -1,7 +1,7 @@
 ---
 date: "2009-07-27"
 title: Cuidado com a cópia de arquivos na VMWare
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 **[![drag-and-drop-vmware.png](/images/n1f14st.png)](http://caloni.com.br/blog/wp-content/uploads/drag-and-drop-vmware.htm)**Quebrei a cabeça com uma DLL de hook que não estava funcionando para usuários comuns. No entanto, para qualquer administrador funcionava.
 

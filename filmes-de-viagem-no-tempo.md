@@ -2,7 +2,7 @@
 date: "2019-11-20"
 title: "Quais filmes de viagem no tempo vale a pena assistir?"
 desc: "Compilado de uma resposta para uma amiga."
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 #### [De Volta para o Futuro](/de-volta-para-o-futuro)
 

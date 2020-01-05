@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "3014866"
 
 date: "2016-04-07"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Mente Criminosa"
 stars: "4/5"
 desc: "Mente Criminosa. Criminal (UK, 2016). Dirigido por Ariel Vromen. Escrito por Douglas Cook, David Weisberg. Com Gal Gadot, Ryan Reynolds, Alice Eve, Kevin Costner, Antje Traue, Gary Oldman, Tommy Lee Jones, Scott Adkins, Michael Pitt. Crítica escrita para o site CinemAqui."

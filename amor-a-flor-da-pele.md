@@ -3,7 +3,7 @@ date: "2019-08-24"
 title: "Amor à Flor da Pele"
 desc: '"In the Mood for Love" (Hong Kong, China, 2000), escrito por Kar-Wai Wong, dirigido por Kar-Wai Wong, com Maggie Cheung, Tony Chiu-Wai Leung e Ping Lam Siu. Dos DVDs daqui de casa (revisita depois de muito tempo).'
 imdb: "0118694"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Wong Kar-Wai é um cineasta que não gosta de roteirizar seus filmes. Ele prefere ir apalpando e sentindo até onde pode ir a exploração de um tema. Por isso mesmo ele é exímio diretor de curtas, principalmente de TV. Curtas expressam bem sua opinião sobre Cinema: momentos que serão eternizados pelo audiovisual.

@@ -1,7 +1,7 @@
 ---
 date: "2010-08-12"
 title: Foto dos melhores momentos
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 [![Tela azul de recordação](/images/deeaVGg.thumbnail.jpg)](/images/OCNEcbq.jpg) Mais um quebra-cabeças antes da nossa palestra, esse "baseado em fatos reais".
 

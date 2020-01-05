@@ -1,7 +1,7 @@
 ---
 date: 2018-05-08T17:36:55-03:00
 title: "Desejo de Matar"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "1137450"
 
 stars: "4/5"

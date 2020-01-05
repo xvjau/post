@@ -1,7 +1,7 @@
 ---
 date: "2018-07-01"
 title: "O Café"
-categories: [ "food" ]
+tags: [ "food" ]
 ---
 Vamos falar, então, de café? O café tem feito parte da minha vida em diferentes fases. Já o havia conhecido desde criança, pois diferente de hoje em dia, crianças podiam tomar o tradicional café da manhã com café e leite e ninguém ligava muito. Eu até participei do ritual infantil de molhar o pão com margarina na minha combinação perfeita entre café e leite quentinhos feitos pela mamãe. Talvez por isso a minha próxima fase com a bebida, como programador, tenha sido tão agradável e natural.
 

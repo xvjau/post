@@ -1,7 +1,7 @@
 ---
 date: 2018-04-24T23:32:52-03:00
 title: "Hype da Prévia de Vingadores: Guerra Infinita"
-categories: [ "blog" ]
+tags: [ "blog" ]
 imdb: "4154756"
 
 ---

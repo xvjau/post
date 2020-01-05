@@ -2,7 +2,7 @@
 imdb: "2103281"
 
 date: "2015-01-15"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Planeta dos Macacos: O Confronto"
 stars: "4/5"
 desc: "Planeta dos Macacos: O Confronto. Dawn of the Planet of the Apes (USA, 2014). Dirigido por Matt Reeves. Escrito por Mark Bomback, Rick Jaffa, Amanda Silver, Rick Jaffa, Amanda Silver, Pierre Boulle. Com Andy Serkis, Jason Clarke, Gary Oldman, Keri Russell, Toby Kebbell, Kodi Smit-McPhee, Kirk Acevedo, Nick Thurston, Terry Notary."

@@ -2,7 +2,7 @@
 date: "2019-12-29"
 title: "Receita: Pão Francês"
 desc: "Tirado do vídeo do canal do YouTube Pão da Casa."
-categories: [ "food" ]
+tags: [ "food" ]
 ---
 Tirado do [vídeo do canal](https://youtu.be/KCe85lhkfOg) do YouTube Pão da Casa.
 

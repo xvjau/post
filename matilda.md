@@ -4,7 +4,7 @@ title: "Matilda"
 desc: "Matilda. EUA, 1996. Escrito por Nicholas Kazan e Robin Swicord baseados no livro de Roald Dahl. Dirigido por Danny DeVito. Com Danny DeVito, Rhea Perlman, Mara Wilson. Nostalgia, Regra dos 15 Anos."
 imdb: "0117008"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Matilda passa na regra dos 15 anos. Se trata de um filme infantil, com premissas infantis, enxergadas do ponto de vista de uma criança. Mas, perdoem os maniqueísmos, é uma louvável lição sobre como quando as coisas certas acontecem nos ambiente errados.

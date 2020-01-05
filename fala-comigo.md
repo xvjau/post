@@ -4,7 +4,7 @@ cinemaqui: "http://www.cinemaqui.com.br/fala-comigo/"
 imdb: "5657776"
 
 date: "2017-07-04"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Fala Comigo"
 stars: "4/5"
 desc: "Fala Comigo. Fala Comigo (Brazil, 2016). Dirigido por Felipe Sholl. Escrito por Felipe Sholl. Com Karine Teles (Angela), Tom Karabachian (Diogo), Denise Fraga (Clarice), Emílio de Mello (Marcos), Anita Ferraz (Mariana), Daniel Rangel (Guilherme), Manoela Dexheimer (Paola), Guilherme Guaral (Geraldo), Cecilia Hoeltz (Nurse 1). Crítica escrita para o site CinemAqui."

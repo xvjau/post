@@ -2,7 +2,7 @@
 imdb: "2616114"
 
 date: "2016-08-28"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "O Concurso"
 stars: "1/5"
 desc: "O Concurso. O Concurso (Brazil, 2013). Dirigido por Pedro Vasconcelos. Escrito por L.G. Tubaldini Jr, Leonardo Levis, L.G. Tubaldini Jr, L.G. Bayão, Carla Faour, Cláudia Maximino, Gregório Duvivier. Com Danton Mello, Fábio Porchat, Anderson Di Rizzi, Rodrigo Pandolfo, Carol Castro, Sabrina Sato, Pedro Paulo Rangel, Jackson Antunes, Gigante Léo."

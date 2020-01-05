@@ -1,6 +1,6 @@
 ---
 title: "Receita: Batata no Forno"
-categories: [ "food" ]
+tags: [ "food" ]
 date: 2019-09-08
 ---
 

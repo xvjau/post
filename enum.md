@@ -1,7 +1,7 @@
 ---
 date: "2010-05-31"
 title: Enum
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 Padrão C (ISO/IEC 9899:1990)
     

@@ -1,7 +1,7 @@
 ---
 date: "2007-10-22"
 title: Guia básico para programadores de primeiro breakpoint
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 Aproveitando um dos últimos artigos que fala sobre [conceitos básicos de programação](http://www.caloni.com.br/guia-basico-para-programadores-de-primeiro-int-main), lembro que, tão importante quanto, é possuir habilidades básicas de depuração, uma arte por muitos programadores ignorada.
 

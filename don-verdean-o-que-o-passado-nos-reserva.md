@@ -4,7 +4,7 @@ title: "Don Verdean: o Que o Passado nos Reserva"
 desc: "Don Verdean. EUA, 2015. Escrito por Jared Hess, Jerusha Hess. Dirigido por Jared Hess. Com Sam Rockwell, Amy Ryan, Jemaine Clement."
 imdb: "3534282"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Esta é uma comédia que pega pesado com as religiões protestantes dos EUA. A maneira com que ele faz isso é muito maldosa. Ela é... como posso dizer... sincera.

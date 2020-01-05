@@ -4,7 +4,7 @@ title: "Missão: Impossível 2"
 desc: "Mission: Impossible II. EUA, 2000. Dirigido por John Woo, roteiro de Ronald D. Moore. Com Tom Cruise como Ethan Hunt, Dougray Scott, Thandie Newton."
 imdb: "0120755"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Quem diria que Thandie Newton, da série [Westworld](/westworld), era uma Hunt Girl da segunda aventura da série? E ela está um pitelzinho. Sua função no filme é ser uma delícia linda, basicamente. Se observarmos ela e o número de câmeras olhando para seu lindo rosto (e corpo), muitos em câmera lenta, vamos aos poucos entendendo todas as falhas desse que é o pior filme de todos os outros até agora. Ele é farofa em um mal sentido, ele é datado em sua estética e lembra tudo de ruim que estava acontecendo com os filmes de ação depois do nerd [Matrix](/matrix) chegar e roubar a cena.

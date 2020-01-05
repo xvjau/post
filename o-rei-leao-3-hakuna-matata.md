@@ -4,7 +4,7 @@ title: "O Rei Leão 3 Hakuna Matata"
 desc: "The Lion King 1½. Austrália, EUA, 2004. Dirigido por Bradley Raymond, escrito por Bill Steinkellner, Evan Spiliotopoulos, Irene Mecchi, Jonathan Roberts, Linda Woolverton, Raymond Singer, Roger Allers, Tom Rogers. Com Nathan Lane, Ernie Sabella, Julie Kavner."
 imdb: "0318403"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Se Shakespeare tivesse visto essa versão de Rei Leão ele teria feito uma segunda versão de Sonhos de Uma Noite de Verão. Subtítulo: Hakuna Matata.

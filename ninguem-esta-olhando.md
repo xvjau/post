@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "3810810"
 
 date: 2017-11-16T21:51:11
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Ninguém Está Olhando"
 stars: "4/5"
 desc: "Ninguém Está Olhando. Nadie nos mira (Argentina, 2017). Dirigido por Julia Solomonoff. Escrito por Christina Lazaridi, Julia Solomonoff. Com Guillermo Pfening (Nico), Katty Velasquez (Lena), Pascal Yen-Pfister (Pascal), Nadja Settel (Aupair), Paola Baldion (Viviana), Michael Patrick Nicholson (Doctor), Petra Costa (Petra), Mariana Anghileri (Sofía), Rafael Ferro (Martín). Crítica escrita para o site CinemAqui."

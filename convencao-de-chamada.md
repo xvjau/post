@@ -1,7 +1,7 @@
 ---
 date: "2015-04-20"
 title: Convenção de Chamada
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 Pergunta de um leitor:
 

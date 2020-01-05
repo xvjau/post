@@ -2,7 +2,7 @@
 imdb: "1564585"
 
 date: "2010-12-03"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Skyline A Invasão"
 stars: "4/5"
 desc: "Skyline A Invasão. Skyline (USA, 2010). Dirigido por Colin Strause, Greg Strause. Escrito por Joshua Cordes, Liam O'Donnell. Com Eric Balfour, Scottie Thompson, Brittany Daniel, Crystal Reed, Neil Hopkins, David Zayas, Donald Faison, Robin Gammell, Tanya Newbould."

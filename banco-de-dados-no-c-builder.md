@@ -1,7 +1,7 @@
 ---
 date: "2007-12-21"
 title: Banco de dados no C++ Builder
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 [![CPPB Database](/images/m4lKMDv.png)](/images/cppb-database.png)
 

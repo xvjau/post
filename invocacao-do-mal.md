@@ -2,7 +2,7 @@
 imdb: "1457767"
 
 date: "2013-09-26"
-categories: [ "movies" ]
+tags: [ "movies" ]
 count: 2
 title: "Invocação do Mal"
 stars: "4/5"

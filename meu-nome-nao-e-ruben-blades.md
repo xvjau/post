@@ -4,7 +4,7 @@ title: "Meu Nome Não é Ruben Blades"
 desc: "Yo no me llamo Rubén Blades (aka Ruben Blades Is Not My Name). Panamá, Argentina, Colômbia, 2018. Dirigido e escrito por Abner Benaim. Rubén Blades, Residente, Gilberto Santa Rosa. Visto na Argentina em espanhol."
 imdb: "6789126"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Rubén Blades é o cantor mais famoso do Panamá. Também já fez pontas de ator em Hollywood, se candidatou a presidente (foi nomeado ministro), faz ataques ferrenhos ao imperialismo americano enquanto mora em Nova Iorque e defende o povo enquanto bebe água Perrier em seus shows. Ou seja, um membro da esquerda caviar básico. Isso tudo você aprende neste burocrático documentário.

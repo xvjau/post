@@ -3,7 +3,7 @@ imdb: "0796366"
 
 date: "2012-04-16"
 review: [ "2013" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Star Trek"
 stars: "5/5"
 desc: "Star Trek. Star Trek (USA, 2009). Dirigido por J.J. Abrams. Escrito por Roberto Orci, Alex Kurtzman, Gene Roddenberry. Com Chris Pine, Zachary Quinto, Leonard Nimoy, Eric Bana, Bruce Greenwood, Karl Urban, Zoe Saldana, Simon Pegg, John Cho."

@@ -2,7 +2,7 @@
 imdb: "1273235"
 
 date: "2011-07-31"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "A Serbian Film Terror sem Limites"
 stars: "4/5"
 desc: "A Serbian Film Terror sem Limites. Srpski film (Serbia, 2010). Dirigido por Srdjan Spasojevic. Escrito por Aleksandar Radivojevic, Srdjan Spasojevic. Com Srdjan Todorovic, Sergej Trifunovic, Jelena Gavrilovic, Slobodan Bestic, Katarina Zutic, Luka Mijatovic, Ana Sakic, Lena Bogdanovic, Miodrag Krcmarik."

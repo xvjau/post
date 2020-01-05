@@ -1,7 +1,7 @@
 ---
 date: "2007-07-10"
 title: Precedence difference
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 Once upon a time my old friend [Kabloc](http://www.kabloc.com.br) wrote this little and "harmless" function in order to print the multiplication table:
 

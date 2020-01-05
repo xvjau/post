@@ -1,7 +1,7 @@
 ---
 date: "2008-10-05"
 title: O que acontece com um programador com pressa
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 Eu já sabia, mas é lógico que não ia falar.
 

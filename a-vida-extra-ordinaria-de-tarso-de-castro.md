@@ -1,7 +1,7 @@
 ---
 date: 2018-05-16T18:05:25-03:00
 title: "A Vida Extra-Ordinária de Tarso de Castro"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "8327798"
 
 stars: "3/5"

@@ -2,7 +2,7 @@
 date: 2018-01-26T01:12:24
 imdb: "5052448"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 title: "Corra!"
 desc: "Corra!."

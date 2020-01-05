@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "3595966"
 
 date: "2015-08-23"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Numa Escola de Havana"
 stars: "4/5"
 desc: "Numa Escola de Havana. Conducta (Cuba, 2014). Dirigido por Ernesto Daranas. Escrito por Ernesto Daranas. Com Miriel Cejas, Yuliet Cruz, Armando Valdes Freire, Idalmis Garcia, Armando Miguel Gómez, Amaly Junco, Alina Rodríguez, Sílvia Águila. Crítica escrita para o site CinemAqui."

@@ -1,6 +1,6 @@
 ---
 title: "Receita: Chimichurri"
-categories: [ "food" ]
+tags: [ "food" ]
 date: 2019-01-07 
 ---
 

@@ -2,7 +2,7 @@
 imdb: "3659388"
 
 date: "2016-01-15"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Perdido em Marte"
 stars: "5/5"
 desc: "Perdido em Marte. The Martian (USA, 2015). Dirigido por Ridley Scott. Escrito por Drew Goddard, Andy Weir. Com Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels, Michael Peña, Sean Bean, Kate Mara, Sebastian Stan, Aksel Hennie."

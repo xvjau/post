@@ -2,7 +2,7 @@
 imdb: "3861390"
 
 date: "2019-03-22"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Dumbo"
 stars: "3/5"
 desc: "Dumbo (EUA, 2019), escrito por Ehren Kruger, dirigido por Tim Burton, com Colin Farrell, Eva Green, Danny DeVito, Michael Keaton, Nico Parker. Crítica escrita para o site CinemAqui."

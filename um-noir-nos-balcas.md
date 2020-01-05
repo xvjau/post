@@ -4,7 +4,7 @@ title: "Um Noir nos Balcãs"
 desc: "Bankan Noir (Suécia, Montenegro, 2017), escrito e dirigido por Drazen Kuljanin, com Disa Ostrand, Johannes Bah Kuhnkee, Sergej Trifunovic.  #mostrasp Crítica escrita para o site CinemAqui."
 imdb: "6100336"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

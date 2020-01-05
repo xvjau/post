@@ -1,7 +1,7 @@
 ---
 date: 2019-06-17
 title: "Film Theory and Criticism"
-categories: [ "blog" ]
+tags: [ "blog" ]
 desc: "Film Theory and Criticism (8th ed. 2009). Por Leo Braudy e Marshall Cohen. Leitura iniciada em 2019-06-09."
 
 ---

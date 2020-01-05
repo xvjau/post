@@ -4,7 +4,7 @@ title: "Como é Cruel Viver Assim"
 desc: "Idem. Brasil, 2018. Comédia escrita por Fernando Ceylão e dirigida por Julia Rezende. Com Silvio Guindane, Débora Lamm, Fabiula Nascimento."
 imdb: "8792492"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Um "pai de família" procura um emprego de taxista. E nem como taxista ele é aceito. Então ele caminha pela rua, observa os transeuntes em uma praça, e avista uma senhora idosa vendendo alguma coisa de aspecto sujo em uma forma levantada pelo seu único braço. O outro braço ela não tinha. Ele tem um insight, e decide que precisa fazer um sequestro para conseguir ter meios para viver.

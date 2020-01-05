@@ -3,7 +3,7 @@ imdb: "1109624"
 
 date: "2014-12-10"
 review: [ "2016" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "As Aventuras de Paddington"
 stars: "4/5"
 desc: "As Aventuras de Paddington. Paddington (UK, 2014). Dirigido por Paul King. Escrito por Paul King, Hamish McColl, Paul King, Michael Bond. Com Tim Downie, Madeleine Worrall, Lottie Steer, Geoffrey Palmer, Theresa Watson, Imelda Staunton, Michael Gambon, Ben Whishaw, Hugh Bonneville."

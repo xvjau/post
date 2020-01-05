@@ -1,7 +1,7 @@
 ---
 date: 2018-05-16T23:44:52-03:00
 title: "Feliz!"
-categories: [ "series" ]
+tags: [ "series" ]
 imdb: "2452242"
 
 stars: "4/5"

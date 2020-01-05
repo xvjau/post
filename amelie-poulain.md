@@ -2,7 +2,7 @@
 imdb: "0211915"
 
 date: "2014-12-16"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "O Fabuloso Destino de Amélie Poulain"
 stars: "5/5"
 desc: "Le fabuleux destin d'Amélie Poulain (France, 2001). Dirigido por Jean-Pierre Jeunet. Escrito por Guillaume Laurant, Jean-Pierre Jeunet, Guillaume Laurant. Com Audrey Tautou (Amélie Poulain), Mathieu Kassovitz (Nino Quincampoix), Rufus (Raphaël Poulain), Lorella Cravotta (Amandine Poulain), Serge Merlin (Raymond Dufayel), Jamel Debbouze (Lucien), Clotilde Mollet (Gina), Claire Maurier (Madame Suzanne - la patronne du café), Isabelle Nanty (Georgette), Dominique Pinon (Joseph), Artus de Penguern (Hipolito), Yolande Moreau (Madeleine Wallace), Urbain Cancelier (Collignon), Maurice Bénichou (Dominique Bretodeau)."

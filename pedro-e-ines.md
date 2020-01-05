@@ -4,7 +4,7 @@ title: "Pedro e Inês"
 desc: "Pedro e Inês (Portugal, França, Brasil, 2018), escrito por António Ferreira baseado no romance de Rosa Lobato Faria, dirigido por Ferreira, com Diogo Amaral, Joana de Verona, Vera Kolodzig, João Lagarto, Miguel Monteiro. #mostrasp Crítica escrita para o site CinemAqui."
 imdb: "2050452"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

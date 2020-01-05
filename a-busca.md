@@ -2,7 +2,7 @@
 imdb: "2125425"
 
 date: "2016-11-02"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "A Busca"
 stars: "3/5"
 desc: "A Busca. A Busca (Brazil, 2012). Dirigido por Luciano Moura. Escrito por Luciano Moura, Elena Soarez. Com Wagner Moura (Theo Gadelha), Lima Duarte (Theo's Father), Mariana Lima (Branca), Brás Antunes (Pedro), Lucas de Araujo (China - garoto carona)."

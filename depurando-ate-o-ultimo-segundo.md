@@ -1,7 +1,7 @@
 ---
 date: "2009-03-31"
 title: Depurando até o último segundo
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 Como depurar um programa que dá pau logo no final do desligamento de uma máquina?
 

@@ -2,7 +2,7 @@
 date: 2019-11-13
 title: "DTLS Simples... simples?"
 desc: "Como utilizar o protocolo DTLS usando a biblioteca OpenSSL no Windows."
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 ### Introdução
 

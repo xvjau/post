@@ -3,7 +3,7 @@ date: "2019-11-17"
 title: "O Exterminador do Futuro: A Salvação"
 desc: '"Terminator Salvation" (EUA, Alemanha, Reino Unido e Itália, 2009), escrito por John Brancato e Michael Ferris, dirigido por McG, com Christian Bale, Sam Worthington e Moon Bloodgood. Revendo por causa do novo. Passando o texto para o especial no CinemAqui.'
 imdb: "0438488"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Este é o quarto da série de filmes em que humanos e máquinas estão brigando, desde 1984, e de certa forma a primeira continuação aguardada. Se considerarmos o final de [A Rebelião das Máquinas](/o-exterminador-do-futuro-3-a-rebeliao-das-maquinas), onde o fraco John Connor interpretado por Nick Stahl é acompanhado por sua futura esposa, Kate Brewster, para um abrigo anti-nuclear horas após as máquinas controladas pela rede Skynet destruíssem boa parte da raça humana e iniciassem uma guerra sem precedentes, O Exterminador do Futuro: A Salvação é um filme previsto há décadas nos roteiros anteriores de James Cameron, Gale Anne Hurd e William Wisher.

@@ -4,7 +4,7 @@ title: "Alemanha, Ano Zero"
 desc: "Germania anno zero. Itália, França, Alemanha, 1948. Dirigido e escrito por Roberto Rossellini (diálogos); a versão italiana é de Sergio Amidei. Baseado na ideia de Basilio Franchina. Com Edmund Moeschke, Ernst Pittschau, Ingetraud Hinze."
 imdb: "0039417"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Este é o último filme da trilogia neorrealista sobre a segunda guerra do cineasta Roberto Rossellini, o diretor que seduziu meio mundo e engravidou a atriz Ingmar Bergman, dando origem a outra atriz, Isabela Rosselini. Depois desse babado talvez você não queira mais saber do filme.

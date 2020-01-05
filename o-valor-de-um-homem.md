@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "4428814"
 
 date: "2016-05-20"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "O Valor de um Homem"
 stars: "4/5"
 desc: "O Valor de um Homem. La loi du marché (France, 2015). Dirigido por Stéphane Brizé. Escrito por Stéphane Brizé, Olivier Gorce. Com Vincent Lindon, Karine de Mirbeck, Matthieu Schaller, Yves Ory, Xavier Mathieu, Paul Portoleau, Pierre-Jean Feld, Philippe Vesco, Christophe Rossignon. Crítica escrita para o site CinemAqui."

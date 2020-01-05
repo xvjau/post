@@ -3,7 +3,7 @@ imdb: "1675434"
 
 date: 2016-07-28
 review: [ "2015", "2018" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Intocáveis"
 stars: "4/5"
 desc: "Intocáveis. Intouchables (France, 2011). Dirigido por Olivier Nakache, Eric Toledano. Escrito por Olivier Nakache, Eric Toledano. Com François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot, Joséphine de Meaux, Clotilde Mollet, Alba Gaïa Kraghede Bellugi, Cyril Mendy, Salimata Kamate."

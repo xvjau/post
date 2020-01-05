@@ -1,7 +1,7 @@
 ---
 date: "2008-01-18"
 title: Otimização em funções recursivas
-categories: [ "code" ]
+tags: [ "code" ]
 desc: "Atualizado em 2019-06-10 por alguns toques do pessoal do Telegram."
 
 ---

@@ -2,7 +2,7 @@
 date: "2016-11-03"
 author: "Wanderley Caloni"
 title: "O Mundo de Sofia"
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 Este foi o livro meio unanimidade dos fóruns de filosofia quando questionado qual o melhor começo para a área, que dê uma visão global, histórica e funcional do que é, afinal de contas, filosofia. Bem, e também o começo mais divertido, o que para uma área como essa deve se resumir aos quadrinhos do Existencial Comics e o livro de Jostein Gaarder.
 

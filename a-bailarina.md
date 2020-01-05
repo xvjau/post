@@ -3,7 +3,7 @@ cinemaqui: "http://www.cinemaqui.com.br/a-bailarina"
 imdb: "2261287"
 
 date: "2017-02-01"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "A Bailarina"
 stars: "2/5"
 desc: "A Bailarina. Ballerina (France, 2016). Dirigido por Eric Summer, Éric Warin. Escrito por Carol Noble, Eric Summer, Laurent Zeitoun. Com Dane DeHaan (Victor), Elle Fanning (Félicie Milliner), Maddie Ziegler (Camille Le Haut), Carly Rae Jepsen (Odette), Camille Cottin (Félicie Milliner), Julie Khaner (Régine Le Haut), Elana Dunkelman (Dora / Stuck Girl), Laurent Maurel (Mérante), Malik Bentalha (Victor). Crítica escrita para o site CinemAqui."

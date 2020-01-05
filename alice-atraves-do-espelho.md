@@ -2,7 +2,7 @@
 imdb: "2567026"
 
 date: "2016-05-29"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Alice Através do Espelho"
 stars: "3/5"
 desc: "Alice Através do Espelho. Alice Through the Looking Glass (USA, 2016). Dirigido por James Bobin. Escrito por Linda Woolverton, Lewis Carroll. Com Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway, Sacha Baron Cohen, Rhys Ifans, Matt Lucas, Lindsay Duncan, Leo Bill."

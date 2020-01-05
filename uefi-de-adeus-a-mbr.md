@@ -1,7 +1,7 @@
 ---
 date: "2017-02-09"
 title: "UEFI: dê adeus à MBR"
-categories: [ "blog" ]
+tags: [ "blog" ]
 
 ---
 Após depurar a BIOS e a MBR, eis que surge a UEFI: os GUIDs para SOs instalados no seu HD. Quantas siglas, não é mesmo?

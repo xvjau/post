@@ -3,7 +3,7 @@ date: "2019-08-28"
 title: "Chicuarotes"
 desc: '"Chicuarotes" (México, 2019), escrito por Augusto Mendoza, dirigido por Gael García Bernal, com Benny Emmanuel, Ricardo Abarca, Dolores Heredia. Escrito para o CinemAqui.'
 imdb: "4523910"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 A sensação de impotência em Chicuarotes é o que constrói uma tensão que consegue ser ao mesmo tempo trágica e engraçada. Por um lado há o velho clichê de chorar sobre a desgraça dos mais pobres, mas por outro há esse lado humano que reconhece que, dizendo de forma bem chula e preconceituosa, pobre não vale muita coisa, mesmo.

@@ -2,7 +2,7 @@
 imdb: "5354986"
 
 date: "2016-10-21"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Profundidade Dois"
 stars: "3/5"
 desc: "Profundidade Dois. Dubina dva (Serbia, 2016). Dirigido por Ognjen Glavonic. Escrito por Ognjen Glavonic."

@@ -2,7 +2,7 @@
 date: 2018-01-12T00:16:55
 imdb: "0120815"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "5/5"
 title: "O Resgate do Soldado Ryan"
 desc: "O Resgate do Soldado Ryan."

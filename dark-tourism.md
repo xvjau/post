@@ -4,7 +4,7 @@ title: "Dark Tourism"
 desc: "Dark Tourism é uma série Netflix com David Farrier, que também dirige."
 imdb: "8725166"
 
-categories: [ "series" ]
+tags: [ "series" ]
 stars: "4/5"
 ---
 Essa série que saiu na Netflix, é uma boa série, porque ela contém todos os elementos que faltam hoje ao jornalismo pensante. Há obviamente um formato senso forçado, mas quando algo é bem feito, isso passa como diversão.

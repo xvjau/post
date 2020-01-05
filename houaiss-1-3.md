@@ -1,7 +1,7 @@
 ---
 date: "2011-04-28"
 title: Houaiss 1.3
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 ### Notificação
 

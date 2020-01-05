@@ -1,7 +1,7 @@
 ---
 date: "2016-11-29"
 title: "A Linguagem de Programação C++: O Início"
-categories: [ "code" ]
+tags: [ "code" ]
 
 ---
 O livro-base sobre a linguagem C++ e como programar nela tem o nome pouco criativo "The C++ Programming Language", e é de Bjarne Stroustrup, o criador da linguagem. Ele começou a desenhar a linguagem em 1979, quando ainda a chamada de "C com Classes". Havia um problema a ser resolvido na época em que Stroustrup estava fazendo sua tese de doutorado. Havia linguagens muito boas em abstração como Simula -- como o novo conceito de Orientação a Objetos -- que carecia do mais importante na época: velocidade (só na época?). Já linguagens mais antigas como [BCPL](/historia-da-linguagem-c-parte-1) eram bem rápidas, mas eram tão simples que pareciam mais um Assembly glorificado. Havia, portanto, a necessidade de preencher a área de computação com alguma coisa bem no meio.

@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "6599064"
 
 date: 2017-11-24T18:31:36
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "A Ópera de Paris"
 stars: "4/5"
 desc: "A Ópera de Paris. L'Opéra (Switzerland, 2017). Dirigido por Jean-Stéphane Bron. Com Stéphane Lissner (Himself), Benjamin Millepied. Crítica escrita para o site CinemAqui."

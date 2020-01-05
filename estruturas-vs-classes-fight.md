@@ -1,7 +1,7 @@
 ---
 date: "2014-05-20"
 title: 'Estruturas VS Classes: fight!'
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 [![EpicRapBattleStructVcClass](/images/0uar0i8.jpg)](/images/14250890913_37a06bf7a2_o.jpg)
 

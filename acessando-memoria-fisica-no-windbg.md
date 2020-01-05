@@ -1,7 +1,7 @@
 ---
 date: "2008-05-01"
 title: Acessando memória física no WinDbg
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 ![dimm.gif](/images/OraOKS3.gif)
 

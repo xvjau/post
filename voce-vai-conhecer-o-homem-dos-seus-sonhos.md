@@ -2,7 +2,7 @@
 imdb: "1182350"
 
 date: "2010-11-26"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Você Vai Conhecer o Homem dos Seus Sonhos"
 stars: "3/5"
 desc: "Você Vai Conhecer o Homem dos Seus Sonhos. You Will Meet a Tall Dark Stranger (USA, 2010). Dirigido por Woody Allen. Escrito por Woody Allen. Com Gemma Jones, Pauline Collins, Anthony Hopkins, Rupert Frazer, Kelly Harrison, Naomi Watts, Josh Brolin, Freida Pinto, Eleanor Gecks."

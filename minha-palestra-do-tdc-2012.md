@@ -1,7 +1,7 @@
 ---
 date: "2012-07-21"
 title: Minha palestra do TDC 2012
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 [![](/images/sB94Y9w.jpg)](/images/Palestra-TDC2012.jpg)
 

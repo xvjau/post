@@ -1,7 +1,7 @@
 ---
 date: "2015-05-06"
 title: Analisando erros pelo filtro do File Monitor
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 ![](/images/evEhysq.png)
 

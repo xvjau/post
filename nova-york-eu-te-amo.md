@@ -2,7 +2,7 @@
 imdb: "0808399"
 
 date: "2019-03-17"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Nova York, Eu Te Amo"
 stars: "3/5"
 desc: "New York, I Love You. EUA, 2008. Dirigido por Fatih Akin, Yvan Attal, Randall Balsmeyer, Allen Hughes, Shunji Iwai, Wen Jiang, Shekhar Kapur, Joshua Marston, Mira Nair. Escrito por Hu Hong, Yao Meng, Israel Horovitz, Suketu Mehta, Shunji Iwai, Israel Horovitz, Olivier Lécot, Jeff Nathanson, Xan Cassavetes. Com Hayden Christensen, Andy Garcia, Rachel Bilson, Natalie Portman, Irrfan Khan, Orlando Bloom, Christina Ricci, Maggie Q, Ethan Hawke."

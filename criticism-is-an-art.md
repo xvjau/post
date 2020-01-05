@@ -2,7 +2,7 @@
 date: "2019-11-17"
 title: "Criticism Is an Art by Pauline Kael"
 desc: "Artigo por Pauline Kael antes disponível na Cinemazine."
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 Retirado do blog [Keeping My Brain Alive](http://keepingmybrainalive.blogspot.com/2006/09/criticism-as-art.html).
 

@@ -3,7 +3,7 @@ date: "2019-10-06"
 title: "Coringa"
 desc: '"Joker" (EUA, Canadá, 2019), escrito por Todd Phillips e Scott Silver, dirigido por Todd Phillips, com Joaquin Phoenix, Robert De Niro e Zazie Beetz. Visto no IMAX, bem de pertinho.'
 imdb: "7286456"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "5/5"
 ---
 Coringa começa já em seu título a pretensão de determinar um início definitivo do icônico personagem dos quadrinhos revisitado em sua terceira encarnação ([Jared Leto](/esquadrao-suicida) não conta) nos cinemas. Em um mundo onde truques narrativos, como narração em off, flashbacks e tempo não-linear substituem qualidade, o filme dirigido por Todd Phillips ([Um Parto de Viagem](/um-parto-de-viagem)) e escrito por ele e Scott Silver ([O Vencedor](/o-vencedor)) ignora tudo isso e segue o formato mais convencional possível para contar a história de um doente mental: começa no começo, termina no fim. Apenas essa decisão já constitui declaração de guerra à tão megalomaníaca quanto convencional Hollywood, disposta a sempre mutilar roteiros, além de abusar de efeitos e explosões para acobertar sua mediocridade.

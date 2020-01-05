@@ -4,7 +4,7 @@ title: "Jade"
 desc: "Jade. EUA, 1995. Dirigido por William Friedkin, escrito por Joe Eszterhas. Com David Caruso, Linda Fiorentino, Chazz Palminteri. Editado por Augie Hess, música de James Horner."
 imdb: "0113451"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Que filme é esse... ele parece feito para a TV, mas tem uma direção frenética e quase impecável, com uma edição idem (Augie Hess) e uma trilha sonora de quinta categoria por James Horner, responsável pelas trilhas pomposas de James Cameron. Mas aqui não há nada de pomposo, neste thriller investigativo com uma sequência de perseguição dos anos 90 que não se faz mais hoje em dia. Isso é Cinema macho, com um diretor e um roteirista, como deve ser, e com uma equipe de qualidade.

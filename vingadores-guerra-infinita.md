@@ -1,7 +1,7 @@
 ---
 date: 2018-05-03T22:42:56-03:00
 title: "Vingadores: Guerra Infinita"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "4154756"
 
 stars: "4/5"

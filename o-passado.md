@@ -3,7 +3,7 @@ imdb: "0765469"
 
 date: "2019-05-04"
 review: [ "2019" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "O Passado"
 stars: "4/5"
 desc: "O Passado. El pasado (Argentina, 2007). Dirigido por Hector Babenco. Escrito por Hector Babenco, Marta Goes, Alan Pauls. Com Mabi Abele, Mariana Anghileri, Mimí Ardú, Paulo Autran, Hector Babenco, Ana Celentano, Analía Couceyro, Gael García Bernal, Alejandro Genes. Texto original de 2012-07-22."

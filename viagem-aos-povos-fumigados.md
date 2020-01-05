@@ -4,7 +4,7 @@ title: "Viagem Aos Povos Fumigados"
 desc: " Crítica escrita para o site CinemAqui."
 imdb: "7962890"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "2/5"
 external: "cinemaqui"
 ---

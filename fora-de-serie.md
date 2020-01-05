@@ -3,7 +3,7 @@ date: 2019-06-09T12:19:04-03:00
 title: "Fora de Série"
 desc: "Booksmart (EUA, 2019), escrito por Susanna Fogel, Emily Halpern, Sarah Haskins, Katie Silberman, dirigido por Olivia Wilde, com Kaitlyn Dever, Beanie Feldstein, Jessica Williams. Crítica escrita para o site CinemAqui."
 imdb: "1489887"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
 

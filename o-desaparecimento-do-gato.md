@@ -2,7 +2,7 @@
 imdb: "1841584"
 
 date: "2011-10-24"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "El gato desaparece"
 stars: "4/5"
 desc: "El gato desaparece. El gato desaparece (Argentina, 2011). Dirigido por Carlos Sorin. Escrito por Carlos Sorin. Com Luis Luque, Beatriz Spelzini, Maria Abadi, Norma Argentina, Gisela Aringoli, Alejandro Javier Bures, Emma Jayne Carlton, Kiko Cerone, Tristán Colombo."

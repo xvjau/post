@@ -3,7 +3,7 @@ imdb: "1637725"
 
 date: "2012-10-03"
 review: [ "2014" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Ted"
 stars: "4/5"
 desc: "Ted. Ted (USA, 2012). Dirigido por Seth MacFarlane. Escrito por Seth MacFarlane, Alec Sulkin, Wellesley Wild, Seth MacFarlane. Com Mark Wahlberg, Mila Kunis, Seth MacFarlane, Joel McHale, Giovanni Ribisi, Patrick Warburton, Matt Walsh, Jessica Barth, Aedin Mincks."

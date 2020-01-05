@@ -1,7 +1,7 @@
 ---
 date: 2018-03-18T22:52:13-03:00
 title: "Por que Madoka Mágica é o estado da arte no mundo dos animes? Analisando o piloto."
-categories: [ "series" ]
+tags: [ "series" ]
 imdb: "1773185"
 
 stars: "5/5"

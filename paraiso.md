@@ -4,7 +4,7 @@ cinemaqui: "http://www.cinemaqui.com.br/paraiso"
 imdb: "4551318"
 
 date: "2017-01-20"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Paraíso"
 stars: "5/5"
 desc: "Paraíso. Ray (Russia, 2016). Dirigido por Andrey Konchalovskiy. Escrito por Elena Kiseleva, Andrey Konchalovskiy. Com Yuliya Vysotskaya (Olga), Viktor Sukhorukov (Genrikh Gimmler), Peter Kurth (Krauze), Philippe Duquesne (Zhyul), Christian Clauss (Khelmut), Jean Denis Römer (Shulman), George Lenz, Jakob Diehl (Fogel), Irina Demidkina (Okhrannitsa tyurmy). Crítica escrita para o site CinemAqui."

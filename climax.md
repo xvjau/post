@@ -4,7 +4,7 @@ title: "Clímax"
 desc: "Climax. França, Bélgica, EUA, 2018. Escrito e dirigido por Gaspar Noé. Com vários dançarinos e Sofia Boutella."
 imdb: "8359848"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Eu me mantenho em forma o suficiente para subir escadas sem cansar e não ser um total vexame na cama. E posso dizer para família e amigos que cuido de minha saúde, em corpo e espírito. Como costumam dizer, eu me preocupo com meu bem estar. Mas quem são esses jovens de corpos sarados, e por que há tanta mágoa em seus corações? A mente e o corpo são uma unidade. Um templo. Assim como a escola é um templo do conhecimento. E quando se profana esse templo tudo é permitido. Mas nada nos convém.

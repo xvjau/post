@@ -2,7 +2,7 @@
 imdb: "1780798"
 
 date: "2016-02-29"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Clown"
 stars: "2/5"
 desc: "Clown. Clown (USA, 2014). Dirigido por Jon Watts. Escrito por Christopher Ford, Jon Watts. Com Peter Stormare, Eli Roth, Laura Allen, Elizabeth Whitmere, Christian Distefano, Andy Powers, John MacDonald, Chuck Shamata, Sarah Scheffer."

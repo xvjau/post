@@ -1,7 +1,7 @@
 ---
 title: ">whoami"
 date: 2019-11-19
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 <a href="/images/me.png"><img src="/images/me.png" width="64px" height="64px" style="float: left; margin: 1em;"/></a>
 

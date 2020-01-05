@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "3305316"
 
 date: "2015-05-10"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Segunda Chance"
 stars: "5/5"
 desc: "Segunda Chance. En chance til (Denmark, 2014). Dirigido por Susanne Bier. Escrito por Anders Thomas Jensen. Com Nikolaj Coster-Waldau, Ulrich Thomsen, Nikolaj Lie Kaas, Maria Bonnevie, Thomas Bo Larsen, Peter Haber, Bodil Jørgensen, Christian Grønvall, May Andersen. Crítica escrita para o site CinemAqui."

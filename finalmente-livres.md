@@ -3,7 +3,7 @@ date: "2019-11-28"
 title: "Finalmente Livres"
 desc: '"En liberté!" (França, 2018), escrito por Benjamin Charbit, Benoît Graffin e Pierre Salvadori, dirigido por Pierre Salvadori, com Adèle Haenel, Pio Marmaï e Audrey Tautou. Escrito para o CinemAqui.'
 imdb: "7534068"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Finalmente Livres é uma comédia francesa que escala de maneira tão dinâmica suas ideias no decorrer da suas quase duas horas que é possível ignorar a falta de criatividade e de coerência em uma história tresloucada e cheia de energia.

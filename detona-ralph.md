@@ -2,7 +2,7 @@
 imdb: "1772341"
 
 date: "2012-12-30"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Detona Ralph"
 stars: "4/5"
 review: [ "2016" ]

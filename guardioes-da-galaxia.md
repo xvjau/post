@@ -2,7 +2,7 @@
 imdb: "2015381"
 
 date: "2014-12-06"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Guardiões da Galáxia"
 review: [ "2017" ]
 stars: "3/5"

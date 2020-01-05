@@ -1,7 +1,7 @@
 ---
 date: "2007-10-10"
 title: Engenharia reversa para principiantes
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 Dei uma reformada em minha última palestra sobre engenharia reversa e resolvi disponibilizá-la aqui:
 

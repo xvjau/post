@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "2139555"
 
 date: "2015-02-11"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Deixa Rolar"
 stars: "3/5"
 desc: "Deixa Rolar. Playing It Cool (USA, 2014). Dirigido por Justin Reardon. Escrito por Chris Shafer, Paul Vicknair. Com Chris Evans, Michelle Monaghan, Aubrey Plaza, Ioan Gruffudd, Topher Grace, Ashley Tisdale, Patrick Warburton, Martin Starr, Luke Wilson. Crítica escrita para o site CinemAqui."

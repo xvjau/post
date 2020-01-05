@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "4685554"
 
 date: 2017-08-06T15:24:03
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "O Reino Gelado: Fogo e Gelo"
 stars: "2/5"
 desc: "O Reino Gelado: Fogo e Gelo. Snezhnaya koroleva 3. Ogon i led (Russia, 2016). Dirigido por Aleksey Tsitsilin. Escrito por Andrey Korenkov, Robert Lence, Vladimir Nikolaev, Aleksey Tsitsilin, Aleksey Zamyslov. Com Alyson Leigh Rosenfeld (Baby Troll), Ivan Okhlobystin (Orm), Garik Kharlamov (General Arrog), Graham Halstead (Rollan), Olga Zubkova (Babushka Orma). Crítica escrita para o site CinemAqui."

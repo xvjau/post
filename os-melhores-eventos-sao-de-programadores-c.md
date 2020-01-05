@@ -1,7 +1,7 @@
 ---
 date: "2015-04-04"
 title: Os melhores eventos são de programadores CCPP
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 ![](/images/vMmxP5N.jpg)
 

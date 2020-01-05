@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "3612984"
 
 date: "2016-09-29"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Romance à Francesa"
 stars: "4/5"
 desc: "Romance à Francesa. Caprice (France, 2015). Dirigido por Emmanuel Mouret. Escrito por Emmanuel Mouret. Com Virginie Efira (Alicia Bardery), Anaïs Demoustier (Caprice), Laurent Stocker (Thomas), Emmanuel Mouret (Clément Dussaut), Thomas Blanchard (Jean), Mathilde Warnier (Virginie), Olivier Cruveiller (Maurice), Botum Dupuis (Christie), Néo Rouleau (Jacky). Crítica escrita para o site CinemAqui."

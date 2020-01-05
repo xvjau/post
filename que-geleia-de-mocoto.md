@@ -1,7 +1,7 @@
 ---
 date: "2014-04-29"
 title: Que geleia de mocotó
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 [![cowblet-cover](/images/iqT5sSy.jpg)](/images/14065766204_532438eaed_n.jpg)
 

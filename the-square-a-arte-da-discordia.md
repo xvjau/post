@@ -4,7 +4,7 @@ title: "The Square: A Arte da Discórdia"
 desc: "The Square. Suécia, Alemanha, França, Dinamarca, 2017. Escrito e dirigido por Ruben Östlund. Com Claes Bang, Elisabeth Moss, Dominic West. Arte, sociedade, alternativo."
 imdb: "4995790"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Tenho uma confissão a fazer: quando eu entro em um salão onde está exposto arte moderna eu nunca tenho certeza se entendi realmente o que o autor quis dizer com determinada obra. Aliás, eu também não tenho certeza se o próprio autor sabe o significado de sua obra. Aliás, eu nem sei se podemos chamar aquilo de obra. O que é arte, afinal de contas? E, aproveitando, qual o sentido da vida?

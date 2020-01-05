@@ -4,7 +4,7 @@ title: "Livrando a Cara"
 desc: "Saving Face. EUA, 2004. Por Alice Wu, com Joan Chen, Michelle Krusiec, Lynn Chen."
 imdb: "0384504"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 É um romance lésbico. É uma cinquentona grávida. É uma novela chinesa em solo nova-iorquino. A cartilha é completa e espero no mínimo um casório e uma corrida para o aeroporto nos momentos finais. Paguei meu ingresso pra isso. Oh, não, eles refazem a cena da noiva entrando no ônibus [daquele clássico com Dustin Hoffman](/a-primeira-noite-de-um-homem). Por essa eu não esperava. Uma cena que faz sentido e seria genial colocada no filme que a diretora Alice We pensa que fez.

@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "1472584"
 
 date: "2017-01-11"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Max Steel"
 stars: "1/5"
 desc: "Max Steel. Max Steel (UK, 2016). Dirigido por Stewart Hendler. Escrito por Christopher Yost. Com Ben Winchell (Max McGrath), Josh Brener (Steel), Maria Bello (Molly McGrath), Andy Garcia (Dr. Miles Edwards), Ana Villafañe (Sofia Martinez), Mike Doyle (Jim McGrath), Phillip DeVona (Harkins), Billy Slaughter (Murphy), Al Mitchell (Dr. Smith). Crítica escrita para o site CinemAqui."

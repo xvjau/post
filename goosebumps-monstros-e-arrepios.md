@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "1051904"
 
 date: "2015-10-21"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Goosebumps: Monstros e Arrepios"
 stars: "3/5"
 desc: "Goosebumps: Monstros e Arrepios. Goosebumps (USA, 2015). Dirigido por Rob Letterman. Escrito por Darren Lemke, Scott Alexander, Larry Karaszewski, R.L. Stine. Com Jack Black, Dylan Minnette, Odeya Rush, Ryan Lee, Amy Ryan, Jillian Bell, Ken Marino, Halston Sage, Steven Krueger. Crítica escrita para o site CinemAqui."

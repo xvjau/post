@@ -1,7 +1,7 @@
 ---
 date: "2009-01-30"
 title: As funções-polegar
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 Como já havia dito, não há nada mais prazeroso do que [ensinar a alguém](http://www.caloni.com.br/basico-do-basico-ponteiros) os velhos truques da profissão e relembrar o porquê de tantas coisas que guardamos na cabeça sobre programação. Hoje tive a oportunidade de explicar como funcionam as funções-polegar.
 

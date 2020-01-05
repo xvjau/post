@@ -4,7 +4,7 @@ title: "Hi Score Girl"
 desc: "Hai Sukoa Garu. Japão, 2018. Escrito por Rensuke Oshikiri (mangá) e Tatsuhiko Urahata (animê). Dirigido por Yoshiki Yamakawa. Com Kouhei Amasaki e Sayumi Suzushiro. Música por Yoko Shimomura."
 imdb: "8963328"
 
-categories: [ "series" ]
+tags: [ "series" ]
 stars: "4/5"
 ---
 Hi Score Girl apela para o saudosismo de velhos que vivenciaram todas as gerações dos games e fliperamas mais badalados da história, mas é ao mesmo tempo uma história de relacionamento entre um menino e uma garota. Isso provavelmente deve dar tilt.

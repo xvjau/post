@@ -2,7 +2,7 @@
 date: 2018-02-06T20:39:26
 imdb: "0093822"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 title: "Arizona Nunca Mais"
 desc: "Arizona Nunca Mais."

@@ -3,7 +3,7 @@ date: "2019-08-18"
 title: "A Cor do Paraíso"
 desc: '"Rang-e khoda" (Irã, 1999), escrito por Majid Majidi, dirigido por Majid Majidi, com Hossein Mahjoub, Mohsen Ramezani e Salameh Feyzi. Da leva de DVDs de arte.'
 imdb: "0191043"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Mohammad é um menino cego que precisa frequentar uma escola para deficiente que fica no fim do mundo, na cidade de Teerã. Ou seria o fim do mundo onde ele mora? Contextualizado no Irã, esta fábula escrita e dirigida por Majid Majidi, assim como ele fez em [Filhos do Paraíso](/filhos-do-paraiso) aborda personagens limitados, pobres de espírito, mas não tendo escolha exceto tendo que viver como cada um de nós.

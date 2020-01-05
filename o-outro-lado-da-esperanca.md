@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "5222918"
 
 date: 2017-11-06T20:49:42
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "O Outro Lado da Esperanca"
 stars: "3/5"
 desc: "O Outro Lado da Esperanca. Toivon tuolla puolen (Finland, 2017). Dirigido por Aki Kaurismäki. Escrito por Aki Kaurismäki. Com Ville Virtanen (Oikeussalin viranomainen), Dome Karukoski (Huligaani bussipysäkillä), Kati Outinen (Vaatekaupan omistaja), Tommi Korpela (Melartin), Sakari Kuosmanen (Wikström), Sherwan Haji (Khaled), Niroz Haji (Miriam), Tommi Eronen (Huligaani bussipysäkillä), Mirja Oksanen (Oikeussalin viranomainen). Crítica escrita para o site CinemAqui."

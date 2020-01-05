@@ -2,7 +2,7 @@
 imdb: "0780521"
 
 date: "2012-12-09"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "A Princesa e O Sapo"
 stars: "3/5"
 desc: "A Princesa e O Sapo. The Princess and the Frog (USA, 2009). Dirigido por Ron Clements, John Musker. Escrito por Ron Clements, John Musker, Rob Edwards, Ron Clements, John Musker, Greg Erb, Jason Oremland, Don Hall, E.D. Baker. Com Anika Noni Rose, Bruno Campos, Keith David, Michael-Leon Wooley, Jennifer Cody, Jim Cummings, Peter Bartlett, Jenifer Lewis, Oprah Winfrey."

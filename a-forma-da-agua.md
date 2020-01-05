@@ -1,7 +1,7 @@
 ---
 date: 2018-04-20T21:05:49-03:00
 title: "A Forma da Água"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "5580390"
 
 stars: "3/5"

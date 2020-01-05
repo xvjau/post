@@ -3,7 +3,7 @@ date: "2019-11-08"
 title: "Azougue Nazaré"
 desc: '"Azougue Nazaré" (Brasil, 2018), escrito por Jeronimo Lemos e Tiago Melo, dirigido por Tiago Melo, com Valmir do Côco, Joana Gatis, Mestre Barachinha, Edilson Silva e Mohana Uchoa. Escrito para o CinemAqui.'
 imdb: "8183418"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 As tradições e os conflitos religiosos da Zona da Mata em Pernambuco são o pano de fundo de Azougue Nazaré, um filme que evoca seu tom de fantasia sobrenatural logo antes que poderíamos apostar de este ser um documentário. Primeira direção de Tiago Melo, este filme pode ser proposto tanto quanto um documentário da cultura da Zona da Mata quanto uma ficção solta sobre os conflitos atuais da região.

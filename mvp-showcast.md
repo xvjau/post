@@ -1,7 +1,7 @@
 ---
 date: "2013-12-01"
 title: 'MVP ShowCast 2013: C++11 e C++14 no Visual Studio 2013'
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 [![ShowCast](/images/xQDdWgy.png)](/images/11157410456_0e97faa417_o.png)
 

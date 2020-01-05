@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "3296658"
 
 date: "2016-02-02"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "A Ovelha Negra"
 stars: "4/5"
 desc: "A Ovelha Negra. Hrútar (Iceland, 2015). Dirigido por Grímur Hákonarson. Escrito por Grímur Hákonarson. Com Sigurður Sigurjónsson, Theodór Júlíusson, Charlotte Bøving, Jon Benonysson, Gunnar Jónsson, Þorleifur Einarsson, Sveinn Ólafur Gunnarsson, Ingrid Jónsdóttir, Jörundur Ragnarsson. Crítica escrita para o site CinemAqui."

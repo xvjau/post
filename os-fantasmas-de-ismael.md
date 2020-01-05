@@ -1,7 +1,7 @@
 ---
 date: 2018-04-29T22:09:52-03:00
 title: "Os Fantasmas de Ismael"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "5687040"
 
 stars: "4/5"

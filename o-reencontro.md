@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "5348236"
 
 date: 2017-07-21T13:44:32
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "O Reencontro"
 stars: "4/5"
 desc: "O Reencontro. Sage femme (France, 2017). Dirigido por Martin Provost. Escrito por Martin Provost. Com Catherine Deneuve (Béatrice Sobo dite Sobolevski), Catherine Frot (Claire Breton), Olivier Gourmet (Paul Baron), Quentin Dolmaire (Simon), Mylène Demongeot (Rolande), Pauline Etienne (Cécile Amado - une patiente), Pauline Parigot (Lucie), Marie Gili-Pierre (Evelyne), Audrey Dana (La chef de service hôpital moderne). Crítica escrita para o site CinemAqui."

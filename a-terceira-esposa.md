@@ -4,7 +4,7 @@ title: "A Terceira Esposa"
 desc: "The Third Wife (Vietnã, 2018), escrito e dirigido por Ash Mayfair, com Long Le Vu, Mai Thu Huong Maya, Nguyen Phuong Tra My. #mostrasp Crítica escrita para o site CinemAqui."
 imdb: "7692966"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "2/5"
 external: "cinemaqui"
 ---

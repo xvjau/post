@@ -1,6 +1,6 @@
 ---
 title: Sobre a BitForge
-categories: [ "blog" ]
+tags: [ "blog" ]
 date: 2014-07-03
 ---
 http://www.bitforge.com.br

@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "4210344"
 
 date: 2017-10-11T19:31:27
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "El Pampero"
 stars: "3/5"
 desc: "El Pampero. El Pampero (Argentina, 2017). Dirigido por Matías Lucchesi. Escrito por Matías Lucchesi, Gonzalo Salaya. Com Julio Chávez (Fernando), Pilar Gamboa (Carla), César Troncoso (Marcos). Crítica escrita para o site CinemAqui."

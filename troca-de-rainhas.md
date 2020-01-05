@@ -4,7 +4,7 @@ title: "Troca de Rainhas"
 desc: "L'échange des princesses (França, Bélgica, 2017), escrito por Marc Dugain baseado e Chantal Thomas baseado no romance deste, dirigido por Dugain, com Lambert Wilson, Anamaria Vartolomei, Olivier Gourmet, Catherine Mouchet, Kacey Mottet Klein, Igor van Dessel, Juliane Lepoureau, Patrick Descamps, Thomas Mustin. Crítica escrita para o site CinemAqui."
 imdb: "6350304"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

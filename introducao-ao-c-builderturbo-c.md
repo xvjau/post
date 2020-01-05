@@ -1,7 +1,7 @@
 ---
 date: "2007-09-26"
 title: Introdução ao C++ Builder...Turbo C++
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 [![Borland Developer Studio](/images/FYJMkF7.png)](/images/borland-developer-studio.png)Após mais de [um ano de tentativas](http://www.blogger.com/profile/05210880271965378292), finalmente consegui instalar e iniciar com sucesso o **Borland Developer Studio**. Esse foi o nome pomposo dado pela Borland para a "continuação" do velho [C++ Builder](http://cc.codegear.com/free/cppbuilder) e seus parentes, o Delphi e o C# Builder.
 

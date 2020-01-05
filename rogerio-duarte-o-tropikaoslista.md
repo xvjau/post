@@ -1,7 +1,7 @@
 ---
 date: 2018-04-18T17:01:20-03:00
 title: "Rogério Duarte, o Tropikaoslista"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 desc: "Rogério Duarte, o Tropikaoslista (Brasil, 2016), documentário dirigido por José Walter Lima, com Rogério Duarte, Gilberto Gil, Caetano Veloso. Crítica escrita para o site CinemAqui."
 external: "cinemaqui"

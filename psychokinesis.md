@@ -1,7 +1,7 @@
 ---
 date: 2018-05-04T23:51:41-03:00
 title: "Psychokinesis"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "6890582"
 
 stars: "4/5"

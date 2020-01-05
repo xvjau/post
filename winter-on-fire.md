@@ -2,7 +2,7 @@
 imdb: "4908644"
 
 date: "2016-03-27"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Winter on Fire"
 stars: "5/5"
 desc: "Winter on Fire. Winter on Fire: Ukraine's Fight for Freedom (UK, 2015). Dirigido por Evgeny Afineevsky. Escrito por Den Tolmor. Com Bishop Agapit, Serhii Averchenko, Kristina Berdinskikh, Pavlo Dobryanskyy, Valery Dovgiy, Bogdan Dubas, Kurganskyi Eduard, Mykhailo Havryliuk, Natan Hazin."

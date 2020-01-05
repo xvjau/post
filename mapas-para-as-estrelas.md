@@ -2,7 +2,7 @@
 imdb: "2172584"
 
 date: "2015-03-19"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Mapas para as Estrelas"
 stars: "4/5"
 desc: "Mapas para as Estrelas. Maps to the Stars (Canada, 2014). Dirigido por David Cronenberg. Escrito por Bruce Wagner. Com Julianne Moore, Mia Wasikowska, John Cusack, Evan Bird, Olivia Williams, Robert Pattinson, Kiara Glasco, Sarah Gadon, Dawn Greenhalgh. Crítica escrita para o site CinemAqui."

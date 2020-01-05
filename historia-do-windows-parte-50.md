@@ -1,7 +1,7 @@
 ---
 date: "2007-10-08"
 title: História do Windows - parte 5.0
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 [![Windows 2000 Logo](../images/9rFlXJ1.png)](http://en.wikipedia.org/wiki/Windows_2000)**Windows 2000**
 

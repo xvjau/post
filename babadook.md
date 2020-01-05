@@ -2,7 +2,7 @@
 imdb: "2321549"
 
 date: "2015-01-22"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "The Babadook"
 stars: "5/5"
 desc: "The Babadook. The Babadook (Australia, 2014). Dirigido por Jennifer Kent. Escrito por Jennifer Kent. Com Essie Davis, Daniel Henshall, Noah Wiseman, Tim Purcell, Tiffany Lyndall-Knight, Michelle Nightingale, Cathy Adamek, Peta Shannon, Hayley McElhinney."

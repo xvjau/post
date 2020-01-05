@@ -2,7 +2,7 @@
 imdb: "0090305"
 
 date: "2011-08-22"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Mulher Nota Mil"
 stars: "2/5"
 desc: "Mulher Nota Mil. Weird Science (USA, 1985). Dirigido por John Hughes. Escrito por John Hughes. Com Anthony Michael Hall, Kelly LeBrock, Ilan Mitchell-Smith, Bill Paxton, Suzanne Snyder, Judie Aronson, Robert Downey Jr., Robert Rusler, Vernon Wells."

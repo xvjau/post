@@ -2,7 +2,7 @@
 imdb: "5562056"
 
 date: "2016-10-23"
-categories: [ "series" ]
+tags: [ "series" ]
 title: "Easy"
 stars: "4/5"
 desc: "Easy. Dirigido por Joe Swanberg. Escrito por Joe Swanberg. Com Jane Adams (Annabelle Jones), Zazie Beetz (Noelle), Aya Cash (Sherri), Dave Franco (Jeff), Jacqueline Toboni (Jo), Kiersey Clemons (Chase), Evan Jonigkeit (Matt), Rebecca Spence (Cheryl), Noah Hopkins (Russ)."

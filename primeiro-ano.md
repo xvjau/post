@@ -4,7 +4,7 @@ title: "Primeiro Ano"
 desc: "Première année (aka The Freshman) (França, 2018), escrito e dirigido por Thomas Lilti, com Vincent Lacoste e William Lebghil. Crítica escrita para o site CinemAqui."
 imdb: "6690004"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
 ---

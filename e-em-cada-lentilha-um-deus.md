@@ -3,7 +3,7 @@ date: "2019-10-21"
 title: "E Em Cada Lentilha Um Deus"
 desc: '"Y En Cada Lenteja Un Dios" (Espanha, 2018), escrito por Miguel Ángel Jiménez e Luis Moya, dirigido por Miguel Ángel Jiménez. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9100090"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Em cada lentilha um Deus mostra como é difícil manter uma narrativa em documentários sem roteiro. Esse é um deles. Acompanhamos as memórias e reflexões sobre Luis, um roteirista que ajuda o irmão e o primo a escrever um livro sobre a culinária do restaurante da família. Nessa viagem culinária nosso único guia são os pratos do "L'Escaleta".

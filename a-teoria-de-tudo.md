@@ -3,7 +3,7 @@ date: "2018-01-11"
 imdb: "2980516"
 
 stars: "3/5"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "A Teoria de Tudo"
 desc: "A Teoria de Tudo."
 ---

@@ -1,7 +1,7 @@
 ---
 date: "2014-03-28"
 title: A moda agora é levar lambda na função
-categories: [ "code" ]
+tags: [ "code" ]
 ---
 [![moda-lambda](/images/bYiA9RR.jpg)](/images/13469488213_d22f6b1e92_o.jpg)
 

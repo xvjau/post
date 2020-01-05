@@ -3,7 +3,7 @@ date: "2019-10-09"
 title: "Chuvas Suaves Virão"
 desc: '"Vendrán lluvias suaves" (Argentina, 2018), escrito por Tomás Dotta e Iván Fund, dirigido por Iván Fund, com Alma Bozzo Kloster, Florencia Canavesio e Massimo Canavesio. Escrito para o CinemAqui pela cobertura da #mostrasp.'
 imdb: "9213792"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 É uma adaptação de livro? Poderia ser. Chuvas Suaves Virão explora essa possibilidade lúdica de livro infanto-juvenil com suas ilustrações de início de capítulo junto da frase principal, e nos coloca em contato com uma aventura protagonizada por crianças que estão sempre segurando lanternas, a la Stranger Things, mas argentinas, menos barulhentas e mais maduras.

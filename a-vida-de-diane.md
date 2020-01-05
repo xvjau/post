@@ -4,7 +4,7 @@ title: "A Vida De Diane"
 desc: "A Vida De Diane (EUA, 2018), escrito por Kent Jones, dirigido por Kent Jones, com Mary Kay Place, Jake Lacy, Estelle Parsons. Crítica escrita para o site CinemAqui."
 imdb: "6705860"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

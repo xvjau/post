@@ -2,7 +2,7 @@
 date: "2019-08-17"
 title: "Restaurante Jojo Ramen"
 desc: "Esse é daqueles hipsters onde você paga 50 conto por um prato de miojo com tempero de vinagrete."
-categories: [ "food" ]
+tags: [ "food" ]
 stars: "2/5"
 ---
 Localizado fora do circuito dos lámens, o Jojo tem tudo o que um millenial precisa para ser feliz: lámen (que tá na moda), fila (que nunca sai de moda) e pessoas comentando o tempo todo, no melhor/pior estilo de paulista, em como é bom esse lugar.

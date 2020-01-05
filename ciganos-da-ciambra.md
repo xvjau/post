@@ -1,7 +1,7 @@
 ---
 date: 2018-04-20T15:00:15-03:00
 title: "Ciganos da Ciambra"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "6802896"
 
 stars: "5/5"

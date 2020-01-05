@@ -4,7 +4,7 @@ title: "Fim de Caso"
 imdb: "0172396"
 desc: "The End of the Affair. United Kingdom, United States, 1999. Dirigido por Neil Jordan, escrito por Graham Greene (livro), Neil Jordan. Com Ralph Fiennes, Stephen Rea, Julianne Moore."
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Nossa, como chove em Londre. Não me admira que os restaurantes têm essas chapelarias na entrada. De qualquer forma, além da chuva, é um clima cinzento, com o tempo instável. Me lembro de uma sequência em Fim de Caso em que o personagem de Ralph Fiennes, Bendrix, está seguindo sua amante, interpretada por Julianne Moore, Sarah, e está chovendo os diabos. Daí eles entram em um cinema, mas mal se sentam, pois ela escapa pela porta lateral. Do lado de fora já está seco e sem chuva, justamente para quando entrarem na igreja existirá o clássico quadro da luz do sol adentrando as janelas da igreja. Bem pensado, Neil Jordan.

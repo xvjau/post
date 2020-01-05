@@ -4,7 +4,7 @@ title: "Jovens Infelizes Ou Um Homem Que Grita Não É Um Urso Que Dança"
 desc: "Jovens Infelizes Ou Um Homem Que Grita Não É Um Urso Que Dança (Brasil, 2016), escrito e dirigido por Thiago B. Mendonça, com Clarissa Moser como Clarissa, Ieltxu Martinez Ortueta como Basco, Rafaela Penteado como Rafa, Stella Prata como Ana, Alex Rocha como Alex, Bebel Mendonça como Filha, Zé Antônio de Carmmo como o Pai de Clarissa. Crítica escrita para o site CinemAqui."
 imdb: "5507620"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
 ---

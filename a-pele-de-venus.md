@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "2406252"
 
 date: "2015-09-16"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "A Pele de Vênus"
 stars: "4/5"
 desc: "A Pele de Vênus. La Vénus à la fourrure (France, 2013). Dirigido por Roman Polanski. Escrito por David Ives, Roman Polanski, David Ives, Leopold von Sacher-Masoch. Com Emmanuelle Seigner, Mathieu Amalric. Crítica escrita para o site CinemAqui."

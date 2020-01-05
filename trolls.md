@@ -2,7 +2,7 @@
 imdb: "1679335"
 
 date: "2016-11-17"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Trolls"
 stars: "5/5"
 desc: "Trolls. Trolls (USA, 2016). Dirigido por Walt Dohrn, Mike Mitchell. Escrito por Jonathan Aibel, Glenn Berger, Erica Rivinoja, Thomas Dam. Com Anna Kendrick (Poppy), Justin Timberlake (Branch), Zooey Deschanel (Bridget), Christopher Mintz-Plasse (King Gristle), Christine Baranski (Chef), Russell Brand (Creek), Gwen Stefani (DJ Suki), John Cleese (King Gristle Sr.), James Corden (Biggie)."

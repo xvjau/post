@@ -1,7 +1,7 @@
 ---
 date: 2018-05-01T14:47:29-03:00
 title: "Acertando o Passo"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "4538916"
 
 stars: "4/5"

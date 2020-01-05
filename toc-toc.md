@@ -1,7 +1,7 @@
 ---
 date: 2018-05-26T15:33:19-03:00
 title: "Toc Toc"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "6060156"
 
 stars: "2/5"

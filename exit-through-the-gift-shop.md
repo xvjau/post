@@ -3,7 +3,7 @@ imdb: "1587707"
 
 date: "2014-06-07"
 review: [ "2017" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Exit Through the Gift Shop"
 stars: "5/5"
 desc: "Exit Through the Gift Shop. Exit Through the Gift Shop (UK, 2010). Dirigido por Banksy. Com Banksy, Mr. Brainwash, Debora Guetta, Space Invader, Monsieur André, Zeus, Shepard Fairey, Ron English, Caledonia Curry."

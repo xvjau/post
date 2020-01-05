@@ -1,7 +1,7 @@
 ---
 date: "2007-09-06"
 title: O passado torto de um programador por acaso
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 _Obs.: este é um artigo não-técnico, o que quer dizer que você pode se deparar com termos desconhecidos. Procure ter à mão um [dicionário de pessoas comuns](http://compare.buscape.com.br/categoria?id=30&lkout=1&kw=houaiss+aurelio+michaelis&site_origem=1293522)._
 

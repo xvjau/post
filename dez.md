@@ -4,7 +4,7 @@ title: "Dez"
 desc: "Dah. Irã, França, 2003. Falado em Persa. Escrito e dirigido por Abbas Kiarostami. Com Mania Akbari, Amin Maher, Kamran Adl. Cannes."
 imdb: "0301978"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Limitados pela visão do banco do motorista e do passageiro de um carro acompanhamos uma mulher em sua nova vida. Divorciada com um filho que não a apoia ela conversa com algumas pessoas. O filme é tão realista que perde a graça na segunda ou terceira conversas de "Dez" que o diretor Abbas Kiarostami quer nos mostrar, divididas por um contador regressivo super-brega.

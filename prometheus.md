@@ -2,7 +2,7 @@
 imdb: "1446714"
 
 date: "2012-06-19"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Prometheus"
 stars: "3/5"
 desc: "Prometheus. Prometheus (USA, 2012). Dirigido por Ridley Scott. Escrito por Jon Spaihts, Damon Lindelof, Dan O'Bannon, Ronald Shusett. Com Noomi Rapace, Michael Fassbender, Charlize Theron, Idris Elba, Guy Pearce, Logan Marshall-Green, Sean Harris, Rafe Spall, Emun Elliott."

@@ -4,7 +4,7 @@ title: "Excelentíssimos"
 desc: "Excelentíssimos (Brasil, 2018), dirigido por Douglas Duarte. Documentário, política, impeachment, House of Cards, história, poder, corrupção. Crítica escrita para o site CinemAqui."
 imdb: "9046772"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
 ---

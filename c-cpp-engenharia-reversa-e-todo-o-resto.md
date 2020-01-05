@@ -1,7 +1,7 @@
 ---
 date: "2015-04-27"
 title: C, C++, Engenharia Reversa e Todo o Resto
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 ![](/images/p3q06SA.png)
 

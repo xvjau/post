@@ -1,7 +1,7 @@
 ---
 date: 2018-03-18T21:55:28-03:00
 title: "Sharknado 3"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "3899796"
 
 stars: "1/5"

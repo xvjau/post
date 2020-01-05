@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "5215952"
 
 date: "2016-12-15"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "O Lamento"
 stars: "3/5"
 desc: "O Lamento. Goksung (South Korea, 2016). Dirigido por Hong-jin Na. Escrito por Hong-jin Na. Com Do Won Kwak (Jong-Goo), Woo-hee Chun (The Woman of No-name), Jung-min Hwang (Il-Gwang), So-yeon Jang, Han-Cheol Jo, Hwan-hee Kim (Hyo-jin), Jun Kunimura (The Stranger). Crítica escrita para o site CinemAqui."

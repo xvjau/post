@@ -4,7 +4,7 @@ title: "Cinderela Pop"
 desc: "Cinderela Pop (Brasil, 2019), escrito por Bruno Garotti, Flávia Lins e Silva e Marcelo Saback baseados no livro de Paula Pimenta, dirigido por Garotti, com Maisa Silva, Filipe Bragança, Fernanda Paes Leme. Crítica escrita para o site CinemAqui."
 imdb: "8716800"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

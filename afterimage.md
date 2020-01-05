@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "5186236"
 
 date: 2017-08-10T21:31:36
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Afterimage"
 stars: "4/5"
 desc: "Afterimage. Powidoki (Poland, 2016). Dirigido por Andrzej Wajda. Escrito por Andrzej Wajda, Andrzej Mularczyk. Com Boguslaw Linda (Wladyslaw Strzeminski), Aleksandra Justa (Katarzyna Kobro), Bronislawa Zamachowska (Nika Strzeminska), Zofia Wichlacz (Hania), Krzysztof Pieczynski (Julian Przybos), Mariusz Bonaszewski (Madejski), Szymon Bobrowski (Wlodzimierz Sokorski), Aleksander Fabisiak (Rajner), Paulina Galazka (Wasinska). Crítica escrita para o site CinemAqui."

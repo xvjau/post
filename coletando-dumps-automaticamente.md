@@ -1,7 +1,7 @@
 ---
 date: "2012-05-17"
 title: Coletando dumps automaticamente
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps** key.
 

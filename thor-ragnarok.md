@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "3501632"
 
 date: 2017-10-25T00:05:52
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Thor Ragnarök"
 stars: "3/5"
 desc: "Thor Ragnarök. Thor: Ragnarok (USA, 2017). Dirigido por Taika Waititi. Escrito por Eric Pearson, Craig Kyle, Christopher Yost. Com Chris Hemsworth (Thor), Tom Hiddleston (Loki), Cate Blanchett (Hela), Idris Elba (Heimdall), Jeff Goldblum (Grandmaster), Tessa Thompson (Valkyrie), Karl Urban (Skurge), Mark Ruffalo (Bruce Banner / Hulk), Anthony Hopkins (Odin). Crítica escrita para o site CinemAqui."

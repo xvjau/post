@@ -3,7 +3,7 @@ date: "2019-08-20"
 title: "O Dorminhoco"
 desc: '"Sleeper" (EUA, 1973), escrito por Woody Allen e Marshall Brickman, dirigido por Woody Allen, com Woody Allen, Diane Keaton e John Beck.'
 imdb: "0070707"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "2/5"
 ---
 Essa é uma das comédias pastelão dirigida por Woody Allen, como [Tudo o Que Você Sempre Quis Saber Sobre Sexo e Tinha Medo de Perguntar](/tudo-o-que-voce-sempre-quis-saber-sobre-sexo-e-tinha-medo-de-perguntar) e [Um Assaltante Bem Trapalhão](/um-assaltante-bem-trapalhao). Particularmente não sou muito fã dessa fase inicial do diretor, e nesse caso não é diferente. É uma comédia escrachada com ideias soltas e um roteiro que apenas nos leva em direção às piadas. Mas como isso é Woody Allen ainda resta uma certa textura no final das contas.

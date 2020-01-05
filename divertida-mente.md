@@ -3,7 +3,7 @@ imdb: "2096673"
 
 date: "2015-06-24"
 review: [ "2016", "2019" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Divertida Mente"
 stars: "4/5"
 desc: "Divertida Mente. Inside Out (USA, 2015). Dirigido por Pete Docter, Ronaldo Del Carmen. Escrito por Pete Docter, Ronaldo Del Carmen, Meg LeFauve, Josh Cooley, Pete Docter. Com Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader, Lewis Black, Mindy Kaling, Kaitlyn Dias, Diane Lane, Kyle MacLachlan."

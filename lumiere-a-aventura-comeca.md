@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "5954462"
 
 date: 2017-12-02T00:56:06
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Lumière! A Aventura Começa"
 stars: "5/5"
 desc: "Lumière! A Aventura Começa. Lumière! (France, 2016). Dirigido por Thierry Frémaux. Escrito por Thierry Frémaux. Com Thierry Frémaux (Narrator), Martin Scorsese (Himself), François Clerc (The Gardener), Benoît Duval (The Boy), Leopoldo Fregoli (Himself), Loie Fuller (Herself), Madeleine Koehler (Herself), Mrs. Auguste Lumiere (Herself), Andrée Lumière (Himself). Crítica escrita para o site CinemAqui."

@@ -4,7 +4,7 @@ title: "A Pé Ele Não Vai Longe"
 desc: "Don't Worry, He Won't Get Far on Foot. França, EUA, 2018. Escrito por John Callahan (a partir do seu livro), Gus Van Sant, Jack Gibson e William Andrew Eatman. Dirigido por Van Sant. Com Joaquin Phoenix como John Callahan, Johah Hill, Rooney Mara, Jack Black."
 imdb: "6288124"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Com a estreia desse filme talvez o politicamente correto anuncie os seus finalmente em 2019. Ou talvez não. A polêmica por trás do cartunista John Callahan existiu simplesmente porque ele escrevia em uma cidadezinha que levava a sério demais tudo que dizia respeito aos incapacitados, religiosos, etc. Bom, não se pode culpá-los, pois essa tendência em exagerar os dramas da vida moderna se espalhou para praticamente todo o Ocidente.

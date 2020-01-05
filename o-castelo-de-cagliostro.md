@@ -4,7 +4,7 @@ title: "O Castelo de Cagliostro"
 desc: "Rupan sansei: Kariosutoro no shiro. Japão, 1979. Dirigido por Hayao Miyazaki. Roteiro de Miyazaki e Haruya Yamazaki baseado no mangá de Monkey Punch com personagens de Maurice Leblanc. Com Yasuo Yamada, Eiko Masuyama, Kiyoshi Kobayashi."
 imdb: "0079833"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Esta é a estreia de Hayao Miyazaki na direção. Miyazaki é o fundador dos estúdios Ghibli, responsável por filmes como [A Viagem de Chihiro](/a-viagem-de-chihiro), [Meu Amigo Totoro](/meu-amigo-totoro), [O Mundo dos Pequeninos](/o-mundo-dos-pequeninos), [Ponyo](/ponyo-uma-amizade-que-veio-do-mar), [The Wind Rises](/the-wind-rises). Com esse currículo eu não fiquei muito impressionado, mas satisfeito, em constatar que Miyazaki na direção conseguia desde o começo exaltar detalhes na animação com um nível de realismo que constrói um [castelo no ar](/o-castelo-no-ceu) com muito pouco. E ainda assim há poucos cineastas hoje com essa capacidade no olhar.

@@ -3,7 +3,7 @@ date: "2019-12-06"
 title: "Uma Mulher Alta"
 desc: '"Dylda" (Rússia, 2019), escrito por Kantemir Balagov e Aleksandr Terekhov, dirigido por Kantemir Balagov, com Viktoria Miroshnichenko, Vasilisa Perelygina e Andrey Bykov. Escrito para o CinemAqui.'
 imdb: "10199640"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Uma Mulher Alta é uma incursão estranha nas mentes e corações dos russos pós-guerra. Com a economia destruída e as relações sociais radicalmente alteradas, o filme de Kantemir Balagov realiza uma obra que parte da intimidade do triângulo amoroso mais bizarro que você verá esse ano para nos revelar as idiossincrasias que emergem de uma sociedade sem amor.

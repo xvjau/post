@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "2461150"
 
 date: "2016-08-12"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Gênios do Crime"
 stars: "3/5"
 desc: "Gênios do Crime. Masterminds (USA, 2016). Dirigido por Jared Hess. Escrito por Chris Bowman, Hubbel Palmer, Emily Spivey, Emily Spivey, Chris Bowman, Hubbel Palmer. Com Kate McKinnon, Kristen Wiig, Jason Sudeikis, Zach Galifianakis, Owen Wilson, Leslie Jones, Mary Elizabeth Ellis, Jon Daly, Ken Marino. Crítica escrita para o site CinemAqui."

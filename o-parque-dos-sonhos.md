@@ -4,7 +4,7 @@ title: "O Parque dos Sonhos"
 desc: "Wonder Park (Espanha, EUA, 2019), escrito por Josh Appelbaum, André Nemec, dirigido por David Feiss, Clare Kilner, Robert Iscove, com Brianna Denski, Jennifer Garner, Mila Kunis, John Oliver, Ken Jeong, Matthew Broderick. Os dubladores locais possuem alguns créditos em sites de notícia, mas para variar não há muitas informações do elenco. Crítica escrita para o site CinemAqui."
 imdb: "6428676"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

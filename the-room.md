@@ -1,7 +1,7 @@
 ---
 date: 2018-05-24T22:41:19-03:00
 title: "The Room"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "0368226"
 
 stars: "1/5"

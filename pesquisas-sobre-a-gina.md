@@ -1,7 +1,7 @@
 ---
 date: "2008-07-02"
 title: Pesquisas sobre a GINA
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 [![250px-xp_windows_security.png](/images/eNLvM3I.thumbnail.png)](/images/YprK2T7.png)Já sabemos o que é uma [GINA](http://www.caloni.com.br/gina-x-credential-provider). Afinal, todo mundo já viu uma antes. E sabemos que hoje em dia ela está morta.
 

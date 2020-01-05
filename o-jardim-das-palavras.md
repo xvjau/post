@@ -1,7 +1,7 @@
 ---
 imdb: "2591814"
 date: "2016-08-06"
-categories: [ "blog" ]
+tags: [ "blog" ]
 title: "O Jardim das Palavras"
 stars: "4/5"
 desc: "O Jardim das Palavras. Koto no ha no niwa (Japan, 2013). Dirigido por Makoto Shinkai. Escrito por Makoto Shinkai. Com Miyu Irino, Kana Hanazawa, Fumi Hirano, Gou Maeda, Takeshi Maeda, Yuka Terasaki, Takanori Hoshino, Suguru Inoue, Megumi Han."

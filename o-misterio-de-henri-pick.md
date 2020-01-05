@@ -3,7 +3,7 @@ date: "2019-07-19"
 title: "O Mistério de Henri Pick"
 desc: "The Mystery of Henri Pick. France, Belgium, 2019. Dirigido por Rémi Bezançon, escrito por Rémi Bezançon, Vanessa Portal, David Foenkinos. Com Fabrice Luchini, Camille Cottin, Alice Isaaz. Texto escrito para o site CinemAqui."
 imdb: "8263936"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 O Mistério de Henri Pick é um filme de investigação improvisada, mas ao mesmo tempo dialoga sobre como o marketing pode ser ao mesmo tempo perverso e necessário. "Dois terços dos franceses escrevem, mas ninguém lê", diz um personagem. Há todo um ar melancólico em torno dessa comédia fácil de digerir. Pelo menos na superfície.

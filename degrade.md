@@ -4,7 +4,7 @@ cinemaqui: "http://www.cinemaqui.com.br/degrade/"
 imdb: "4429074"
 
 date: "2017-05-19"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Degradê"
 stars: "3/5"
 desc: "Degradê. Dégradé (Occupied Palestinian Territory, 2015). Dirigido por Arab Nasser, Tarzan Nasser. Escrito por Arab Nasser, Tarzan Nasser. Com Hiam Abbass (Eftikhar), Victoria Balitska (Christine), Manal Awad (Safia), Mirna Sakhla (Zeinab), Maisa Abd Elhadi (Wedad), Nelly Abou Sharaf (Natalie), Wedad Al Naser (Sawsan), Dina Shuhaiber (Salma), Reem Talhami (Wafaa). Crítica escrita para o site CinemAqui."

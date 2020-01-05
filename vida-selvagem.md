@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "3480164"
 
 date: "2016-06-09"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Vida Selvagem"
 stars: "4/5"
 desc: "Vida Selvagem. Vie sauvage (Belgium, 2014). Dirigido por Cédric Kahn. Escrito por Okwari Fortin, Shahi'Yena Fortin, Xavier Fortin, Cédric Kahn, Nathalie Najem, Laurence Vidal. Com Mathieu Kassovitz, Céline Sallette, David Gastou, Sofiane Neveu, Romain Depret, Jules Ritmanic, Jenna Thiam, Tara-Jay Bangalter, Amandine Dugas. Crítica escrita para o site CinemAqui."

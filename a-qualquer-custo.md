@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "2582782"
 
 date: "2016-12-08"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "A Qualquer Custo"
 stars: "5/5"
 desc: "A Qualquer Custo. Hell or High Water (USA, 2016). Dirigido por David Mackenzie. Escrito por Taylor Sheridan. Com Dale Dickey (Elsie), Ben Foster (Tanner Howard), Chris Pine (Toby Howard), William Sterchi (Mr. Clauson), Buck Taylor (Old Man), Kristin Berg (Olney Teller), Jeff Bridges (Marcus Hamilton), Gil Birmingham (Alberto Parker), Jackamoe Buzzell (Archer City Deputy). Crítica escrita para o site CinemAqui."

@@ -3,7 +3,7 @@ imdb: "2294629"
 
 date: "2014-01-09"
 review: [ "2015" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Frozen Uma Aventura Congelante"
 stars: "4/5"
 desc: "Frozen Uma Aventura Congelante. Frozen (USA, 2013). Dirigido por Chris Buck, Jennifer Lee. Escrito por Jennifer Lee, Hans Christian Andersen, Chris Buck, Jennifer Lee, Shane Morris, Dean Wellins. Com Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad, Santino Fontana, Alan Tudyk, Ciarán Hinds, Chris Williams, Stephen J. Anderson."

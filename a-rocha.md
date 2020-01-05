@@ -3,7 +3,7 @@ date: "2019-09-29"
 title: "A Rocha"
 desc: '"The Rock" (EUA, 1996), escrito por Douglas Cook e David Weisberg, dirigido por Michael Bay, com Sean Connery, Nicolas Cage e Ed Harris. Assisti na Netflix porque queria ver um filme farofa velho tipo Independence Day, mas eles tiraram do catálogo e deixei baixando.'
 imdb: "0117500"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Quem assiste [os Transformers](/transformers-o-lado-oculto-da-lua) da vida de Michael Bay não entende como ele pode ser bom na direção usando o mesmo estilo vídeo-clipe que o tornou famoso. Mas ele é. E A Rocha está aí para provar que estou dizendo a verdade.

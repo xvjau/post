@@ -4,7 +4,7 @@ title: "A Casa Caiu"
 desc: "Bringing Down the House. EUA, 2003. Dirigido por Adam Shankman, escrito por Jason Filardi, com Steve Martin, Queen Latifah, Eugene Levy."
 imdb: "0305669"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 A Casa Caiu é mais uma daquelas comédias em que um personagem fora do universo do protagonista chega e muda tudo, em versão black, mas além disso tem uma crítica social interessante. Além de ser black o suficiente para você sentir um pouco da ginga.

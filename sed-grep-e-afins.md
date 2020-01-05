@@ -1,7 +1,7 @@
 ---
 date: "2008-03-10"
 title: Sed, Grep e afins
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 Esse artigo é resultado de eu ter me matado para conseguir encontrar a forma correta de usar o aplicativo sed para fazer uma filtragem simples nos resultados de uma listagem de arquivos.
 

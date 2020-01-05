@@ -1,7 +1,7 @@
 ---
 date: 2018-03-24T01:41:32-03:00
 title: "Arábia"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "6400280"
 
 stars: "5/5"

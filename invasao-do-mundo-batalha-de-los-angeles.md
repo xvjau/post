@@ -2,7 +2,7 @@
 imdb: "1217613"
 
 date: "2011-04-27"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Invasão do Mundo Batalha de Los Angeles"
 stars: "3/5"
 desc: "Invasão do Mundo Batalha de Los Angeles. Battle Los Angeles (USA, 2011). Dirigido por Jonathan Liebesman. Escrito por Christopher Bertolini. Com Aaron Eckhart, Ramon Rodriguez, Will Rothhaar, Cory Hardrict, Jim Parrack, Gino Anthony Pesi, Ne-Yo, James Hiroyuki Liao, Bridget Moynahan."

@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "2650414"
 
 date: "2015-01-08"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Amor, Plástico e Barulho"
 stars: "4/5"
 desc: "Amor, Plástico e Barulho. Amor, Plástico e Barulho (Brazil, 2013). Dirigido por Renata Pinheiro. Escrito por Sérgio Oliveira, Sérgio Oliveira, Renata Pinheiro, Renata Pinheiro, Renata Pinheiro. Com Jennyfer Caldas, Dedesso, Rodrigo García, Everton Gomes, Maeve Jinkings, Nash Laila, Paulo Michelotto, Leo Pyrata, Rodrigo Riszla. Crítica escrita para o site CinemAqui."

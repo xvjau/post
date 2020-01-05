@@ -2,7 +2,7 @@
 date: 2018-02-10T22:30:31
 imdb: "7115328"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 title: "Paulistas"
 desc: "Paulistas. Crítica escrita para o site CinemAqui."

@@ -3,7 +3,7 @@ date: "2019-10-24"
 title: "O Pai"
 desc: '"The Father" (Bulgária e Grécia, 2019), escrito por Kristina Grozeva, Decho Taralezhkov e Petar Valchanov, dirigido por Kristina Grozeva e Petar Valchanov, com Ivan Barnev, Ivan Savov e Tanya Shahova. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "10409554"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 O Pai é um filme que vai se percebendo o drama aos poucos. Ninguém está narrando a história, então você terá que acompanhar os detalhes pelos diálogos. E depois de um filme inteiro, sua última frase ressignifica tudo o que havíamos visto anteriormente.

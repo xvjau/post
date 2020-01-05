@@ -4,7 +4,7 @@ title: "O Primeiro Mentiroso"
 desc: "The Invention of Lying. Escrito, dirigido e produzido por Ricky Gervais e Matthew Robinson. Com Ricky Gervais, Jennifer Garner, Jonah Hill, Louis C.K. e mais uma trupe de comediantes."
 imdb: "1058017"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Esta é daquelas comédias que tem o humor de comediantes de standup, mas que deu certo. Bom, Rick Gervais dificilmente dá errado. Aqui ele parte de uma história original, o que é louvável, pois ela é mais complicada de desenvolver do que parece. E cai no lugar-comum porque ele não é um roteirista de primeira.

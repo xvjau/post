@@ -1,7 +1,7 @@
 ---
 date: 2018-12-30
 title: "12 Regras para a Vida, por Jordan Peterson"
-categories: [ "blog" ]
+tags: [ "blog" ]
 desc: "12 Rules for Life. Por Jordan B. Peterson"
 
 ---

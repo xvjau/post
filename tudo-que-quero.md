@@ -1,7 +1,7 @@
 ---
 date: 2018-04-11T17:31:48-03:00
 title: "Tudo que Quero"
-categories: [ "movies" ]
+tags: [ "movies" ]
 imdb: "4652650"
 
 stars: "3/5"

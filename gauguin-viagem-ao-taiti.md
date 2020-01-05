@@ -4,7 +4,7 @@ title: "Gauguin: Viagem ao Taiti"
 desc: "Gauguin - Voyage de Tahiti (França, 2017), escrito por Edouard Deluc, Etienne Comar, Thomas Lilti e Sarah Kaminsky baseados no livro de Paul Gauguin, dirigido por Edouard Deluc, com Vincent Cassel, Tuheï Adams, Malik Zidi. Crítica escrita para o site CinemAqui."
 imdb: "6330052"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

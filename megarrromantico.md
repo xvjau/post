@@ -4,7 +4,7 @@ title: "Megarrromântico"
 desc: "Isn't It Romantic. EUA, 2019. Dirigido por Todd Strauss-Schulson. Escrito por Erin Cardillo, Dana Fox, Katie Silberman. Com Rebel Wilson, Liam Hemsworth, Adam Devine. Assisti na Netflix e quase me arrependi. Não, me arrependi."
 imdb: "2452244"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "2/5"
 ---
 Eis que vemos, no começo do filme, uma criança pré-adolescente, um pouco obesa, mas não o suficiente para ser um caso grave. Detalhe: diferente do estereótipo ela não esta comendo compulsivamente como um problema crônico. Ela está assistindo a uma comédia romântica. O filme é Uma Linda Mulher, com Julia Roberts no papel de "sorriso de um milhão de dólares", que recebe mimos de um milionário interpretado por Richard Gere. Ela sonha com este mundo mágico onde tudo é bonito e há finais felizes. Sua mãe, então, vomita algumas verdades sobre o mundo, jogando um sermão inflado demais para uma criança que está apenas se divertindo em frente à TV. Diz que ninguém faria um filme sobre "mulheres como elas", pois isso seria depressivo; em seguida lista defeitos físicos, no que eu concluo que quando ela diz "como elas" ela está se referindo apenas à aparência de mãe e filha. Pois bem. Diante dessa visão da vida que acabara de receber, a criança cresce. A vemos agora independente, trabalhando, e adivinha só? Ainda um pouco obesa. Ou ela não aprendeu nada com sua mãe ou desistiu de se transformar em Julia Roberts quando crescesse. Nunca sabemos disso na história, apenas que é uma amargurada pela falsidade dos filmes e que essa é uma história sobre "não quero aprender verdades da vida; logo vou desafiá-las e mudar o mundo". E vou continuar gorda, sim.

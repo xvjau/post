@@ -1,7 +1,7 @@
 ---
 date: "2016-05-31"
 title: "Cezinha Explica"
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 O Cezinha, ex-colega meu de suporte e um amigo que não vejo há um tempo, levou a curiosidade e o empenho até as últimas consequências e criou um [canal de vídeos](https://www.youtube.com/channel/UCoBhimDZSa1pnQxbiS9W7Sw) onde explica procedimentos que o suporte técnico precisa quase sempre realizar para informar ao desenvolvimento de um programa com problemas o que está dando de errado.
 

@@ -2,7 +2,7 @@
 imdb: "1392170"
 
 date: "2012-04-01"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Jogos Vorazes"
 stars: "4/5"
 desc: "Jogos Vorazes. The Hunger Games (USA, 2012). Dirigido por Gary Ross. Escrito por Gary Ross, Suzanne Collins, Billy Ray, Suzanne Collins. Com Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields, Liam Hemsworth, Elizabeth Banks, Sandra Ellis Lafferty, Paula Malcomson, Rhoda Griffis."

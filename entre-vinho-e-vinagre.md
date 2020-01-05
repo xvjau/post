@@ -4,7 +4,7 @@ title: "Entre Vinho e Vinagre"
 desc: "Wine Country. EUA, 2019. Dirigido por Amy Poehler, escrito por Liz Cackowski, Emily Spivey, com Amy Poehler, Rachel Dratch, Ana Gasteyer, Maya Rudolph, Paula Pell, Emily Spivey, Jay Larson, Tina Fey e Maya Erskine."
 imdb: "8169446"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Entre Vinho e Vinagre, ou Wine Country, é uma versão alternativa de Sideways se ele fosse sobre mulheres de meia-idade e seus roteiristas soubesse de antemão que menosprezar uvas pode chacoalhar o mercado de vinhos. Você sabia que por causa que no filme estrelado por Paul Giamatti seu personagem destrata o Merlot por ser "fácil demais de beber", elogia as qualidades do Pinot Noir e os preços dessas uvas na vida real despencam e disparam? Este é o "[Sideways Effect](https://www.google.com/search?q=Sideways+Effect)" e este é o mundo do vinho, onde qualquer comentário subjetivo de um personagem fictício de um filme pode influenciar um mercado bilionário de gente rica e esnobe.

@@ -1,7 +1,7 @@
 ---
 date: "2008-05-13"
 title: Kernel Mode >> User Mode
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 Existem algumas situações onde um depurador WYSIWYG é artigo de luxo.
 

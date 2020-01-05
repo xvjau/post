@@ -4,7 +4,7 @@ title: "As Horas"
 desc: "The Hours. EUA, Reino Unido, 2002. Dirigido por Stephen Daldry, escrito por David Hare baseado em livro de Michael Cunningham. Com Meryl Streep, Nicole Kidman, Julianne Moore."
 imdb: "0274558"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Um filme é depressivo e te deixa depressivo. Ele foi bem sucedido como um filme? Não para mim. Eu não li nenhum dos livros e não gosto muito desse filme. Dizem que foi uma excelente adaptação. Bom, ele conta várias histórias de gente depressiva em épocas e lugares diferentes e em alguns momentos as histórias se juntam. Mas seus personagens e suas histórias são tão depressivos que quem se importa?

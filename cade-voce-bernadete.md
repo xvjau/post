@@ -3,7 +3,7 @@ date: "2019-11-01"
 title: "Cade Você, Bernadete?"
 desc: "'Where'd You Go, Bernadette' (EUA, 2019), escrito por Richard Linklater, Holly Gent e Vincent Palmo Jr. baseado no livro de Maria Semple, dirigido por Richard Linklater, com Cate Blanchett, Billy Crudup, Emma Nelson e Kristen Wiig. Escrito para o CinemAqui."
 imdb: "2365580"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 "Cadê Você, Bernadete?" é um filme que projeta em seus humanos mensagens mais gerais a respeito de relacionamento e sociedade. Em algum momento alguém usa a desculpa de que a verdade é muito complicada e a resposta recebida é que sim, ela é complicada, mas isso não quer dizer que não devemos tentar alcançá-la.

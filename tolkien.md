@@ -4,7 +4,7 @@ title: "Tolkien"
 desc: "Tolkien (EUA, 2019), escrito por David Gleeson, Stephen Beresford, dirigido por Dome Karukoski, com Nicholas Hoult, Lily Collins, Colm Meaney. Crítica escrita para o site CinemAqui."
 imdb: "3361792"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

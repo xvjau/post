@@ -2,7 +2,7 @@
 imdb: "2023587"
 
 date: "2014-02-15"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Mama"
 stars: "2/5"
 desc: "Mama. Mama (Canada, 2013). Dirigido por Andrés Muschietti. Escrito por Andrés Muschietti, Barbara Muschietti, Neil Cross, Andrés Muschietti, Barbara Muschietti. Com Jessica Chastain, Nikolaj Coster-Waldau, Megan Charpentier, Isabelle Nélisse, Daniel Kash, Javier Botet, Jane Moffat, Morgan McGarry, David Fox."

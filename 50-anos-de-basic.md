@@ -1,7 +1,7 @@
 ---
 date: "2014-05-13"
 title: 50 Anos de BASIC
-categories: [ "code" ]
+tags: [ "code" ]
 desc: "Este artigo fala sobre um dos livros mais inocentes e mais influente em toda minha vida: Introdução Ilustrada à Computação, com seus desenhos e explicações simples e seu bê-a-bá na programação do final usando BASIC."
 ---
 [![Introdução Ilustrada à Computação](/images/2EWWtK7.jpg)](/images/14172567934_032b55ff79_o.jpg)

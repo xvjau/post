@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "7133340"
 
 date: 2017-11-11T00:04:06
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Histórias de Amor Que Não Pertencem a Este Mundo"
 stars: "3/5"
 desc: "Histórias de Amor Que Não Pertencem a Este Mundo. Amori che non sanno stare al mondo (Italy, 2017). Dirigido por Francesca Comencini. Escrito por Francesca Comencini, Francesca Manieri, Laura Paolucci. Com Lucia Mascino (Claudia), Thomas Trabacchi (Flavio), Valentina Bellè (Nina), Iaia Forte (Mara Semeraro), Carlotta Natoli (Diana). Crítica escrita para o site CinemAqui."

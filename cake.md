@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "3442006"
 
 date: "2015-04-22"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Cake: Uma Razão para Viver"
 stars: "3/5"
 desc: "Cake: Uma Razão para Viver. Cake (USA, 2014). Dirigido por Daniel Barnz. Escrito por Patrick Tobin. Com Jennifer Aniston, Adriana Barraza, Anna Kendrick, Sam Worthington, Mamie Gummer, Felicity Huffman, William H. Macy, Chris Messina, Lucy Punch. Crítica escrita para o site CinemAqui."

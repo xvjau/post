@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "1355631"
 
 date: "2016-08-20"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Conexão Escobar"
 stars: "5/5"
 desc: "Conexão Escobar. The Infiltrator (UK, 2016). Dirigido por Brad Furman. Escrito por Ellen Sue Brown, Robert Mazur. Com Bryan Cranston, Leanne Best, Daniel Mays, Tom Vaughan-Lawlor, Niall Hayes, Lara Decaro, Juliet Aubrey, Olympia Dukakis, Amy Ryan. Crítica escrita para o site CinemAqui."

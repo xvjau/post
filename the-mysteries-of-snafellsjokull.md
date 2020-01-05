@@ -2,7 +2,7 @@
 imdb: "1508304"
 
 date: "2012-04-02"
-categories: [ "blog" ]
+tags: [ "blog" ]
 title: "Le mystère du Snæfellsjökull"
 stars: "3/5"
 desc: "Le mystère du Snæfellsjökull. Le mystère du Snæfellsjökull (France, 2009). Dirigido por Jean-Michel Roux. Escrito por Jean-Michel Roux."

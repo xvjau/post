@@ -4,7 +4,7 @@ title: "Bicho de Sete Cabeças"
 desc: "Bicho de Sete Cabeças. Brasil, 2000. Direção de Laís Bodanzky, escrito por Bodanzky a partir do livro de Austregésilo Carrano, com Rodrigo Santoro, Othon Bastos, Cássia Kis."
 imdb: "0263124"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Para comemorar o dia anti-maniconial (que nominho desgraçado) nada como assistir Bicho de Sete Cabeças, que é baseado em um caso real de um jovem internado em um sanatório porque dava uns tapinhas na pantera.

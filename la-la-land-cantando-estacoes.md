@@ -2,7 +2,7 @@
 imdb: "3783958"
 
 date: "2017-01-27"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "La La Land: Cantando Estações"
 stars: "4/5"
 desc: "La La Land: Cantando Estações. La La Land (USA, 2016). Dirigido por Damien Chazelle. Escrito por Damien Chazelle. Com Ryan Gosling (Sebastian), Emma Stone (Mia), Amiée Conn (Famous Actress), Terry Walters (Linda), Thom Shelton (Coffee Spiller), Cinda Adams (Casting Director), Callie Hernandez (Tracy), Jessica Rothe (Alexis), Sonoya Mizuno (Caitlin)."

@@ -1,7 +1,7 @@
 ---
 date: "2008-12-30"
 title: HouaissParaBabylon versão 1.1
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 ![HouaissParaBabylon versão 1.1](/images/B1B6tLg.png) Saindo mais um do forno.
 

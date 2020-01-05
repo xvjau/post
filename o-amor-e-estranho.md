@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "2639344"
 
 date: "2015-01-06"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "O Amor é Estranho"
 stars: "4/5"
 desc: "O Amor é Estranho. Love Is Strange (USA, 2014). Dirigido por Ira Sachs. Escrito por Ira Sachs, Mauricio Zacharias. Com John Lithgow, Alfred Molina, Tatyana Zbirovskaya, Olya Zueva, Jason Stuart, Darren E. Burrows, Marisa Tomei, Charlie Tahan, Harriet Sansom Harris. Crítica escrita para o site CinemAqui."

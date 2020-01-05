@@ -4,7 +4,7 @@ title: "Sonhos"
 desc: "Yume. Japão, EUA, 1990. Dirigido por Akira Kurosawa e Ishirô Honda, escrito por Kurosawa. Com Akira Terao, Mitsuko Baishô, Toshie Negishi."
 imdb: "0100998"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Assisti a Sonhos, de Akira Kurosawa, dividido em dois. Minha esposa dormiu na metade. Eu avisei para ela que esse cineasta é lento.

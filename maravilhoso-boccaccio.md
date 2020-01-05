@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "3596952"
 
 date: "2016-04-27"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Maravilhoso Boccaccio"
 stars: "3/5"
 desc: "Maravilhoso Boccaccio. Maraviglioso Boccaccio (Italy, 2015). Dirigido por Paolo Taviani, Vittorio Taviani. Escrito por Giovanni Boccaccio, Paolo Taviani, Vittorio Taviani. Com Lello Arena, Paola Cortellesi, Carolina Crescentini, Flavio Parenti, Vittoria Puccini, Michele Riondino, Kim Rossi Stuart, Riccardo Scamarcio, Kasia Smutniak. Crítica escrita para o site CinemAqui."

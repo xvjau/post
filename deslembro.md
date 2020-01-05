@@ -4,7 +4,7 @@ title: "Deslembro"
 desc: "Deslembro (Brasil, 2018), escrito e dirigido por Flávia Castro, com Jeanne Boudier, Eliane Giardini, Marcio Vito. Crítica escrita para o site CinemAqui."
 imdb: "8900098"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
 ---

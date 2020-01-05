@@ -4,7 +4,7 @@ title: "Dogman"
 desc: "Dogman (Itália, França, 2018), escrito por um batalhão, dirigido por Matteo Garrone, com Marcello Fonte, Edoardo Pesce. Crítica escrita para o site CinemAqui."
 imdb: "6768578"
 
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
 ---

@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "2938956"
 
 date: "2015-09-04"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Carga Explosiva: o Legado"
 stars: "3/5"
 desc: "Carga Explosiva: o Legado. The Transporter Refueled (France, 2015). Dirigido por Camille Delamarre. Escrito por Adam Cooper, Bill Collage, Luc Besson, Luc Besson, Robert Mark Kamen. Com Ed Skrein, Ray Stevenson, Loan Chabanol, Gabriella Wright, Tatiana Pajkovic, Wenxia Yu, Radivoje Bukvic, Noémie Lenoir, Yuri Kolokolnikov. Crítica escrita para o site CinemAqui."

@@ -3,7 +3,7 @@ imdb: "0910559"
 
 date: "2011-10-29"
 review: [ "2014", "2019" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Hanami Cerejeiras em Flor"
 stars: "5/5"
 desc: "Hanami Cerejeiras em Flor. Kirschblüten - Hanami (Germany, 2008). Dirigido por Doris Dörrie. Escrito por Doris Dörrie. Com Elmar Wepper, Hannelore Elsner, Aya Irizuki, Maximilian Brückner, Nadja Uhl, Birgit Minichmayr, Felix Eitner, Floriane Daniel, Celine Tanneberger."

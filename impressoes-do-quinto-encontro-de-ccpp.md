@@ -1,7 +1,7 @@
 ---
 date: "2008-10-07"
 title: Impressões do quinto encontro de CCPP
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 Pois é, [passou](http://www.caloni.com.br/v), acabou... e foi muito bom!
 

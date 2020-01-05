@@ -4,7 +4,7 @@ title: "Boneca Russa"
 desc: "Russian Doll. EUA, 2019. Criado por Leslye Headland, Natasha Lyonne e Amy Poehler. Com Natasha Lyonne, Charlie Barnett, Greta Lee."
 imdb: "7520794"
 
-categories: [ "series" ]
+tags: [ "series" ]
 stars: "3/5"
 ---
 Sempre que alguém vem com a ideia de refazer o princípio do icônico filme de Bill Murray, [Feitiço do Tempo](/feitico-do-tempo), já surge aquele sentimento de muleta narrativa para tornar uma história artificialmente interessante. E quando essa ideia vem da Netflix, então, é certeza que lá vem bomba.

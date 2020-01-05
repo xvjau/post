@@ -3,7 +3,7 @@ date: "2019-12-17"
 title: "Verão De 84"
 desc: '"Summer of 84" (United States e Canada, 2018), escrito por Matt Leslie e Stephen J. Smith, dirigido por François Simard, Anouk Whissell e Yoann-Karl Whissell, com Graham Verchere, Judah Lewis, Rich Sommer e Caleb Emery. Mais um da lista de filmes para ver e elencar no top10.'
 imdb: "5774450"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "4/5"
 ---
 Após os anos 80 tudo mudou, e por isso este não é um filme espetacular sobre um serial killer, nem um resgate aos lúdicos anos mágicos. É mais uma repaginada sobre o que mudou desde então, quando os mocinhos e vilões deixaram de serem fáceis de reconhecer. Ou se era um ou outro. Agora heróis como [Walter White](/breaking-bad-s01) são o mais comum e família feliz e perfeita existe apenas nos comerciais e nas redes sociais.

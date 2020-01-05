@@ -1,6 +1,6 @@
 ---
 title: Wanderley Caloni
-categories: [ "blog" ]
+tags: [ "blog" ]
 date: 0000-00-00
 ---
 ### Backend Specialist

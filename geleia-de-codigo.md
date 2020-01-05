@@ -1,7 +1,7 @@
 ---
 date: "2014-04-15"
 title: Geleia de Código
-categories: [ "blog" ]
+tags: [ "blog" ]
 ---
 [![jam2014](/images/zXzJlL5.jpg)](/images/13878076723_dc8556a364_o.jpg)
 

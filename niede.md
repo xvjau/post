@@ -2,7 +2,7 @@
 date: 2019-03-27T16:17:15-03:00
 title: "Niède"
 desc: "Niède (Brasil, 2019), dirigido por Tiago Tambelli, com Niède Guidon. Crítica escrita para o site CinemAqui."
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 external: "cinemaqui"
 

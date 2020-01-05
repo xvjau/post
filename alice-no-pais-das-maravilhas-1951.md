@@ -3,7 +3,7 @@ imdb: "0043274"
 
 date: "2011-11-13"
 review: [ "2013" ]
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Alice no País das Maravilhas (1951)"
 stars: "5/5"
 desc: "Alice no País das Maravilhas. Alice in Wonderland (USA, 1951). Dirigido por Clyde Geronimi, Wilfred Jackson, Hamilton Luske. Escrito por Lewis Carroll, Winston Hibler, Ted Sears, Bill Peet, Erdman Penner, Joe Rinaldi, Milt Banta, William Cottrell, Dick Kelsey. Com Kathryn Beaumont, Ed Wynn, Richard Haydn, Sterling Holloway, Jerry Colonna, Verna Felton, J. Pat O'Malley, Bill Thompson, Heather Angel."

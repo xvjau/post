@@ -2,7 +2,7 @@
 imdb: "0816442"
 
 date: "2014-02-01"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "A Menina que Roubava Livros"
 stars: "4/5"
 desc: "A Menina que Roubava Livros. The Book Thief (USA, 2013). Dirigido por Brian Percival. Escrito por Markus Zusak, Michael Petroni. Com Roger Allam, Sophie Nélisse, Heike Makatsch, Julian Lehmann, Gotthard Lange, Rainer Reiners, Kirsten Block, Geoffrey Rush, Emily Watson."

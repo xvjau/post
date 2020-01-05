@@ -2,7 +2,7 @@
 imdb: "0075314"
 
 date: "2012-05-14"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Taxi Driver"
 stars: "5/5"
 desc: "Taxi Driver. Taxi Driver (USA, 1976). Dirigido por Martin Scorsese. Escrito por Paul Schrader. Com Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito, Garth Avery, Peter Boyle, Albert Brooks, Harry Cohn, Copper Cunningham."

@@ -3,7 +3,7 @@ date: "2019-12-29"
 title: "Harry Potter e a Ordem da Fênix"
 desc: '"Harry Potter and the Order of the Phoenix" (Reino Unido e EUA, 2007), escrito por Michael Goldenberg baseado no livro de J.K. Rowling, dirigido por David Yates, com Daniel Radcliffe, Harry Melling e Jason Boyd. Maratona Harry Potter.'
 imdb: "0373889"
-categories: [ "movies" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 A série de filmes começa a parecer uma série televisiva, inchada para pouca recompensa no final do episódio. A suposta genialidade de J. K. Rowling em recriar a mitologia Star Wars acaba se tornando óbvia demais nesse episódio onde apenas pessoas específicas morrem para que haja algum peso dramático, e a dicotomia entre progressistas e conservadores seja novamente usada como uma óbvia alegoria em nosso século onde seguir as tradições é usado como a marca da besta.

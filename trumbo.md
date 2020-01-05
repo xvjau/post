@@ -3,7 +3,7 @@ external: "cinemaqui"
 imdb: "3203606"
 
 date: "2016-02-09"
-categories: [ "movies" ]
+tags: [ "movies" ]
 title: "Trumbo"
 stars: "4/5"
 desc: "Trumbo. Trumbo (USA, 2015). Dirigido por Jay Roach. Escrito por John McNamara, Bruce Cook. Com Bryan Cranston, Michael Stuhlbarg, David Maldonado, John Getz, Diane Lane, Laura Flannery, Helen Mirren, David James Elliott, Toby Nichols. Crítica escrita para o site CinemAqui."

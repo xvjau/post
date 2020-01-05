@@ -1,6 +1,6 @@
 ---
 title: "Restaurantes"
-categories: [ "food" ]
+tags: [ "food" ]
 date: 2019-09-29
 ---
 <script src="/js/jquery.min.js"></script>
