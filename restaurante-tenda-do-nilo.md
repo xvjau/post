@@ -2,7 +2,7 @@
 date: "2019-08-19"
 title: "Restaurante Tenda Do Nilo"
 desc: "Um restaurante libanês de bairro que lembra um boteco, mas que tem um autêntico sabor regional."
-categories: [ "blog" ]
+categories: [ "food" ]
 stars: "4/5"
 ---
 Um almoço com um amigo no meio de um bairro entre a estação Brigadeiro e Paraíso da Paulista. Um daqueles inúmeros restaurantes árabes da região com cara de boteco. Sentei para esperar meu amigo e já fui recebido com simpatia pelo dono do local. Me apresentou o cardápio e nele estava escrito bem na frente: "não servimos esfiha". De cara já gostei do lugar.

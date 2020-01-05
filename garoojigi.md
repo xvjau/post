@@ -2,7 +2,7 @@
 date: 2018-01-30T19:30:18
 imdb: "1433775"
 
-categories: [ "blog" ]
+categories: [ "movies" ]
 stars: "2/5"
 title: "Garoojigi"
 desc: "Garoojigi."

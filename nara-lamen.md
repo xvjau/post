@@ -2,7 +2,7 @@
 date: "2019-08-21"
 title: "Nara Lámen"
 desc: "Casa de lámen tradicional no bairro da Saúde saúda os japas que vivem nessa segunda nipocomunidade da cidade de SP."
-categories: [ "blog" ]
+categories: [ "food" ]
 stars: "4/5"
 ---
 Quando for pela primeira vez no Nara Lámen, peça apenas o Shyo Lámen Nara. Apenas isso. E aprecie sem pressa.

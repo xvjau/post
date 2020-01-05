@@ -2,7 +2,7 @@
 date: 2018-02-20T02:01:20
 imdb: "2380307"
 
-categories: [ "blog" ]
+categories: [ "movies" ]
 stars: "4/5"
 title: "Viva: A Vida é uma Festa"
 desc: "Viva: A Vida é uma Festa."

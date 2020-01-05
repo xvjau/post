@@ -2,7 +2,7 @@
 imdb: "1268204"
 
 date: "2011-01-30"
-categories: [ "blog" ]
+categories: [ "movies" ]
 title: "Lixo Extraordinário"
 stars: "5/5"
 desc: "Lixo Extraordinário. Waste Land (Brazil, 2010). Dirigido por Lucy Walker, Karen Harley, João Jardim. Com Vik Muniz."

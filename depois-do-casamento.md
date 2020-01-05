@@ -2,7 +2,7 @@
 imdb: "0457655"
 
 date: "2014-02-22"
-categories: [ "blog" ]
+categories: [ "movies" ]
 title: "Depois do Casamento"
 stars: "5/5"
 desc: "Depois do Casamento. Efter brylluppet (Denmark, 2006). Dirigido por Susanne Bier. Escrito por Anders Thomas Jensen, Susanne Bier. Com Mads Mikkelsen, Neeral Mulchandani, Tanya Sharma, Swini Khara, Meenal Patel, Vallabh Gada, Hitesh Kotak, Suhita Thatte, Rolf Lassgård."

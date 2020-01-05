@@ -3,7 +3,7 @@ imdb: "1149361"
 
 date: "2010-12-20"
 review: [ "2012" ]
-categories: [ "blog" ]
+categories: [ "movies" ]
 title: "Micmacs Um Plano Complicado"
 stars: "4/5"
 desc: "Micmacs Um Plano Complicado. Micmacs à tire-larigot (France, 2009). Dirigido por Jean-Pierre Jeunet. Escrito por Jean-Pierre Jeunet, Guillaume Laurant, Guillaume Laurant. Com Dany Boon, André Dussollier, Yolande Moreau, Dominique Pinon, Marie-Julie Baup, Michel Crémadès, Nicolas Marié, Julie Ferrier, Omar Sy."

@@ -1,7 +1,7 @@
 ---
 date: "2014-04-08"
 title: 'Lambda: o Retorno!'
-categories: [ "blog" ]
+categories: [ "code" ]
 ---
 [![Lambda: o Retorno](/images/Hrbu1ue.jpg)](/images/13717451604_33225e217c_o.jpg)
 

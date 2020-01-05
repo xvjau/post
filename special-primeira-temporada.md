@@ -4,7 +4,7 @@ title: "Special Primeira Temporada"
 desc: "Special. EUA, 2019. Criado por Ryan O'Connell. Com Ryan O'Connell, Jessica Hecht, Punam Patel."
 imdb: "9381622"
 
-categories: [ "blog" ]
+categories: [ "movies" ]
 stars: "1/5"
 ---
 Tenho algo a confessar: o [piloto de Special](/series/special) mentiu para mim. Pensei que seria uma série de humor negro onde alguém com paralisia cerebral seria atropelado constantemente por um carro. Mas não é. Está mais para um programa preenchendo cota para deficientes. E deficiente no caso físico, emocional e mental.

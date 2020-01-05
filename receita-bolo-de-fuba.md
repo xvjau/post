@@ -1,6 +1,6 @@
 ---
 title: "Receita: Bolo de Fubá"
-categories: [ "blog" ]
+categories: [ "food" ]
 date: 2019-09-08
 ---
 

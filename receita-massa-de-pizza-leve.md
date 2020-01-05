@@ -1,6 +1,6 @@
 ---
 title: "Receita: Massa de Pizza Leve"
-categories: [ "blog" ]
+categories: [ "food" ]
 date: 2017-05-30
 ---
 

@@ -4,7 +4,7 @@ title: "Interstella 5555"
 desc: "Interstella 5555. Japão, França, 2003. Dirigido por Daisuke Nishio, Hirotoshi Rissen, Kazuhisa Takenouchi, Leiji Matsumoto, escrito por Thomas Bangalter, Cédric Hervet, Guy-Manuel De Homem-Christo. Direção de arte por Hiroshi Kato, trilha sonora por Daft Punk."
 imdb: "0368667"
 
-categories: [ "blog" ]
+categories: [ "movies" ]
 stars: "4/5"
 ---
 Eis um [Interestelar](/interestelar) que presta do começo ao fim. 5555 é uma experiência no mundo dos vídeo-clipes. Ele contém uma história narrada visualmente e embalada por um álbum inteiro, batida a batida. Ele é um arco completo, talvez melhor que a maioria dos filmes, e ainda tem algumas coisas a dizer sobre nossa sociedade e seus troféus. Este filme é praticamente gêmeo de [Pink Floyd The Wall](/pink-floyd-the-wall), 20 anos depois.

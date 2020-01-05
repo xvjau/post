@@ -2,7 +2,7 @@
 imdb: "2085059"
 
 date: "2015-12-13"
-categories: [ "blog" ]
+categories: [ "movies" ]
 title: "Black Mirror - S02E03 - The Waldo Moment"
 stars: "5/5"
 desc: "The Waldo Moment. Black Mirror (UK, 2011). Dirigido por Bryn Higgins. Escrito por Christopher Morris e Charlie Brooker. Com Daniel Rigby, Chloe Pirrie, Jason Flemyng."

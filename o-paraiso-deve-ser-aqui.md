@@ -3,7 +3,7 @@ date: "2019-10-23"
 title: "O Paraíso Deve Ser Aqui"
 desc: '"It Must Be Heaven" (França, Qatar, Alemanha, Canadá, Turquia e Palestina, 2019), escrito por Elia Suleiman, dirigido por Elia Suleiman, com Gael García Bernal, Ali Suliman e Elia Suleiman. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "8359842"
-categories: [ "blog" ]
+categories: [ "movies" ]
 stars: "4/5"
 ---
 O diretor palestino Elia Suleiman encontrou uma maneira divertida de mostrar ao mundo as diferenças da visão de um cineasta do resto de nós, mortais. Em O Paraíso Deve Ser Aqui ele próprio é o protagonista, vestido como costuma se vestir, e observa da varanda de sua casa as situações do dia-a-dia, mas que através de suas lentes saem muito mais atípicas do que estamos acostumados a interpretar.

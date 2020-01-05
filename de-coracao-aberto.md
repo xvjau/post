@@ -2,7 +2,7 @@
 imdb: "2088962"
 
 date: "2013-03-15"
-categories: [ "blog" ]
+categories: [ "movies" ]
 title: "De Coração Aberto"
 stars: "4/5"
 desc: "De Coração Aberto. À coeur ouvert (France, 2012). Dirigido por Marion Laine. Escrito por Mathias Énard, Marion Laine. Com Juliette Binoche, Édgar Ramírez, Hippolyte Girardot, Amandine Dewasmes, Aurélia Petit, Bernard Verley, Elsa Tauveron, Romain Rondeau, Florence Huige."

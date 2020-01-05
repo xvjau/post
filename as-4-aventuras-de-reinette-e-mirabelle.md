@@ -3,7 +3,7 @@ date: "2019-08-28"
 title: "As 4 Aventuras De Reinette E Mirabelle"
 desc: '"Four Adventures of Reinette and Mirabelle" (França, 1987), escrito por Éric Rohmer e Joëlle Miquel, dirigido por Éric Rohmer, com Joëlle Miquel e Jessica Forde. Da coleção de DVDs'
 imdb: "0090565"
-categories: [ "blog" ]
+categories: [ "movies" ]
 stars: "3/5"
 ---
 As 4 Aventuras de Reinette e Mirabelle vai bem reto e certeiro em seu objetivo: ser literal. Em sua primeira cena o pneu da bicicleta de Mirabelle fura, e Reinette a ajuda a verificar onde está o furo e a colocar o adesivo. Todo o processo é explicado do começo ao fim, quase como um programa de TV sobre faça você mesmo. Logo você percebe que o filme é repleto de momentos literais, embora quando se chega em Paris a história fique um pouco mais fantasiosa.

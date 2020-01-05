@@ -4,7 +4,7 @@ title: "Com Todo Meu Hipotálamo"
 desc: "Gusto Kita with All My Hypothalamus (Filipinas, 2018), escrito e dirigido por Dwein Baltazar, com Iana Bernardez, Nicco Manalo, Anthony Falcon. #mostrasp Crítica escrita para o site CinemAqui."
 imdb: "8710234"
 
-categories: [ "blog" ]
+categories: [ "movies" ]
 stars: "4/5"
 external: "cinemaqui"
 ---

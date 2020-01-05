@@ -4,7 +4,7 @@ title: "O Feitiço"
 imdb: "0168734"
 desc: "Un embrujo. Mexico, 1998. Dirigido por Carlos Carrera, escrito por Carlos Carrera, Martín Salinas, Marcel Sisniega. Com Blanca Guerra, Mario Zaragoza, Daniel Acuña."
 
-categories: [ "blog" ]
+categories: [ "movies" ]
 stars: "3/5"
 ---
 Um épico em uma pequena história do século 20 no México. Pré-adolescentes descobrindo as delícias do sexo com mulheres maduras. A história econômica e política da região do ponto de vista dos trabalhadores. E tudo isso gira em torno de um suposto feitiço.

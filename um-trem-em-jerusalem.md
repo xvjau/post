@@ -4,7 +4,7 @@ title: "Um Trem Em Jerusalem"
 desc: "A Tramway in Jerusalem (Israel, França, 2018), escrito por Amos Gitai, Marie-Jose Sanselme, dirigido por Amos Gitai, com Yaël Abecassis, Mathieu Amalric, Lamis Ammar. #mostrasp Crítica escrita para o site CinemAqui."
 imdb: "8896640"
 
-categories: [ "blog" ]
+categories: [ "movies" ]
 stars: "2/5"
 external: "cinemaqui"
 ---

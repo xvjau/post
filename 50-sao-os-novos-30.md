@@ -4,7 +4,7 @@ title: "50 São os Novos 30"
 desc: "Marie-Francine. França/Bélgica, 2017. Escrito por Sabine Haudepin e Valérie Lemercier. Dirigido por Lemercier. Com Valérie Lemercier, Patrick Timsit, Hélène Vincent. Crítica escrita para o site CinemAqui."
 imdb: "6081632"
 
-categories: [ "blog" ]
+categories: [ "movies" ]
 stars: "2/5"
 ---
 Pegando carona na lista de filmes sobre as diferenças das idades nos tempos atuais, "50 São os Novos 30" é uma comédia que aproveita sua protagonista para criar situações desconexas que existem para o riso fácil e descompromissado. O problema é que nem sempre é engraçado.

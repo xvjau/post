@@ -1,7 +1,7 @@
 ---
 date: 2018-05-29T16:19:06-03:00
 title: "Safe"
-categories: [ "blog" ]
+categories: [ "movies" ]
 imdb: "7902072"
 
 stars: "3/5"

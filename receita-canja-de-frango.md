@@ -1,6 +1,6 @@
 ---
 title: "Receita: Canja de Frango"
-categories: [ "blog" ]
+categories: [ "food" ]
 date: 2019-09-08
 ---
 
