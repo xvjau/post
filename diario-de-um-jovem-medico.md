@@ -2,7 +2,7 @@
 imdb: "2164430"
 
 date: "2014-12-01"
-categories: [ "movies" ]
+categories: [ "series" ]
 title: "Diário de um Jovem Médico"
 stars: "3/5"
 desc: "Diário de um Jovem Médico. A Young Doctor's Notebook (UK, 2012). Dirigido por Alex Hardcastle, Robert McKillop. Escrito por Mikhail A. Bulgakov, Mark Chappell, Alan Connor, Shaun Pye. Com Jon Hamm, Daniel Radcliffe, Rosie Cavaliero, Adam Godley, Vicki Pepperdine, Daniel Cerqueira, Tim Steed."

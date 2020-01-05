@@ -4,7 +4,7 @@ title: "Osmosis"
 desc: "Osmosis. França, 2019. Criado por Audrey Fouché. Com Agathe Bonitzer, Hugo Becker, Gaël Kamilindi."
 imdb: "7043380"
 
-categories: [ "movies" ]
+categories: [ "series" ]
 stars: "3/5"
 ---
 Ah, se o amor fosse apenas um código em um computador orgânico -- aka nosso cérebro -- e que fosse possível descobrir sua alma gêmea simplesmente analisando esse código. E se essa série distópica da Netflix, baseada em uma versão mais romântica e dramatizada de um episódio de Black Mirror, fosse francesa, e exibisse todas as formas de amar de um futuro próximo? Bom, aí nós teríamos que perder uma hora assistindo ao piloto para concluir: ideia interessante. Poderia ser um bom filme. Mas séries estendem demais conceitos simples.

@@ -2,7 +2,7 @@
 imdb: "2085059"
 
 date: "2015-12-13"
-categories: [ "movies" ]
+categories: [ "series" ]
 title: "Black Mirror - S01E02 - Fifteen Million Merits"
 stars: "5/5"
 desc: "Fifteen Million Merits. Black Mirror (UK, 2011). Dirigido por Euros Lyn. Escrito por Charlie Brooker, Konnie Huq. Com Daniel Kaluuya, Jessica Brown Findlay, Rupert Everett."

@@ -2,7 +2,7 @@
 imdb: "1773185"
 
 date: "2014-04-14"
-categories: [ "movies" ]
+categories: [ "series" ]
 title: "Madoka Magica"
 stars: "5/5"
 desc: "Madoka Magica. Maho Shojo Madoka Magica (Japan, 2011). Dirigido por Tomoyuki Itamura, Yukihiro Miyamoto, Akiyuki Shinbo, Masahiro Mukai, Yuki Yase, Toshiaki Kidokoro, Shinichi Omata. Escrito por Gen Urobuchi, Alex Von David. Com Christine Marie Cabanos, Emiri Katou, Cassandra Morris, Chiwa Saito, Cristina Valenzuela, Aoi Yuki, Eri Kitamura, Sarah Anne Williams, Shelby Lindley."

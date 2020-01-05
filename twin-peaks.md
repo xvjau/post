@@ -2,7 +2,7 @@
 date: 2018-02-27T23:02:12
 imdb: "4093826"
 
-categories: [ "movies" ]
+categories: [ "series" ]
 stars: "4/5"
 title: "Twin Peaks (2017)"
 desc: "Twin Peaks. EUA, 2017. Criado por Mark Frost e David Lynch. Com Kyle MacLachlan, Sheryl Lee, Michael Horse."

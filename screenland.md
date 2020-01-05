@@ -4,7 +4,7 @@ title: "Screenland"
 desc: "Idem. EUA, 2017. Com Kate Kneeland. Basicamente é isso."
 imdb: "6148128"
 
-categories: [ "movies" ]
+categories: [ "series" ]
 stars: "2/5"
 ---
 Essa série parece ter a intenção de reconhecer a genialidade dos gamers em antecipar futuras tendências nos jogos eletrônicos que virão com a melhora da inteligência artificial e a construção de ambientes virtuais, sejam eles realistas ou não.

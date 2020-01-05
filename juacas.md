@@ -1,5 +1,5 @@
 ---
-categories: "movies"
+categories: "series"
 
 date: "2017-05-18"
 title: "Juacas"

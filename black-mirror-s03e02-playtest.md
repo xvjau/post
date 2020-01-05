@@ -2,7 +2,7 @@
 imdb: "5709242"
 
 date: "2016-10-25"
-categories: [ "movies" ]
+categories: [ "series" ]
 title: "Black Mirror - S03E02 - Playtest"
 stars: "3/5"
 desc: "Playtest. Black Mirror (UK, 2011). Dirigido por Dan Trachtenberg. Escrito por Charlie Brooker. Com Wyatt Russell, Hannah John-Kamen, Wunmi Mosaku."

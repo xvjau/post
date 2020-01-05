@@ -2,7 +2,7 @@
 date: 2018-03-04T19:25:26
 imdb: "2261227"
 
-categories: [ "movies" ]
+categories: [ "series" ]
 stars: "3/5"
 title: "Altered Carbon"
 desc: "Altered Carbon. EUA, 2018. Criado por Laeta Kalogridis. Com Joel Kinnaman, James Purefoy, Martha Higareda."

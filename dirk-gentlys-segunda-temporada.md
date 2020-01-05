@@ -2,7 +2,7 @@
 date: 2018-01-19T16:47:20
 imdb: "4047038"
 
-categories: [ "movies" ]
+categories: [ "series" ]
 stars: "4/5"
 title: "Dirk Gently's - Segunda Temporada"
 desc: "Dirk Gently's - Segunda Temporada."

@@ -1,7 +1,7 @@
 ---
 imdb: "0458284"
 date: "2017-03-05"
-categories: [ "movies" ]
+categories: [ "series" ]
 title: "Science of Star Wars - Primeira Temporada, Episódio 1"
 stars: "2/5"
 desc: "Science of Star Wars - Primeira Temporada, Episódio 1. Science of Star Wars (USA, 2005). Dirigido por Pierre de Lespinois. Escrito por Peter Crabbe. Com Anthony Daniels (C-3PO / ...), Dominic Frisby (Himself), Xing Hong Shi (Himself)."

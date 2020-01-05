@@ -2,7 +2,7 @@
 imdb: "4158110"
 
 date: "2016-09-11"
-categories: [ "movies" ]
+categories: [ "series" ]
 title: "Mr. Robot"
 stars: "5/5"
 desc: "Mr. Robot. Mr. Robot (USA, 2015). Dirigido por Sam Esmail, Jim McKay. Escrito por Sam Esmail, Randolph Leon, Adam Penn, Kyle Bradstreet. Com Rami Malek, Carly Chaikin, Portia Doubleday, Martin Wallström, Christian Slater, Stephanie Corneliussen, Michael Cristofer, Sunita Mani, Azhar Khan."

@@ -2,7 +2,7 @@
 date: 2018-02-27T22:44:51
 imdb: "6468322"
 
-categories: [ "movies" ]
+categories: [ "series" ]
 stars: "2/5"
 title: "La Casa De Papel"
 desc: "La Casa De Papel. Espanha, 2017. Criado por Álex Pina. Com Úrsula Corberó, Itziar Ituño, Álvaro Morte."

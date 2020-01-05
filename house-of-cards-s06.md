@@ -2,7 +2,7 @@
 imdb: "1856010"
 
 date: 2018-11-16
-categories: [ "movies" ]
+categories: [ "series" ]
 title: "House of Cards - Sexta Temporada (Season Finale)."
 stars: "2/5"
 desc: "House of Cards - Sexta Temporada. House of Cards (USA, 2013). Dirigido por James Foley, Robin Wright, John David Coles, Carl Franklin, Tucker Gates, Tom Shankland, Alik Sakharov, Allen Coulter, David Fincher. Escrito por Beau Willimon, Andrew Davies, Michael Dobbs, Laura Eason, Bill Kennedy, Kate Barnow, Sam Forman, John Mankiewicz, Melissa James Gibson. Com Robin Wright (Claire Underwood), Michael Kelly (Doug Stamper), Diane Lane (Annette Shepherd), Campbell Scott (Mark Usher), Greg Kinnear (Bill Shepherd), Cody Fern (Duncan Shepherd), Derek Cecil (Seth Grayson). Bagunça, feminismo, política."

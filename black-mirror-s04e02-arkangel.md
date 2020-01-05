@@ -2,7 +2,7 @@
 date: 2018-01-12T01:19:37
 imdb: "2085059"
 
-categories: [ "movies" ]
+categories: [ "series" ]
 stars: "2/5"
 title: "Black Mirror - S04E02 - Arkangel"
 desc: "Arkangel. Black Mirror (UK, 2011). Dirigido por Jodie Foster. Escrito por Charlie Brooker. Com Rosemarie DeWitt, Brenna Harding, Owen Teague."

@@ -2,7 +2,7 @@
 imdb: "5189670"
 
 date: 2018-10-31
-categories: [ "movies" ]
+categories: [ "series" ]
 title: "Making a Murderer S02"
 stars: "5/5"
 desc: "Making a Murderer. Making a Murderer (USA, 2015). Dirigido por Moira Demos, Laura Ricciardi. Escrito por Moira Demos, Laura Ricciardi. Com Steven Avery. Documentário, política, justiça, netflix."
