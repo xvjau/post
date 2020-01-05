@@ -2,7 +2,7 @@
 imdb: "1245526"
 
 date: "2010-11-12"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Red Aposentados e Perigosos"
 stars: "3/5"
 desc: "Red Aposentados e Perigosos. RED (USA, 2010). Dirigido por Robert Schwentke. Escrito por Jon Hoeber, Erich Hoeber, Warren Ellis, Cully Hamner. Com Bruce Willis, Mary-Louise Parker, Heidi von Palleske, Karl Urban, Chris Owens, Rebecca Pidgeon, Morgan Freeman, Jaqueline Fleming, Randy Wade Kelley."

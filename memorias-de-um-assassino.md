@@ -2,7 +2,7 @@
 imdb: "0353969"
 
 date: "2013-01-01"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Memórias de um Assassino"
 stars: "4/5"
 desc: "Memórias de um Assassino. Salinui chueok (South Korea, 2003). Dirigido por Joon-ho Bong. Escrito por Joon-ho Bong, Kwang-rim Kim, Sung-bo Shim. Com Kang-ho Song, Sang-kyung Kim, Roe-ha Kim, Jae-ho Song, Hie-bong Byeon, Seo-hie Ko, No-shik Park, Hae-il Park, Jong-ryol Choi."

@@ -4,7 +4,7 @@ title: "Mary Poppins"
 desc: "Mary Poppins. EUA, 1964. Escrito por Bill Walsh e Don DaGradi baseados no livro de P.L. Travers. Dirigido por Robert Stevenson. Com Julie Andrews, Dick Van Dyke, David Tomlinson. Musical, anos 60, Walt Disney."
 imdb: "0058331"
 
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 stars: "4/5"
 ---
 Mary Poppins é um musical adorável que foi crescendo como um segundo clássico após [Noviça Rebelde](/novica-rebelde), ambos trabalhos fenomenais de Julie Andrews como a queridinha que canta e dança. Aqui sua persona é mais rígida, e tem tudo a ver com a história.

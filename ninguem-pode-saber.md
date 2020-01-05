@@ -4,7 +4,7 @@ title: "Ninguém Pode Saber"
 desc: "Dare mo shiranai. Por Hirokazu Koreeda, com Yûya Yagira, Ayu Kitaura, Hiei Kimura."
 imdb: "0408664"
 
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 stars: "3/5"
 ---
 Este é um filme baseado em fatos reais, mas eles se explicam tanto no começo sobre não ter certeza de como os fatos se desenrolaram que você poderia esperar um pouco mais de narrativa e dramatização em uma história com quatro crianças morando sozinhas em uma casa em Tóquio.

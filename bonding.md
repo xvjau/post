@@ -4,7 +4,7 @@ title: "Bonding"
 desc: "Bonding. EUA, 2019. Com Zoe Levin, Brendan Scannell, Micah Stock."
 imdb: "7718088"
 
-tags: [ "series" ]
+tags: [ "series", "blog" ]
 stars: "4/5"
 ---
 Bonding, ou Amizade Dolorida (como está na Netflix Brasil), é uma série curtinha, que quase pode ser um filme, se tivesse a ousadia de implementar um closure no final de sua temporada. Mas não importa: é um conteúdo solto. Livre, leve e solto. Ele trata de traumas de adolescência, sexo e fetichismo de maneira a abraçar o mundo. E é um abraço gostoso e engraçado.

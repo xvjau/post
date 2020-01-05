@@ -4,7 +4,7 @@ title: "Os 27 Beijos Perdidos"
 desc: "27 Missing Kisses. Alemanha, Georgia, Reino Unido, França, 2000. Dirigido por Nana Dzhordzhadze, escrito por Dzhordzhadze e Irakli Kvirikadze. Com Nutsa Kukhianidze, Evgeniy Sidikhin, Shalva Iashvili."
 imdb: "0246405"
 
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 stars: "3/5"
 ---
 Mais um filme russo dos anos 2k essa semana, filmado na Geórgia, Grécia, Alemanha, falado em russo, inglês, francês. Uma cidadezinha onde as jovens mulheres estão em polvorosa. Para piorar a cidade assiste Emanuelle as mil formas de amar. A única que não pode transar com seu grande amor, um professor de 41 anos, é a jovem Sibylla, de 14 anos. Enquanto isso o filho do professor tem direito a 100 beijos nessa menina, mas perde a chance de dar 27. Sim, a história é confusa desse jeito, além de ir a lugar algum.

@@ -4,7 +4,7 @@ title: "Kusama - Infinito"
 desc: "Kusama: Infinity (EUA, 2018), escrito por Heather Lenz, Keita Ideno, dirigido por Heather Lenz, com Yayoi Kusama. Documentário, feminismo, arte moderna. #mostrasp Crítica escrita para o site CinemAqui."
 imdb: "1893269"
 
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

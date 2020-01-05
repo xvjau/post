@@ -2,7 +2,7 @@
 imdb: "3322940"
 
 date: "2015-01-18"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Annabelle"
 stars: "3/5"
 desc: "Annabelle. Annabelle (USA, 2014). Dirigido por John R. Leonetti. Escrito por Gary Dauberman. Com Annabelle Wallis, Ward Horton, Tony Amendola, Alfre Woodard, Kerry O'Malley, Brian Howe, Eric Ladin, Ivar Brogger, Geoff Wehner."

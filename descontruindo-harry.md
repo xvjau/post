@@ -2,7 +2,7 @@
 imdb: "0118954"
 
 date: "2012-07-20"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Desconstruindo Harry"
 stars: "4/5"
 desc: "Desconstruindo Harry. Deconstructing Harry (USA, 1997). Dirigido por Woody Allen. Escrito por Woody Allen. Com Judy Davis, Julia Louis-Dreyfus, Stephanie Roth Haberle, Dan Frazer, Joel Leffert, Lynn Cohen, Richard Benjamin, Joe Buck, Jane Hoffman."

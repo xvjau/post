@@ -2,7 +2,7 @@
 imdb: "0067690"
 
 date: "2011-12-20"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Escravas do Desejo"
 stars: "3/5"
 desc: "Escravas do Desejo. Les lèvres rouges (Belgium, 1971). Dirigido por Harry Kümel. Escrito por Pierre Drouot, Harry Kümel, Jean Ferry, Manfred R. Köhler. Com Delphine Seyrig, John Karlen, Danielle Ouimet, Andrea Rau, Paul Esser, Georges Jamin, Joris Collet, Fons Rademakers."

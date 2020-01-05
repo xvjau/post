@@ -2,7 +2,7 @@
 imdb: "2204371"
 
 date: "2016-12-04"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Somm"
 stars: "3/5"
 desc: "Somm. Somm (USA, 2012). Dirigido por Jason Wise. Escrito por Jason Wise. Com Bo Barrett (Himself), Shayn Bjornholm (Himself), Dave Cauble (Himself), Ian Cauble (Himself), Andrea Cecci (Himself), Fred Dame (Himself), Elizabeth Dowty (Herself), Whitney Fisher (Herself), Jay Fletcher (Himself)."

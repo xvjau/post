@@ -2,7 +2,7 @@
 imdb: "0489458"
 
 date: "2014-05-31"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "O Cheiro do Ralo"
 stars: "5/5"
 desc: "O Cheiro do Ralo. O Cheiro do Ralo (Brazil, 2006). Dirigido por Heitor Dhalia. Escrito por Marçal Aquino, Heitor Dhalia, Lourenço Mutarelli. Com Selton Mello, Paula Braun, Paulo Alves, Susana Alves, Roberto Audio, Flavio Bauraqui, Boi, Alice Braga, Calico."

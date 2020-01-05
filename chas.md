@@ -1,6 +1,6 @@
 ---
 title: "Chás"
-tags: [ "food" ]
+tags: [ "food", "blog" ]
 date: 2019-09-09
 ---
 <script src="/js/jquery.min.js"></script>

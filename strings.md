@@ -1,7 +1,7 @@
 ---
 date: "2009-07-07"
 title: Strings
-tags: [ "code" ]
+tags: [ "code", "blog" ]
 ---
 Como já vimos [centenas](http://www.caloni.com.br/basico-do-basico-tipos) e [centenas](http://www.caloni.com.br/guia-basico-para-programadores-de-primeiro-int-main) de vezes, memória é apenas memória até que alguém diga que isso vale alguma coisa. Em seu estado latente é o que chamamos formalmente de **dados**. E dados são bytes armazenados na memória.
 

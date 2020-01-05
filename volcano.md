@@ -4,7 +4,7 @@ title: "Volcano"
 desc: "Volcano (Alemanha, Ucrânia, 2018), escrito por Alla Tyutyunnik, Dar'ya Averchenko, Roman Bondarchuk, dirigido por Bondarchuk, com Serhiy Stepansky, Viktor Zhdanov. Deserto, paisagem, anarquia, sociedade. #mostrasp Crítica escrita para o site CinemAqui."
 imdb: "7186036"
 
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 stars: "3/5"
 external: "cinemaqui"
 ---

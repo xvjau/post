@@ -2,7 +2,7 @@
 imdb: "2085059"
 
 date: "2015-12-13"
-tags: [ "series" ]
+tags: [ "series", "blog" ]
 title: "Black Mirror - S02E02 - White Bear"
 stars: "5/5"
 desc: "White Bear. Black Mirror (UK, 2011). Dirigido por Carl Tibbetts. Escrito por Charlie Brooker. Com Lenora Crichlow, Michael Smiley, Tuppence Middleton."

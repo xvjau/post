@@ -3,7 +3,7 @@ date: "2019-10-24"
 title: "Amazing Grace"
 desc: '"Amazing Grace" (EUA, 2018), dirigido por Alan Elliott e Sydney Pollack, com Aretha Franklin, James Cleveland e Southern California Community Choir. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "4935462"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 stars: "4/5"
 ---
 Amazing Grace é o resultado das horas gravadas de duas noites em uma igreja em Los Angeles pela Warner Brothers. Quem eles gravam? Ninguém menos que Aretha Franklin, uma das maiores cantoras que já pisou na Terra. De volta às origens, ela canta Gospel não como um anjo, mas como uma força da natureza vinda para o bem. Ela representa tudo o que podemos esperar de uma cantora completa.

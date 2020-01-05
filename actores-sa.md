@@ -2,7 +2,7 @@
 imdb: "3336632"
 
 date: "2014-04-20"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Actores S.A."
 stars: "2/5"
 desc: "Actores S.A.. Actores S.A. (Mexico, 2013). Dirigido por Carlos Sariñana. Escrito por Carolina Rivera, Carlos Sariñana. Com Raúl Méndez, Iliana Fox, Fernando Becerril, Eugenio Bartilotti, Sophie Alexander-Katz, Eduardo Arroyuelo, Erick Elias, Zaide Silvia Gutiérrez, Susana Alexander."

@@ -4,7 +4,7 @@ title: "Eu, Eu Mesmo e Irene"
 desc: "Me, Myself & Irene é um filme dos EUA de 2000, filmado em Rhode Island com um estilo americano feito pelos irmãos diretores e roteiristas Bobby Farrelly e Peter Farrelly (Mike Cerrone ajudou a escrever). É doce e engraçado."
 imdb: "0183505"
 
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 stars: "3/5"
 ---
 Não considero Eu, Eu Mesmo e Irene um bom filme. Não é um bom exemplo dos irmãos Farrelly (Débi & Lóide: Dois Idiotas em Apuros, Quem Vai Ficar com Mary, [Passe Livre](/passe-livre). Seu roteiro não foi bem trabalhado e depende de um narrador e situações inusitadas demais para juntar seus personagens. Mas algo que me incomoda: se ele nem é tão bom porque consigo me lembrar de praticamente todos seus momentos?

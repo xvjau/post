@@ -1,7 +1,7 @@
 ---
 date: "2015-01-26"
 title: Origem do tipo char
-tags: [ "code" ]
+tags: [ "code", "blog" ]
 ---
 ![](/images/SKX1ZjT.jpg?1)
 

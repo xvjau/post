@@ -3,7 +3,7 @@ imdb: "0033563"
 
 date: "2012-01-08"
 review: [ "2013" ]
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Dumbo"
 stars: "5/5"
 desc: "Dumbo. Dumbo (USA, 1941). Dirigido por Samuel Armstrong, Norman Ferguson, Wilfred Jackson, Jack Kinney, Bill Roberts, Ben Sharpsteen, John Elliotte. Escrito por Joe Grant, Dick Huemer, Otto Englander, Bill Peet, Aurelius Battaglia, Joe Rinaldi, Vernon Stallings, Webb Smith, Helen Aberson. Com James Baskett, Herman Bing, Billy Bletcher, Edward Brophy, Jim Carmichael, Hall Johnson Choir, Cliff Edwards, Verna Felton, Noreen Gammill."

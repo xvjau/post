@@ -2,7 +2,7 @@
 imdb: "0095088"
 
 date: "2013-11-08"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Elvira A Rainha das Trevas"
 stars: "3/5"
 desc: "Elvira A Rainha das Trevas. Elvira: Mistress of the Dark (USA, 1988). Dirigido por James Signorelli. Escrito por Sam Egan, John Paragon, Cassandra Peterson. Com Phil Rubenstein, Larry Flash Jenkins, Cassandra Peterson, Damita Jo Freeman, Tress MacNeille, Edwina Moore, Mario Celario, Lee McLaughlin, Bill Swearingen."

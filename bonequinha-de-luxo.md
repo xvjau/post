@@ -2,7 +2,7 @@
 imdb: "0054698"
 
 date: "2011-11-29"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Bonequinha de Luxo"
 stars: "3/5"
 desc: "Bonequinha de Luxo. Breakfast at Tiffany's (USA, 1961). Dirigido por Blake Edwards. Escrito por Truman Capote, George Axelrod. Com Audrey Hepburn, George Peppard, Patricia Neal, Buddy Ebsen, Martin Balsam, José Luis de Vilallonga, John McGiver, Alan Reed, Dorothy Whitney."

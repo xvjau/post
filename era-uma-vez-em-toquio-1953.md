@@ -2,7 +2,7 @@
 imdb: "0046438"
 
 date: "2013-10-31"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Era uma Vez em Tóquio"
 stars: "5/5"
 desc: "Era uma Vez em Tóquio. Tôkyô monogatari (Japan, 1953). Dirigido por Yasujirô Ozu. Escrito por Kôgo Noda, Yasujirô Ozu. Com Chishû Ryû, Chieko Higashiyama, Setsuko Hara, Haruko Sugimura, Sô Yamamura, Kuniko Miyake, Kyôko Kagawa, Eijirô Tôno, Nobuo Nakamura."

@@ -2,7 +2,7 @@
 imdb: "2049543"
 
 date: "2017-03-26"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Synchronicity"
 stars: "2/5"
 desc: "Synchronicity. Synchronicity (USA, 2015). Dirigido por Jacob Gentry. Escrito por Jacob Gentry, Alex Orr. Com Chad McKnight (Jim Beale), Brianne Davis (Abby), AJ Bowen (Chuck), Scott Poythress (Matty), Michael Ironside (Klaus Meisner), Claire Bronson (Helen), Ashley Drayton (Herself), Derek Ryan Duke (Resident), Sergine Dumais (Helen)."

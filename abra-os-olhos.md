@@ -1,7 +1,7 @@
 ---
 imdb: "0125659"
 date: "2014-01-29"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Abra os Olhos"
 stars: "5/5"
 desc: "Abra os Olhos. Abre los ojos (Spain, 1997). Dirigido por Alejandro Amenábar. Escrito por Alejandro Amenábar, Mateo Gil. Com Eduardo Noriega, Penélope Cruz, Chete Lera, Fele Martínez, Najwa Nimri, Gérard Barray, Jorge de Juan, Miguel Palenzuela, Pedro Miguel Martínez."

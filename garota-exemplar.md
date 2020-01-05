@@ -2,7 +2,7 @@
 imdb: "2267998"
 
 date: "2014-11-15"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Garota Exemplar"
 stars: "5/5"
 desc: "Garota Exemplar. Gone Girl (USA, 2014). Dirigido por David Fincher. Escrito por Gillian Flynn, Gillian Flynn. Com Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry, Carrie Coon, Kim Dickens, Patrick Fugit, David Clennon, Lisa Banes."

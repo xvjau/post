@@ -2,7 +2,7 @@
 imdb: "2473682"
 
 date: "2014-01-12"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Atividade Paranormal Marcados pelo Mal"
 stars: "2/5"
 desc: "Atividade Paranormal Marcados pelo Mal. Paranormal Activity: The Marked Ones (USA, 2014). Dirigido por Christopher Landon. Escrito por Christopher Landon, Oren Peli. Com Andrew Jacobs, Jorge Diaz, Gabrielle Walsh, Renee Victor, Noemi Gonzalez, David Saucedo, Gloria Sandoval, Richard Cabral, Carlos Pratts."

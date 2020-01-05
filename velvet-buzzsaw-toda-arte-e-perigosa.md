@@ -4,7 +4,7 @@ title: "Toda Arte é Perigosa (Velvet Buzzsaw)"
 desc: "Velvet Buzzsaw. EUA, 2019. Por Dan Gilroy, com Jake Gyllenhaal, Rene Russo, Zawe Ashton."
 imdb: "7043012"
 
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 stars: "2/5"
 ---
 Este é o filme-bomba de Jake Gyllenhaal. Ele faz um crítico de arte que está sempre suportando sua cabeça com os braços cruzados, tem uns trejeitos de viadinho mas precisa catar a deliciosa minazinha do Wanderlust (Zawe Ashton) porque pega bem. Esta é claramente uma ficção de quem não entende nada de arte. Eu sou crítico e nunca comi uma gostosa dessas.

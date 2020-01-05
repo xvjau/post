@@ -2,7 +2,7 @@
 imdb: "0119711"
 
 date: "2012-01-11"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Mãe e Filho"
 stars: "4/5"
 desc: "Mãe e Filho. Mat i syn (Russia, 1997). Dirigido por Aleksandr Sokurov. Escrito por Yuriy Arabov. Com Aleksei Ananishnov, Gudrun Geyer."

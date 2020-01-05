@@ -3,7 +3,7 @@ date: "2019-10-26"
 title: "Tremores"
 desc: '"Temblores" (Guatemala, França e Luxemburgo, 2019), escrito por Jayro Bustamante, dirigido por Jayro Bustamante, com Juan Pablo Olyslager, Diane Bathen e Mauricio Armas Zebadúa. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "7128732"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 stars: "4/5"
 ---
 Pablo está com um problema, e sua família se reúne para ajudá-lo. Quem não sabe da sinopse de Tremores pensa se tratar de um filme sobre vício em drogas pesadas, mas quando se revela a homossexualidade do protagonista, entendemos que o filme de Jayro Bustamante expõe a ferida, a vergonha e a irresponsabilidade humana das religiões cristãs de vertente protestante.

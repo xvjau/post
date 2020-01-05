@@ -4,7 +4,7 @@ title: "Dá Licença, Saúde"
 desc: "Sick Note. Reino Unido, 2017. Criado por Nat Saunders, James Serafinowicz. Com Rupert Grint, Nick Frost, Pippa Bennett-Warner. Humor negro, análise social."
 imdb: "5770788"
 
-tags: [ "series" ]
+tags: [ "series", "blog" ]
 stars: "3/5"
 ---
 Essa série possui um certo charme quando você percebe que todos os seus personagens são burros, incompetentes e mal intencionados. Às vezes são os três juntos. O que torna ele divertido em alguns momentos é o cada um por si, onde uma pessoa tão incapaz tenta se safar por sua esperteza.

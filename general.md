@@ -2,7 +2,7 @@
 imdb: "0017925"
 
 date: "2015-04-07"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "General"
 stars: "5/5"
 desc: "General. The General (USA, 1926). Dirigido por Clyde Bruckman, Buster Keaton. Escrito por Buster Keaton, Clyde Bruckman, Al Boasberg, Charles Henry Smith, William Pittenger, William Pittenger, Paul Girard Smith. Com Buster Keaton, Marion Mack, Glen Cavender, Jim Farley, Frederick Vroom, Charles Henry Smith, Frank Barnes, Joe Keaton, Mike Donlin."

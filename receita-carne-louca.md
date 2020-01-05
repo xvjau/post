@@ -1,6 +1,6 @@
 ---
 title: "Receita: Carne Louca"
-tags: [ "food" ]
+tags: [ "food", "blog" ]
 date: 2018-09-28 
 ---
 

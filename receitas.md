@@ -1,6 +1,6 @@
 ---
 title: "Receitas"
-tags: [ "food" ]
+tags: [ "food", "blog" ]
 date: 2019-07-19
 ---
 <script src="/js/jquery.min.js"></script>

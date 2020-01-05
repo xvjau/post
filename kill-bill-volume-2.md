@@ -2,7 +2,7 @@
 imdb: "0378194"
 
 date: "2010-09-09"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 count: 2
 title: "Kill Bill Volume 2"
 stars: "5/5"

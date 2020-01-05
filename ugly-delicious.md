@@ -4,7 +4,7 @@ title: "Ugly Delicious"
 desc: "Ugly Delicious. EUA, 2018. Criado por David Chang. Com David Chang, Peter Meehan, Aziz Ansari."
 imdb: "7907916"
 
-tags: [ "series" ]
+tags: [ "series", "blog" ]
 stars: "3/5"
 ---
 O chef de cozinha David Chang é o astro dessa série criada por ele. Ela segue um caminho documental bem-humorado, com montagens bem conduzidas e a captura de momentos hilários entre Chang e seus amigos conversando sobre... adivinhou: comida.

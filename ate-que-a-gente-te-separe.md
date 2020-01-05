@@ -4,7 +4,7 @@ title: "Até que a Gente te Separe"
 desc: "The Breaker Upperers. Nova Zelândia, 2018. Escrito, dirigido e atuado por Madeleine Sami, Jackie van Beek. Também com James Rolleston e Rima Te Wiata."
 imdb: "6728096"
 
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 stars: "3/5"
 ---
 The Breaker Upperers é uma comédia neo-zelandesa, o que significa britânica, o que quer dizer que é um humor difícil de falhar. Sim, humor britânico está sempre acima do americano.

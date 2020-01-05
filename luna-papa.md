@@ -4,7 +4,7 @@ title: "Luna Papa"
 desc: "Luna Papa. Dirigido por Bakhtyar Khudojnazarov, escrito por Khudojnazarov e Irakli Kvirikadze, com Chulpan Khamatova, Moritz Bleibtreu, Ato Mukhamedzhanov."
 imdb: "0170259"
 
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 stars: "3/5"
 ---
 Esta é uma comédia russa que vai fazer você pensar várias vezes: mais um dia normal na Rússia.

@@ -2,7 +2,7 @@
 imdb: "2872732"
 
 date: "2014-11-30"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Lucy"
 stars: "3/5"
 desc: "Lucy. Lucy (France, 2014). Dirigido por Luc Besson. Escrito por Luc Besson. Com Scarlett Johansson, Morgan Freeman, Min-sik Choi, Amr Waked, Julian Rhind-Tutt, Pilou Asbæk, Analeigh Tipton, Nicolas Phongpheth, Jan Oliver Schroeder."

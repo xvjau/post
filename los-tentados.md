@@ -2,7 +2,7 @@
 imdb: "2805584"
 
 date: "2013-10-26"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Los tentados"
 stars: "2/5"
 desc: "Los tentados. Los tentados (Argentina, 2013). Dirigido por Mariano Blanco. Escrito por Mariano Blanco. Com Fany Palmieri, Lucía Romero, Javier Abril Rotger, Ramiro Sciallo."

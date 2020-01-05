@@ -2,7 +2,7 @@
 imdb: "0479997"
 
 date: "2011-02-05"
-tags: [ "movies" ]
+tags: [ "movies", "blog" ]
 title: "Caça às Bruxas"
 stars: "3/5"
 desc: "Caça às Bruxas. Season of the Witch (USA, 2011). Dirigido por Dominic Sena. Escrito por Bragi F. Schut. Com Nicolas Cage, Ron Perlman, Stephen Campbell Moore, Stephen Graham, Ulrich Thomsen, Claire Foy, Robert Sheehan, Christopher Lee, Kevin Rees."

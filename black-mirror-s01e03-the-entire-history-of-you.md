@@ -2,7 +2,7 @@
 imdb: "2085059"
 
 date: "2015-12-13"
-tags: [ "series" ]
+tags: [ "series", "blog" ]
 title: "Black Mirror - S01E03 - The Entire History of You"
 stars: "5/5"
 desc: "The Entire History of You. Black Mirror (UK, 2011). Dirigido por Brian Welsh. Escrito por Jesse Armstrong. Com Toby Kebbell, Jodie Whittaker, Tom Cullen."
