@@ -1,7 +1,7 @@
 ---
 date: "2020-01-04"
 title: "Cats"
-desc: '"Cats" (Reino Unido e EUA, 2019), escrito por T.S. Eliot, Lee Hall e Tom Hooper, dirigido por Tom Hooper, com Francesca Hayward, Taylor Swift e Laurie Davidson. Vi no cinema. Você entendeu bem. No cinema.'
+desc: '"Cats" (Reino Unido e EUA, 2019), escrito por T.S. Eliot, Lee Hall e Tom Hooper, dirigido por Tom Hooper, com Francesca Hayward, Taylor Swift e Laurie Davidson. Escrito para o CinemAqui.'
 imdb: "5697572"
 tags: [ "movies" ]
 stars: "1/5"

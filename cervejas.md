@@ -1,5 +1,5 @@
 ---
-title: "Degustação de Cervejas"
+title: "Cervejas"
 tags: [ "food" ]
 date: 2019-07-19
 desc: "Histórico de degustação de cervejas."

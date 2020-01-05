@@ -1,5 +1,5 @@
 ---
-title: "Degustação de Vinhos"
+title: "Vinhos"
 tags: [ "food" ]
 date: 2019-07-19
 desc: "Histórico de degustação de vinhos."
@@ -329,6 +329,4 @@ Pata Negra Tempranillo é o vinho espanhol de melhor custo/benefício. É fácil
 <tr><td>2014-12-21 Chile, Gato Negro Cabernet. Fácil, frutado, pouco alcoólico.</td></tr>
 <tr><td>2014-12-21 África do Sul, False Bay Pinotage 2012. Meio geleia, enjoativo. Um pouco quente. Não sei se compraria mais, tem que ver combina com que.</td></tr>
 <tr><td>2014-12-20 Áustria, Göttweiger Berg Zweigelt 2011. Alcoólico, já 2 meses aberto na geladeira, meio vinagroso.</td></tr>
-<tr><td></td></tr>
-<tr><td></td></tr>
 </table>
