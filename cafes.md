@@ -14,6 +14,11 @@ desc: "Histórico de degustação de cafés."
 </tr></td>
 
 <tr><td>
+2020-01-07
+Café Gourmet do Sul de Minas! O nome Café Gourmet parece ruim hoje em dia, né? Eu te entendo, é ruim mesmo. O mercado estragou a semântica das qualidades dos alimentos assim como a política aniquila as expressões de julgamento de valor. Mas este é um arábica mineiro doce, leve e com aroma e sabor quase imperceptível. Não é amargo, os grãos são bonitos, e passado na Aeropress com 18g e tempo de espera de cerca de 30s ele é quase esquecível. Mas agradável.
+</tr></td>
+
+<tr><td>
 2019-12-29
 Tentando aumentar o tempo de espera entre 40 e 50s com 15 a 18g de pó, mas o resultado é que o amargor fica mais forte.
 </tr></td>
