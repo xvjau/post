@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: "http://www.cinemaqui.com.br/tal-mae-tal-filha/"
 imdb: "5975354"
 

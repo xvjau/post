@@ -6,7 +6,7 @@ imdb: "6823368"
 
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 Dezenove anos atrás. Esse é o tempo que separa Corpo Fechado, início dessa até então trilogia, até sua conclusão, ou expansão desnecessária, inflada e exagerada. Mas nem por isso deixa de ser um trabalho minucioso, curioso e competente de uma saga que se mantém dentro de seus próprios padrões do começo ao fim.
 

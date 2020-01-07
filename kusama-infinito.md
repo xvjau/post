@@ -6,7 +6,7 @@ imdb: "1893269"
 
 tags: [ "movies", "blog" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Kusama - Infinito é um documentário de praxe, desses que tem aos montes na TV e na Netflix (aliás, este possui agradecimentos do serviço de streamin nos créditos finais, o que indica que em breve deve estar disponível para os assinantes).
 

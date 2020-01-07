@@ -5,7 +5,7 @@ desc: "Booksmart (EUA, 2019), escrito por Susanna Fogel, Emily Halpern, Sarah Ha
 imdb: "1489887"
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 
 ---
 Fora de Série é tudo o que eu queria ver no cinema em termos de comédia: algo engraçado (por favor), empolgante, inteligente, atualizado e que não espera que os espectadores sejam idiotas para que o filme funcione.

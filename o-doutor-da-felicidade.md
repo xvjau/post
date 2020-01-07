@@ -6,7 +6,7 @@ imdb: "6515342"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Eu entendo o porquê do lançamento de O Doutor da Felicidade ser direto para streaming: se trata de um filme com um quê televisivo, de baixa produção, e que não tenta esconder isso. O que eu não entendo é um ator com o carisma e talento de Omar Sy acabar participando deste projeto, sendo que ele próprio nos prova, através de uma cena linda perto do final do filme (você irá reconhecê-la pela frase "onde está o crime?" e pela possível referência a "M, O Vampiro de Dusseldorf"), que é capaz de participar de dramas mais formatadinhos.
 

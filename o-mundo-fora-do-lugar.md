@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: "http://www.cinemaqui.com.br/o-mundo-fora-do-lugar/"
 imdb: "3790172"
 

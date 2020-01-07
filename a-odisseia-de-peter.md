@@ -4,7 +4,7 @@ title: "A Odisseia de Peter"
 desc: "Odysseya Petra (Rússia, 2018), escrito e dirigido por Anna Kolchina e Alexey Kuzmin-Tarasov, com Dmitriy Gabrielyan, Svetlana Nemolyaeva, Maria Shashlova. #mostrasp Crítica escrita para o site CinemAqui."
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 
 ---
 É difícil imaginar o que se passa pela cabeça de uma criança de 12 anos. E essa é a sensação ao assistir A Odisseia de Peter, um filme que lida com a quebra repentina de laços familiares, culturais e linguísticos de um garoto russo e sua incessante vontade inconsciente de conseguir essas raízes de volta.

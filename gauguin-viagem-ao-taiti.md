@@ -6,7 +6,7 @@ imdb: "6330052"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 A passagem de Gauguin pela Polinésia não é apenas a história de um homem do mundo moderno indo resgatar sua origem selvagem, mas um artista buscando entender sobre as perdas envolvidas nesta transição.
 

@@ -6,7 +6,7 @@ imdb: "6892206"
 
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 O Segredo de Nápoles possui uma atmosfera de mistério junto de um drama pessoal que desafia nossa percepção da realidade, e seria ingênuo de nossa parte considerar verdade apenas o que pode ser provado. Afinal o que sabemos da vida está fadado a falhas e incertezas de nossa percepção.
 

@@ -4,7 +4,7 @@ title: "O Criador de Universos"
 desc: "El Creador de Universos (Uruguai, 2017), escrito e dirigido por Mercedes Dominioni, com atores desconhecidos.  #mostrasp Crítica escrita para o site CinemAqui."
 tags: [ "movies" ]
 stars: "2/5"
-external: "cinemaqui"
+
 
 ---
 O Criador de Universos (El Creador de Universos no original) em seu próprio título já revela a petulância de um mini diretor caseiro. E a primeira cena já revela a picaretagem de alguém que não quer ir pra escola. A análise da criação de um filme é a melhor parte, e a criação de seu roteiro a pior. Infelizmente o filme nos mostra muito da pior parte e muito pouco da melhor.

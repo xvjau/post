@@ -4,7 +4,7 @@ title: "Histórias que Nosso Cinema (Não) Contava"
 desc: "Histórias que Nosso Cinema (Não) Contava (Brasil, 2017), dirigido por Fernanda Pessoa e montado por Luiz Cruz, com atores diversos de pornochanchadas diversas. Crítica escrita para o site CinemAqui."
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 Se você se lembra das pornochanchadas -- produções de baixo orçamento, cunho erótico e qualidade duvidosa lançadas na época da intervenção militar -- é bem capaz que irá gostar muito desse filme. Ele dá uma nova cor ao tema. Não se trata de uma mistura inconsequente como aquelas homenagens vazias. A montagem das cenas, ou seja, a sequência que elas seguem, é o núcleo da narrativa que ele tenta criar a partir do nada. Sua ambição: fazer um memorial político/sócio/econômico da época. Dentro das pretensões das pornochanchadas, até que não está muito longe.
 

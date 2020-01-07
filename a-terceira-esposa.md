@@ -6,7 +6,7 @@ imdb: "7692966"
 
 tags: [ "movies" ]
 stars: "2/5"
-external: "cinemaqui"
+
 ---
 A Terceira Esposa é um épico vietnamita que se passa há muito tempo, no século 14, e que portanto está entregue às regras sociais da época. No entanto, a diretora vietnamita Ash Mayfair quer nos mostrar uma crítica social contemporânea e se confunde todo com as linhas de história de todas suas personagens. Não dá pra saber muito o que ele quer dizer com tudo isso, mas dá pra entender que ele falhou graciosamente.
 

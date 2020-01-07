@@ -6,7 +6,7 @@ imdb: "4181782"
 
 stars: "2/5"
 desc: "The Crucifixion (EUA/Reino Unido/Romênia, 2017), escrito por Chad Hayes, Carey W. Hayes, dirigido por Xavier Gens, com Sophie Cookson, Corneliu Ulici, Ada Lupu. Crítica escrita para o site CinemAqui."
-external: "cinemaqui"
+
 ---
 Exorcismos e Demônios é um filme que adota o estilo clássico de mistério que vai sendo desvendado, mas se esquece que para o espectador ficar interessado no mistério é necessário que ele de fato exista.
 

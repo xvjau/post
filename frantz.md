@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: "http://www.cinemaqui.com.br/frantz/"
 imdb: "5029608"
 

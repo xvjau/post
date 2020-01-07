@@ -6,7 +6,7 @@ imdb: "5258850"
 
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 Nos Vemos no Paraíso tem a estrutura de um conto de fantasia, ou uma peça de teatro, mas consegue espaço para expandir timidamente sua história através de cores, arte, música e ação. Muita ação.
 

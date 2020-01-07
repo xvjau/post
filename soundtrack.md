@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: "http://www.cinemaqui.com.br/soundtrack/"
 imdb: "3332372"
 

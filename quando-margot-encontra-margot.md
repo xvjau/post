@@ -6,7 +6,7 @@ imdb: "6690176"
 
 tags: [ "movies", "blog" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 O que você faria se encontrasse sua versão do futuro, teoricamente mais velha e mais sábia, e ela começasse a lhe dar conselhos sobre o que fazer para acertar dessa vez na vida? Quando Margot Encontra Margot é um filme que explora essas possibilidades imaginárias sobre o nosso ser, mas se no começo abre-se um leque de para onde a história pode ir ela aos poucos vai se fechando em torno de algo mais enxuto que volta para o lugar-comum dos romances franceses.
 

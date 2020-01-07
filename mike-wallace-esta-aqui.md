@@ -6,7 +6,7 @@ imdb: "9353436"
 
 tags: [ "movies", "blog" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Mike Wallace Está Aqui é um documentário ágil que pega bastante da linguagem televisiva, mas sem mastigar muito a informação. o formato parece estar um pouco acima do conteúdo, o que não é um problema para a televisão, mas é para o cinema.
 

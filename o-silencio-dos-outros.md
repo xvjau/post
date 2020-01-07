@@ -6,7 +6,7 @@ imdb: "8099236"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 O Silêncio dos Outros é um documentário necessário, mas com final amargo quando constatamos o quão dura e lenta é a luta por justiça.
 

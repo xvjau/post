@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: "http://www.cinemaqui.com.br/o-rastro/"
 imdb: "4117326"
 

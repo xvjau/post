@@ -6,7 +6,7 @@ imdb: "3886454"
 
 tags: [ "movies" ]
 stars: "2/5"
-external: "cinemaqui"
+
 ---
 Trinta Almas realiza o experimento de unir documental e ficção em filme com tons de terror e mistério, mas desde seu começo já demonstra esta não ser uma ideia tão boa quanto a realizada em A Bruxa de Blair, marco nos filmes estilo mockumentary. Se bem que rotular este filme dessa forma não seja o ideal. Este é também um experimento, um conceito, que poderia dar algumas sensações novas aos filmes do gênero. Mas não consegue. É confuso, parado e frustrante.
 

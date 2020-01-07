@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: "http://www.cinemaqui.com.br/a-garota-desconhecida/"
 imdb: "4630550"
 

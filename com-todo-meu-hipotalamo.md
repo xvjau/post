@@ -6,7 +6,7 @@ imdb: "8710234"
 
 tags: [ "movies", "blog" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 Se há uma coisa que Com Todo Meu Hipotálamo nos ensina é que o ser humano não pode viver sem a beleza. E não se trata dessa beleza abstrata, pós-moderna, localizada em privadas sanitárias espalhadas em museus que sistematicamente ofendem nosso senso estético. De jeito nenhum. A beleza que o filme trata é a mais simples, pura, instintiva: a mulher desejada.
 

@@ -1,6 +1,6 @@
 ---
 title: "24 Frames"
-external: "cinemaqui"
+
 imdb: "6777170"
 
 stars: "4/5"

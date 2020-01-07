@@ -6,7 +6,7 @@ imdb: "8296592"
 
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 "As pessoas conseguem se acostumar com tudo", um personagem diz em certo momento de Sofia, um filme que se você não parou pelo menos por alguns minutos para refletir após ter assistido, pense de novo. O personagem tem razão.
 

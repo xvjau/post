@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: "http://www.cinemaqui.com.br/um-homem-chamado-ove"
 imdb: "4080728"
 

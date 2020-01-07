@@ -4,7 +4,7 @@ title: "Niède"
 desc: "Niède (Brasil, 2019), dirigido por Tiago Tambelli, com Niède Guidon. Crítica escrita para o site CinemAqui."
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 
 ---
 No começo de "Niède" há umas batidas bacanas na trilha sonora, batidas ocas, que não conseguimos discernir de onde poderiam vir, exceto de materiais muito primitivos. Essa batida já começa o filme evocando tempos tão distantes na cronologia humana que sequer ousamos imaginar o que o homo sapiens fazia até então.

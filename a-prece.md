@@ -6,7 +6,7 @@ imdb: "7839456"
 
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 Você é religioso? Costuma rezar para Deus? E qual a resposta? Tem certeza? Pois é. A Prece, novo filme do diretor/ator Cédric Kahn, tenta abordar o tema religioso através de uma história de redenção. Disciplinado como é (vide Vida Selvagem), Kahn explora todas as nuances que envolvem a fé e a auto-superação, mas não por um adulto com suas convicções já formadas, mas através de um jovem garoto que precisa aprender a conviver com um grupo que está fora da moda e com sua própria dose de descrédito.
 

@@ -6,7 +6,7 @@ imdb: "7051048"
 
 tags: [ "movies", "blog" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Fuga possui uma ideia fascinante a respeito de identidade, mas parece estar disposto a desperdiçar com uma narrativa lenta e repetitiva em torno de um mistério bobo como em tantos outros filmes. Resta o exercício narrativo, mas isso é tão pouco que passa desapercebido.
 

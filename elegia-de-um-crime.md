@@ -6,7 +6,7 @@ imdb: "8389758"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Elegia de um Crime me faz pensar na ineficiência de uma torneira automática de um banheiro público. Às vezes a água vem com uma pressão que acaba molhando tudo em volta, obrigando um funcionário estar constantemente secando. Às vezes ela esguicha por muito pouco tempo, obrigando quem a usa a ficar apertando o botão em vez de lavar a mão. O ponto é que, de um jeito ou de outro, aprendemos a conviver com sistemas que parecem ter surgido com defeito desde o começo.
 

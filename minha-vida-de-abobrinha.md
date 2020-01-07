@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: "http://www.cinemaqui.com.br/minha-vida-de-abobrinha/"
 imdb: "2321405"
 

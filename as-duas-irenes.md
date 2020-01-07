@@ -6,7 +6,7 @@ imdb: "6289724"
 
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 Poucos filmes me deixam sem palavras por causa das camadas emocionais em que ele coloca o espectador (e que depois fica difícil de sair uma a uma). As Duas Irenes é um desses filmes, mas longe do motivo ser apenas a história ou as atuações. É toda a produção. Isso pode ser minha memória afetiva que foi aguçada com tantas referências a uma época que não existe mais. E se for, garanto que vai sentir o mesmo se prestar atenção.
 

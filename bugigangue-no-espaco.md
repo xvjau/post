@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: "http://www.cinemaqui.com.br/bugigangue-no-espaco"
 imdb: "5812510"
 

@@ -6,7 +6,7 @@ desc: "Yao. France, Senegal, 2018. Dirigido por Philippe Godeau, escrito por Phi
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Omar Sy já é considerado um deus na França e um ator de sucesso no mundo todo. Em Jornada da Vida ele interpreta ele mesmo em uma versão chapada, contemplativa, que quer ser aquele protagonista em busca de suas origens, mas sem o peso das decisões dos seus antepassados.
 

@@ -6,7 +6,7 @@ imdb: "5095030"
 
 desc: "Ant-Man and the Wasp (EUA, 2018), escrito por Chris McKenna, Erik Sommers, Paul Rudd, Andrew Barrer, Gabriel Ferrari, dirigido por Peyton Reed, com Paul Rudd, Evangeline Lilly, Michael Peña, Michael Douglas, Laurence Fishburne e Michelle Pfeiffer. Crítica escrita para o site CinemAqui."
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 O segundo Homem-Formiga arruma os erros do primeiro e se torna uma aventura divertida e despretensiosa sem apelar para o ridículo ou a comédia fácil. Mas o humor existe, em sua melhor forma para filmes de ação: nos diálogos, e não na ação em si.
 

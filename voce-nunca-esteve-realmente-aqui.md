@@ -6,7 +6,7 @@ imdb: "5742374"
 
 tags: [ "movies" ]
 stars: "5/5"
-external: "cinemaqui"
+
 ---
 Situado em nosso inconsciente, nas profundezas de nossa sociedade pós-moderna, flutua a realidade e os intermináveis debates sobre o homem comum, esse que vive uma rotina em que, apesar de alguns percalços, tudo parece estar em relativa ordem e estabilidade. "Você Nunca Esteve Realmente Aqui" não fala sobre este homem, mas trabalha do outro lado da equação, onde a violência brutal marca as pessoas que nela vivem, e que para sempre deixaram de ser os mesmos. Sua realidade não possui essa estabilidade com alguns percalços de vez em quando. A realidade é o eterno percalço, com breves momentos, se tiverem sorte, de alguma calmaria.
 

@@ -6,7 +6,7 @@ imdb: "5848272"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Quem assistir "Wifi Ralph: Quebrando a Internet" pelo título já deve saber que não deverá ver com o mesmo clima do primeiro filme ("Detona Ralph"), que apostava no saudosismo dos fãs de fliperamas e vídeo-games antigos em geral para explorar a magia dos 0s e 1s através dos carismáticos personagens Ralph e Vanellope, entre outros.
 

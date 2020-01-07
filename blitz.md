@@ -4,7 +4,7 @@ title: "Blitz"
 desc: "Blitz (Brasil, 2018), escrito por Bosco Brasil, dirigido por Rene Tada Brasil, com Rui Ricardo Dias e Georgina Castro. Crítica escrita para o site CinemAqui."
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 
 ---
 No início de Blitz nos é informado que o roteiro foi adaptado (ou inspirado) em uma peça de teatro, mas a sensação é que não houve adaptação alguma, pois este filme é muito mais teatro, daqueles pesadões reflexivos, e menos Cinema, com seu dinamismo narrativo.

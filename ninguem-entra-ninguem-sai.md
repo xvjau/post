@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: "http://www.cinemaqui.com.br/ninguem-entra-ninguem-sai/"
 imdb: "6230488"
 

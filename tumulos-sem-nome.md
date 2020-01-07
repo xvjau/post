@@ -6,7 +6,7 @@ imdb: "8790662"
 
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 Não é nenhum segredo as atrocidades cometidas durante o regime comunista da Cambódia, quando pessoas morriam de fome, doença ou eram sumariamente executadas. O que é inesperado no documentário de Rithy Panh são as consequências nas crenças do povo que sobreviveu.
 

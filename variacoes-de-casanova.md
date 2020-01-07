@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: "http://www.cinemaqui.com.br/variacoes-de-casanova/"
 imdb: "2614400"
 

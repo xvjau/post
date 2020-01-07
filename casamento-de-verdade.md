@@ -1,6 +1,6 @@
 ---
 title: "Casamento de Verdade"
-external: "cinemaqui"
+
 imdb: "3289712"
 
 stars: "3/5"

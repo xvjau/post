@@ -6,7 +6,7 @@ imdb: "8731138"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 O filme "Temporada" é um retrato natural do cotidiano de uma cidade e sua cultura sob o ponto de vista de um ser humano em mudança. Mudança de cidade, de postura, de atitude. Pode chamar de redescoberta ou "cair na real". Pode chamar de fantasia ou crítica social.
 

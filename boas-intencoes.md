@@ -6,7 +6,7 @@ desc: "Best Intentions. France, 2018. Dirigido por Gilles Legrand, escrito por L
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Se refletirmos profundamente sobre nossas ações, surge uma inquietante questão: o quanto somos quebrados por dentro. Em Boas Intenções os refugiados são apenas pano de fundo para um estudo de personagem que acaba se tornando muito comum em nossa sociedade contemporânea cheia de desigualdades a nível global: os que ajudam os mais necessitados não para se sentirem bem, mas que precisam ajudar para não se sentirem imprestáveis.
 

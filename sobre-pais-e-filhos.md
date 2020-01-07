@@ -6,7 +6,7 @@ imdb: "7519174"
 
 tags: [ "movies" ]
 stars: "5/5"
-external: "cinemaqui"
+
 ---
 Sobre Pais e Filhos é o tipo de filme que o diretor já ganha nota máxima apenas por ter filmado tudo aquilo e voltar com vida, mas ele é ao mesmo tempo um trabalho narrativo impactante na medida certa e para os corações mais fortes, conseguindo realizar uma imersão completa do espectador para aquela realidade, poir mais revoltante, angustiante, insuportável e horrível que ela seja.
 

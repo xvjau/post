@@ -6,7 +6,7 @@ imdb: "4682788"
 
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 Escobar - A Traição é mais uma visita ao inesgotável mundo de Pablo Escobar, este cabrón que construiu um império em cima de outros impérios e teve que pagar as consequências. Uma história tão impactante e dramática como essa (porque é real) já foi explorada inúmeras vezes na ficção, e recentemente ganhou séries e filmes. Então, qual a grande novidade dessa vez?
 

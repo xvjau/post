@@ -1,6 +1,6 @@
 ---
 title: "Branco Sai, Preto Fica"
-external: "cinemaqui"
+
 imdb: "4287610"
 
 stars: "3/5"

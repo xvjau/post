@@ -6,7 +6,7 @@ imdb: "5687040"
 
 stars: "4/5"
 desc: "Les fantômes d'Ismaël (França, 2017), escrito por Arnaud Desplechin, Julie Peyr e Léa Mysius, dirigido por Desplechin, com Mathieu Amalric, Marion Cotillard, Charlotte Gainsbourg, Louis Garrel, Alba Rohrwacher. Crítica escrita para o site CinemAqui."
-external: "cinemaqui"
+
 ---
 Este é mais um filme sobre o processo de criação. Mas ele é tão intenso que ele quase parece se deixar levar como uma auto-análise do seu criador. Eu disse quase, já que Os Fantasmas de Ismael é um trabalho que se mantém sob controle se você olhar de perto, mas para o leigo, esta é uma aventura muito, muito louca, que com um pouco de esperança irá te dar alguns insights sobre como somos manipulados todo o tempo nas artes cênicas e na literatura.
 

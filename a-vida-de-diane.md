@@ -6,7 +6,7 @@ imdb: "6705860"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 A Vida de Diane é um filme de sensações, mas só vamos percebendo isso conforme a rotina se torna cada vez menos relevante para o que é realmente importante. "Precioso", como a própria Diane diz em sua última fala.
 

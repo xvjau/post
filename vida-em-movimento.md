@@ -4,7 +4,7 @@ title: "Vida em Movimento"
 desc: "Vida Em Movimento (Brasil, 2019), escrito por Selma Perez, Eduardo Rajabally, Márcio Atalla, Joana Kfuri baseados na ideia original de Márcio Atalla, dirigido por Eduardo Rajabally. Crítica escrita para o site CinemAqui."
 tags: [ "movies" ]
 stars: "2/5"
-external: "cinemaqui"
+
 
 ---
 Vida em Movimento, documentário que propõe mudanças em nossos hábitos para combater o sedentarismo sistêmico das grandes cidades, me fez lembrar de uma notícia bombástica mês passado sobre a Coca-Cola ter influenciado pesadamente as diretivas chinesas no combate à obesidade nos últimos trinta anos. Como um filme sobre sedentarismo me fez lembrar disso? Simples: a estratégia corporativa é basicamente a mesma.

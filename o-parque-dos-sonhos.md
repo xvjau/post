@@ -6,7 +6,7 @@ imdb: "6428676"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Nos primeiros quinze minutos de O Parque dos Sonhos é possível que uma lágrima escorra dos olhos de um espectador cativado pela proposta. Eu gostaria de acreditar que não são lágrimas de manipulação, pois realmente parece um tema emocionante. Porém, já nos últimos quinze minutos é possível que esse mesmo espectador esteja pensando no que foi que deu errado para que essa história acabe em mais do mesmo.
 

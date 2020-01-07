@@ -6,7 +6,7 @@ imdb: "4504044"
 
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 Para fãs de terror, "Maligno" é uma viagem que no mínimo paga o ingresso, mas vem com um final que pode deixar o pessoal mais antenado em justiça social com um gosto ruim na boca. Angustiante em alguns momentos e tenso em quase todos, ele vai te consumindo por dentro enquanto você acompanha uma história que é à prova da razão humana.
 

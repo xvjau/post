@@ -5,7 +5,7 @@ desc: "Toy Story 4 (EUA, 2019), escrito por Andrew Stanton e Stephany Folsom, di
 imdb: "1979376"
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 
 ---
 Toy Story 4 é a quebra de uma trilogia, e isso é ótimo. Chacoalhando um pouco o universo dos brinquedos mais queridos do Cinema, esta aventura possui duas virtudes bem-vindas dos longas da Pixar: boas ideias e mudanças de personagens.

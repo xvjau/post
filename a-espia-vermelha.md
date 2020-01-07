@@ -6,7 +6,7 @@ imdb: "7615302"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Política, conspiração, romance, ciência. A Espiã Vermelha é um filme que contém esses elementos unidos por uma mulher vivendo seu sonho na Segunda Guerra em ser uma cientista, mas ao mesmo tempo sendo pressionada por seus valores e sua posição privilegiada a fazer algo que ela poderá se arrepender profundamente. A questão toda do filme é que ela não tem como saber disso naquele momento, e, sendo finalmente descoberta, tem a chance de rever suas ações.
 

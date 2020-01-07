@@ -6,7 +6,7 @@ imdb: "6313378"
 
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 A estrela de Memórias da Dor é definitivamente Mélanie Thierry. Neste drama psicológico acompanhamos em uma atmosfera sufocante a dor pendente da personagem de Thierry, a mulher que aguarda pelo retorno de seu marido ou pela notícia de sua morte. E a maior dor aqui não é a possível morte, mas a falta de resposta.
 

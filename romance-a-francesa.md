@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 imdb: "3612984"
 
 date: "2016-09-29"

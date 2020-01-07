@@ -6,7 +6,7 @@ desc: "Waiting for the Carnival. Brazil, 2019. Dirigido por Marcelo Gomes, escri
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Estou Me Guardando Para Quando o Carnaval Chegar é daqueles documentários com nome longo e história curta. O nome longo foi tomado da música de Chico Buarque e a história curta das lembranças de Marcelo Gomes, diretor do filme.
 

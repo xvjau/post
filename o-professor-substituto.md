@@ -6,7 +6,7 @@ desc: "School's Out. France, 2018. Dirigido por Sébastien Marnier, escrito por 
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Uma classe de alunos está compenetrada estudando. O calor é tão forte que é possível sentir seu barulho, no começo incômodo, no final ensurdecedor. O professor pega uma cadeira para chegar ao parapeito da janela e se joga, deixando seu posto vago de uma maneira mórbida. O Professor Substituto chega em um momento delicado para a escola, para os alunos e para toda a sociedade.
 

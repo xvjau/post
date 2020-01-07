@@ -6,7 +6,7 @@ imdb: "5818404"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Quase trinta anos após iniciado um movimento artístico liderado pela banda Planet Hemp, "Legalize Já!" ainda soa provocador. Extraído de um momento na história do país onde política e alienação andavam de mãos juntas, a mini biografia de Marcelo D2 e Skunk é muito mais sobre uma amizade inusitada do que uma crítica social.
 

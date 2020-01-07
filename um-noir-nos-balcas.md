@@ -6,7 +6,7 @@ imdb: "6100336"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Era pra ser uma história simples sobre perdas e auto-destruição, como o ótimo Em Pedaços (do diretor Fatih Akin, com Diane Krueger), que de bônus tem uma trilha sonora ótima de rock pesado. Mas Um Noir nos Balcãs é apenas um filme que lembra vagamente o gênero noir, e resolve aplicar gracinhas cinematográficas no meio que não fazem o menor sentido e de quebra tem uma trilha sonora pop bobinha. A protagonista até usa o título da música-síntese de uma cantora pop, Cyndi Lauper: "Girls Just Wann to Have Fun". E o único que não tem diversão nisso tudo é o espectador.
 

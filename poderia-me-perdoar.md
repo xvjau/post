@@ -6,7 +6,7 @@ imdb: "4595882"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Baseado em uma história real. Isso é o que lemos no começo de "Poderia Me Perdoar?", seguido de uma história que talvez fosse difícil de engolir se não nos fosse informado que tudo aquilo (ou boa parte) aconteceu.
 

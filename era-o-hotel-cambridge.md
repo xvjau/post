@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: "http://www.cinemaqui.com.br/era-o-hotel-cambridge"
 imdb: "5067984"
 

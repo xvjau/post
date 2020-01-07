@@ -6,7 +6,7 @@ imdb: "8896640"
 
 tags: [ "movies", "blog" ]
 stars: "2/5"
-external: "cinemaqui"
+
 ---
 Esses filmes do diretor sionista que exibe pedaços da vida de várias pessoas cruzando a Terra Santa são mensagens confusas e ambíguas, de um naturalismo capenga porque canalha. Esse mais recente, "Um Trem em Jerusalém", próximo de seu final nos dá vontade de falar ao seu diretor: vá para casa, Amos Gitai; você está bêbado.
 

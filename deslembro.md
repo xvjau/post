@@ -6,7 +6,7 @@ imdb: "8900098"
 
 tags: [ "movies" ]
 stars: "4/5"
-external: "cinemaqui"
+
 ---
 Deslembro começa deslumbrando com seu nome, um trocadilho simpático e até poético sobre o desmembramento de uma família, o esquecimento de quem fomos e as ambiguidades dos idiomas românicos, como o português, o francês e o espanhol.
 

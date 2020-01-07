@@ -6,7 +6,7 @@ imdb: "5069072"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 Este é um mockumentary engraçadinho, que não tem muitas pretensões de ser mais que isso. Talvez seja uma boa pedida entre sessões mais pesadas da Mostra de São Paulo para dar uma aliviada no meio de tantos dramas e críticas sociais e políticas, porque por incrível que pareça, este filme não tem nada disso.
 

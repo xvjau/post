@@ -6,7 +6,7 @@ imdb: "6565702"
 
 tags: [ "movies" ]
 stars: "3/5"
-external: "cinemaqui"
+
 ---
 "X-Men: Fênix Negra" é uma grande metáfora de como ao ganhar poderes incontroláveis movimentos sociais como feminismo criam vítimas aleatórias por onde quer que passem com poder de ferir justamente os que te querem bem: os únicos amigos que aguentaram ficar perto de você.
 

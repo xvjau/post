@@ -1,5 +1,5 @@
 ---
-external: "cinemaqui"
+
 cinemaqui: " http://www.cinemaqui.com.br/personal-shopper/"
 imdb: "4714782"
 
