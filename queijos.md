@@ -4,9 +4,6 @@ tags: [ "food" ]
 date: 2019-07-19
 desc: "Histórico de degustação de queijos."
 ---
-<script src="/js/jquery.min.js"></script>
-<script src="/js/list.js"></script>
-
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
 

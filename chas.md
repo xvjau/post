@@ -3,9 +3,6 @@ title: "Chás"
 tags: [ "food" ]
 date: 2019-09-09
 ---
-<script src="/js/jquery.min.js"></script>
-<script src="/js/list.js"></script>
-
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
 <tr><td>2019-09-09 Tchai/Chai: faça chá preto com água fervida com canela e anis. A outra metade de sua caneca esquente leite com açúcar mascavo, gengibre, cardamomo e pitadas de pimenta preta e noz moscada. Depois de terminada a infusão junte os dois. Cheers.</td></tr>

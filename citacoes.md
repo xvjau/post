@@ -4,9 +4,6 @@ tags: [ "blog" ]
 date: 2019-09-08
 desc: "Histórico de citações que encontro por aí."
 ---
-<script src="/js/jquery.min.js"></script>
-<script src="/js/list.js"></script>
-
 <table class="sortable">
 <input type="text" name="filter" value="" id="filter" style="width: 100%; font-size: 22px;" title=""/><span name="results" id="results"></span>
 
