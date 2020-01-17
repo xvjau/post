@@ -1,6 +1,7 @@
 ---
 date: "2015-02-03"
-title: CCPPBrasil11 Brasil -- Call for Papers
+title: "CCPP Brasil 11: Call For Papers"
+desc: "Chamada para palestras do encontro C++. Atualizado em 2020-01-16."
 tags: [ "blog" ]
 ---
 Acho que já está na hora de nos reencontrarmos, né?
@@ -26,10 +27,10 @@ Então vamos aos detalhes:
 
 Ops, deu um errinho acima. Acho que é porque ainda não temos as palestras.
 
-Quer colaborar? Não deixe de preencher então o nosso [formulário do Call for Papers](http://goo.gl/forms/NB1EcFF8EM)!
+Quer colaborar? Não deixe de preencher então o nosso formulário do Call for Papers (update: encerrado)!
 
 Alguma dúvida antes de preencher? Fale conosco na [thread sobre o CFP](https://groups.google.com/forum/#!topic/ccppbrasil/pf63h82yxvI)!
 
-Se conhece alguém que gostaria de participar do evento, palestrante ou não, por favor, espalhe a notícia o mais rápido possível. Quanto mais cedo soubermos quantas pessoas irão, melhor fica organizar melhor nosso reencontro.
+Se conhece alguém que gostaria de participar do evento, palestrante ou não, por favor, espalhe a notícia o mais rápido possível. Quanto mais cedo soubermos quantas pessoas irão melhor fica organizar nosso reencontro.
 
 As próximas notícias continuarei divulgando aqui e em [fórum C/C++](https://groups.google.com/forum/#!forum/ccppbrasil). Fique atento.
