@@ -1,11 +1,11 @@
 ---
 date: 2018-03-28T19:14:05-03:00
 title: "Construindo Pontes"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 imdb: "7368464"
 
 stars: "3/5"
-desc: "Construindo Pontes (Brasil, 2017), escrito por Stefanie Kremser, Heloísa Passos, Letícia Simões, dirigido por Heloísa Passos. Crítica escrita para o site CinemAqui."
+desc: "Construindo Pontes (Brasil, 2017), escrito por Stefanie Kremser, Heloísa Passos, Letícia Simões, dirigido por Heloísa Passos."
 
 ---
 O ditado popular reza que futebol, religião e política não se discute. Discordo. Porém, ainda que seja necessário discutir todo e qualquer tema, acho difícil alguém discordar, incluindo os participantes de Construindo Pontes, que discutir política é de longe a atividade mais extenuante de todas.

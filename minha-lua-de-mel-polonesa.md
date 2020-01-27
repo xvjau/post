@@ -3,7 +3,7 @@ date: "2019-08-27"
 title: "Minha Lua de Mel Polonesa"
 desc: '"Lune de miel" (França, 2018), escrito por Mathias Gavarry e Élise Otzenberger, dirigido por Élise Otzenberger, com Judith Chemla, Arthur Igual e Brigitte Roüan. Escrito para o CinemAqui.'
 imdb: "8682932"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 ---
 Imagine que coisa louca: o que você chama de "você" é a soma das ações dos seus antepassados, uma criação cultural e social (e religiosa) que culminou em sua existência. E quando olhamos para trás é bom saber o que houve no passado, não? Dá uma sensação de identidade, pertencimento, ou pelo menos uma explicação de por que somos do jeito que somos. Agora, e se não soubéssemos nada desse passado? Angustiante, talvez? Minha Lua de Mel Polonesa é um filme que explora um pouco dessa possível angústia do que é não saber sobre suas origens, em uma comédia leve, bem-humorada e... com alguns tiques nervosos.

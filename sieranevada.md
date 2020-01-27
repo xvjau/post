@@ -3,10 +3,10 @@
 imdb: "4466490"
 
 date: "2016-11-30"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Sieranevada"
 stars: "5/5"
-desc: "Sieranevada. Sieranevada (Romania, 2016). Dirigido por Cristi Puiu. Escrito por Cristi Puiu. Com Mimi Branescu (Lary), Mirela Apostu (Doamna insarcinata), Eugenia Bosânceanu (Vecina in varsta), Ilona Brezoianu (Cami), Ana Ciontea (Aunt Ofelia), Ioana Craciunescu (Mrs. Popescu), Valer Dellakeza (Preotul), Aristita Diamandi (Vecina), Dana Dogaru (Nusa). Crítica escrita para o site CinemAqui."
+desc: "Sieranevada. Sieranevada (Romania, 2016). Dirigido por"
 ---
 Sieranevada faz jus à descrição do Cinema, a sétima arte, como mundo dos sonhos, ou onde se sonha acordado. A sinopse deste filme: espiamos a vida de uma grande família durante os preparativos de uma refeição que parece que nunca vai ocorrer. Se isso parece um pouco fora de foco pra você, trago duas observações, uma objetiva e outra subjetiva, que podem ser importantes na hora de assisti-lo: o filme tem quase três horas de duração; e um dos seus maiores defeitos é ser curto demais.
 

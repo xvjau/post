@@ -1,10 +1,10 @@
 ---
 date: 2018-08-26T20:36:45-03:00
 title: "Animal Político"
-desc: "Animal Político (Brasil, 2016), escrito e dirigido por Tião, com Rodrigo Bolzan, Elisa Heidrich, Victor Laet. Crítica escrita para o site CinemAqui."
+desc: "Animal Político (Brasil, 2016), escrito e dirigido por Tião, com Rodrigo Bolzan, Elisa Heidrich, Victor Laet."
 imdb: "5531346"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 
 ---

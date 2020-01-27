@@ -1,10 +1,10 @@
 ---
 date: 2019-03-13T17:15:56-03:00
 title: "Um Ato de Esperança"
-desc: "Um Ato de Esperança (Reino Unido, EUA, 2017), escrito por Ian McEwan baseado no seu próprio livro, dirigido por Richard Eyre, com Emma Thompson, Stanley Tucci, Fionn Whitehead. Crítica escrita para o site CinemAqui."
+desc: "Um Ato de Esperança (Reino Unido, EUA, 2017), escrito por Ian McEwan baseado no seu próprio livro, dirigido por Richard Eyre, com Emma Thompson, Stanley Tucci, Fionn Whitehead."
 imdb: "6040662"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 
 ---

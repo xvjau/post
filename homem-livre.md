@@ -1,10 +1,10 @@
 ---
 date: 2019-02-08T20:47:51-02:00
 title: "Homem Livre"
-desc: "Homem Livre (Brasil, 2017), escrito por Pedro Perazzo, dirigido por Alvaro Furloni, com Armando Babaioff como Hélio Lotte, Flavio Bauraqui como Pastor Gileno Maia, Thuany Andrade como Jamily. Crítica escrita para o site CinemAqui."
+desc: "Homem Livre (Brasil, 2017), escrito por Pedro Perazzo, dirigido por Alvaro Furloni, com Armando Babaioff como Hélio Lotte, Flavio Bauraqui como Pastor Gileno Maia, Thuany Andrade como Jamily."
 imdb: "5842570"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 
 ---

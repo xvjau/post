@@ -3,10 +3,10 @@
 imdb: "2937696"
 
 date: "2016-09-09"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Jovens, Loucos e Mais Rebeldes"
 stars: "4/5"
-desc: "Jovens, Loucos e Mais Rebeldes. Everybody Wants Some!! (USA, 2016). Dirigido por Richard Linklater. Escrito por Richard Linklater. Com Blake Jenner, Juston Street, Ryan Guzman, Tyler Hoechlin, Wyatt Russell, Glen Powell, Temple Baker, J. Quinton Johnson, Will Brittain. Crítica escrita para o site CinemAqui."
+desc: "Jovens, Loucos e Mais Rebeldes. Everybody Wants Some!! (USA, 2016). Dirigido por Richard Linklater. Escrito por Richard Linklater. Com Blake Jenner, Juston Street, Ryan Guzman, Tyler Hoechlin, Wyatt Russell, Glen Powell, Temple Baker, J. Quinton Johnson, Will Brittain."
 ---
 Jovens, Loucos e Mais Rebeldes é a mais nova experimentação de Richard Linklater (Boyhood), que entra a fundo em uma análise sobre uma geração e seus estilos, ou suas tribos, e que semelhante a seus filmes anteriores, parece mais interessado na análise em si do que criar qualquer história.
 

@@ -3,7 +3,7 @@ date: "2019-11-14"
 title: "O Exterminador do Futuro 2: O Julgamento Final"
 desc: '"Terminator 2: Judgment Day" (EUA, 1991), escrito por James Cameron e William Wisher, dirigido por James Cameron, com Arnold Schwarzenegger, Linda Hamilton e Edward Furlong. Assistido na Baia do Pirata (revisto, pois já revi um milhão de vezes). Passando o texto para o especial no CinemAqui.'
 imdb: "0103064"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "5/5"
 ---
 Sarah Connor foi a heroína no [primeiro Exterminador do Futuro](/o-exterminador-do-futuro). Ela resolveu o conflito principal e virou dona do seu próprio destino. Em Terminator 2, James Cameron, auxiliado por William Wisher (que havia contribuído no original com diálogos adicionais), expande não apenas a figura da personagem interpretada por Linda Hamilton, que vira uma protagonista bad ass e narradora em momentos importantes da trama, como se torna, assim como [Aliens: O Resgate](/aliens-o-resgate) (também de Cameron), um filme sobre instinto maternal e família elevado às últimas consequências: proteger a humanidade inteira do futuro sombrio que poderá surgir.

@@ -1,10 +1,10 @@
 ---
 date: 2019-02-19T17:25:59-03:00
 title: "Lembro Mais Dos Corvos"
-desc: "Lembro Mais Dos Corvos (Brasil, 2018), escrito por Julia Katharine, Gustavo Vinagre, dirigido por Gustavo Vinagre, com Julia Katharine. Crítica escrita para o site CinemAqui."
+desc: "Lembro Mais Dos Corvos (Brasil, 2018), escrito por Julia Katharine, Gustavo Vinagre, dirigido por Gustavo Vinagre, com Julia Katharine."
 imdb: "7972528"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 
 ---

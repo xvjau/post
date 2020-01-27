@@ -1,10 +1,10 @@
 ---
 date: 2018-11-05T16:37:06-02:00
 title: "A Prece"
-desc: " Crítica escrita para o site CinemAqui."
+desc: ""
 imdb: "7839456"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 
 ---

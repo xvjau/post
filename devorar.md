@@ -3,7 +3,7 @@ date: "2019-10-19"
 title: "Devorar"
 desc: "\"Swallow\" (EUA e França, 2019), escrito por Carlo Mirabella-Davis, dirigido por Carlo Mirabella-Davis, com Haley Bennett, Austin Stowell e Denis O'Hare. Escrito para o CinemAqui na cobertura da #mostrasp."
 imdb: "8372298"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 ---
 Swallow, ou da tradução "errada", Devorar, é daqueles roteiros que começa com uma ideia tão inusitada que você vibra quando acontece, porque é um respiro de ar fresco. Mas além disso ele trata de temas repetidos de uma nova forma, não expandindo, mas apenas mudando nosso ângulo de visão.

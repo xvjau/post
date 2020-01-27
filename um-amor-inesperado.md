@@ -1,10 +1,10 @@
 ---
 date: 2019-03-02T21:26:40-03:00
 title: "Um Amor Inesperado"
-desc: "El amor menos pensado (Argentina, 2018), escrito por Daniel Cúparo, Juan Vera, dirigido por Juan Vera, com Ricardo Darín, Mercedes Morán, Claudia Fontán. Crítica escrita para o site CinemAqui."
+desc: "El amor menos pensado (Argentina, 2018), escrito por Daniel Cúparo, Juan Vera, dirigido por Juan Vera, com Ricardo Darín, Mercedes Morán, Claudia Fontán."
 imdb: "8405810"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 
 ---

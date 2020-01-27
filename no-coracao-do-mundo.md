@@ -1,9 +1,9 @@
 ---
 date: "2019-07-24"
 title: "No Coração do Mundo"
-desc: "No Coração do Mundo. Brazil, 2019. Dirigido por Gabriel Martins, Maurílio Martins, escrito por Gabriel Martins, Maurílio Martins. Com Mc Carol, Barbara Colen, Kelly Crifer. Crítica escrita para o site CinemAqui."
+desc: "No Coração do Mundo. Brazil, 2019. Dirigido por Gabriel Martins, Maurílio Martins, escrito por Gabriel Martins, Maurílio Martins. Com Mc Carol, Barbara Colen, Kelly"
 imdb: "9646768"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 ---
 No Coração do Mundo é exercício de estilo, filme de golpe, drama social/poético e antologia mineira, e algumas dessas características deste adorável longa você deve gostar. Nem que seja da antologia mineira. Fique para um cafezinho.

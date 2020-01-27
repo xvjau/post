@@ -2,10 +2,10 @@
 date: 2018-01-18T21:25:58
 imdb: "6018306"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 title: "A Melhor Escolha"
-desc: "A Melhor Escolha. Crítica escrita para o site CinemAqui."
+desc: "A Melhor Escolha."
 ---
 Se não fosse pelo meu editor, o Vinicius Vieira, eu provavelmente nunca faria o link entre o diretor Hal Ashby e Richard Linklater. Isso porque este "A Melhor Escolha", assim como foi "Jovens, Loucos e Mais Rebeldes", pode-se chamar uma "continuação espiritual" de um filme que o antecede dirigido por Ashby, "A Última Missão". Mas o que Linklater parece fazer é algo ainda maior, incidentalmente se declarando com este filme o diretor que, assim como Ashby, observa a humanidade através das pessoas em seu dia-a-dia, conversando, interagindo e discutindo sobre a própria vida.
 

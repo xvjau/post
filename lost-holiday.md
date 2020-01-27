@@ -3,7 +3,7 @@ date: "2019-10-29"
 title: "Lost Holiday"
 desc: '"Lost Holiday" (EUA, 2019), escrito por Michael Kerry Matthews e Thomas Matthews, dirigido por Michael Kerry Matthews e Thomas Matthews, com Kate Lyn Sheil, Thomas Matthews e Keith Poulson. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "7014694"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 ---
 Lost Holiday engana a princípio, pois lembra aqueles filmes de conclusão de curso ou independentes estadunidenses que usam como muleta a estranheza de personagens para levar uma história nem tão inspirada adiante. Porém, a estreia dos irmãos Matthews na direção (e no roteiro) aos poucos se desdobra em uma trama inteligente justamente por não se colocar em evidência. É na estranheza de seus personagens, ou em sua banalidade, que se esconde a alma de um filme que soa inseguro o tempo todo, mas que tem todas suas amarras sob controle.

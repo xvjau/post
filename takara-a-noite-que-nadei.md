@@ -1,10 +1,10 @@
 ---
 date: 2018-08-16T22:20:15-03:00
 title: "Takara: A Noite que Nadei"
-desc: "Takara - La nuit où j'ai nagé (Japão, França, 2017), dirigido por Kohei Igarashi e Damien Manivel, com Takara Kogawa, Keiki Kogawa, Takashi Kogawa. Crítica escrita para o site CinemAqui."
+desc: "Takara - La nuit où j'ai nagé (Japão, França, 2017), dirigido por Kohei Igarashi e Damien Manivel, com Takara Kogawa, Keiki Kogawa, Takashi Kogawa."
 imdb: "7336012"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 
 ---

@@ -4,10 +4,10 @@ cinemaqui: " http://www.cinemaqui.com.br/personal-shopper/"
 imdb: "4714782"
 
 date: "2017-02-20"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Personal Shopper"
 stars: "4/5"
-desc: "Personal Shopper. Personal Shopper (France, 2016). Dirigido por Olivier Assayas. Escrito por Olivier Assayas. Com Kristen Stewart (Maureen Cartwright), Lars Eidinger (Ingo), Sigrid Bouaziz (Lara), Anders Danielsen Lie (Erwin), Ty Olwin (Gary), Hammou Graïa (Police Officer), Nora von Waldstätten (Kyra), Benjamin Biolay (Victor Hugo), Audrey Bonnet (Cassandre). Crítica escrita para o site CinemAqui."
+desc: "Personal Shopper. Personal Shopper (France, 2016). Dirigido por Olivier Assayas. Escrito por Olivier Assayas. Com Kristen Stewart (Maureen Cartwright), Lars Eidinger (Ingo), Sigrid Bouaziz (Lara), Anders Danielsen Lie (Erwin), Ty Olwin (Gary), Hammou Graïa (Police Officer), Nora von Waldstätten (Kyra), Benjamin Biolay (Victor Hugo), Audrey Bonnet (Cassandre)."
 ---
 Personal Shopper envolve espiritismo em um mundo impessoal e materialista. Sequer há emoção no filme, embora a história gire em torno do luto de um ente querido. Mas talvez, no final das contas, o que conte mais não é a esperança que haja algo após a morte, mas que haja algo depois de uma vida não vivida, mas meramente suportada.
 

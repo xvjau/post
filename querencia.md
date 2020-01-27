@@ -3,7 +3,7 @@ date: "2019-10-21"
 title: "Querência"
 desc: '"Querência" (Brasil, 2019), escrito por Helvécio Marins Jr., dirigido por Helvécio Marins Jr., com Marcelo Di Souza, Kaic Lima e Carlos Dalmir. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9657946"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "2/5"
 ---
 Querência, quem diria, é uma cidade de verdade, localizada no estado de Mato Grosso. Mas o que acaba não sendo nem de verdade, nem de mentira, é este filme escrito e dirigido por Helvécio Marins, que cria uma ficção com personagens da vida real, e demonstra uma das péssimas formas de unir duas formas de filme em um resultado insosso e sem alma.

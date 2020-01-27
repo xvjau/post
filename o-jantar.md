@@ -3,10 +3,10 @@
 imdb: "3203620"
 
 date: 2017-08-09T23:43:21
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "O Jantar"
 stars: "4/5"
-desc: "O Jantar. The Dinner (USA, 2017). Dirigido por Oren Moverman. Escrito por Oren Moverman, Herman Koch. Com Michael Chernus (Dylan Heinz), Taylor Rae Almonte (Kamryn Velez), Steve Coogan (Paul Lohman), Charlie Plummer (Michael Lohman), Seamus Davey-Fitzpatrick (Rick Lohman), Miles J. Harvey (Beau Lohman), Laura Hajek (Anna), Laura Linney (Claire Lohman), Richard Gere (Stan Lohman). Crítica escrita para o site CinemAqui."
+desc: "O Jantar. The Dinner (USA, 2017). Dirigido por Oren Moverman. Escrito por Oren Moverman, Herman Koch. Com Michael Chernus (Dylan Heinz), Taylor Rae Almonte (Kamryn Velez), Steve Coogan (Paul Lohman), Charlie Plummer (Michael Lohman), Seamus Davey-Fitzpatrick (Rick Lohman), Miles J. Harvey (Beau Lohman), Laura Hajek (Anna), Laura Linney (Claire Lohman), Richard Gere (Stan Lohman)."
 ---
 O Jantar é um filme difícil de ver. Ele é tenso, coloca seus nervos à flor da pele, discute temas difíceis e ainda por cima possui um elenco afiado em encarnar personagens difíceis de engolir em uma discussão de fachada que revela mais sobre o espectador que está assistindo do que sobre aquelas pessoas tentando encontrar consenso onde não existe nenhum.
 

@@ -3,7 +3,7 @@ date: "2019-10-28"
 title: "Três Verões"
 desc: '"Três Verões" (Brasil e França, 2019), escrito por Iana Cossoy Paro e Sandra Kogut, dirigido por Sandra Kogut, com Regina Casé, Rogério Fróes e Gisele Fróes. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "10785310"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 ---
 Regina Casé é um colírio de interpretação para os olhos. A maneira com que ela torna a caseira Madá uma representante da brasilidade pobre da periferia do Rio de Janeiro convivendo com figurões de uma família de ricaços é o suficiente para sustentar "Três Verões" sozinho, do começo ao fim.

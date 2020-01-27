@@ -3,7 +3,7 @@ date: "2019-07-16"
 title: "O Rei Leão (2019)"
 imdb: "6105098"
 desc: "The Lion King. United States, 2019. Dirigido por Jon Favreau, escrito por Jeff Nathanson, Brenda Chapman, Irene Mecchi. Com Chiwetel Ejiofor, John Oliver, James Earl Jones. Texto escrito para o CinemAqui."
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 ---
 Só esse cuidado que a Disney vem tomando em adaptar seus clássicos já é comovente. Antes desenhado em animação, o que permite um tom mais caricato de seus personagens, a versão computadorizada de O Rei Leão nos faz pensar em como os pequenos ajustes da história neste remake feito com bits e bytes existem para focar mais no seu núcleo dramático, o que se aproxima das duas inspirações da história original: os textos bíblicos sobre as vidas de José e Moisés e os palcos de onde se encenou a imortal peça de Shakespeare, Hamlet. Nesse sentido, O Rei Leão é um Príncipe do Egito às avessas.

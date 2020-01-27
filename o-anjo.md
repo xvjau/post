@@ -1,10 +1,10 @@
 ---
 date: 2018-10-22T22:49:02-02:00
 title: "O Anjo"
-desc: "El ángel (Argentina, Espanha, 2018), escrito por Sergio Olguín, Rodolfo Palacios e Luis Ortega, dirigido por Ortega, com Lorenzo Ferro, Chino Darín, Daniel Fanego. #mostrasp Crítica escrita para o site CinemAqui."
+desc: "El ángel (Argentina, Espanha, 2018), escrito por Sergio Olguín, Rodolfo Palacios e Luis Ortega, dirigido por Ortega, com Lorenzo Ferro, Chino Darín, Daniel Fanego. #mostrasp"
 imdb: "7204348"
 
-tags: [ "movies", "blog" ]
+tags: [ "movies", "blog" , "cinemaqui" ]
 stars: "4/5"
 
 ---

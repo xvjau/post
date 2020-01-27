@@ -1,10 +1,10 @@
 ---
 date: 2019-03-07T14:30:11-03:00
 title: "Elegia De Um Crime"
-desc: "Elegia De Um Crime (Brasil, 2018), escrito por Cristiano Burlan, Ana Carolina Marinho, dirigido por Cristiano Burlan, com Cristiano Burlan. Crítica escrita para o site CinemAqui."
+desc: "Elegia De Um"
 imdb: "8389758"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 
 ---

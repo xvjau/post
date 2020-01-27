@@ -1,10 +1,10 @@
 ---
 date: 2018-10-27T01:25:00-02:00
 title: "Viagem Aos Povos Fumigados"
-desc: " Crítica escrita para o site CinemAqui."
+desc: ""
 imdb: "7962890"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "2/5"
 
 ---

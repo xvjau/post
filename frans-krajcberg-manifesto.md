@@ -2,7 +2,7 @@
 date: "2019-09-28"
 title: "Frans Krajcberg: Manifesto"
 desc: '"Frans Krajcberg: Manifesto" (Brasil, 2019), escrito e dirigido por Regina Jehá, com Frans Krajcberg. Escrito para o CinemAqui.'
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 ---
 Coisa mais linda no mundo o timing de "Frans Krajcberg: Manifesto", documentário sobre o artista-militante naturalista polonês que veio morar na floresta amazônica aqui no Brasil após a guerra e que foi um ser revoltado com o descaso dos brasileiros até seus últimos dias de vida ano passado, aos 96 anos. Profético o filme, Frans estaria mais revoltado ainda hoje, quando as políticas federais afrouxam o controle do desmatamento e temos novos recordes de queimadas em uma floresta que pouco a pouco vai sendo consumida pela ganância econômica.

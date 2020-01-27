@@ -3,10 +3,10 @@
 imdb: "4466336"
 
 date: "2016-05-14"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Os Anarquistas"
 stars: "3/5"
-desc: "Os Anarquistas. Les anarchistes (France, 2015). Dirigido por Elie Wajeman. Escrito por Gaëlle Macé, Elie Wajeman. Com Tahar Rahim, Adèle Exarchopoulos, Swann Arlaud, Guillaume Gouix, Karim Leklou, Sarah Le Picard, Cédric Kahn, Emilie de Preissac, Aurélia Poirier. Crítica escrita para o site CinemAqui."
+desc: "Os Anarquistas. Les anarchistes (France, 2015). Dirigido por Elie Wajeman. Escrito por Gaëlle Macé, Elie Wajeman. Com Tahar Rahim, Adèle Exarchopoulos, Swann Arlaud, Guillaume Gouix, Karim Leklou, Sarah Le Picard, Cédric Kahn, Emilie de Preissac, Aurélia Poirier."
 ---
 Uma névoa cinzenta cobre a fotografia de Os Anarquistas, um filme que trata mais da desesperança de um grupo revolucionário à margem de qualquer comparação do que a possibilidade de vitória.
 

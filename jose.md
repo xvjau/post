@@ -1,10 +1,10 @@
 ---
 date: 2018-10-15T15:25:30-03:00
 title: "José"
-desc: "José (Guatemala, EUA, 2018), escrito por Li Cheng e George F. Roberson, dirigido por Cheng, com Enrique Salanic, Manolo Herrera, Ana Cecilia Mota. #mostrasp Crítica escrita para o site CinemAqui."
+desc: "José (Guatemala, EUA, 2018), escrito por Li Cheng e George F. Roberson, dirigido por Cheng, com Enrique Salanic, Manolo Herrera, Ana Cecilia Mota. #mostrasp"
 imdb: "6933338"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 
 ---

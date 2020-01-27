@@ -2,10 +2,10 @@
 
 cinemaqui: "http://www.cinemaqui.com.br/olhar-instigado/"
 date: "2017-02-23"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Olhar Instigado"
 stars: "3/5"
-desc: "Olhar Instigado. Olhar Instigado (Brasil, 2015). Dirigido por Chico Gomes, Felipe Lion. Escrito por Guilherme Moraes Quintella, Chico Gomes. Com Alexandre Orion, Bruno Locuras, André Monteiro. Crítica escrita para o site CinemAqui."
+desc: "Olhar Instigado. Olhar Instigado (Brasil, 2015). Dirigido por Chico Gomes, Felipe Lion. Escrito por Guilherme Moraes Quintella, Chico Gomes. Com Alexandre Orion, Bruno Locuras, André Monteiro."
 ---
 Nos primeiros minutos de Olhar Instigado é possível perceber um controle narrativo que parece determinar com precisão qual será o tom no filme inteiro. Será um filme com movimento, cortes rápidos, montagem fluida e trilha sonora empolgante. Para um documentário isso já é muito mais que o medíocre esquema de pessoas sentadas falando.
 

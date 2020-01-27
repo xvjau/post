@@ -3,10 +3,10 @@
 imdb: "5142532"
 
 date: "2016-07-28"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Fome"
 stars: "3/5"
-desc: "Fome. Hunger (Brazil, 2015). Dirigido por Cristiano Burlan. Escrito por Jean-Claude Bernardet, Cristiano Burlan, Ana Carolina Marinho, Henrique Zanoni. Com Henrique Zanoni, Ana Carolina Marinho, Jean-Claude Bernardet. Crítica escrita para o site CinemAqui."
+desc: "Fome. Hunger (Brazil, 2015). Dirigido por"
 ---
 Fome é um filme lento e arrastado, com seu lado amadorístico, com uma direção/edição que parece se apaixonar pela forma e não sabe a hora de cortar. Com a falta de ritmo em vários momentos, e um contraste curioso entre ficção e realidade, pode-se enxergar com clareza que este não é um trabalho para qualquer um, por exigir paciência e determinação em decifrá-lo. Ao mesmo tempo, ele permite diferentes interpretações, das mais simples às mais complexas; tudo depende de como se enxerga os objetivos de algumas decisões narrativas e estéticas da história.
 

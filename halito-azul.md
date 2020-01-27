@@ -3,7 +3,7 @@ date: "2019-10-09"
 title: "Hálito Azul"
 desc: '"Hálito Azul" (Portugal, Finlândia, França, 2018), escrito por Rodrigo Areias e Eduardo Brito, dirigido por Rodrigo Areias. Escrito para o CinemAqui pela cobertura da #mostrasp.'
 imdb: "6616336"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 ---
 A peça de Raul Brandão, escritor português, inspira um cineasta da região de Açores, Rodrigo Areias, a documentar uma vila de pescadores portugueses de onde veio sua família, e como consequência somos brindados com Hálito Azul, onde a poesia, a cultura, a religião e a ecologia do local, não são perdido no tempo, mas transformado em algo a mais.

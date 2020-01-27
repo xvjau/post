@@ -2,10 +2,10 @@
 imdb: "2172584"
 
 date: "2015-03-19"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Mapas para as Estrelas"
 stars: "4/5"
-desc: "Mapas para as Estrelas. Maps to the Stars (Canada, 2014). Dirigido por David Cronenberg. Escrito por Bruce Wagner. Com Julianne Moore, Mia Wasikowska, John Cusack, Evan Bird, Olivia Williams, Robert Pattinson, Kiara Glasco, Sarah Gadon, Dawn Greenhalgh. Crítica escrita para o site CinemAqui."
+desc: "Mapas para as Estrelas. Maps to the Stars (Canada, 2014). Dirigido por David"
 ---
 O novo filme de David Cronenberg (Cosmópolis) quer falar sobre incesto, mas não de uma maneira direta, e não exatamente sobre incesto. Ele quer discutir através das celebridades de Los Angeles o que há de podre por trás de todo ser humano. Diferente do filme de Sofia Copolla, Bling Ring, ser um ator ou atriz famosa não tem relação com o comportamento dessas pessoas, pois elas já são problemáticas. A dinâmica tem mais a ver em como o fato delas serem famosas gera uma tendência curiosa da sociedade em fazer vista grossa para seus atos mais maldosos. Maldosos, porém, inerentemente humanos.
 

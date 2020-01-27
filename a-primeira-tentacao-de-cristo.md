@@ -3,7 +3,7 @@ date: "2019-12-09"
 title: "A Primeira Tentação de Cristo"
 desc: '"A Primeira Tentação de Cristo" (Brasil, 2019), dirigido por Rodrigo Van Der Put, escrito por Fábio Porchat e Gustavo Martins, com Gregório Duvivier, Fábio Porchat e Antonio Tabet. Escrito para o CinemAqui.'
 imdb: "11310004"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 ---
 Já virou tradição de natal o grupo de comediantes do Porta dos Fundos em parceria com o serviço de streaming Netflix lançar no final do ano mais uma revisita bem-humorada ao clássico dos clássicos (pelo menos para o cristão). E em A Primeira Tentação de Cristo há mais um divertido estudo de personagens, que provoca tanto os mais dogmáticos quanto os mais heteroflexíveis.

@@ -1,8 +1,8 @@
 ---
 date: 2019-02-26T13:05:11-03:00
 title: "Vida em Movimento"
-desc: "Vida Em Movimento (Brasil, 2019), escrito por Selma Perez, Eduardo Rajabally, Márcio Atalla, Joana Kfuri baseados na ideia original de Márcio Atalla, dirigido por Eduardo Rajabally. Crítica escrita para o site CinemAqui."
-tags: [ "movies" ]
+desc: "Vida Em Movimento (Brasil, 2019), escrito por Selma Perez, Eduardo Rajabally, Márcio Atalla, Joana Kfuri baseados na ideia original de Márcio Atalla, dirigido por Eduardo Rajabally."
+tags: [ "movies" , "cinemaqui" ]
 stars: "2/5"
 
 

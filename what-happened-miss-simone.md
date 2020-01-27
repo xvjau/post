@@ -2,10 +2,10 @@
 imdb: "4284010"
 
 date: "2016-02-17"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "What Happened, Miss Simone?"
 stars: "5/5"
-desc: "What Happened, Miss Simone?. What Happened, Miss Simone? (USA, 2015). Dirigido por Liz Garbus. Com James Baldwin, Stokely Carmichael, Walter Cronkite, Stanley Crouch, Gerrit De Bruin, Dick Gregory, Hugh M. Hefner, Elisabeth Henry-Macari, Lisa Simone Kelly. Crítica escrita para o site CinemAqui."
+desc: "What Happened, Miss Simone?. What Happened, Miss Simone? (USA, 2015). Dirigido por Liz Garbus. Com James Baldwin, Stokely Carmichael, Walter"
 ---
 "What Happened, Miss Simone" é uma coletânea de depoimentos, entrevistas, colagens de fotos e performances que, a despeito de seguir uma ordem cronológica certinha, consegue se tornar uma montanha-russa de emoções e pensamentos acerca da vida da artista e ativista Nina Simone. E mesmo criando um fechamento mais que convencional, desperta em seu final a sensação de que conhecemos talvez menos de 10% do que foi a música, cantora e ativista.
 

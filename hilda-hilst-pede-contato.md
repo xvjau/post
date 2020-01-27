@@ -1,8 +1,8 @@
 ---
 date: 2018-07-20T18:44:07-03:00
 title: "Hilda Hilst Pede Contato"
-desc: "Hilda Hilst Pede Contato (Brasil, 2018), escrito e digirido por Gabriela Greeb, com Luciana Domschke, Hilda Hilst, Lygia Fagundes Telles, Fernando Lemos e outros amigos de Hilst. Crítica escrita para o site CinemAqui."
-tags: [ "movies" ]
+desc: "Hilda Hilst Pede Contato (Brasil, 2018), escrito e digirido por Gabriela Greeb, com Luciana Domschke, Hilda Hilst, Lygia Fagundes Telles, Fernando Lemos e outros amigos de Hilst."
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 
 ---

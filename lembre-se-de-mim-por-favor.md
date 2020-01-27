@@ -3,7 +3,7 @@ date: "2019-10-05"
 title: "Lembre-se de Mim, Por Favor"
 desc: '"Qing Ni Ji Zhu Wo" (China, 2017), escrito por Xiaolian Peng, Jian Wang e Yuan Xu, dirigido por Xiaolian Peng, com Wenjuan Feng, Zongying Huang e Yiping Jia. Escrito para o CinemAqui como parte da cobertura da Mostra de Cinema Chinês.'
 imdb: "9608078"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 ---
 Tem início a Quinta Mostra de Cinema Chinês em São Paulo, dessa vez homenageando e focando nas diretoras mulheres de um país fechado que merece ser redescoberto. O filme da abertura, por exemplo, este "Lembre-se de Mim, Por Favor", é o último filme de Xiaolian Peng antes do seu falecimento. É uma pena que ela tenha se ido tão cedo, pois ela estaria neste evento, junto de sua colega, a diretora Liu Miaomiao (seu filme Flores Vermelhas e Folhas Verdes também será exibido na Mostra).

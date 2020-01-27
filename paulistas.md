@@ -2,10 +2,10 @@
 date: 2018-02-10T22:30:31
 imdb: "7115328"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 title: "Paulistas"
-desc: "Paulistas. Crítica escrita para o site CinemAqui."
+desc: "Paulistas."
 ---
 Paulistas é daqueles documentários "raiz", onde observar é vital. Estamos em um vórtex do tempo que se abre levemente e revela um mundo onde ninguém da cidade grande está acostumado. E no processo algo muito inspirador vai acontecendo: impera a paz, o simples, o cotidiano e milenar. Tudo junto. Uma ode às nossas origens sem apelar para o apelo emocional e clichê da ecologia.
 

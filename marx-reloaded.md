@@ -1,10 +1,10 @@
 ---
 date: 2018-10-31T11:16:34-02:00
 title: "Marx Reloaded"
-desc: "Marx Reloaded (Alemanha, 2011), escrito por Jason Barker, dirigido por Jason Barker, Alexandra Weltz, com Jason Barker, Michael Hardt, Toni Negri. Documentário, Karl Marx, história, filosofia, economia, política, crise 2008. #mostrasp Crítica escrita para o site CinemAqui."
+desc: "Marx Reloaded (Alemanha, 2011), escrito por Jason Barker, dirigido por Jason Barker, Alexandra Weltz, com Jason Barker, Michael Hardt, Toni Negri. Documentário, Karl Marx, história, filosofia, economia, política, crise 2008. #mostrasp"
 imdb: "1884351"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 
 ---

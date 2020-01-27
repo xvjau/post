@@ -1,10 +1,10 @@
 ---
 date: 2019-03-29T16:55:28-03:00
 title: "Mike Wallace Está Aqui"
-desc: "Mike Wallace Is Here (EUA, 2019), dirigido por Avi Belkin. Crítica escrita para o site CinemAqui."
+desc: "Mike Wallace Is Here (EUA, 2019), dirigido por Avi Belkin."
 imdb: "9353436"
 
-tags: [ "movies", "blog" ]
+tags: [ "movies", "blog" , "cinemaqui" ]
 stars: "3/5"
 
 ---

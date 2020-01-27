@@ -3,10 +3,10 @@
 imdb: "3305316"
 
 date: "2015-05-10"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Segunda Chance"
 stars: "5/5"
-desc: "Segunda Chance. En chance til (Denmark, 2014). Dirigido por Susanne Bier. Escrito por Anders Thomas Jensen. Com Nikolaj Coster-Waldau, Ulrich Thomsen, Nikolaj Lie Kaas, Maria Bonnevie, Thomas Bo Larsen, Peter Haber, Bodil Jørgensen, Christian Grønvall, May Andersen. Crítica escrita para o site CinemAqui."
+desc: "Segunda Chance. En chance til (Denmark, 2014). Dirigido por Susanne Bier. Escrito por Anders Thomas Jensen. Com Nikolaj Coster-Waldau, Ulrich Thomsen, Nikolaj Lie Kaas, Maria Bonnevie, Thomas Bo Larsen, Peter Haber, Bodil Jørgensen, Christian Grønvall, May Andersen."
 ---
 A diretora Susanne Bier já nos mostrou um debate ético arrebatador em Depois do Casamento. Agora em Segunda Chance o dilema moral, como ideia, é muito maior, e dificilmente há um momento no filme que é possível relaxar de tanta tensão. Os closes nos atores são constantes e a câmera na mão deixa tudo mais imediatista. Se há momentos de calmaria, é porque Bier escolhe nos brindar de tempos em tempos com a visão da água tocada pelo vento, ou o céu pelos pássaros.
 

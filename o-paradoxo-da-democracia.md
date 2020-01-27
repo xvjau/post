@@ -2,7 +2,7 @@
 date: "2019-10-28"
 title: "O Paradoxo da Democracia"
 desc: '"O Paradoxo da Democracia" (Brasil, 2019), escrito por Belisario Franca e Pedro Nóbrega, dirigido por Belisario Franca. Escrito para o CinemAqui na cobertura da #mostrasp.'
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "2/5"
 ---
 O problema de documentários como O Paradoxo da Democracia é o mesmo que o youtuber Pirulla enfrenta sempre quando ele critica a divulgação de teorias da conspiração e informações anti-científicas: as pessoas misturam mentiras e verdades em um mesmo pacote, e como existem algumas verdades embutidas no discurso conspiratório fica mais difícil desmentir a parte falsa sem desmoronar todo o frágil edifício construído em torno da teoria. E no caso do trabalho documental de Belisario Franca e Pedro Nóbrega, se torna uma tarefa ingrata contra-atacar a argumentação falaciosa usada contra o que pessoas de esquerda adoram chamar de neoliberalismo. Essa mania é universal na política, não importando o lado: inventar neonomes para conceitos mais antigos.

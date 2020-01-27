@@ -3,10 +3,10 @@
 imdb: "4163636"
 
 date: "2016-07-22"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "A Viagem de Meu Pai"
 stars: "4/5"
-desc: "A Viagem de Meu Pai. Floride (France, 2015). Dirigido por Philippe Le Guay. Escrito por Florian Zeller, Philippe Le Guay, Jérôme Tonnerre. Com Jean Rochefort, Sandrine Kiberlain, Laurent Lucas, Anamaria Marinca, Clément Métayer, Coline Beal, Édith Le Merdy, Christèle Tual, Carine Piazzi. Crítica escrita para o site CinemAqui."
+desc: "A Viagem de Meu Pai. Floride (France, 2015). Dirigido por Philippe Le Guay. Escrito por Florian Zeller, Philippe Le Guay, Jérôme Tonnerre. Com Jean Rochefort, Sandrine Kiberlain, Laurent Lucas, Anamaria Marinca, Clément Métayer, Coline Beal, Édith Le Merdy, Christèle Tual, Carine Piazzi."
 ---
 A Viagem de Meu Pai começa como um filme leve sobre as vicissitudes de envelhecer, mas aos poucos se transforma em um drama ambicioso em sua estrutura, pois transforma espectadores passivos em participantes da inevitável experiência do esquecimento de nossas próprias vidas.
 

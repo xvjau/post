@@ -3,7 +3,7 @@ date: "2019-10-15"
 title: "Bellingcat: A Verdade Em Um Mundo Pós-Verdade"
 desc: '"Bellingcat: Truth in a Post-Truth World" (Holanda, 2018), escrito por Hans Pool, dirigido por Hans Pool, com Moritz Rakuszitzky, Jay Rosen, Hadi Al-Khatib, Aidan White, Alexa Koenig e Veli-Pekka Kivimäki. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "7844518"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 ---
 Bellingcat é um documentário sobre esse grupo de jornalistas investigativos amadores que conseguiram construir a partir de evidências extraídas da internet o caso que ligou a queda do avião MH17 sobrevoando a Ucrânia por militares russos.

@@ -1,10 +1,10 @@
 ---
 date: 2018-10-17T23:15:46-03:00
 title: "A Rota Selvagem"
-desc: "Lean on Pete (EUA, 2017), escrito por Andrew Haigh baseado no romance de Willy Vlautin, dirigido por Haigh, com Charlie Plummer, Amy Seimetz, Travis Fimmel. #mostrasp Crítica escrita para o site CinemAqui."
+desc: "Lean on Pete (EUA, 2017), escrito por Andrew Haigh baseado no romance de Willy Vlautin, dirigido por Haigh, com Charlie Plummer, Amy Seimetz, Travis Fimmel. #mostrasp"
 imdb: "5340300"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 
 ---

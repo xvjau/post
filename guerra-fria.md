@@ -1,10 +1,10 @@
 ---
 date: 2018-10-17T22:45:40-03:00
 title: "Guerra Fria"
-desc: "Zimna wojna (aka Cold War) (Polônia, França, Reino Unido, 2018), escrito por Pawel Pawlikowski, Janusz Glowacki e Piotr Borkowski, dirigido por Pawlikowski, com Joanna Kulig, Tomasz Kot, Borys Szyc. #mostrasp Crítica escrita para o site CinemAqui."
+desc: "Zimna wojna (aka Cold War) (Polônia, França, Reino Unido, 2018), escrito por Pawel Pawlikowski, Janusz Glowacki e Piotr Borkowski, dirigido por Pawlikowski, com Joanna Kulig, Tomasz Kot, Borys Szyc. #mostrasp"
 imdb: "6543652"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "5/5"
 
 ---

@@ -3,7 +3,7 @@ date: "2019-11-16"
 title: "O Exterminador do Futuro 3: A Rebelião Das Máquinas"
 desc: '"Terminator 3: Rise of the Machines" (EUA, Alemanha e Reino Unido, 2003), escrito por John Brancato e Michael Ferris, dirigido por Jonathan Mostow, com Arnold Schwarzenegger, Nick Stahl e Claire Danes. Mais uma sessão do Paulão, mas já tinha visto no cinema e posso confirmar que a persequição inicial é inesquecivelmente barulhenta e destruidora. Passando o texto para o especial no CinemAqui.'
 imdb: "0181852"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 ---
 James Cameron deve ter ficado bem chateado com o que fizeram com o universo tão bem idealizado do apocalipse das máquinas sendo evitado pela força de uma heroína feminina que no fundo é a protagonista dos [dois](/o-exterminador-do-futuro-2-o-julgamento-final) [filmes](/o-exterminador-do-futuro) anteriores. Aqui Sarah Connor foi descartada como a protagonista que vinha sendo e uma nova história foi contada considerando finalmente seu filho, John Connor, como peça-chave para o destino da humanidade. O resultado é que não sentimos que nem John nem o filme fossem necessários à essa altura.

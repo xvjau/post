@@ -3,10 +3,10 @@
 imdb: "2965412"
 
 date: "2015-10-09"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Eu Estava Justamente Pensando em Você"
 stars: "3/5"
-desc: "Eu Estava Justamente Pensando em Você. Comet (USA, 2014). Dirigido por Sam Esmail. Escrito por Sam Esmail. Com Justin Long, Kayla Servi, Eric Winter, Emmy Rossum, Ben Scott, Lou Beatty Jr., Ben Pace, Nicole Lucas, Connie Jackson. Crítica escrita para o site CinemAqui."
+desc: "Eu Estava Justamente Pensando em Você. Comet (USA, 2014). Dirigido por Sam Esmail. Escrito por Sam Esmail. Com Justin Long, Kayla Servi, Eric Winter, Emmy Rossum, Ben Scott, Lou Beatty Jr., Ben Pace, Nicole Lucas, Connie Jackson."
 ---
 O amor está no ar, mas seus portadores estão com dúvidas existenciais, são espertos demais para senti-lo ou sofrem da doença do século: ansiedade.
 

@@ -3,10 +3,10 @@
 imdb: "4216908"
 
 date: "2016-06-01"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "A Corte"
 stars: "4/5"
-desc: "A Corte. L'hermine (France, 2015). Dirigido por Christian Vincent. Escrito por Christian Vincent. Com Fabrice Luchini, Sidse Babett Knudsen, Eva Lallier, Corinne Masiero, Sophie-Marie Larrouy, Fouzia Guezoum, Simon Ferrante, Abdellah Moundy, Serge Flamenbaum. Crítica escrita para o site CinemAqui."
+desc: "A Corte. L'hermine (France, 2015). Dirigido por Christian Vincent. Escrito por Christian Vincent. Com Fabrice Luchini, Sidse Babett Knudsen, Eva Lallier, Corinne Masiero, Sophie-Marie Larrouy, Fouzia Guezoum, Simon Ferrante, Abdellah Moundy, Serge Flamenbaum."
 ---
 A Corte está no Festival Varilux desse ano e conta a história justamente do que propõe. Vamos acompanhando o dia-a-dia na vida de todos envolvidos no julgamento de um réu, quase sempre sob o ponto de vista do juiz.
 

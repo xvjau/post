@@ -3,7 +3,7 @@ date: "2019-11-06"
 title: "A Camareira"
 desc: '"La camarista" (México, 2018), escrito por Lila Avilés e Juan Márquez, dirigido por Lila Avilés, com Gabriela Cartol, Agustina Quinci e Teresa Sánchez. Escrito para o CinemAqui.'
 imdb: "8331988"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 ---
 A Camareira é um filme lento sobre uma pessoa lenta que nem sabe o próprio signo. O objetivo é termos dó dessa criatura, devagar no raciocínio, mas muito caprichosa, embora com movimentos de um zumbi, que vai aos poucos aprendendo que ser competente apenas beneficia aos outros. O drama surge na banalidade das ações do dia a dia, e essa banalidade contamina o próprio filme, pois ele aos poucos, em vez de se tornar relevante, se torna esquecível.

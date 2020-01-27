@@ -1,10 +1,10 @@
 ---
 date: 2019-02-28T16:52:06-03:00
 title: "Raiva"
-desc: "Raiva (Portugal, França, Brasil, 2018), escrito por Sérgio Tréfaut baseado em livro de Manuel da Fonseca, dirigido por Tréfaut, com Isabel Ruth, Leonor Silveira, Hugo Bentes. Crítica escrita para o site CinemAqui."
+desc: "Raiva (Portugal, França, Brasil, 2018), escrito por Sérgio Tréfaut baseado em livro de Manuel da Fonseca, dirigido por Tréfaut, com Isabel Ruth, Leonor Silveira, Hugo Bentes."
 imdb: "5553810"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 
 ---

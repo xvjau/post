@@ -3,7 +3,7 @@ date: "2019-10-01"
 title: "Sem Túmulo"
 desc: '"As I Lay Dying" (Irã, 2018), escrito por Behnam Abedi, Hamed Hosseini Sangari e Mostafa Sayari, dirigido por Mostafa Sayari, com Madjid Aghakarimi, Nader Fallah e Elham Korda. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "8473532"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 ---
 O cinema do Oriente Médio em geral exporta para o mundo filmes que esmiuçam relações sociais e familiares, e têm se saído bem no Ocidente por nos oferecer essa discrepância de culturas. Sem Túmulo não é exceção, e constrói através de sua pequena janela de dois dias uma compilação de sentimentos remoídos do passado de uma família, mas se esquece de se conectar com seu espectador.

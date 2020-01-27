@@ -3,7 +3,7 @@ date: "2019-12-21"
 title: "A Jaqueta de Couro de Cervo"
 desc: '"Le daim" (aka "Deerskin") (França, 2019), escrito por Quentin Dupieux, dirigido por Quentin Dupieux, com Jean Dujardin, Adèle Haenel e Albert Delpy. Escrito para o CinemAqui.'
 imdb: "8193790"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 ---
 A lógica de A Jaqueta de Couro de Cervo é simples, direta e escalável. É daqueles filmes curtos que exploram um tema até seu inevitável final, não nos permitindo sair dos trilhos. Nos limitamos a ficar tensos, aguardando quando as coisas começarão a dar errado, enquanto assistimos nossa própria incompreensão de quando começa o fascínio por uma história de cinema.

@@ -3,7 +3,7 @@ date: "2019-11-12"
 title: "O Exterminador do Futuro"
 desc: '"The Terminator" (Reino Unido e EUA, 1984), escrito por James Cameron e Gale Anne Hurd com diálogos adicionais por William Wisher, dirigido por James Cameron, com Arnold Schwarzenegger, Michael Biehn e Linda Hamilton. Reassisti na locadora do Paulão e passou na regra dos 15 anos. Passando o texto para o especial no CinemAqui.'
 imdb: "0088247"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 ---
 James Cameron cria uma mitologia no primeiro filme de uma série, em que ciborgues assassinos do futuro viajam no tempo para impedir que a humanidade tenha alguma chance de sobrevivência em uma guerra que não se sabe quem iniciou nem como terminará, mas que com certeza foi fruto da tecnologia, da impessoalidade e da paranoia de nossos tempos. Apesar dos efeitos visuais terem aumentado exponencialmente desde o primeiro filme, as várias cenas icônicas da saga vieram mesmo do filme original de 1984, que envelheceu mal e que sabemos quando Schwarzenegger é um boneco de plástico com olhos de ciborgue, mas ainda assim, causa tensão, suspense, terror e reflexões sobre reviravoltas e paradoxos em viagens no tempo.

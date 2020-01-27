@@ -3,7 +3,7 @@ date: "2019-08-03"
 title: "Privacidade Hackeada"
 desc: "The Great Hack. United States, 2019. Dirigido por Karim Amer, Jehane Noujaim, escrito por Karim Amer, Erin Barnett, Pedro Kos. Com Brittany Kaiser, David Carroll, Paul-Olivier Dehaye. Escrito originalmente para o CinemAqui."
 imdb: "9358204"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 ---
 "Se você manter sua mente suficientemente aberta, as pessoas irão jogar um monte de lixo dentro dela." - William A. Orton, empresário do século 19

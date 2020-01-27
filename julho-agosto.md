@@ -4,10 +4,10 @@ cinemaqui: "http://www.cinemaqui.com.br/julho-agosto/"
 imdb: "5078158"
 
 date: "2017-07-05"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Julho Agosto"
 stars: "3/5"
-desc: "Julho Agosto. Juillet août (France, 2016). Dirigido por Diastème. Escrito por Diastème, Camille Pouzol. Com Luna Lou (Laura), Pascale Arbillot (Anne Bruant), Alma Jodorowsky (Joséphine), Patrick Chesnais (Michel Lanoy), Thierry Godard (Franck), Jérémie Laheurte (Romain), Lou Chauvain (Moon), Ali Marhyar (Chérif), Délia Espinat-Dief (Gwen). Crítica escrita para o site CinemAqui."
+desc: "Julho Agosto. Juillet août (France, 2016). Dirigido por Diastème. Escrito por Diastème, Camille Pouzol. Com Luna Lou (Laura), Pascale Arbillot (Anne Bruant), Alma Jodorowsky (Joséphine), Patrick Chesnais (Michel Lanoy), Thierry Godard (Franck), Jérémie Laheurte (Romain), Lou Chauvain (Moon), Ali Marhyar (Chérif), Délia Espinat-Dief (Gwen)."
 ---
 O clima de um filme como "Julho Agosto" não poderia ser melhor para as férias de meio do ano. Aliás, poderia sim: nós aqui do Brasil poderíamos ter verão, e não inverno, nessa época. Infelizmente todo o calor e o frescor do filme ficam congelados junto com nossas mãos. Mas se você pelo menos estiver bem agasalhado é bem provável que irá conseguir ao menos sentir o coração derreter levemente diante dos acontecimentos inusitados que permeiam essa família moderna francesa.
 

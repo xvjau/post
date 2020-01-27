@@ -3,7 +3,7 @@ date: "2020-01-24"
 title: "Testemunha Invisível"
 desc: '"Il testimone invisibile", escrito por Oriol Paulo, Stefano Mordini e Massimiliano Cantoni, dirigido por Stefano Mordini, com Riccardo Scamarcio, Miriam Leone e Fabrizio Bentivoglio. Escrito para o CinemAqui.'
 imdb: "7735502"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 ---
 O filme se chama Testemunha Invisível, tanto aqui quanto na Itália, o que já nos diz mais do que o necessário sobre as diferentes reviravoltas deste thriller psicológico de mistério, que lida com adultério como se vivêssemos nos anos 80 ("se descobrirem que ele tinha uma amante acabou sua vida") e que pune os ricos e poderosos como se vivêssemos no mundo de Parasita ("ele aprendeu que não podia contar com a polícia comprada para ajudá-lo"). Esta é uma mescla ruim que acaba funcionando no final porque, como todo filme de mistério, queremos com todas as forças nos ludibriar sobre qual a versão real dos fatos.

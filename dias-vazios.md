@@ -1,10 +1,10 @@
 ---
 date: 2019-05-06T15:44:50-03:00
 title: "Dias Vazios"
-desc: "Dias Vazios (Brasil, 2018), escrito por Robney Bruno Almeida, dirigido por Robney Bruno Almeida, com Arthur Avila, Natália Dantas, Vinícius Queiroz, Carla Ribas, Nayara Tavares. Crítica escrita para o site CinemAqui."
+desc: "Dias Vazios (Brasil, 2018), escrito por Robney Bruno Almeida, dirigido por Robney Bruno Almeida, com Arthur Avila, Natália Dantas, Vinícius Queiroz, Carla Ribas, Nayara Tavares."
 imdb: "8301540"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 
 ---

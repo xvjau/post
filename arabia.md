@@ -1,11 +1,11 @@
 ---
 date: 2018-03-24T01:41:32-03:00
 title: "Arábia"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 imdb: "6400280"
 
 stars: "5/5"
-desc: "Arábia (Brasil, 2017), escrito por João Dumans, Affonso Uchoa, dirigido por João Dumans, Affonso Uchoa, com Aristides de Sousa, Murilo Caliari, Gláucia Vandeveld. Crítica escrita para o site CinemAqui."
+desc: "Arábia (Brasil, 2017), escrito por João Dumans, Affonso Uchoa, dirigido por João Dumans, Affonso Uchoa, com Aristides de Sousa, Murilo Caliari, Gláucia Vandeveld."
 
 ---
 Arábia é um filme com muitos momentos marcantes. E esses momentos são marcantes principalmente por conta de seus belíssimos enquadramentos, que evocam em todos os elementos presentes em cena o significado da história que está sendo contada. E o mais impressionante é que a história contada é um épico de um homem comum, anônimo, e por que não, invisível.

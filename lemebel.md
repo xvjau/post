@@ -3,7 +3,7 @@ date: "2019-10-29"
 title: "Lemebel"
 desc: '"Lemebel" (Chile e Colômbia, 2019), escrito por Joanna Reposi Garibaldi e Manuel Maira, dirigido por Joanna Reposi Garibaldi, com Pedro Lemebel. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9654050"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "1/5"
 ---
 Lemebel é trabalho da diretora estreante Joanna Reposi Garibaldi sobre o ensaísta, crônico e novelista Pedro Segundo Mardones Lemebel, um ativista político no Chile em plena ditadura de Pinochet. Sua maior conquista em toda sua vida? Ser abertamente gay nessa época.

@@ -3,10 +3,10 @@
 imdb: "2822742"
 
 date: "2015-04-16"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Três Corações"
 stars: "5/5"
-desc: "Três Corações. 3 coeurs (France, 2014). Dirigido por Benoît Jacquot. Escrito por Julien Boivent, Benoît Jacquot. Com Benoît Poelvoorde, Charlotte Gainsbourg, Chiara Mastroianni, Catherine Deneuve, André Marcon, Patrick Mille, Cédric Vieira, Thomas Doret, Francis Leplay. Crítica escrita para o site CinemAqui."
+desc: "Três Corações. 3 coeurs (France, 2014). Dirigido por Benoît Jacquot. Escrito por Julien Boivent, Benoît Jacquot. Com Benoît Poelvoorde, Charlotte Gainsbourg, Chiara Mastroianni, Catherine Deneuve, André Marcon, Patrick Mille, Cédric Vieira, Thomas Doret, Francis Leplay."
 ---
 Marc conheceu Sylvie por este ter perdido o trem e ela por ter ido comprar um cigarro. Marc perdeu a hora em seu segundo e último encontro. Marc então conhece Sophie coincidentemente no lugar onde trabalha, no interior da França. O fato de Sophie e Sylvie serem irmãs e melhores amigas é o único fato que torna toda a trama uma longa e fatalista sequência que persegue os personagens por anos de suas vidas.
 

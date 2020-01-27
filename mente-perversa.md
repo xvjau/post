@@ -3,7 +3,7 @@ date: "2019-10-12"
 title: "Mente Perversa"
 desc: '"Head Burst" (Alemanha, 2019), escrito por Savas Ceviz, dirigido por Savas Ceviz, com Max Riemelt, Isabell Gerschke e Oskar Netzel. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "10074454"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "4/5"
 ---
 Mente Perversa pode causar extremo desconforto a mentes mais sensíveis, mas é um filme da categoria necessário por vários motivos, sendo o principal deles fazer você pensar pelo ponto de vista de alguém cuja natureza o impede de viver plenamente. O motivo? Seria um crime horrível.

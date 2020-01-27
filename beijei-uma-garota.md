@@ -3,10 +3,10 @@
 imdb: "4255626"
 
 date: "2015-06-10"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Beijei uma Garota"
 stars: "3/5"
-desc: "Beijei uma Garota. Toute première fois (France, 2015). Dirigido por Maxime Govare, Noémie Saglio. Escrito por Maxime Govare, Noémie Saglio. Com Pio Marmaï, Franck Gastambide, Adrianna Gradziel, Lannick Gautry, Camille Cottin, Frédéric Pierrot, Isabelle Candelier, Nicole Ferroni, Etienne Guiraud. Crítica escrita para o site CinemAqui."
+desc: "Beijei uma Garota. Toute première fois (France, 2015). Dirigido por Maxime Govare, Noémie Saglio. Escrito por Maxime Govare, Noémie Saglio. Com Pio Marmaï, Franck Gastambide, Adrianna Gradziel, Lannick Gautry, Camille Cottin, Frédéric Pierrot, Isabelle Candelier, Nicole Ferroni, Etienne Guiraud."
 ---
 Embora no começo pareça uma comédia romântica daquelas bem clichê, com o protagonista sendo narrador em off e aquelas piadinhas previsíveis inseridas durante toda a trama, Beijei uma Garota se mantém honesto ao seu conteúdo original do começo ao fim, trazendo a questão da homossexualidade como alvo de uma chacota inocente, embora nunca ofensiva, e muito menos improvável.
 

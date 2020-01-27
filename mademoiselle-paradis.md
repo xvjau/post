@@ -1,10 +1,10 @@
 ---
 date: 2019-04-26T15:52:51-03:00
 title: "Mademoiselle Paradis"
-desc: "Mademoiselle Paradis (Áustria, Alemanha, 2017), escrito por Kathrin Resetarits adaptado do livro de Alissa Walser, dirigido por Barbara Albert, com Maria Dragus, Devid Striesow, Lukas Miko. Crítica escrita para o site CinemAqui."
+desc: "Mademoiselle Paradis (Áustria, Alemanha, 2017), escrito por Kathrin Resetarits adaptado do livro de Alissa Walser, dirigido por Barbara Albert, com Maria Dragus, Devid Striesow, Lukas Miko."
 imdb: "5584756"
 
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 
 ---

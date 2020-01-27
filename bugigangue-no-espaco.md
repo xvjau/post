@@ -4,10 +4,10 @@ cinemaqui: "http://www.cinemaqui.com.br/bugigangue-no-espaco"
 imdb: "5812510"
 
 date: "2017-02-14"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "BugiGangue no Espaço"
 stars: "2/5"
-desc: "BugiGangue no Espaço. Gadgetgang in Outerspace (USA, 2016). Dirigido por Ale McHaddo. Escrito por Ale McHaddo. Crítica escrita para o site CinemAqui."
+desc: "BugiGangue no Espaço. Gadgetgang in Outerspace (USA, 2016). Dirigido por Ale McHaddo. Escrito por Ale McHaddo."
 ---
 BugiGangue no Espaço é mais uma tentativa do cinema brasileiro -- e com dinheiro brasileiro -- nas animações e na tecnologia 3D. O resultado é mais um filme que mira na mediocridade para nunca sair dos trilhos. Sua falta de ousadia no roteiro só rivaliza com sua capacidade de referenciar obras muito mais ambiciosas como Star Wars, Star Trek, E.T.. Sua animação cartunesca não oferece quase nada que se destaque de qualquer vídeo do YouTube. E o seu humor pitoresco quase traz à tona o instinto nacional de ser o eterno cão vira-latas das super-produções.
 

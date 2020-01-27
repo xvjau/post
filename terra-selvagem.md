@@ -3,10 +3,10 @@
 imdb: "5362988"
 
 date: 2017-10-27T18:39:12
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Terra Selvagem"
 stars: "4/5"
-desc: "Terra Selvagem. Wind River (UK, 2017). Dirigido por Taylor Sheridan. Escrito por Taylor Sheridan. Com Kelsey Asbille (Natalie), Jeremy Renner (Cory Lambert), Julia Jones (Wilma), Teo Briones (Casey), Apesanahkwat (Dan Crowheart), Graham Greene (Ben), Elizabeth Olsen (Jane Banner), Tantoo Cardinal (Alice Crowheart), Eric Lange (Dr. Whitehurst). Crítica escrita para o site CinemAqui."
+desc: "Terra Selvagem. Wind River (UK, 2017). Dirigido por Taylor Sheridan. Escrito por Taylor Sheridan. Com Kelsey Asbille (Natalie), Jeremy Renner (Cory Lambert), Julia Jones (Wilma), Teo Briones (Casey), Apesanahkwat (Dan"
 ---
 Terra Selvagem é o melhor filme da carreira de Jeremy Renner, que já possui alguns trabalhos bem interessantes, mas nunca talvez tão intensos e compenetrados como esse. E isso dentro de um filme redondíssimo, que atravessa eventos que poderiam render vários clichês e desvia de todos eles pela sua qualidade narrativa e construção de atmosfera. E, claro, por Jeremy Renner.
 

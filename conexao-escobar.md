@@ -3,10 +3,10 @@
 imdb: "1355631"
 
 date: "2016-08-20"
-tags: [ "movies" ]
+tags: [ "movies" , "cinemaqui" ]
 title: "Conexão Escobar"
 stars: "5/5"
-desc: "Conexão Escobar. The Infiltrator (UK, 2016). Dirigido por Brad Furman. Escrito por Ellen Sue Brown, Robert Mazur. Com Bryan Cranston, Leanne Best, Daniel Mays, Tom Vaughan-Lawlor, Niall Hayes, Lara Decaro, Juliet Aubrey, Olympia Dukakis, Amy Ryan. Crítica escrita para o site CinemAqui."
+desc: "Conexão Escobar. The Infiltrator (UK, 2016). Dirigido por Brad Furman. Escrito por Ellen Sue Brown, Robert Mazur. Com Bryan"
 ---
 Conexão Escobar volta a trazer Bryan Cranston em um papel memorável, mas mais do que isso, esse é um filme construído totalmente em cima de expectativas. Ele vai subindo aos poucos no alto escalão da máfia de cocaína e assim como O Poderoso Chefão e Scarface ele possui seu universo próprio. Porém, este também é um filme pautado em cima da biografia de Robert Mazur, ex-agente federal de combate ao tráfico de drogas, e por isso merece ainda mais crédito a criação dessa rede tensa e complexa que vive à mercê da lei.
 
