@@ -1,7 +1,7 @@
 ---
 date: "2011-10-14"
 title: 'Coders at Work: Reflections on the Craft of Programming'
-tags: [ "blog" ]
+tags: [ "blog", "reading" ]
 
 ---
 ### Jamie Zawinski e Douglas Crockford

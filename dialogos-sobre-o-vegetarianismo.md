@@ -1,7 +1,7 @@
 ---
 date: 2019-02-03T16:57:31-02:00
 title: "Diálogos Sobre o Vegetarianismo"
-tags: [ "blog" ]
+tags: [ "blog", "reading" ]
 desc: "Este texto fala sobre ética, direito dos animais, consumo desenfreado de carne, apelo à emoção, analogias."
 ---
 Conheci o filósofo Michael Huemer através de um amigo e por procurar há um tempo atrás refutações convincentes do objetivismo. Encontrei uma saída para vários dos problemas discutidos pela humanidade. Isso se chama intuitivismo.

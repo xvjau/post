@@ -1,6 +1,6 @@
 ---
 title: "Citações"
-tags: [ "blog" ]
+tags: [ "blog", "reading" ]
 date: 2019-09-08
 desc: "Histórico de citações que encontro por aí."
 ---

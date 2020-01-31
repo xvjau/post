@@ -1,6 +1,6 @@
 ---
 title: "Leituras"
-tags: [ "blog" ]
+tags: [ "blog", "reading" ]
 date: 2019-09-16
 ---
  - [12 Regras para a Vida, de Jordan Peterson](/12-rules-for-life-jordan-b-peterson), é o livro contemporâneo mais relevante que andei lendo (não que eu leia muito). Diz sobre como cuidar de sua própria vida através de regras embasadas em ciência e tradição.
