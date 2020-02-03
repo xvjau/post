@@ -4,7 +4,7 @@ title: "Memórias de Ontem"
 desc: '"Omohide poro poro" (Japão, 1991), escrito por Hotaru Okamoto, Yuuko Tone e David Freedman, dirigido por Isao Takahata, com Miki Imai, Toshirô Yanagiba e Yoko Honna.'
 imdb: "0102587"
 tags: [ "blog", "movies" ]
-stars: "4/5"
+stars: "5/5"
 ---
 Aqueles momentos na memória que custam a sair. Permanecem para sempre em nossas vidas. Tanto a ponto de nos definir. Somos a soma das frustrações da infância por não podemos ser livres para seguir nosso próprio caminho, mesmo sem sabermos o destino. Memórias de Ontem é um filme experimental dos Estúdios Ghibli dos anos 90 que torna essas memórias em algo doce porque a adulta que se lembra o faz como passagens bobas de quando criança. Mas levada por elas finalmente ela passa as férias que não teve no interior, colhendo as flores usadas para maquiar as garotas da cidade, repensando em como todos os nãos que recebeu poderiam significar uma mudança radical em sua vida.
 
