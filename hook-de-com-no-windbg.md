@@ -3,7 +3,7 @@ date: "2007-09-18"
 title: Hook de COM no WinDbg
 tags: [ "code" ]
 ---
-Continuando com o tema [_hooks_ no WinDbg](http://www.caloni.com.br/blog/?s=hook+WinDbg), vamos aqui "hookear" e analisar as chamadas de métodos de um objeto COM. O que será feito aqui é o mesmo experimento feito para uma palestra de engenharia reversa que apresentei há um tempo atrás [1], mas com as opções de _pause_, _rewind_, _replay_ e câmera lenta habilitadas.
+Continuando com o tema [_hooks_ no WinDbg](/search), vamos aqui "hookear" e analisar as chamadas de métodos de um objeto COM. O que será feito aqui é o mesmo experimento feito para uma palestra de engenharia reversa que apresentei há um tempo atrás [1], mas com as opções de _pause_, _rewind_, _replay_ e câmera lenta habilitadas.
 
 Antes de começar, se você não sabe nada sobre COM, não deveria estar aqui, mas [aqui](http://search.msdn.microsoft.com/search/Default.aspx?brand=msdn&locale=en-us&query=component+object+model), [aqui](http://www.1bit.com.br/content.1bit/weblog/sopa_de_letrinhas_com) e [aqui](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=COM+Don+Box&site_origem=1293522).
 
@@ -58,7 +58,7 @@ Nesse experimento, como iremos interceptar quando alguém aloca ou desaloca mem�
 
 Agora iremos precisar interceptar primeiro a função que irá retornar essa interface, pois do contrário não saberemos onde fica a _vtable_. Nesse caso, a função é a [ole32!CoGetMalloc](http://msdn2.microsoft.com/en-us/library/ms693395.aspx). Muitas vezes você irá usar a [ole32!CoCreateInstance(Ex)](http://msdn2.microsoft.com/en-us/library/ms680701.aspx) ou a [CoGetClassObject](http://msdn2.microsoft.com/en-us/library/ms684007.aspx) diretamente na DLL que pretende interceptar. Outras vezes, você receberá o ponteiro em alguma ocasião diversa. O importante é conseguir o ponteiro de alguma forma.
 
-Nesse exemplo iremos obter o ponteiro através de um aplicativo de teste trivial, ignorando todas aquelas proteções _antidebugging_ que podem estar presentes no momento da reversa, feitos por alguém que [lê meu blog](http://www.caloni.com.br/blog/?s=antidebug) (quanta pretensão!):
+Nesse exemplo iremos obter o ponteiro através de um aplicativo de teste trivial, ignorando todas aquelas proteções _antidebugging_ que podem estar presentes no momento da reversa, feitos por alguém que [lê meu blog](/search) (quanta pretensão!):
 
 ```cpp
 /** @brief A stupid sample for show WinDbg COM hooking!

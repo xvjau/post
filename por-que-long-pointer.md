@@ -3,7 +3,7 @@ date: "2010-04-21"
 title: Por que Long Pointer
 tags: [ "code" ]
 ---
-Esse artigo continua a explicação sobre [os typedefs arcaicos](http://www.caloni.com.br/typedef-arcaico), já que ainda falta explicar por que diabos os ponteiros da Microsoft começam com LP. Tentei explicar para [minha pupila](http://www.caloni.com.br/basico-do-basico-ponteiros) que, por ser código dos anos 80, as pessoas usavam LP para tudo, pois os CDs ainda não estavam tão difundidos.
+Esse artigo continua a explicação sobre [os typedefs arcaicos](/typedef-arcaico), já que ainda falta explicar por que diabos os ponteiros da Microsoft começam com LP. Tentei explicar para [minha pupila](/basico-do-basico-ponteiros) que, por ser código dos anos 80, as pessoas usavam LP para tudo, pois os CDs ainda não estavam tão difundidos.
 
     
     <span style="color: #808000;">/** @brief Para instanciar um Bozo. @date 1982-02-21 */ 

@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/a-garota-desconhecida/"
 imdb: "4630550"
 
 date: "2017-01-24"

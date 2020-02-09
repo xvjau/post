@@ -3,7 +3,7 @@ date: "2007-11-27"
 title: Carregando DLLs arbitrárias pelo WinDbg - parte 2
 tags: [ "code" ]
 ---
-Como pudemos ver no [artigo anterior](http://www.caloni.com.br/carregando-dlls-arbitrarias-pelo-windbg), o processo para carregar uma DLL pelo WinDbg é muito extenso, enfadonho e sujeito a erros. Por esse motivo, e para tornar as coisas mais divertidas, resolvi transformar tudo aquilo em um simples _script_ que pode ser executado digitando apenas uma linha.
+Como pudemos ver no [artigo anterior](/carregando-dlls-arbitrarias-pelo-windbg), o processo para carregar uma DLL pelo WinDbg é muito extenso, enfadonho e sujeito a erros. Por esse motivo, e para tornar as coisas mais divertidas, resolvi transformar tudo aquilo em um simples _script_ que pode ser executado digitando apenas uma linha.
 
 Se trata do meu primeiro _script_ grande para o WinDbg, por isso, peço que tenham dó de mim =).
 
@@ -40,7 +40,7 @@ No caso do _script_ desse artigo, utilizaremos a última forma, pois precisamos 
 
 #### Modo de usar
 
-Não há qualquer dificuldade. Tudo que você tem que fazer é baixar o [_script_ que carrega DLLs](/images/loadlibrary.txt) e salvá-lo em um lugar de sua preferência. Depois é só digitar o comando que carrega _scripts_, o _path_ de nosso _script_ e o nome da DLL a ser carregada em uma das três formas exibidas. Eu costumo criar uma pasta chamada "_scripts_" dentro do diretório de instalação do Debugging Tools, o que quer dizer que posso simplesmente chamar todos meus _scripts_ (ou seja, 1) dessa maneira:
+Não há qualquer dificuldade. Tudo que você tem que fazer é baixar o _script_ que carrega DLLs e salvá-lo em um lugar de sua preferência. Depois é só digitar o comando que carrega _scripts_, o _path_ de nosso _script_ e o nome da DLL a ser carregada em uma das três formas exibidas. Eu costumo criar uma pasta chamada "_scripts_" dentro do diretório de instalação do Debugging Tools, o que quer dizer que posso simplesmente chamar todos meus _scripts_ (ou seja, 1) dessa maneira:
 
     
     $$>a<scripts\LoadLibrary.txt mydll.dll

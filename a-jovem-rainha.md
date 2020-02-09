@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/a-jovem-rainha"
 imdb: "1254322"
 
 date: "2017-02-16"

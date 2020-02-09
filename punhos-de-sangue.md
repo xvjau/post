@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/punhos-de-sangue/"
 imdb: "1610525"
 
 date: "2017-05-18"

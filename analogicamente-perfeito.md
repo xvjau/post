@@ -10,46 +10,46 @@ Pela minha singela experiência de professor informal, eu acredito que sim. Dura
 De memória (ou buscando no meu blogue) consigo lembrar alguns tópicos e a forma como os expliquei. Em alguns até fiz um artigo sobre o assunto:
 
 	
-  * [Ponteiros 16 bits](http://www.caloni.com.br/por-que-long-pointer). Rua e número de uma casa.
+  * [Ponteiros 16 bits](/por-que-long-pointer). Rua e número de uma casa.
 
 	
-  * [Typedefs](http://www.caloni.com.br/typedef-arcaico). Apelidos para nomes de pessoas.
+  * [Typedefs](/typedef-arcaico). Apelidos para nomes de pessoas.
 
 	
-  * [Depuração](http://www.caloni.com.br/house). A ciência médica de House.
+  * [Depuração](/house). A ciência médica de House.
 
 	
-  * [Passagem de argumentos por valor e por referência](http://www.caloni.com.br/passagem-por-valor-e-emails-com-anexo). E-mails com anexo e com linques.
+  * [Passagem de argumentos por valor e por referência](/passagem-por-valor-e-emails-com-anexo). E-mails com anexo e com linques.
 
 	
-  * [Ponteiros](http://www.caloni.com.br/basico-do-basico-ponteiros). Armário de gavetas.
+  * [Ponteiros](/basico-do-basico-ponteiros). Armário de gavetas.
 
 	
-  * [Programadores](http://www.caloni.com.br/programadores-de-verdade-nao-usam-java). Programadores de verdade não usam Java (brincadeira).
+  * [Programadores](/programadores-de-verdade-nao-usam-java). Programadores de verdade não usam Java (brincadeira).
 
 	
-  * [Agendamento de threads](http://www.caloni.com.br/a-fila-das-threads). Guichê de CPUs.
+  * [Agendamento de threads](/a-fila-das-threads). Guichê de CPUs.
 
 	
-  * [Seções críticas](http://www.caloni.com.br/a-sala-da-fila-das-threads). Fila de threads dentro de uma sala.
+  * [Seções críticas](/a-sala-da-fila-das-threads). Fila de threads dentro de uma sala.
 
 	
-  * [Funções com retorno booleano](http://www.caloni.com.br/as-funcoes-polegar). O dedo polegar dos romanos.
+  * [Funções com retorno booleano](/as-funcoes-polegar). O dedo polegar dos romanos.
 
 	
-  * [Pilha](http://www.caloni.com.br/basico-do-basico-assembly). Pilha! (de pratos).
+  * [Pilha](/basico-do-basico-assembly). Pilha! (de pratos).
 
 	
-  * [Binário](http://www.caloni.com.br/basico-do-basico-binario). Bichos-preguiça contando.
+  * [Binário](/basico-do-basico-binario). Bichos-preguiça contando.
 
 	
-  * [Tipos](http://www.caloni.com.br/basico-do-basico-tipos). Forma de bolo
+  * [Tipos](/basico-do-basico-tipos). Forma de bolo
 
 	
-  * [Definições x declarações de variáveis](http://www.caloni.com.br/declaracao-x-definicao). Hardware e software (isso deve se chamar **meta-analogia** =)
+  * [Definições x declarações de variáveis](/declaracao-x-definicao). Hardware e software (isso deve se chamar **meta-analogia** =)
 
 	
-  * [Depuração 2](http://www.caloni.com.br/declaracao-x-definicao). CSI! (já deu pra ver que tenho fascínio por analisar séries, não?).
+  * [Depuração 2](/declaracao-x-definicao). CSI! (já deu pra ver que tenho fascínio por analisar séries, não?).
 
 Acredito ser essa a melhor forma de desmistificar esse pequeno mundinho que parece incompreensível aos outros mortais. Até porque tudo que é criado no mundo dos computadores são abstrações do mundo real, que por sua vez são abstrações da mente humana.
 

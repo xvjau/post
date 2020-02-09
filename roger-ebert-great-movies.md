@@ -306,7 +306,7 @@ tags: [ "blog" ]
  - Singin' in the Rain 1952
  - Smiles of a Summer Night 1955
  - [Snow White and the Seven Dwarfs 1937](/branca-de-neve-e-os-sete-anoes)
- - [Solaris 1972](/solaris)
+ - [Solaris (1972)](/solaris)
  - Some Like It Hot 1959
  - Souls for Sale 1923
  - The Spirit of the Beehive 1973

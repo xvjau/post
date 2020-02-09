@@ -6,7 +6,7 @@ imdb: "9495238"
 tags: [ "blog" ]
 stars: "5/5"
 ---
-Fato curioso: este curta produzido e protagonizado por Kevin Spacey soma três minutos de duração e mais frases brilhantes do que toda a última temporada de [House of Cards](/post/?q=house%20of%20cards), com duração aproximada de 400 minutos, protagonizada por Claire Underwood. Esta temporada da série foi a única em que a protagonista era uma mulher. Coincidência?
+Fato curioso: este curta produzido e protagonizado por Kevin Spacey soma três minutos de duração e mais frases brilhantes do que toda a última temporada de [House of Cards](/search), com duração aproximada de 400 minutos, protagonizada por Claire Underwood. Esta temporada da série foi a única em que a protagonista era uma mulher. Coincidência?
 
 Se você se ofendeu com o parágrafo inicial deste texto, que destaca o gênero de uma personagem como algo determinante na qualidade de um roteiro, percebe como é fácil brincar com a realidade. Basta colocar em relevo qualquer dado irrelevante e torná-lo de repente o detalhe mais importante de toda uma trama. Foi o que aconteceu recentemente com Kevin Spacey, retirado da produção e elenco da série abruptamente após ser colocado sob os holofotes um escândalo de assédio do passado e aos poucos surgir críticas do próprio elenco de House of Cards e da equipe sobre a forma do ator de se relacionar durante a produção.
 

@@ -3,7 +3,7 @@ date: "2009-07-07"
 title: Strings
 tags: [ "code", "blog" ]
 ---
-Como já vimos [centenas](http://www.caloni.com.br/basico-do-basico-tipos) e [centenas](http://www.caloni.com.br/guia-basico-para-programadores-de-primeiro-int-main) de vezes, memória é apenas memória até que alguém diga que isso vale alguma coisa. Em seu estado latente é o que chamamos formalmente de **dados**. E dados são bytes armazenados na memória.
+Como já vimos [centenas](/basico-do-basico-tipos) e [centenas](/guia-basico-para-programadores-de-primeiro-int-main) de vezes, memória é apenas memória até que alguém diga que isso vale alguma coisa. Em seu estado latente é o que chamamos formalmente de **dados**. E dados são bytes armazenados na memória.
 
 No entanto, quando esses dados viram algo de útil em um determinado contexto, não necessariamente alterando-se seu conteúdo na memória, passamos a lidar com informação. Ou seja, é um dado com **significado**. E informação é a interpretação desses mesmos dados.
 

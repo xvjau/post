@@ -16,7 +16,7 @@ A idéia é uma das primeiras que usa a modalidade de controle de fonte distribu
 Para ter acesso aos meus projetos iniciais é simples: basta usar o mesmo comando que é usado para obter um novo _branch_ de um projeto do Bazaar:
 
 	
-  * [MouseTool](http://www.caloni.com.br/mousetool) - Simulador de clique de mouse
+  * [MouseTool](/mousetool) - Simulador de clique de mouse
 
 	
     * 
@@ -25,7 +25,7 @@ Para ter acesso aos meus projetos iniciais é simples: basta usar o mesmo comand
     bzr branch https://code.launchpad.net/mtool
 
 	
-  * [Influence Board](http://www.caloni.com.br/influence-board) - Complemento ao Winboard que mostra a influência das peças
+  * [Influence Board](/influence-board) - Complemento ao Winboard que mostra a influência das peças
 
 	
     * 
@@ -34,7 +34,7 @@ Para ter acesso aos meus projetos iniciais é simples: basta usar o mesmo comand
     bzr branch https://code.launchpad.net/infboard
 
 	
-  * [Conversor Houaiss Babylon](http://www.caloni.com.br/conversor-de-houaiss-para-babylon-parte-2) - Converte de um dicionário para o outro
+  * [Conversor Houaiss Babylon](/conversor-de-houaiss-para-babylon-parte-2) - Converte de um dicionário para o outro
 
 	
     * 

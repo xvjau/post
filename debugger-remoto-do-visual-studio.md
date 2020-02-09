@@ -13,7 +13,7 @@ Há muito tempo atrás eu falei sobre [o depurador remoto do C++ Builder](/debug
 
 ![](/images/znl7K0b.png)
 
-Para depurar pelo Visual Studio 2003 há um programa chamado **msvcmon.exe** que deve ser copiado e executado na máquina-alvo. Ele é um executável que pode ser copiado para qualquer lugar. Junto dele devem estar duas DLLs: a **natdbgdm.dll** e a **natdbgtlnet.dll**. Se você tiver o VS2003 instalado deve achar esses arquivos em algum lugar, ou no pior dos casos no CD de instalação. Por via das dúvidas sempre há [um link amigo na internet](/downloads//msvcmon-vs2003.7z) para ajudar alguém a achar o que precisa.
+Para depurar pelo Visual Studio 2003 há um programa chamado **msvcmon.exe** que deve ser copiado e executado na máquina-alvo. Ele é um executável que pode ser copiado para qualquer lugar. Junto dele devem estar duas DLLs: a **natdbgdm.dll** e a **natdbgtlnet.dll**. Se você tiver o VS2003 instalado deve achar esses arquivos em algum lugar, ou no pior dos casos no CD de instalação. Por via das dúvidas sempre há [um link amigo na internet](http://www.google.com/?q=msvcmon2003) para ajudar alguém a achar o que precisa.
 
 Copiados esses arquivos na máquina-alvo é necessário copiar também o executável. Afinal de contas, ele irá executar remotamente! O arquivo PDB, no entanto, você só precisa guardar com você. Lembre-se que toda recompilação em Debug altera de maneira significativa o PDB, então não recompile seu projeto enquanto estiver depurando. Se for fazê-lo, troque o executável na máquina-alvo.
 

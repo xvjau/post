@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/silencio/"
 imdb: "0490215"
 
 date: "2017-02-22"

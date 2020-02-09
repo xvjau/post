@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/era-o-hotel-cambridge"
 imdb: "5067984"
 
 date: "2017-03-10"

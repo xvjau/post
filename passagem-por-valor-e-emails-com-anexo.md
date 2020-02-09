@@ -3,7 +3,7 @@ date: "2010-01-18"
 title: Passagem por valor e emails com anexo
 tags: [ "code", "blog" ]
 ---
-Mais uma [analogia vencedora para ponteiros](http://www.caloni.com.br/basico-do-basico-ponteiros), chamadas por valor e chamadas por referência: e-mails.
+Mais uma [analogia vencedora para ponteiros](/basico-do-basico-ponteiros), chamadas por valor e chamadas por referência: e-mails.
 
 Quando passamos um parâmetro por valor, estamos enviando um e-mail com um arquivo em anexo. Não importa o que o destinatário faça com o arquivo: nós não vamos saber o que foi mudado se ele não enviar uma outra cópia.
 

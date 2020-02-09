@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: " http://www.cinemaqui.com.br/personal-shopper/"
 imdb: "4714782"
 
 date: "2017-02-20"

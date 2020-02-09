@@ -1,5 +1,4 @@
 ---
-cinemaqui: "http://www.cinemaqui.com.br/a-bailarina"
 imdb: "2261287"
 
 date: "2017-02-01"

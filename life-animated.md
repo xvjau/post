@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/life-animated/"
 imdb: "3917210"
 
 date: "2017-02-25"

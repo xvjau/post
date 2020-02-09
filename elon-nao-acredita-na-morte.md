@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/elon-nao-acredita-na-morte/"
 imdb: "6096528"
 
 date: "2017-04-25"

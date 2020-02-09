@@ -178,7 +178,7 @@ Outra informação relevante é o que está gravado na memória, que pode nos da
     00558678 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51 QQQQQQQQQQQQQQQQ
     00558688 51 51 51 51 51 51 51 51-51 51 51 51 51 51 51 51 QQQQQQQQQQQQQQQQ
 
-Não é o caso, mas vamos supor que fosse um objeto/tipo conhecido. Poderíamos simplesmente "importar" o tipo diretamente do PDB que estamos para modelar a memória que encontramos em volta. Mais detalhes [em outro artigo](http://www.caloni.com.br/importando-tipos-de-outros-projetos).
+Não é o caso, mas vamos supor que fosse um objeto/tipo conhecido. Poderíamos simplesmente "importar" o tipo diretamente do PDB que estamos para modelar a memória que encontramos em volta. Mais detalhes [em outro artigo](/importando-tipos-de-outros-projetos).
 
 #### Funções/classes usadas nesse artigo
 

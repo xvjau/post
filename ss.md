@@ -23,7 +23,7 @@ int main()
 
 A resposta é, pra variar, depende. Se você combinar com seu cérebro que o operador de shift que você aprendeu em C para cout não tem a mesma semântica, OK. No fundo eu acredito que os criadores dessa sobrecarga de operador pensaram sinceramente que hoje em dia quase ninguém conhece os operadores de shift binário, então tudo bem reaproveitá-lo de uma maneira mais miguxa.
 
-Porém, isso depende da maneira com que você usa streams C++. Vai haver momentos de sua vida que você vai se questionar por que tiraram todo o controle, a elegância e simplicidade de um bom printf, quando os [homens eram homens](http://www.caloni.com.br/programadores-de-verdade-nao-usam-java) e sabiam configurar jumpers para instalar a nova placa EISA.
+Porém, isso depende da maneira com que você usa streams C++. Vai haver momentos de sua vida que você vai se questionar por que tiraram todo o controle, a elegância e simplicidade de um bom printf, quando os [homens eram homens](/programadores-de-verdade-nao-usam-java) e sabiam configurar jumpers para instalar a nova placa EISA.
 
 ```cpp
 #include <iostream>

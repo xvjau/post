@@ -3,7 +3,7 @@ date: "2010-10-26"
 title: FormatMessage para... dumies?
 tags: [ "code" ]
 ---
-[![Peixe Gelatinoso Bizarro do Brasil (conhece esse país?)](/images/8ZZjHlM.jpg)](http://www.caloni.com.br/blog/formatmessage-para-dumies/peixe-gelatinoso-bizarro-do-brasil-conhece-esse-pais/)
+[![Peixe Gelatinoso Bizarro do Brasil (conhece esse país?)](/images/8ZZjHlM.jpg)](/formatmessage-para-dumies/peixe-gelatinoso-bizarro-do-brasil-conhece-esse-pais/)
 
 Já foi comentado em alguns círculos de ótimos programadores que a função da Win32 API [FormatMessage](http://msdn.microsoft.com/en-us/library/ms679351%28VS.85%29.aspx) é uma das criaturas mais bizarras já criadas.
 
@@ -34,7 +34,7 @@ As flags do parâmetro dwFlags mudam radicalmente o funcionamento da rotina, o q
 
 No caso do FormatMessage, a variável dwFlags se divide em dois para especificar dois grupos de opções distintos. A parte maior contém as opções armazenadas tradicionalmente como um mapa de bits, enquanto o byte menos significativo define como será tratada a saída final, com respeito às novas linhas e qual será a largura máxima de uma linha na saída.
 
-[![Flags para FormatMessage](/images/8nKXyBs.png)](http://www.caloni.com.br/blog/formatmessage-para-dumies/peixe-gelatinoso-bizarro-do-brasil-conhece-esse-pais/)
+[![Flags para FormatMessage](/images/8nKXyBs.png)](/formatmessage-para-dumies/peixe-gelatinoso-bizarro-do-brasil-conhece-esse-pais/)
 
 #### Source
 

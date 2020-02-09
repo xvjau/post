@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/o-rastro/"
 imdb: "4117326"
 
 date: "2017-05-03"

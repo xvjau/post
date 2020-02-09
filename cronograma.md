@@ -3,7 +3,7 @@ date: "2007-10-04"
 title: Cronogramas
 tags: [ "blog" ]
 ---
-[![Dali Clock](/images/r1DCuSS.jpg)](http://www.caloni.com.br/blog/cronograma/dali-clock)Nunca fui muito bom em definir cronogramas e nunca conheci alguém que fosse. Porém, ultimamente, no conforto do lar (férias), estou me saindo razoavelmente bem ao aplicar no meu dia-a-dia algumas regras que estabeleci como sendo boas pra mim. Não são regras que baixei do [sítio do Joel](http://brazil.joelonsoftware.com/Articles/PainlessSoftwareSchedules.html) nem é um _design pattern_, mas já me ajudam um bocado. Gostaria de compartilhá-las com meus pontuais leitores, que sempre entregam seus projetos em dia e nunca se esquecem de comentar uma linha de código sequer. Vocês são meu objetivo de vida e motivo de orgulho deste humilde blogue, que se esmera a cada dia que passa para ser fiel à inegável qualidade do meu público. Quando crescer quero ser igual a vocês.
+Nunca fui muito bom em definir cronogramas e nunca conheci alguém que fosse. Porém, ultimamente, no conforto do lar (férias), estou me saindo razoavelmente bem ao aplicar no meu dia-a-dia algumas regras que estabeleci como sendo boas pra mim. Não são regras que baixei do [sítio do Joel](http://brazil.joelonsoftware.com/Articles/PainlessSoftwareSchedules.html) nem é um _design pattern_, mas já me ajudam um bocado. Gostaria de compartilhá-las com meus pontuais leitores, que sempre entregam seus projetos em dia e nunca se esquecem de comentar uma linha de código sequer. Vocês são meu objetivo de vida e motivo de orgulho deste humilde blogue, que se esmera a cada dia que passa para ser fiel à inegável qualidade do meu público. Quando crescer quero ser igual a vocês.
 
 Mas enquanto não sou, vamos às regras.
 
@@ -48,7 +48,7 @@ Logo, essa é uma tarefa em que você termina o mais importante em uma hora... m
 
 #### Regra # 5: não inclua o ócio no cronograma
 
-Seja honesto consigo mesmo e com seu chefe: você realmente trabalha 8 horas por dia? É lógico que não! E não é nenhuma vergonha admitir isso. Todos nós temos _emails_ para ler e responder, reuniões para presenciar e [bloques importantes](http://www.caloni.com.br/blog) para acompanhar. Portanto, ignore essa conversa fiada de 8 horas e admita: não se deve contar os dias como se eles tivessem 8 horas.
+Seja honesto consigo mesmo e com seu chefe: você realmente trabalha 8 horas por dia? É lógico que não! E não é nenhuma vergonha admitir isso. Todos nós temos _emails_ para ler e responder, reuniões para presenciar e [bloques importantes](http://www.caloni.com.br) para acompanhar. Portanto, ignore essa conversa fiada de 8 horas e admita: não se deve contar os dias como se eles tivessem 8 horas.
 
 Qual o valor de um dia, então? Cada um sabe o valor que deve ser decrementado desse valor simbólico de 8 horas, mas esse valor sempre será menor. Não se iluda!
 
@@ -78,7 +78,7 @@ Por exemplo, para mim foi urgente escrever este artigo, já que estou compromiss
 
 Bons cronogramas!
 
-PS: _para começar a medir seu desempenho ao realizar tarefas tente usar [este programa](http://www.caloni.com.br/todolist)._
+PS: _para começar a medir seu desempenho ao realizar tarefas tente usar [este programa](/todolist)._
 
 #### Para aprender a ser mais efetivo
 

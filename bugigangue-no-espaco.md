@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/bugigangue-no-espaco"
 imdb: "5812510"
 
 date: "2017-02-14"

@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/olhar-instigado/"
 date: "2017-02-23"
 tags: [ "movies" , "cinemaqui" ]
 title: "Olhar Instigado"

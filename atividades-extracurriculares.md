@@ -34,10 +34,10 @@ Independente do método empregado, nunca visualize seus esforços com ceticismo,
 O que eu adicionaria na lista?
 
 	
-  * [Assistir CSI](http://www.caloni.com.br/csi-crashed-server-investigation). Pra entender o uso prático dos métodos indutivo e dedutivo de raciocínio; mais indutivo.
+  * [Assistir CSI](/csi-crashed-server-investigation). Pra entender o uso prático dos métodos indutivo e dedutivo de raciocínio; mais indutivo.
 
 	
-  * [Assistir House](http://www.caloni.com.br/house). Nunca é demais se imaginar como o médico-louco que cura todas as doenças esquisitas; doença aqui é bug.
+  * [Assistir House](/house). Nunca é demais se imaginar como o médico-louco que cura todas as doenças esquisitas; doença aqui é bug.
 
 	
   * Assistir Dexter. Veja como ele faz o seu trabalho seguindo sempre o mesmo método e deixando o ambiente limpinho, sem nenhuma pista.

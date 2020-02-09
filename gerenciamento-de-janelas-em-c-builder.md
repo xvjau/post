@@ -52,7 +52,7 @@ void __fastcall TForm2::Button1Click(TObject *Sender)
 
 ```
 
-Agora, no evento de **OnClose** (acho que você conhece o Object Inspector, não? Bom, se não conhece, talvez isso mereça um [artigo à parte](http://www.caloni.com.br/introducao-ao-c-builderturbo-c)) do **TForm1** insira o seguinte código:
+Agora, no evento de **OnClose** (acho que você conhece o Object Inspector, não? Bom, se não conhece, talvez isso mereça um [artigo à parte](/introducao-ao-c-builderturbo-c)) do **TForm1** insira o seguinte código:
 
 ```cpp
 void __fastcall TForm1::FormClose(TObject *Sender, TCloseAction &Action)
@@ -68,7 +68,7 @@ Pronto! Agora você decide onde termina e onde acaba sua aplicação.
 
 [![C++ Builder Forms](/images/ECCRWxD.png)](/images/ECCRWxD.png)
 
-Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o _loop_ de mensagens que [já conhecemos](http://www.caloni.com.br/historia-do-windows-parte-30).
+Se dermos uma olhada bem de perto no que acontece por dentro de um aplicativo que usa a VCL descobriremos que o método Run de Application nada mais é que o _loop_ de mensagens que [já conhecemos](/historia-do-windows-parte-30).
 
 Para analisarmos melhor o que ocorre nos _internals_ da coisa, criei um [projeto simplista](/images/cppbuilder-forms.7z) que possui dois _forms_, ambos com quatro botões: 1) mostrar o outro _form_, 2) esconder a si mesmo, 3) fechar a si mesmo e 4) terminar aplicação. Os dois formulários são tão parecidos que desconfio que sejam gêmeos.
 
@@ -79,7 +79,7 @@ Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás d
 > 
 > #### Não fique de fora!
 > 
-_Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", dê uma olhada em alguns [artigos interessantes](http://www.caloni.com.br/blog/search/WinDbg)_ _sobre depuração usando WinDbg_.</blockquote>
+_Para saber mais sobre o WinDbg e dar suas "WinDbgzadas", dê uma olhada em alguns [artigos interessantes](/search)_ _sobre depuração usando WinDbg_.</blockquote>
 
 A primeira coisa que um _loop_ de mensagens deveria fazer seria chamar a função [GetMessage](http://msdn2.microsoft.com/en-us/library/ms644936.aspx), que obtém a primeira mensagem em espera na fila de mensagens da _thread_ chamadora. Portanto, vamos dar uma olhada nas chamadas dessa função:
 

@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/alem-da-ilusao/"
 imdb: "4680196"
 
 date: "2017-04-21"

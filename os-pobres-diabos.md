@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/os-pobres-diabos/"
 imdb: "3072174"
 
 date: "2017-07-01"

@@ -93,4 +93,4 @@ Os saltos condicionais, vulgarmente conhecidos como `if`'s, permitiram às lingu
             break;
     }
 
-Em um [próximo artigo](http://www.caloni.com.br/a-inteligencia-do-if-parte-2) veremos como o salto condicional pode ser implementado apenas com operações matemáticas (afinal, é só isso que temos).
+Em um [próximo artigo](/a-inteligencia-do-if-parte-2) veremos como o salto condicional pode ser implementado apenas com operações matemáticas (afinal, é só isso que temos).

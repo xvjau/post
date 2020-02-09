@@ -3,7 +3,7 @@ date: "2014-07-01"
 title: Introdução à Introdução à Computação
 tags: [ "blog", "reading" ]
 ---
-[![Capa do livro](/images/X6UJJym.jpg)](/images/X6UJJym.jpg) Chegou minha segunda cópia do livro ["Introdução Ilustrada à Computação"](http://www.caloni.com.br/50-anos-de-basic), de Larry Gonick, recém-encontrado em um sebo. Esse eu não empresto para mais ninguém. Porém, posso recomendar aos ainda não-iniciados, e até mesmo aos iniciados em um nível superior ao do elétron: leiam esse livro pelo menos duas vezes. Isso é o que estou fazendo, e mesmo já com quase 15 anos computando nas ruas ainda aprendendo alguma coisa interessante.
+[![Capa do livro](/images/X6UJJym.jpg)](/images/X6UJJym.jpg) Chegou minha segunda cópia do livro ["Introdução Ilustrada à Computação"](/50-anos-de-basic), de Larry Gonick, recém-encontrado em um sebo. Esse eu não empresto para mais ninguém. Porém, posso recomendar aos ainda não-iniciados, e até mesmo aos iniciados em um nível superior ao do elétron: leiam esse livro pelo menos duas vezes. Isso é o que estou fazendo, e mesmo já com quase 15 anos computando nas ruas ainda aprendendo alguma coisa interessante.
 
 O livro começa lá nos primórdios da informação, antes mesmo da humanidade. Sim, pois informação não necessita sequer de um ser sensciente para ser transmitida e utilizada, como já foi comprovado através de nosso código genético, o [agora-popular-por-causa-do-ratinho](https://www.youtube.com/results?search_query=ratinho+dna) DNA. Uma informação codificada intrinsecamente no processo de reprodução das células de um ser vivo. Um computador orgânico!
 

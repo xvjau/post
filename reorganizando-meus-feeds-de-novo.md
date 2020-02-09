@@ -11,7 +11,7 @@ Porém, ainda utilizo o Google Reader por uma série de motivos:
   * Integrado com as ferramentas Google, que eu venero;
 
 	
-  * Tem [atalhos no teclado](http://www.google.com/reader/ui/444944535-en-keyboard-help-tearoff?hl=en), que eu [venero](http://www.caloni.com.br/mousetool-clique-automatico-do-seu-rato)
+  * Tem [atalhos no teclado](http://www.google.com/reader/ui/444944535-en-keyboard-help-tearoff?hl=en), que eu [venero](/mousetool-clique-automatico-do-seu-rato)
 
 	
   * Consigo [anotar](http://www.google.com/support/reader/bin/answer.py?hl=en&answer=98739) o que quiser em qualquer página que navegar;

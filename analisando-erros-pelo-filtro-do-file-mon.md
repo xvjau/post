@@ -7,7 +7,7 @@ tags: [ "blog" ]
 
 As ferramentas da SysInternals fazem a gente economizar um tempo considerável na resolução de problemas. Não que elas sejam indispensáveis. Tudo que elas fazem é encurtar o caminho entre a análise de um _bug_ e sua resolução, o que acaba sendo muito se considerarmos que programação é 20% codificação e 80% transpiração. Ela é um atalho para muitas coisas, desde achar uma ordem de _includes_ no _header_ errada durante a compilação ou descobrir que por que um processo morreu durante o login.
 
-Curiosamente ambos os exemplos que citei são de uma mesma ferramenta: [Process Monitor](https://technet.microsoft.com/en-us/sysinternals/bb896642.aspx), ou carinhosamente procmon. Ele é um filho de duas ferramentas hoje extintas, FileMon e RegMon (acho que não preciso explicar o que ambas faziam). Todas são baseadas em drivers que escutam eventos do sistema operacional e um aplicativo que mastiga essa informação e as filtra de diferentes e criativas formas.
+Curiosamente ambos os exemplos que citei são de uma mesma ferramenta: [Process Monitor](https://www.technet.microsoft.com/en-us/sysinternals/bb896642.aspx), ou carinhosamente procmon. Ele é um filho de duas ferramentas hoje extintas, FileMon e RegMon (acho que não preciso explicar o que ambas faziam). Todas são baseadas em drivers que escutam eventos do sistema operacional e um aplicativo que mastiga essa informação e as filtra de diferentes e criativas formas.
 
 ## Depurando um instalador muito sacana
 
@@ -96,8 +96,6 @@ void Version2()
 ```
 
 Como já vimos, o instalador da SoSo não está muito preocupado em capturar erros. Haja o que houver, o mundo continua maravilhoso. Porém, depois da atualização esse erro explodiu na máquina do diretor. E agora?
-
-![](/images//imgur.com/a1ViOEO)
 
 Sem saber muito bem o que fazer, mas com a possibilidade de testar a situação em uma nova máquina (de outro diretor), Juquinha resolveu rodar novamente o instalador, mas dessa vez com a companhia do ProcMon.
 

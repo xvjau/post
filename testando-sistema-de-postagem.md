@@ -3,7 +3,7 @@ date: "2016-04-10"
 title: "Testando sistema de postagem"
 tags: [ "blog" ]
 ---
-Bom, depois de criar um script para basicamente apenas escrever o texto dos filmes que assisto e buscar uma imagem agradável para meu [blogue de Cinema](http://www.cinetenisverde.com.br), o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a [BitForge](http://www.bitforge.com.br/blog-pt) e esse aqui. O processo envolve algo a mais: buscar as imagens usadas (que muitas vezes não é só uma). Porém, nada mais que isso.
+Bom, depois de criar um script para basicamente apenas escrever o texto dos filmes que assisto e buscar uma imagem agradável para meu [finado blogue de Cinema](http://www.cinetenisverde.com.br), o próximo passo foi portar esse mesmo método para meus dois outros blogues: o da minha empresa, a [BitForge](http://www.bitforge.com.br/blog-pt) e esse aqui. O processo envolve algo a mais: buscar as imagens usadas (que muitas vezes não é só uma). Porém, nada mais que isso.
 
 **O problema mesmo é publicar nas redes sociais.**
 
@@ -15,12 +15,12 @@ No Cine Tênis Verde fica fácil achar uma imagem, pois filmes são formados por
 
 O que muitas vezes tem funcionado, como minha série [Básico do Básico](https://www.google.com.br/search?q=básico+do+básico+site%3Acaloni.com.br):
 
- - [Binário](http://caloni.com.br/basico-do-basico-binario)
- - [Tipos](http://caloni.com.br/basico-do-basico-tipos)
- - [Ponteiros](http://caloni.com.br/basico-do-basico-ponteiros)
- - [Assembly](http://caloni.com.br/basico-do-basico-assembly)
- - [Programação](http://caloni.com.br/guia-basico-para-programadores-de-primeiro-breakpoint)
- - [Depuração](http://caloni.com.br/guia-basico-para-programadores-de-primeiro-int-main)
+ - [Binário](/basico-do-basico-binario)
+ - [Tipos](/basico-do-basico-tipos)
+ - [Ponteiros](/basico-do-basico-ponteiros)
+ - [Assembly](/basico-do-basico-assembly)
+ - [Programação](/guia-basico-para-programadores-de-primeiro-breakpoint)
+ - [Depuração](/guia-basico-para-programadores-de-primeiro-int-main)
 
 De qualquer forma, posso continuar utilizando o título do artigo como base para minha pesquisa.
 

@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/soundtrack/"
 imdb: "3332372"
 
 date: "2017-06-03"

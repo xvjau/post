@@ -21,8 +21,8 @@ date: 0000-00-00
  - Minor projects and skills
   - Communication API with HID USB devices
   - Windows Phone and Android user interfaces programming
-  - [Boost.Asio Winsock bug](http://caloni.com.br/bug-boost-asio-acceptex-winsock/)
-  - [Hidapi issue with IO pending](http://caloni.com.br/readfile-assincrono-pode-ser-sincrono-quando-voce-menos-espera/)
+  - [Boost.Asio Winsock bug](-boost-asio-acceptex-winsock/)
+  - [Hidapi issue with IO pending](/readfile-assincrono-pode-ser-sincrono-quando-voce-menos-espera/)
 
 #### [UOL Diveo Broker](http://www.uoldiveo.com.br), 2012 - 2015 (Backend Developer)
 

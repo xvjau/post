@@ -3,7 +3,7 @@ date: "2010-02-01"
 title: Correção de bugs instantânea
 tags: [ "blog" ]
 ---
-Um programador tarimbado sabe que a melhor situação da vida dele para corrigir um bug é quando esse bug acontece em sua máquina de desenvolvimento, na versão Debug e ainda passo-a-passo. Como nessa situação a correção é um verdadeiro "passeio no parque" (ou na mesa do café) ela tende a quase nunca acontecer. Isso é [Murphy](http://www.caloni.com.br/blog/wp-admin/Corre%C3%A7%C3%A3o%20de%20bugs%20instant%C3%A2nea.txt) Aplicado.
+Um programador tarimbado sabe que a melhor situação da vida dele para corrigir um bug é quando esse bug acontece em sua máquina de desenvolvimento, na versão Debug e ainda passo-a-passo. Como nessa situação a correção é um verdadeiro "passeio no parque" (ou na mesa do café) ela tende a quase nunca acontecer. Isso é [Murphy](/correcao-de-bugs-instantanea) Aplicado.
 
 Para quem programa para sistemas, então, só o fato de acontecer no mesmo processo toda vez que ele for executado já é o máximo (quem já programou serviços, plugins, GINAs e afins sabe do que eu estou falando).
 

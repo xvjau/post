@@ -75,5 +75,5 @@ A não ser que estejamos falando do Xbox, o _hardware_ é feito por terceiros, c
 #### Para saber mais
 
 	
-  * [Outros artigos sobre a história do windows](http://www.caloni.com.br/blog/search/historia%20do%20windows%20-%20parte)
+  * [Outros artigos sobre a história do windows](/search)
 

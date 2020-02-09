@@ -4,7 +4,7 @@ title: A inteligência do if - parte 2
 tags: [ "code" ]
 desc: "Artigo dividido em duas partes. Atualizado em 2019-07-18 para inclusão no Livro do Caloni."
 ---
-Vimos na [primeira parte desse artigo](http://www.caloni.com.br/a-inteligencia-do-if-parte-1) como o `if` revolucionou o mundo da computação trazendo um salto que depende de condições anteriores e, portanto, depende do estado do programa. A ele chamamos de **salto condicional**. Agora veremos como implementar uma condição baseando-se no fato de que o computador pode apenas realizar operações matemáticas.
+Vimos na [primeira parte desse artigo](/a-inteligencia-do-if-parte-1) como o `if` revolucionou o mundo da computação trazendo um salto que depende de condições anteriores e, portanto, depende do estado do programa. A ele chamamos de **salto condicional**. Agora veremos como implementar uma condição baseando-se no fato de que o computador pode apenas realizar operações matemáticas.
 
 Uma **condição**, item necessário para o funcionamento do salto condicional, nada mais é do que um cálculo matemático e o seu resultado, sendo o salto dependente desse resultado. Geralmente o resultado usado é uma flag definida pela arquitetura como o armazenador de resultado para cálculo matemático. Na plataforma **8086**, por exemplo, os cálculos matemáticos de comparação definem uma flag chamada de **Zero Flag (ZF)**, que é modificada ao ser realizado um cálculo:
 

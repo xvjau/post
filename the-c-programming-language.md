@@ -45,7 +45,7 @@ A dificuldade com que muitos programadores C têm com essas duas característica
 
 [![Pointer to Vector](/images/G40wPZ2.gif)](/images/G40wPZ2.gif)
 
-Se você programa em C e até hoje tem dificuldades para entender completamente esse assunto, sugiro que largue o que você está fazendo agora e leia esse capítulo até o final. Será bem mais proveitoso que ficar zanzando no meio de um monte de blogues (como [este aqui](http://www.caloni.com.br/blog)).
+Se você programa em C e até hoje tem dificuldades para entender completamente esse assunto, sugiro que largue o que você está fazendo agora e leia esse capítulo até o final. Será bem mais proveitoso que ficar zanzando no meio de um monte de blogues (como [este aqui](http://www.caloni.com.br)).
 
 #### _Chapter 6: Structures_
 

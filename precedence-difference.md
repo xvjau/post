@@ -20,7 +20,7 @@ int main()
 
 Despite the fact the result is a strong candidate to "[The International Obfuscated C Code Contest](http://www.ioccc.org)", the linux guys told him the code was not successful on GCC, and somewhere inside those four lines there was a non-standard piece of code.
 
-Asked to solve the problem, given my congenital inclination to [random subjects involving C++](http://www.caloni.com.br/disassembling-the-array-operator), I decided to fix the things up in my old-n-good **Visual Studio 2003**. Nonetheless, it compiles C source code as well. We just need to rename the file from **.cpp** to **.c**. It was doing this that I found the following compiler error:
+Asked to solve the problem, given my congenital inclination to [random subjects involving C++](/disassembling-the-array-operator), I decided to fix the things up in my old-n-good **Visual Studio 2003**. Nonetheless, it compiles C source code as well. We just need to rename the file from **.cpp** to **.c**. It was doing this that I found the following compiler error:
 
 **_error C2106: '=' : left operand must be l-value_**
 

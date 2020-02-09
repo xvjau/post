@@ -12,35 +12,35 @@ Já leio o seu site a algum tempo. Realmente acho complicado, alguns eu nem ente
 Não é a primeira pessoa que pede informações sobre algo específico demais para explicar (para isso existe a [Wikipedia](http://en.wikipedia.org/wiki/Base64) e o [Google](http://www.google.com/search?q=base64), não?). No meio da minha escrita, percebi que já havia escrito sobre os fundamentos do conhecimento por trás da criação do Base64, conhecimento esse, acredito eu, todo programador que quer sair do lugar com os próprios pés deve ter.
 
 	
-  * [Básico do básico: assembly](http://www.caloni.com.br/basico-do-basico-assembly)
+  * [Básico do básico: assembly](/basico-do-basico-assembly)
 
 	
-  * [Básico do básico: binário](http://www.caloni.com.br/basico-do-basico-binario) <-- Luiz, você está procurando por esse!
+  * [Básico do básico: binário](/basico-do-basico-binario) <-- Luiz, você está procurando por esse!
 
 	
-  * [Básico do básico: tipos](http://www.caloni.com.br/basico-do-basico-tipos)
+  * [Básico do básico: tipos](/basico-do-basico-tipos)
 
 	
-  * [Básico do básico: ponteiros](http://www.caloni.com.br/basico-do-basico-ponteiros)
+  * [Básico do básico: ponteiros](/basico-do-basico-ponteiros)
 
 Bônus:
 
 	
-  * [Como ofuscar strings](http://www.caloni.com.br/como-ofuscar-strings)
+  * [Como ofuscar strings](/como-ofuscar-strings)
 
 	
-  * [Passagem por valor e emails com anexo](http://www.caloni.com.br/passagem-por-valor-e-emails-com-anexo)
+  * [Passagem por valor e emails com anexo](/passagem-por-valor-e-emails-com-anexo)
 
 	
-  * [Como funcionam as strings](http://www.caloni.com.br/strings)
+  * [Como funcionam as strings](/strings)
 
 REALMENTE para iniciantes:
 
 	
-  * [Configurando seus projetos no Visual Studio](http://www.caloni.com.br/configurando-seus-projetos-no-visual-studio)
+  * [Configurando seus projetos no Visual Studio](/configurando-seus-projetos-no-visual-studio)
 
 	
-  * [Como criar uma LIB no Visual Studio](http://www.caloni.com.br/como-criar-uma-lib-no-visual-studio)
+  * [Como criar uma LIB no Visual Studio](/como-criar-uma-lib-no-visual-studio)
 
 Acredito que tudo que um programador precisa saber é o básico. O problema é que esse básico cresce a cada ano, mas, de qualquer forma, continua sendo necessário voltar às raízes de vez em quando, e se existe algo que ele nunca deve esquecer, é isso.
 
@@ -54,7 +54,7 @@ Isso quer dizer que, na prática, os anexos de um e-mail e as imagens de uma pá
 
 Como isso é possível?
 
-A solução não é tão obscura quanto possa parecer. Se um programador médio tivesse esse problema e nenhuma solução existisse ainda, ele faria o que sempre fez para resolver problemas desse tipo: codificar a mensagem na forma permitida. Isso já é feito com o próprio texto, que é apenas [uma interpretação de tabelas de caracteres](http://www.caloni.com.br/basico-do-basico-binario).
+A solução não é tão obscura quanto possa parecer. Se um programador médio tivesse esse problema e nenhuma solução existisse ainda, ele faria o que sempre fez para resolver problemas desse tipo: codificar a mensagem na forma permitida. Isso já é feito com o próprio texto, que é apenas [uma interpretação de tabelas de caracteres](/basico-do-basico-binario).
 
 Tudo que é necessário fazer é o contrário, mas usando a mesma lógica: montar uma tabela de caracteres válidos e traduzir para um conteúdo binário, sendo que todas as combinações possíveis devem caber nessa tabela.
 

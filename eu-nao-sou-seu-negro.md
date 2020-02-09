@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/eu-nao-sou-seu-negro"
 imdb: "5804038"
 
 date: "2017-01-31"

@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/no-meio-de-nos/"
 title: "No Meio de Nós"
 stars: "1/5"
 date: "2017-04-18"

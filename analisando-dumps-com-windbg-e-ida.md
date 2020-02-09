@@ -151,7 +151,7 @@ Esse é o resultado de um dos minidumps recebidos.
 A partir daí podemos extrair algumas informações úteis, que eu sublinhei na saída do WinDbg. Na ordem de chegada:
 
     
-  1. **O código do Bug Check**. Esse é talvez o mais importante, pois pode resolver rapidamente o nosso problema. Procurando [na ajuda do WinDbg](http://www.caloni.com.br/blog/wp-admin/mk:@MSITStore:%programfiles%%5CDebugging%20Tools%20for%20Windows%5Cdebugger.chm::/hh/Debugger/t04_bugs_00_493ab992-8cee-4ee8-b39b-da780b6dcb7e.xml.htm) pelo código do erro (obs: execute o link pelo explorer) conseguimos ter algumas dicas de como evitar esse erro:
+  1. **O código do Bug Check**. Esse é talvez o mais importante, pois pode resolver rapidamente o nosso problema. Procurando na ajuda do WinDbg pelo código do erro (obs: execute o link pelo explorer) conseguimos ter algumas dicas de como evitar esse erro:
 "_The MAXIMUM_WAIT_OBJECTS_EXCEEDED bug check has a value of 0x0000000C. This indicates that the current thread exceeded the permitted number of wait objects._"
 Mais sobre isso pra depois.
 

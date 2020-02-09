@@ -3,13 +3,13 @@ date: "2008-04-11"
 title: Aprendendo assembly com o depurador
 tags: [ "code" ]
 ---
-Além de servir para corrigir alguns [bugs escabrosos](http://www.caloni.com.br/analisando-dumps-com-windbg-e-ida), o nosso bom e fiel amigo depurador também possui uma utilidade inusitada: ensinar _assembly_! A pessoa interessada em aprender alguns conceitos básicos da arquitetura do 8086 pode se exercitar na frente de um depurador 16 ou 32 bits sem ter medo de ser feliz.
+Além de servir para corrigir alguns [bugs escabrosos](/analisando-dumps-com-windbg-e-ida), o nosso bom e fiel amigo depurador também possui uma utilidade inusitada: ensinar _assembly_! A pessoa interessada em aprender alguns conceitos básicos da arquitetura do 8086 pode se exercitar na frente de um depurador 16 ou 32 bits sem ter medo de ser feliz.
 
 Vamos ver alguns exemplos?
 
 #### A pilha é você quem manda
 
-Para quem está começando, recomendo usar um depurador simples, 16 bits e que existe em todo e qualquer Windows: o **debug**. Já usado para depurar a MBR no [Caloni.com.br](http://www.caloni.com.br/depuracao-da-mbr), poderá agora ser usado para ensinar alguns princípios da plataforma de uma maneira indolor. Basta iniciá-lo na linha de comando:
+Para quem está começando, recomendo usar um depurador simples, 16 bits e que existe em todo e qualquer Windows: o **debug**. Já usado para depurar a MBR no [Caloni.com.br](/depuracao-da-mbr), poderá agora ser usado para ensinar alguns princípios da plataforma de uma maneira indolor. Basta iniciá-lo na linha de comando:
 
     
     debug
@@ -127,27 +127,27 @@ Depurar é um processo que exige dedicação (experiência) tanto ou mais do que
 Básico a intermediário:
 
 	
-  * [Guia básico para programadores de primeiro breakpoint](http://www.caloni.com.br/guia-basico-para-programadores-de-primeiro-breakpoint)
+  * [Guia básico para programadores de primeiro breakpoint](/guia-basico-para-programadores-de-primeiro-breakpoint)
 
 	
-  * [Brincando com o WinDbg](http://www.caloni.com.br/brincando-com-o-windbg)
+  * [Brincando com o WinDbg](/brincando-com-o-windbg)
 
 	
-  * [Encontrando as respostas do Flash Pops](http://www.caloni.com.br/encontrando-as-respostas-do-flash-pops)
+  * [Encontrando as respostas do Flash Pops](/encontrando-as-respostas-do-flash-pops)
 
 Intermediário a avançado:
 
 	
-  * [Hook de API no WinDbg](http://www.caloni.com.br/hook-de-api-no-windbg)
+  * [Hook de API no WinDbg](/hook-de-api-no-windbg)
 
 	
-  * [Hook de COM no WinDbg](http://www.caloni.com.br/hook-de-com-no-windbg)
+  * [Hook de COM no WinDbg](/hook-de-com-no-windbg)
 
 	
-  * [Detectando hooks globais no WinDbg](http://www.caloni.com.br/detectando-hooks-globais-no-windbg)
+  * [Detectando hooks globais no WinDbg](/detectando-hooks-globais-no-windbg)
 
 	
-  * [Analisando dumps com WinDbg e IDA](http://www.caloni.com.br/analisando-dumps-com-windbg-e-ida)
+  * [Analisando dumps com WinDbg e IDA](/analisando-dumps-com-windbg-e-ida)
 
 Blogues que eu acho superinteressantes sobre _debugging_ (do mais essencial para o mais avançado):
 

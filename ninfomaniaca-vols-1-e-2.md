@@ -16,8 +16,3 @@ A versão mutilada disponível na Netflix possui no início de cada volume corte
 Em determinado momento Joe fala que a última digressão de seu amigo foi a mais fraca. No fundo, de todas as digressões linguísticas que o diretor aplica em seus filmes, talvez essa seja a mais fraca. Com quatro horas de duração, sobrou alguma gordura desnecessária para seus objetivos.
 
 No final, um discurso feminista que faz todo sentido, seguido da lembrança de que tudo o que vimos foi um ser humano tentando achar seu lugar na sociedade. Infelizmente, com todas as mulheres temendo que seus maridos sejam roubados e com todos os homens. Que maneira triste, mesquinha e... verdadeira, de enxergar a sociedade.
-
-{% for post in site.tags.nymphomaniac %}
- - [{{post.title}}]({{post.url}})
-{% endfor %}
-

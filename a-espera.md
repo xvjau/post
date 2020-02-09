@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/a-espera"
 imdb: "3715122"
 
 date: "2017-01-16"

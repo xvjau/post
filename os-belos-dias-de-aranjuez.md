@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/os-belos-dias-de-aranjuez/"
 imdb: "4715652"
 
 date: "2017-03-26"

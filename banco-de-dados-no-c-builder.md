@@ -21,7 +21,7 @@ Quase como um prêmio de consolação por participarmos de um sorteio que sabemo
 
 Um problema inicial está no fato que o arquivo está no formato HTML, um formato mais difícil de usarmos no C++ Builder. Portanto, irei converter este formato em algo mais maleável, como um arquivo do Microsoft Access (manipulável pelo [Open Office](http://www.openoffice.org/)), o famoso **MDB**.
 
-Para a conversão, nada mais que algumas [expressões regulares](http://guia-er.sourceforge.net/) e [macros de edição](http://notepad-plus.sourceforge.net/uk/site.htm) não resolvam em 5 minutos, sem contar a opção de importação do próprio Access. Para evitar perder estes 5 minutos, deixei disponível o banco de dados gerado através do [_download_](/images/megasena.7z) junto com o projeto que criaremos para demonstrar a visualização.
+Para a conversão, nada mais que algumas [expressões regulares](http://guia-er.sourceforge.net/) e [macros de edição](http://notepad-plus.sourceforge.net/uk/site.htm) não resolvam em 5 minutos, sem contar a opção de importação do próprio Access.
 
 #### Borland Database Engine
 
@@ -81,12 +81,6 @@ E é isso! Se chegamos até aqui, já sabemos o arroz com feijão de usar banco 
 
 #### Links úteis
 
-	
   * [Borland Developer Studio](http://www.codegear.com/downloads): baixe a versão gratuita para desenvolver programas Win32 nativos em RAD
-
-	
   * [OpenOffice](http://www.openoffice.org/): uma suíte de escritório gratuita (para ler e escrever MDBs)
-
-	
-  * [MegaSena](/images/megasena.7z): o nosso projeto de banco de dados em C++ Builder
 

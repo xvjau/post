@@ -125,8 +125,8 @@ Programar não tem segredo. É tudo uma questão de gostar, aprender, executar, 
 
   * [Arquitetura de von Neumann](http://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann) - Wikipédia[](http://pt.wikipedia.org/wiki/M%C3%A1quina_de_Turing)
   * [Máquina de Turing](http://pt.wikipedia.org/wiki/M%C3%A1quina_de_Turing) - Wikipédia
-  * [A inteligência do if](http://www.caloni.com.br/a-inteligencia-do-if-parte-1) - parte 1
-  * [A inteligência do if](http://www.caloni.com.br/a-inteligencia-do-if-parte-2) - parte 2
+  * [A inteligência do if](/a-inteligencia-do-if-parte-1) - parte 1
+  * [A inteligência do if](/a-inteligencia-do-if-parte-2) - parte 2
 
 #### Para aprender mais[](http://www.sebol.com.br/detalhes.php?codigo=030872)
 

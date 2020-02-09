@@ -10,7 +10,7 @@ Os problemas relacionados com acesso negado durante a conversão/construção do
 	
   * [Download Houaiss2Babylon v1.3](/images/houaissparababylon1.31.zip)
 
-Para os que estão desenvolvendo soluções baseadas na minha solução (como o [Houaiss para Kindle](http://www.caloni.com.br/houaiss-no-kindle)), segue o linque para download do último branch.
+Para os que estão desenvolvendo soluções baseadas na minha solução (como o [Houaiss para Kindle](/houaiss-no-kindle)), segue o linque para download do último branch.
 
 	
   * [Download do código-fonte do Houaiss2Babylon v1.3](/images/houaissparababylon-src1.zip)

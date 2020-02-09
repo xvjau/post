@@ -14,8 +14,6 @@ Vamos às palestras!
 **Dicas e Truques de Portabilidade**
 Wanderley Caloni
 
-Apresentação para baixar em [PDF](http://www.caloni.com.br/docs/Portabilidade%20-%20Wanderley%20Caloni.pdf), [PPT ](http://www.caloni.com.br/docs/Portabilidade%20-%20Wanderley%20Caloni.ppt)e [ODP](http://www.caloni.com.br/docs/Portabilidade%20-%20Wanderley%20Caloni.odp).
-
 É muito difícil analisar uma palestra feita por você mesmo. É mais difícil ainda quando essa palestra é a primeira de uma batelada de argumentações de alto nível técnico que seguiram o dia. Posso dizer, no entanto, que consegui o que queria quando fui para o evento: demonstrar as dificuldades e as facilidades de tornar um código portável, independente se entre sistemas operacionais, ambientes ou compiladores.
 
 Foi visto primeiramente o que faz da portabilidade uma coisa difícil. Detalhes como sintaxe e gramática fazem toda a diferença quando o que se almeja é um código limpo de imperfeições trazidas pelo ambiente de desenvolvimento. Também foi dada especial atenção às famigeradas extensões de compiladores, que fazem a linguagem parecer uma coisa que não é.
@@ -33,7 +31,7 @@ Os programadores em nível de sistema devem ter adorado o contexto histórico do
 
 Um destaque especial foram os experimentos com código rodando de verdade no Visual Studio, como o exemplo que tenta criar o maior número de _threads _possível na arquitetura 64. Simplesmente assustador!
 
-Se por um lado faltou tempo para explicar os usos e princípios das bibliotecas de programação paralela disponíveis e mais usadas do mercado, por outro a palestra preencheu uma lacuna importante na [minha primeira palestra](http://www.caloni.com.br/terceiro-encontro-c) sobre _threads _em C++, demonstrando os erros mais comuns e o que não se deve fazer em programas que rodam mais de uma _thread_.
+Se por um lado faltou tempo para explicar os usos e princípios das bibliotecas de programação paralela disponíveis e mais usadas do mercado, por outro a palestra preencheu uma lacuna importante na [minha primeira palestra](/terceiro-encontro-c) sobre _threads _em C++, demonstrando os erros mais comuns e o que não se deve fazer em programas que rodam mais de uma _thread_.
 
 Mais uma vez voltando à teoria, a palestra foca mais uma vez em bons princípios de _design_, como o padrão de projeto monitor e a descrição dos modelos onde é justificado o uso de mais de uma _thread _no programa.
 

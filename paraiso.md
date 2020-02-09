@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/paraiso"
 imdb: "4551318"
 
 date: "2017-01-20"

@@ -21,7 +21,7 @@ Da mesma forma, com o lançamento da versão 64 para a plataforma x86, uma nova 
 
 #### _So far, so good_
 
-No decorrer da [história do Windows](http://www.caloni.com.br/blog/search/historia%20do%20windows%20-%20parte) avançamos uns bons 20 anos até agora. Muita coisa que deveria ter sido falada não foi, e muita coisa que não merecia ser mencionada, foi. Abaixo podemos vislumbrar por onde passamos, onde chegamos e para onde vamos.
+No decorrer da [história do Windows](/search) avançamos uns bons 20 anos até agora. Muita coisa que deveria ter sido falada não foi, e muita coisa que não merecia ser mencionada, foi. Abaixo podemos vislumbrar por onde passamos, onde chegamos e para onde vamos.
 
 [![Windows History](/images/8USH12i.gif)](/images/8USH12i.gif)
 
@@ -68,5 +68,5 @@ Essa organização foi adotada principalmente pela sua grande vantagem de **mini
 #### Para saber mais
 
 	
-  * [Artigos sobre a história do Windows no Caloni.com.br](http://www.caloni.com.br/blog/search/historia%20do%20windows%20-%20parte)
+  * [Artigos sobre a história do Windows no Caloni.com.br](/search)
 

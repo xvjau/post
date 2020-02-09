@@ -111,7 +111,7 @@ Caso prefira usar seu DVD/Blu-ray/Serviço de streaming sem abrir nada mais que 
  - Andrei Tarkovsky - Nostalghia (1983)
  - Andrei Tarkovsky - Sacrifice (1986)
  - Andrei Tarkovsky - Stalker (1979)
- - Andrei Tarkovsky - [Solaris](/solaris-1972) (1972)
+ - Andrei Tarkovsky - [Solaris](/solaris) (1972)
  - Andrzej Wajda - Ashes and Diamonds (1958)
  - Andy Warhol - Chelsea Girls (1967)
  - Anthony Mann - Bend of the River (1952)

@@ -64,5 +64,5 @@ Enfim, cada pessoa tem sua maneira de encarar problemas, catalogar idéias e faz
   * [Sítio do criador do programa](http://www.abstractspoon.com/) (com mais recursos para baixar).
 
 	
-  * [Como fazer cronogramas](http://www.caloni.com.br/cronograma) (dicas simples e rápidas para programadores).
+  * [Como fazer cronogramas](/cronograma) (dicas simples e rápidas para programadores).
 

@@ -1,6 +1,4 @@
 ---
-
-cinemaqui: "http://www.cinemaqui.com.br/insubstituivel/"
 imdb: "5078326"
 
 date: "2017-02-24"

@@ -3,7 +3,7 @@ date: "2008-08-05"
 title: Antidebugging during the process attach
 tags: [ "code" ]
 ---
-Today was a great day for reverse engineering and protection analysis. I've found two great programs to to these things: a [API call monitor](http://www.kakeeware.com/) and a [COM call monitor](http://www.blunck.info/comtrace.html). Besides that, in the first program site - from a enthusiastic of the good for all Win32 Assembly - I've found the source code for one more antidebugging technique, what bring us back to our series of [antidebugging techniques](http://www.caloni.com.br/blog/?s=antidebug%3A).
+Today was a great day for reverse engineering and protection analysis. I've found two great programs to to these things: a [API call monitor](http://www.kakeeware.com/) and a [COM call monitor](http://www.blunck.info/comtrace.html). Besides that, in the first program site - from a enthusiastic of the good for all Win32 Assembly - I've found the source code for one more antidebugging technique, what bring us back to our series of [antidebugging techniques](/search).
 
 #### The antiattaching technique
 
@@ -90,7 +90,7 @@ After the program has been running, every try to attach will show a detection me
     windbg -pn antiattach.exe
 
     
-    <a href="/images/mdRqvjp.png" title="Detecção de attach"><img src="http://www.caloni.com.br/blog/wp-content/uploads/antiattach.png" alt="Detecção de attach"></img></a>
+    <a href="/images/mdRqvjp.png" title="Detecção de attach"><img src="/images/mdRqvjp.png" alt="Detecção de attach"></img></a>
 
 #### Code peculiarities
 

@@ -22,7 +22,7 @@ Entre esses eventos podemos citar os seguintes:
     
   * Saída do processo
 
-No caso de se conectar em um processo já existente, é chamada a função da API [DebugActiveProcess](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fmsdn2.microsoft.com%2Fen-us%2Flibrary%2Fms679295.aspx&ei=cqDERvWoA4GKerippJ0M&usg=AFQjCNFzrdQ83SQzTQxBiT9iEauTFyUPcA&sig2=4p-HOh1Wk6uhDYD0ceEMDw). A partir dessa chamada, se retornado sucesso, o processo que depura agora está liberado para ficar chamando continuamente a função API [WaitForDebugEvent](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fmsdn2.microsoft.com%2Fen-us%2Flibrary%2Fms681423.aspx&ei=sqDERq-OFpuOeZC4lJIM&usg=AFQjCNEaUTTzw3ZLCcI35UMrbDAym4lLDg&sig2=GfQ_1OH4BLoOKFmCHXGYDA). E o código se resume a isto:
+No caso de se conectar em um processo já existente, é chamada a função da API DebugActiveProcess. A partir dessa chamada, se retornado sucesso, o processo que depura agora está liberado para ficar chamando continuamente a função API WaitForDebugEvent. E o código se resume a isto:
 
 ```cpp
 void DebugLoop()

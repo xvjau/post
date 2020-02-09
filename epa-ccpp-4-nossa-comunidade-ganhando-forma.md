@@ -3,7 +3,7 @@ date: "2008-03-29"
 title: 'EPA-CCPP 4: nossa comunidade ganhando forma'
 tags: [ "blog" ]
 ---
-Nesse último sábado ocorreu mais uma vez, como [todos sabem](http://www.caloni.com.br/quarto-encontro-c), o [Encontro de Programadores e Aficionados por C++](http://picasaweb.google.com/ccppmeetings/4oEncontroDeProgramadoresEAficcionadosDoGrupoCCBrasilSampa), (in)formalmente apelidado de EPA-CCPP, de acordo com [algumas conversas](http://groups.google.com/group/ccppbrasil/browse_thread/thread/10b370b5b2bd85d5/eabf850054cfc5c9?lnk=gst&q=EPA#eabf850054cfc5c9) da nossa lista de discussão.
+Nesse último sábado ocorreu mais uma vez, como [todos sabem](/quarto-encontro-c), o [Encontro de Programadores e Aficionados por C++](http://picasaweb.google.com/ccppmeetings/4oEncontroDeProgramadoresEAficcionadosDoGrupoCCBrasilSampa), (in)formalmente apelidado de EPA-CCPP, de acordo com [algumas conversas](http://groups.google.com/group/ccppbrasil/browse_thread/thread/10b370b5b2bd85d5/eabf850054cfc5c9?lnk=gst&q=EPA#eabf850054cfc5c9) da nossa lista de discussão.
 
 Mais uma vez, temos que dar uma salva de palmas e agradecer de coração a todos que colaboraram direta ou indiretamente para a realização do evento, que teve uma qualidade ainda maior que o último encontro.
 
