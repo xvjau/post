@@ -92,8 +92,6 @@ int main()
 
 ```
 
-![jurassicpark.PNG](/images/jurassicpark.PNG)
-
 #### 3. CloseHandle. Mesmo??
 
 Nem sempre o handle que obtemos é fechado com CloseHandle. As funções abaixo retornam handles que devem ser desalocados com as funções à direita:

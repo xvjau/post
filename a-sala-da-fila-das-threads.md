@@ -17,7 +17,7 @@ Os SOs modernos possuem inúmeras maneiras de controlar e monitorar o acesso a r
 
 Resumidamente, um critical section é um recurso que **apenas uma thread por vez pode obter**. Para que outra thread tenha acesso ao mesmo critical section, a primeira thread que o obteve deve soltá-lo. Enquanto ela não solta, as outras threads ficam paradas, esperando pela chave, na sala trancada.
 
-[![Threads Room](/images/WMBVoa0.png)](/images/threads-room.png)
+[![Threads Room](/images/WMBVoa0.png)](/images/WMBVoa0.png)
 
 Do ponto de vista do programador, o critical secton é apenas uma estrutura que é usada na chamada de quatro funções básicas: para [inicializar o recurso](http://msdn.microsoft.com/en-us/library/ms683472.aspx), para [entrar na seção crítica](http://msdn.microsoft.com/en-us/library/ms682608(VS.85).aspx), para [sair da seção crítica](http://msdn.microsoft.com/en-us/library/ms684169(VS.85).aspx) e para [liberar o recurso](http://msdn.microsoft.com/en-us/library/ms682552(VS.85).aspx) (quando aquele critical section não mais será usado).
 

@@ -9,8 +9,6 @@ The reasons why I am using TodoList are kind of obvious: it does everything I ne
 
 So, let's go. Everything we need is a current edition of TodoList and Microsoft Project. The first thing we must to do é to export the tasks we want to a default [CSV](http://pt.wikipedia.org/wiki/Comma-separated_values), using the columns we would like to import to Project:
 
-![](/images/YwPj3ph.png)![](/images/tarefas-no-todolist.png)
-
 ![exportar-do-todolist.png](/images/oq05iXN.png)
 
 ![tarefas-no-excel.png](/images/2UNFGL3.png)

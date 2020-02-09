@@ -9,7 +9,7 @@ http://www.slideshare.net/slideshow/embed_code/37854469
 
 O negócio é que tivemos um dia bem atípico, com direito a lotação (!) de nossa sala logo pela manhã. Os organizadores Rodrigo Strauss e Vinicius Jarina tiveram que dar um push_back na lista de vectors da sala. E todos, aparentemente, estavam no lugar certo.
 
-[![Dando um push_back nos vetores da sala](/images/lOl838i.jpg)](/images/14901894403_ae4e4fba9b_z.jpg)
+[![Dando um push_back nos vetores da sala](/images/lOl838i.jpg)](/images/lOl838i.jpg)
 
 Foi bom estar de volta nesse evento tão importante para mantermos os diferentes programadores unidos por um bem comum: mostrar que C/C++ está tão vivo como nunca!
 

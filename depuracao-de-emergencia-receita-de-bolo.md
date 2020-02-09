@@ -16,19 +16,19 @@ Continuando o papo sobre [o que fazer para analisar rapidamente um crash no serv
 
 Bom, resumindo: basta olhar a pilha! Mas, para isso ser efetivo, precisaremos do PDB do executável que gerou o crash, pois através dele é possível puxar a tal localização da violação de acesso.
 
-[caption id="attachment_1221" align="aligncenter" width="511" caption="SEMPRE ative a geração de PDBs, até em RELEASE!"][![](/images/w1uEm0Y.png)](/images/generate-pdb.png)[/caption]
+[caption id="attachment_1221" align="aligncenter" width="511" caption="SEMPRE ative a geração de PDBs, até em RELEASE!"][![](/images/w1uEm0Y.png)](/images/w1uEm0Y.png)[/caption]
 
 Se você mantiver executável (DLL também é executável) juntinho com seu PDB, sua vida será mais fácil e florida.
 
-[caption id="attachment_1222" align="aligncenter" width="498" caption="EXE e PDB, juntinhos, cantando e rodando."][![](/images/ls9Hma0.png)](/images/pdb-generated.png)[/caption]
+[caption id="attachment_1222" align="aligncenter" width="498" caption="EXE e PDB, juntinhos, cantando e rodando."][![](/images/ls9Hma0.png)](/images/ls9Hma0.png)[/caption]
 
 Mesmo que, em alguns momentos trágicos, apareça uma tela indesejada.
 
-[![](/images/imt8kmB.png)](/images/CrashOnServerCrash.png)
+[![](/images/imt8kmB.png)](/images/imt8kmB.png)
 
 Seu caminho a partir dessa tela pode ser analisar um dump gerado (visto no artigo anterior) ou podemos atachar o WinDbg diretamente no processo (visto aqui e agora):
 
-[![](/images/CjXbOD1.png)](/images/attach-to-process.png)
+[![](/images/CjXbOD1.png)](/images/CjXbOD1.png)
     WinDbg: "mas que bagunça é essa na memória desse processo?"
 
 O comando mais útil na maioria dos casos é mostrar a pilha em modo verbose (kv e `<enter>`). Porém, antes disso, precisamos:
@@ -107,7 +107,7 @@ Ops! Estamos rodando um processo 32 dentro de um SO 64 (Windows 7, por exemplo).
 
 Nosso depurador favorito acusa uma pilha que contém a função WerpReportFault (Web Error Report, mas qualquer outra função com Exception no meio seria uma candidata). E, nessa mesma thread, a última linha nossa conhecida está no arquivo crashonserver.cpp:13. Isso nos revela o seguinte:
 
-[caption id="attachment_1224" align="aligncenter" width="534" caption="A raiz de todos os nossos problemas!"][![](/images/hnfH30b.png)](/images/crash-source.png)[/caption]
+[caption id="attachment_1224" align="aligncenter" width="534" caption="A raiz de todos os nossos problemas!"][![](/images/hnfH30b.png)](/images/hnfH30b.png)[/caption]
 
 E essa situação, caro leitor, é 10% de tudo o que você precisa saber sobre WinDbg para resolver, mas que já resolve 90% dos casos. Belo custo-benefício, não?
 

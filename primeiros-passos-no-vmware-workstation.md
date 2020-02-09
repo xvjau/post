@@ -15,8 +15,6 @@ No entanto, não entremos em mais detalhes financeiros. Os detalhes técnicos s�
 
 #### Segundo passo: instalar (agora sim!)
 
-![newvm.PNG](/images/newvm.PNG)
-
 A instalação é simples e indolor, sendo constituída de cinco ou seis botões de _next_. O resto, e mais importante, é a instalação de um sistema operacional dentro de sua primeira máquina virtual. Outro assistente existe nessa fase para guiá-lo através de suas escolhas que irão configurar sua futura máquina.
 
 <blockquote>Um pouco sobre redes
@@ -35,15 +33,11 @@ Os HDs que criamos para nossas VMs são arquivos lógicos localizados em nosso H
 
 Se você dispõe do CD de instalação de um sistema operacional, por exemplo, Windows XP, basta inseri-lo no CD virtual de sua VM. Ela aceita também imagens ISO, se for o caso. Lembre-se apenas que ele terá que ser "bootável", do contrário é necessário um disquete de _boot_.
 
-![vmdevices.PNG](/images/vmdevices.PNG)
-
 <blockquote>Um pouco sobre BIOS</blockquote>
 
 <blockquote>A sua VM emula todo o comportamento de uma máquina real. Ela, portanto, contém uma BIOS, feita pela VMware. Essa BIOS possui as mesmas opções interessantes de ordem de _boot _(primeiro o disquete, depois o HD, etc) e escolha de dispositivo de _boot _(tecla ESC).</blockquote>
 
 A instalação do sistema operacional segue os mesmos passos que a instalação do sistema operacional de qualquer máquina de verdade.
-
-[![xpinstall.PNG](/images/xpinstall.PNG)](/images/xpinstall.PNG)
 
 <blockquote>As teclas mágicas
 
@@ -54,8 +48,6 @@ A instalação do sistema operacional segue os mesmos passos que a instalação 
 **Ctrl + Alt + Del dentro da VM. Use Ctrl + Alt + Insert.** Ele terá o mesmo efeito que um CAD, independente em que tela estiver em sua VM.</blockquote>
 
 Após feita a instalação, você terá um sistema operacional rodando dentro de um sistema operacional. Isso não é legal?
-
-[![xpvm.PNG](/images/xpvm.PNG)](/images/xpvm.PNG)
 
 <blockquote>_Snapshots_
 

@@ -3,8 +3,6 @@ date: "2015-01-26"
 title: Origem do tipo char
 tags: [ "code", "blog" ]
 ---
-![](/images/SKX1ZjT.jpg?1)
-
 Programadores C e C++, preparem-se para explodir as cabeças!
 
 No princípio... não, não, não. Antes do princípio, quando C era considerada a terceira letra do alfabeto e o que tínhamos eram linguagens experimentais para todos os lados, dois famigerados srs. dos Laboratórios Bell, __K. Thompson e D. Ritchie__, criaram uma linguagem chamada __B__. E B era bom.

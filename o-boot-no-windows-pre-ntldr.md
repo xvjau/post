@@ -11,7 +11,7 @@ Nesse caso decidi salpicar a explicação com uma boa dose de _reversing_ para a
 
 [](/images/MfxtBx5.png)
 
-[![boot-map.png](/images/MfxtBx5.png)](/images/boot-map.png)
+[![boot-map.png](/images/MfxtBx5.png)](/images/MfxtBx5.png)
 
 Pelo visto esse foi só o começo. O próximo passo é saber como do setor de boot chegamos ao NTLDR. O que não é nenhum segredo, uma vez que o NTLDR é um arquivo que fica na pasta raiz do sistema de arquivos. Como todos sabemos, qualquer assembly 16 bits de 400 bytes de tamanho consegue ler um arquivo de 250 KB na memória e executá-lo.
 

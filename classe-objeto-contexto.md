@@ -45,8 +45,6 @@ if( findH != INVALID_HANDLE_VALUE )
 //...
 ```
 
-![](/images/l5RSlmW.context.gif)
-
 No caso de nós, que escrevemos uma "classe", o contexto é recebido "de fora":
 
 ```cpp

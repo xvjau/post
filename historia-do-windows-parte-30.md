@@ -7,7 +7,7 @@ tags: [ "code" ]
 
 Em 22 de maio de 1990 a versão 3.0 do Windows foi lançada. Foi melhorado o gerenciador de programas e o sistema de ícones, além de um novo gerenciador de arquivos e suporte a 16 cores. Entre as mudanças internas podemos citar a velocidade e a confiabilidade. Como a partir dessa versão apareceram muitos desenvolvedores que passaram a suportar a plataforma, o número de programas disponíveis aumentou, o que conseqüentemente fez com que as vendas alavancassem. Três milhões de cópias foram vendidas apenas no primeiro ano, e assim o Windows se tornou padrão nos computadores domésticos. Quando a versão 3.1 foi lançada, em 6 de abril de 1992, mais três milhões de cópias foram vendidos em apenas dois meses.
 
-[![Windows 3.0 Desktop](http://upload.wikimedia.org/wikipedia/en/1/15/Windows_3.0_workspace.png)](/images/2G8kwD4.0_workspace.png)
+[![Windows 3.0 Desktop](/images/Windows_3.0_workspace.png)](/images/Windows_3.0_workspace.png)
 
 **Novas tecnologias**
 
@@ -48,7 +48,7 @@ Quando você define uma classe e a registra está dizendo para o sistema qual se
 
 Uma mensagem é um evento que ocorre relativo à sua janela ou o que está acontecendo ao redor dela no mundo Windows. Por exemplo, as janelas recebem eventos a respeito dos cliques do usuário, redesenho da janela, etc. Quem envia essas mensagens é o próprio Windows, e ele espera uma resposta da sua função de janela. Agora a parte esquisita: quem envia essas mensagens para o Windows é o seu próprio aplicativo!
 
-[![Função de janela](/images/LwBAko9.gif)](/images/window-proc.gif)
+[![Função de janela](/images/LwBAko9.gif)](/images/LwBAko9.gif)
 
 O aplicativo fica aguardando por eventos em um _loop_ conhecido como **_loop_ de mensagens**. A função do _loop_ basicamente é chamar a função [GetMessage](http://msdn2.microsoft.com/en-us/library/ms644936.aspx) e redirecionar as mensagens obtidas para as respectivas funções de janela.
 

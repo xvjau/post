@@ -3,7 +3,7 @@ date: "2014-04-24"
 title: 2048 motivos para não programar
 tags: [ "blog" ]
 ---
-[![2048](/images/LpkzLQH.jpg)](/images/13989736784_92d49267fe_o.jpg)
+[![2048](/images/LpkzLQH.jpg)](/images/LpkzLQH.jpg)
 
 Pronto, posso programar em paz. O jogo 2048 é uma lástima para todos os trabalhadores intelectuais que dependem de suas mentes para produzir algo que preste. Ele gerou mais posts no Hacker News do que a moda dos bitcoins (talvez não) e mais projetos no GitHub do que a busca para a cura do câncer (talvez não). (Obviamente que este post vai gerar [mais um commit Python no repositório de artigos](https://github.com/Caloni/Caloni.com.br).)
 

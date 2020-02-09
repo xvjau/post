@@ -13,11 +13,11 @@ Para tanto precisamos apenas de dados (os bytes enfileirados) e significado (uma
 
 Por exemplo, uma série de bytes diferentes de zero com valores que representam índices de uma tabela de tradução de caracteres e que termina sua sequência em um byte com o valor zero nele é considerada uma string C, ou string terminada em nulo.
 
-[![String C](/images/ZbgWXK7.png)](/images/stringc.png)
+[![String C](/images/ZbgWXK7.png)](/images/ZbgWXK7.png)
 
 Já uma mesma sequência de bytes no mesmo molde só que sem o byte final com o valor zero, mas com um byte inicial que tem como valor não um índice de caractere, mas o número de bytes subsequentes, isso é uma string Pascal, ou uma string com contador de tamanho.
 
-[![String Pascal](/images/SwcbASJ.png)](/images/stringpascal.png)
+[![String Pascal](/images/SwcbASJ.png)](/images/SwcbASJ.png)
 
 Agora note por que tanto uma string vazia em Pascal e em C possuem os mesmos dados, mas informação diferente.
 

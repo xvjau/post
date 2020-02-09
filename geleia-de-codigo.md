@@ -3,7 +3,7 @@ date: "2014-04-15"
 title: Geleia de Código
 tags: [ "blog" ]
 ---
-[![jam2014](/images/zXzJlL5.jpg)](/images/13878076723_dc8556a364_o.jpg)
+[![jam2014](/images/zXzJlL5.jpg)](/images/zXzJlL5.jpg)
 
 Não costumo participar de campeonatos de programação por alguns motivos vagos: é perda de tempo (não ganho nada com isso), sou um péssimo programador (ou pasteleiro), dá preguiça (esse é o mais válido) e por aí vai o mimimi. Dessa forma, sempre passei ileso de eventos como o atual [Google Code Jam](https://code.google.com/codejam/contest/2974486/dashboard), que pretende levar a categoria de código ofuscado para um novo patamar.
 

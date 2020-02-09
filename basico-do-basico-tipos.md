@@ -81,7 +81,7 @@ Na programação do dia-a-dia, as coisas funcionam da mesma forma. As tão falad
 
 Esses elementos, na memória, são um bando de número que, sem os tipos, não possuem significado algum, como podemos ver na depuração do programa abaixo:
 
-[![Interpretação de memória de texto e números em um programa C.](/images/zpBbtuD.png)](/images/interpretacao-de-memoria-texto-e-numeros.png)
+[![Interpretação de memória de texto e números em um programa C.](/images/zpBbtuD.png)](/images/zpBbtuD.png)
 
     Note que os números não estão aqui representados em decimal, onde se esperaria 35 e 42, pois a representação formal da memória geralmente está no formato hexadecimal, transformando esses números em 0x23 e 0x2a, respectivamente. Para entender essa diferença cabe estudar um pouco sobre base numérica, outro tema básico do programador sólido.
 

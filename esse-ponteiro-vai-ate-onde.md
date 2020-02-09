@@ -9,7 +9,7 @@ Ora, mesmo que não venhamos a escrever nessa memória de tamanho obscuro, não 
 
 [](/images/SXf7NsR.png)
 
-[![PSID e o Buraco Negro](/images/SXf7NsR.png)](/images/psid-e-o-buraco-negro.png)
+[![PSID e o Buraco Negro](/images/SXf7NsR.png)](/images/SXf7NsR.png)
 
 Sempre que me vejo com problemas desse tipo procuro informações primeiro  no próprio MSDN, segundo na cabeça e terceiro no Google. Nesse caso em  específico a cabeça deu um jeito, pois imaginei que houvesse alguma  forma de pegar o tamanho da memória alocada através das funções Local*  (se a API precisa de LocalFree para desalocar sua memória, é óbvio que  ela usou LocalAlloc para alocá-la, mesmo que não tenhamos o código-fonte  para comprovar).
 

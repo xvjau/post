@@ -16,11 +16,7 @@ Para verificar a existência de todas as DLLs e funções necessárias para noss
     
     depends meu_executa<strike></strike>vel.exe
 
-![depends_meu_executavel.PNG](/images/depends_meu_executavel.PNG)
-
 Se a função ou DLL não existe no sistema, o seguinte erro costuma ocorrer (isso depende da versão do Sistema Operacional):
-
-![loader_erro.PNG](/images/loader_erro.PNG)
 
 Mas nem tudo está perdido!
 
@@ -48,15 +44,11 @@ Isso costuma sempre funcionar, sendo que tive uma grande surpresa com os seguint
 
 Isso, é claro, depois de ter checado e rechecado a existência da LIB de Delay Load na lista de LIBs a serem lincadas:
 
-![delayimp.PNG](/images/delayimp.PNG)
-
 #### E agora, José?
 
 Acontece que eu conheço algumas ferramentas que podem sempre me ajudar em situações de compilação e linque: [Process Monitor](http://technet.microsoft.com/en-us/sysinternals/bb896645.aspx?PHPSESSID=d926) e [dumpbin](http://support.microsoft.com/kb/177429).
 
 O Process Monitor pode ser usado para obter exatamente a localização da LIB que estamos tentando verificar:
-
-![delayimpprocmon.PNG](/images/delayimpprocmon.PNG)
 
 Após localizar o local, podemos listar seus símbolos, mais precisamente a função "delayLoadHelper":
 

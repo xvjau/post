@@ -26,7 +26,7 @@ O resultado:
 
 E podemos usar essa janela no nosso WinDbg, cada vez mais bonitinho e cada vez mais [WYSIWYG](http://pt.wikipedia.org/wiki/Wysiwyg):
 
-[![cmdtree2.png](/images/rT1WBgt.png)](/images/cmdtree2.png)
+[![cmdtree2.png](/images/rT1WBgt.png)](/images/rT1WBgt.png)
 
 Realmente não há segredos em seu uso. Esse artigo foi apenas um patrocínio do clube do WinDbg.
 

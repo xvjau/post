@@ -3,7 +3,7 @@ date: "2007-12-21"
 title: Banco de dados no C++ Builder
 tags: [ "code" ]
 ---
-[![CPPB Database](/images/m4lKMDv.png)](/images/cppb-database.png)
+[![CPPB Database](/images/m4lKMDv.png)](/images/m4lKMDv.png)
 
 Um banco de dados é qualquer lugar onde podemos ler e escrever informação geralmente persistente. Pode ser um arquivo INI, uma estrutura binária ou uma [plantação de servidores](http://www.google.com) para fazer busca na internet.
 
@@ -29,7 +29,7 @@ Neste tutorial vamos usar aquilo que é o configurador oficial de banco de dados
 
 Criado o MDB, podemos clicar no BDE Administrator do Painel de Controle. A única coisa que precisamos fazer é criar uma nova base de dados, e especificar seus poucos parâmetros, como o tipo de base (MSACCESS) e o _path_ de onde está o arquivo MDB.
 
-[![BDE Config](/images/CGK70TT.png)](/images/bde-config.png)
+[![BDE Config](/images/CGK70TT.png)](/images/CGK70TT.png)
 
 Ah, sim, claro, também é importante colocar um nome apropriado para a base de dados: MegaSena.
 
@@ -75,7 +75,7 @@ Após todos esses componentes não-visuais terem sido inseridos no _form_, nada 
 
 Com isso, nossa janela já exibe o conteúdo da tabela em tempo de _design_:
 
-[![DB Grid](/images/gQZWVxo.png)](/images/cppb-dbgrid.png)
+[![DB Grid](/images/gQZWVxo.png)](/images/gQZWVxo.png)
 
 E é isso! Se chegamos até aqui, já sabemos o arroz com feijão de usar banco de dados com o C++ Builder. Mais para a frente podemos nos aventurar em tópicos um pouco mais avançados, como fazer buscas, navegar item a item e essas coisas que as pessoas costumam fazer com um MDB.
 

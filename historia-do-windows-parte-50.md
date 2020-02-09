@@ -3,7 +3,7 @@ date: "2007-10-08"
 title: História do Windows - parte 5.0
 tags: [ "code" ]
 ---
-[![Windows 2000 Logo](../images/9rFlXJ1.png)](http://en.wikipedia.org/wiki/Windows_2000)**Windows 2000**
+[![Windows 2000 Logo](/images/9rFlXJ1.png)](/images/9rFlXJ1.png)**Windows 2000**
 
 Em novembro de 1998 (apenas para parceiros Microsoft) é lançada a versão 5.0 do Windows NT, conhecida como Windows 2000. Melhorias significativas foram feitas no acesso à internet, intranet e extranet. Aplicações de gerenciamento se integram fortemente e a grande novidade em termos de estruturação de dados é o Active Directory, uma tecnologia compatível com o conceito de _Distributed File System_, que viabiliza uma nova forma das empresas organizarem seus dados de maneira mais transparente à rede.
 

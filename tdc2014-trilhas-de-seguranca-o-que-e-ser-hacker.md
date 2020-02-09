@@ -7,7 +7,7 @@ Tirando a palestra-propaganda de Welington Strutz, a [trilha de segurança no TD
 
 Mais para a frente, o conceito/definição de hackativismo foi virando algo cada vez mais genérico, e criou-se a cultura de ser possível ser hacker em qualquer nível de conhecimento humano. Essa é a definição que eu mais gosto e apoio, tanto por agregar o poder do hacking para toda a humanidade (seja você um burocrata, um trabalhador braçal, um designer de foguetes, um acadêmico, ...) quanto por não situar suas ações em um nível moral, algo completamente desnecessário e que só se tornou uma questão relevante por conta da mídia sensacionalista e as mentes mais conservadoras fazer-nos acreditar que estamos correndo um risco em deixar a internet nas mãos de pessoas altamente capacitadas, mas que não compartilham das suas crenças e valores.
 
-[![Isso não é hacker, isso são lábios...](/images/EaCBeIg.jpg)](/images/14690835950_37ee0e0d78_o.jpg)
+[![Isso não é hacker, isso são lábios...](/images/EaCBeIg.jpg)](/images/EaCBeIg.jpg)
 
 Mesmo se focarmos apenas em computadores, engenharia reversa (de hardware e software), gambiarras de hardware e software conseguem fazer muito mais pela evolução tecnológica do que esse jogo de gato e rato de vulnerabilidades e ferramentas mágicas.
 

@@ -3,7 +3,7 @@ date: "2008-08-11"
 title: Guia para iniciantes no DriverEntry
 tags: [ "blog" ]
 ---
-[![driverentry-com-br.PNG](/images/driverentry-com-br.PNG)](http://www.driverentry.com.br/blog/)A mensagem anterior deixou bem claro que tenho um roteiro de leituras bem _hardcore_ a fazer nos próximos 20 anos. Pretendo, enquanto isso, programar alguma coisinha rodando em ring0, porque nem só de teoria vive o programador-escovador-de-bits. Pensando nisso, esse fim-de-semana comecei a me aventurar nos ótimos exemplos e explicações do [DriverEntry.com.br](http://www.driverentry.com.br/blog/), nossa referência _kernel mode_ tupiniquim.
+A mensagem anterior deixou bem claro que tenho um roteiro de leituras bem _hardcore_ a fazer nos próximos 20 anos. Pretendo, enquanto isso, programar alguma coisinha rodando em ring0, porque nem só de teoria vive o programador-escovador-de-bits. Pensando nisso, esse fim-de-semana comecei a me aventurar nos ótimos exemplos e explicações do [DriverEntry.com.br](http://www.driverentry.com.br/blog/), nossa referência _kernel mode_ tupiniquim.
 
 A exemplo do que Dmitry fez com os livros de _drivers_, acredito que a mesma coisa pode ser feita com os blogues. A maneira de esmiuçá-los vai depender, principalmente, da quantidade de material a ser estudado e das práticas necessárias para que o conhecimento entre na cabeça de uma vez por todas.
 

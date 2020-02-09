@@ -9,8 +9,6 @@ As razões de eu usar o TodoList são meio óbvias: ele faz tudo que eu preciso 
 
 Mas vamos lá. Tudo que precisamos é de uma edição atual do TodoList e do Microsoft Project. A primeira coisa que devemos fazer é exportar as tarefas que queremos do TodoList para um [CSV](http://pt.wikipedia.org/wiki/Comma-separated_values) padrão, usando as colunas que gostaríamos de importar para o Project:
 
-![tarefas-no-todolist.png](/images/YwPj3ph.png)
-
 ![exportar-do-todolist.png](/images/oq05iXN.png)
 
 ![tarefas-no-excel.png](/images/2UNFGL3.png)

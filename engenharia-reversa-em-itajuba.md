@@ -15,5 +15,5 @@ Tudo isso, contudo, depende do grupo dos focados [professores e organizadores do
 
 Resolvi juntar as duas apresentações e todo o material envolvido na palestra em um único pacotão, que pode ser baixado através [deste linque](/images/desmontando-o-houaiss.7z).
 
-![](http://www.google.com/uds/css/small-logo.png)
+![](/images/small-logo.png)
 

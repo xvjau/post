@@ -13,11 +13,9 @@ O fato é que por preguiça de testar e pelo seu _screenshot_ inicial, me parece
 
 No entanto, houve um momento em minha vida em que eu precisava definitivamente reunir e organizar todas as minhas idéias e atividades para conseguir concluí-las, tanto no trabalho quanto na vida pessoal. Houve então uma pequena pesquisa de minha parte de programas que fizessem o que eu precisava. Foi aí que eu baixei e testei o ToDoList, um programa pequeno, portátil (posso levar em meu _PenDrive_) e muito flexível. Eis abaixo o _screenshot_ original do artigo do Code Project:
 
-[![Screenshot do ToDoList no Code Project](http://www.codeproject.com/tools/ToDoList2/todolist.png)](http://www.codeproject.com/tools/ToDoList2/todolist.png)
-
 Bem, me parecia mais do que eu precisava. No entanto ele é flexível, e suas colunas podem ser configuradas da maneira que lhe aprouver. Abaixo um _screenshot_ de como utilizo o ToDoList:
 
-[![ToDoList screenshot](/images/6fFXwLM.png)](/images/todolist.png)
+[![ToDoList screenshot](/images/6fFXwLM.png)](/images/6fFXwLM.png)
 
 Entre algumas coisas legais que gosto nesse programa que me fizeram ficar com ele, consigo me lembrar da seguinte lista:
 

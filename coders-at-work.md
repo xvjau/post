@@ -52,7 +52,7 @@ Sobre SGI
 
 Ferramentas de Depuração Avançadas
 
-[caption id="attachment_1212" align="aligncenter" width="129" caption="Logo da Valgrind"][![](/images/bV0kn9f.png)](/images/ValgrindLogo.png)[/caption]
+[caption id="attachment_1212" align="aligncenter" width="129" caption="Logo da Valgrind"][![](/images/bV0kn9f.png)](/images/bV0kn9f.png)[/caption]
 
 > Instrumenting and having a checked model of the entire memory hierarchy is big. Robert O'Callahan, our big brain in New Zealand, did his own debugger based on the Valgrind framework, which efficiently logs every instruction so he can re-create the entire program state at any point. It's not just a time-traveling debugger. It's a full database so you see a data structure and there's a field with a scrogged value and you can say, 'Who wrote to that last?' and you get the full stack. You can reason from effects back to causes. Which is the whole game in debugging. So it's very slow. It's like a hundred times slower than real time, but there's hope.
 

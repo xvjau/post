@@ -13,8 +13,6 @@ Eu assino embaixo.
 
 Porém, terminado o almoço, volto a pensar em como resolverei o impasse do cronograma do tal projeto superimportante, quando, ao passar pela entrada do metrô, colocam na minha mão justamente um desses panfletos de rua com mensagens subliminares. E nele estava, acreditem, leitores, a solução para todos os meus problemas!
 
-[![Santo Expedito](/images/fz1C3vr.jpg)](/images/santo-expedito.jpg)[![Oração do Santo Expedito](/images/cko9Ywu.jpg)](/images/oracao-santo-expedito.jpg)
-
 <blockquote>_Se você está com algum PROBLEMA DE DIFÍCIL SOLUÇÃO e precisa de AJUDA URGENTE, peça esta ajuda a Santo Expedito que é o Santo dos Negócios que precisam de Pronta Solução e cuja invocação nunca é tardia. (Abaixo segue a oração ao Santo)._</blockquote>
 
 #### Agradeço a Santo Expedito pela Graça Alcançada

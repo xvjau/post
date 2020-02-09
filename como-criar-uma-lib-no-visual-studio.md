@@ -15,7 +15,7 @@ A partir daí, para chegar em uma LIB, já é meio caminho andado.
 
 Boa pergunta. Uma LIB, ou biblioteca, nada mais é do que um punhado de ".obj" colocados todos no mesmo arquivo, geralmente um ".lib". Esses ".obj" são o resultado da compilação de seus respectivos ".c" de origem.
 
-[![salada2.gif](/images/SiYvl1N.gif)](/images/salada2.gif)
+[![salada2.gif](/images/SiYvl1N.gif)](/images/SiYvl1N.gif)
 
 Alguns acreditam ser esse negócio de LIB uma pura perda de tempo, pois existem trocentas configurações diferentes (e incompatíveis) e trocentas compilações diferentes para gerenciar. Outros acham que o problema está no tempo de compilação, enquanto outros defendem o uso dos ".obj" de maneira separada. Esse artigo não presume que nem um nem outro seja melhor. Apenas ensina o que você precisa saber para criar sua primeira LIB usando o Visual Studio Express.
 
@@ -25,7 +25,7 @@ Vamos lá?
 
 Após abrir o VS, tudo que precisamos fazer é ir em New, Project, e escolher a configuração de "Win32 Project":
 
-[![myfirstlib.png](/images/o2OVzZn.png)](/images/myfirstlib.png)
+[![myfirstlib.png](/images/o2OVzZn.png)](/images/o2OVzZn.png)
 
 A seguir, escolhemos nas opções do assistente criar uma "Static library", e desmarcamos a opção de "Precompiled header" para evitar má sorte logo no primeiro projeto de LIB (má sorte significa horas procurando erros incríveis que você só irá fazer desaparecer se recompilar tudo com o uso do famigerado "Rebuild All"; espero que isso dê certo para você, para mim não tem funcionado).
 

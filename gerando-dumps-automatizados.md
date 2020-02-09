@@ -67,6 +67,6 @@ int main()
 
 ```
 
-[![oncrash.png](/images/D5keozk.png)](/images/finddump.htm)
+[![oncrash.png](/images/D5keozk.png)](/images/D5keozk.png)
 
 Espero com isso aliviar a carga pesada de A.V.s que sempre aparece quando menos se espera. Cuidar de toneladas de código legado exige algumas pitadas de automatização nos lugares certos. Como já dizia meu primeiro chefe: se a mente não pensa...
