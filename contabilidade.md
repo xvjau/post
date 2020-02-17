@@ -2,7 +2,7 @@
 date: "2020-01-18"
 title: "Contabilidade"
 desc: "Contabilidade for dummies usando planilhas eletrônicas (Excel, Google Sheets)."
-tags: [ "blog" ]
+tags: [ "draft", "blog" ]
 draft: true
 ---
 Meu colégio foi técnico, e foi técnico em contabilidade. Desde então sou fascinado por um conceito chamado de Método das Partidas Dobradas, ou Método Veneziano. Inventado por Luca Pacioli, um padre franciscano de Florença do século 15, é o sistema padrão usado por empresas para registrar transações financeiras. Pode-se dizer que este, sim, foi o criador original da blockchain, se você entender que em um livro contábil as linhas que registram as transações nunca são apagadas; no máximo desfeitas em uma transação inversa.

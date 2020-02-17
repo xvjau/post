@@ -2,7 +2,7 @@
 date: "2019-12-02"
 title: "Top 10 Motivos Porque Listas São Idiotices"
 desc: "10 motivos que você nunca ouviu porque nunca perguntou."
-tags: [ "blog" ]
+tags: [ "draft", "blog" ]
 draft: true
 ---
 De vez em quando, geralmente quando o planeta Terra completa um translado, as pessoas de cinema pedem um TopX dos melhores e piores do ano. De dez em dez anos as pessoas mais chatas do universo (aka críticos) também compilam a lista dos Top10 filmes que mais dará sono ao grande público ([Cidadão Kane](/cidadao-kane) ganhou 5 vezes seguida!). Agora chegou a hora de sabermos os top 10 motivos pelo qual essas listas são idiotice pura.
