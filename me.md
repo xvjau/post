@@ -7,7 +7,7 @@ tags: [ "blog" ]
 
 Wanderley Caloni é um programador C/C++ especializado em backend para Windows que decidiu ter seu próprio blogue técnico a pedidos insistentes do seu amigo, Rodrigo Strauss, que já estava blogando [há algum tempo](http://www.1bit.com.br). Ele tentou mantê-lo atualizado, então, por longos anos de programação, depuração e transpiração, com suas peripécias do dia-a-dia. Eventualmente ele se tornou também um crítico de cinema e uniu seus reviews neste blogue, o que acabou tomando boa parte dele, a ponto dele ter que trocar seu static site generator para [algo mais rápido](https://gohugo.io/).
 
- - EMail: wanderley.caloni@bitforge.com.br
+ - EMail: wanderley@caloni.com.br
  - GitHub: https://github.com/Caloni
  - Twitter: https://twitter.com/caloni
  - Telegram: https://t.me/caloni
