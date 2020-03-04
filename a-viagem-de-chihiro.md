@@ -1,15 +1,15 @@
 ---
-imdb: "0245429"
-
 date: "2015-12-27"
-tags: [ "movies", "blog" ]
 title: "A Viagem de Chihiro"
-stars: "4/5"
 desc: "A Viagem de Chihiro. Sen to Chihiro no kamikakushi (Japan, 2001). Dirigido por Hayao Miyazaki. Escrito por Hayao Miyazaki. Com Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô, Yasuko Sawaguchi, Tatsuya Gashûin, Ryûnosuke Kamiki, Yumi Tamai, Yô Ôizumi."
+imdb: "0245429"
+tags: [ "movies", "blog" ]
+stars: "5/5"
+review: [ "2020" ]
 ---
 A Viagem de Chihiro é um passeio fantasioso sem ser infantil pelo mundo dos espíritos, onde a história importa menos do que o mundo criado para ela, tal qual um Senhor dos Anéis ou Star Wars.
 
-(Isso não o exime de seu terceiro ato capenga, que tenta por duas vezes estabelecer um clímax na história sem se importar com a grandiosidade do que vimos anteriormente. Em outras palavras: o conflito principal empalidece depois de tudo o que vimos no filme.)
+Tanto poder na trilha sonora a torna uma sinfonia, ganha corpo independente, mas ao mesmo tempo transforma o filme em uma ópera em espírito. Como vários dos Estúdios o desenho possui detalhes que o faz ganhar vida, como a diferença entre a casa de banho e a casa de sua dona.
 
 Mais do que isso, o que vimos no filme não é apenas uma imaginação sem limites dos estúdios Ghibli, mas traços cuidadosos de uma animação perfeccionista, embalada por efeitos sonoros mais que reais, e transformados em poesia através de uma trilha sonora grandiosa, cujo tema é refeito em diferentes momentos como uma lembrança eterna de por que Chihiro está nessa aventura.
 
