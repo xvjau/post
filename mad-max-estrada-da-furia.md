@@ -1,14 +1,13 @@
 ---
-imdb: "1392190"
-
 date: "2015-05-22"
-review: [ "2019" ]
-tags: [ "movies" ]
 title: "Mad Max: Estrada da Fúria"
-stars: "5/5"
 desc: "Mad Max: Estrada da Fúria. Mad Max: Fury Road (Australia, 2015). Dirigido por George Miller. Escrito por George Miller, Brendan McCarthy, Nick Lathouris. Com Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne, Josh Helman, Nathan Jones, Zoë Kravitz, Rosie Huntington-Whiteley, Riley Keough."
+imdb: "1392190"
+tags: [ "movies" ]
+stars: "5/5"
+review: [ "2019" ]
 ---
-Quando vi Kingsman estava convicto que qualquer filme de ação esse ano seria uma versão menor deste trabalho exemplar do que o uso da paródia com toques de realismo pode fazer. Até tomar coragem e ir conferir na telona esse novo Mad Max, que retorna aos anos 80 (ou 1979, estreia do original), mas mantém sua ideologia com um pé nos anos atuais enquanto realiza não só uma homenagem, mas uma redimensionada na série de filmes que estava já há algum tempo esquecida.
+Quando vi [Kingsman](/kingsman-servico-secreto) estava convicto que qualquer filme de ação esse ano seria uma versão menor deste trabalho exemplar do que o uso da paródia com toques de realismo pode fazer. Até tomar coragem e ir conferir na telona esse novo Mad Max, que retorna aos anos 80 (ou 1979, estreia do original), mas mantém sua ideologia com um pé nos anos atuais enquanto realiza não só uma homenagem, mas uma redimensionada na série de filmes que estava já há algum tempo esquecida.
 
 Dirigido e co-escrito pelo mesmo George Miller do original e suas continuações, a história gira em torno de um futuro pós-apocalíptico que causa um estrago na fertilidade do solo, tornado os seres humanos uma raça escassa e, "graças" aos efeitos da radiação, ainda doente por armas de guerra movidas a gasolina.
 
