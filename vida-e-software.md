@@ -3,8 +3,6 @@ date: "2011-10-22"
 title: Vida e Software
 tags: [ "blog" ]
 ---
-[caption id="attachment_1229" align="alignleft" width="168" caption="Fonte: semichaotic.spreadshirt.com"][![](/images/sR2DCZ0.png)](/images/sR2DCZ0.png)[/caption]
-
 Desenvolver software está bem longe de ser uma ciência exata e muito próxima de ser uma ciência humana. Eu, pessoalmente, considero um ramo esotérico, onde vale muito mais ter a atitude de reconhecer que não temos muito controle sobre como as coisas funcionam do que querer ter as rédeas de algo desgovernado.
 
 Não sei bem o motivo. Talvez por existirem muitas camadas o software não consegue ser normalizado como as propriedades físicas dos blocos que montam um prédio ou um transatlântico. Ou simplesmente existem variáveis demais na própria camada da aplicação que impedem a compreensão total do problema (como sabemos se estamos dentro da Matrix? Como o software sabe se está em um ambiente virtualizado?).
@@ -19,6 +17,5 @@ De uma forma ou de outra, como toda atividade humana, escrever código nos defin
 
 #### Para devanear mais
 
-	
-  * [Para quê filosofia?](http://www.verdadestraumaticas.com/2011/08/para-que-filosofia-marilena-chaui.html) ¿ Marilena Chauí
+ - [Para quê filosofia?](http://www.verdadestraumaticas.com/2011/08/para-que-filosofia-marilena-chaui.html), por Marilena Chauí.
 
