@@ -2,7 +2,7 @@
 date: 2018-05-07T12:59:32-03:00
 title: "Pauline Kael: A Pior e Mais Ridícula Crítica de Todos os Tempos?"
 tags: [ "blog" ]
-desc: "Pauline Kael: one of film's worst and most ridiculous critics. Alex Sheremet. Site: http://alexsheremet.com/pauline-kael-one-films-worst-ridiculous-critics. Data: 2014-11-19. Acessado em: 2018-05-07."
+desc: "Sobre texto de Alex Sheremet de 2014-11-19, acessado em 2018-05-07."
 ---
 ![](/images/TYUa9ud.jpg) Estava lendo um dos livros de Pauline Kael, uma das poucas coletâneas disponíveis dessa escritora que é considerada a melhor da história do Cinema, **5001 Nights at the Movies**. Nesse livro em questão há resenhas rápidas que eram publicadas nos rodapés do jornal onde Kael escrevia. São texto curtos, de um parágrafo no máximo, mas que fluem, embora condensados em uma ou duas impressões no máximo sobre o filme analisado. Apesar de ser divertido de ler, falta textura, conteúdo, nesses recortes. Portanto procurei por esta textura que tanto falam a respeito dos textos de Kael pela internet. Por um bom tempo me perguntei onde estariam esses textos completos e mais densos dessa escritora, e por que eles não viraram relevantes coletâneas para a análise da crítica cinematográfica. E no meio dessas minhas pesquisas eis que surge o texto de Alex Sheremet.
 
@@ -13,3 +13,5 @@ No [texto](http://alexsheremet.com/jonathan-rosenbaum-woody-allen-some-critical-
 E é exatamente isso que vemos em **5000 Nights**. São textos que acertam algumas vezes sobre o filme em questão, e erra tantas outras. Assim como no Cinema, onde o espectador precisa ajudar o filme a criar textura, os textos de Kael precisam que o leitor use a imaginação para inserir as percepções da escritora no filme de fato. Mas isso nem sempre funciona. Sheremet também comenta que ele não foi o primeiro crítico de Kael que surgiu. Contemporâneo a ela temos Renata Adler, sua maior crítica, e que Alex comenta que ela "não bateu forte em Kael quanto poderia".
 
 Enfim, o texto é longo e minucioso e não cabe aqui abri-lo. É um primeiro passo interessante nesse mundo da "crítica da crítica", pois abre um terreno poderoso e frutífero na nossa era da internet: onde ninguém, absolutamente ninguém, está a salvo de ser duramente e propriamente criticado.
+
+Fonte: http://alexsheremet.com/pauline-kael-one-films-worst-ridiculous-critics

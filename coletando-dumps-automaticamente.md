@@ -3,14 +3,14 @@ date: "2012-05-17"
 title: Coletando dumps automaticamente
 tags: [ "blog" ]
 ---
-**HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps** key.
-
 | Value               | Description | Type          | Default value             |
 |---------------------|-------------|---------------|---------------------------|
 | **DumpFolder**      | [1]         | REG_EXPAND_SZ | %LOCALAPPDATA%\CrashDumps |
 | **DumpCount**       | [2]         | REG_DWORD     | 10                        |
 | **DumpType**        | [3]         | REG_DWORD     | 1                         |
 | **CustomDumpFlags** | [4]         | REG_DWORD     | [5]                       |
+
+Chave: **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps**.
 
  - [1] The path where the dump files are to be stored. If you do not use the default path, then make sure that the folder contains ACLs that allow the crashing process to write data to the folder.For service crashes, the dump is written to service specific profile folders depending on the service account used. For example, the profile folder for System services is %WINDIR%\System32\Config\SystemProfile. For Network and Local Services, the folder is %WINDIR%\ServiceProfiles.
  - [2] The maximum number of dump files in the folder. When the maximum value is exceeded, the oldest dump file in the folder will be replaced with the new dump file.
