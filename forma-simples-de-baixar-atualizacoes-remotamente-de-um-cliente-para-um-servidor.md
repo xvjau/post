@@ -2,17 +2,21 @@
 date: "2017-03-23"
 title: "Forma simples de baixar atualizações remotamente de um cliente para um servidor"
 tags: [ "blog" ]
-
+desc: "Neste post vemos coisas como SimpleHTTPServer, http.server, python, curl. Atualizado em 2020-03-11."
 ---
-A forma mais simples e independente de código para efetuar essa tarefa para Windows é no servidor subir um file server em qualquer porta disponível, e a forma de file server mais simples que existe é o embutido em qualquer instalação Python:
+A forma mais simples e rápida para subir um servidor de arquivos é usar o file server embutido do python:
 
-```cmd
+```
+# 2
 python -m SimpleHTTPServer
+
+# 3
+python -m http.server
 ```
 
-Para que não seja necessário instalar o Python no servidor é possível transformar essa chamada em um executável e suas dependências standalone:
+Para que não seja necessário instalar o Python no servidor é possível transformar essa chamada em um executável, com todas suas dependências embutidas:
 
-```py
+```
 import SimpleHTTPServer
 import SocketServer
 
