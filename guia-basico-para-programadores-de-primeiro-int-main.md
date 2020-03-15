@@ -123,21 +123,7 @@ Programar não tem segredo. É tudo uma questão de gostar, aprender, executar, 
 
 #### Para saber mais
 
-  * [Arquitetura de von Neumann](http://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann) - Wikipédia[](http://pt.wikipedia.org/wiki/M%C3%A1quina_de_Turing)
-  * [Máquina de Turing](http://pt.wikipedia.org/wiki/M%C3%A1quina_de_Turing) - Wikipédia
-  * [A inteligência do if](/a-inteligencia-do-if-parte-1) - parte 1
-  * [A inteligência do if](/a-inteligencia-do-if-parte-2) - parte 2
-
-#### Para aprender mais[](http://www.sebol.com.br/detalhes.php?codigo=030872)
-
-  * [Problemas de lógica](http://www.coquetel.com.br/) - Revistas Coquetel
-
-	
-  * [Introdução Ilustrada à Computação (Com Muito Humor)](http://www.sebol.com.br/detalhes.php?codigo=030872) - Larry Gonick ([original](http://larrygonick.com/html/pub/books/sci1.html))
-
-	
-  * [Curso de Linguagem C](http://www.ead.eee.ufmg.br/cursos/C/home.html) - UFMG
-
-	
-  * [Code](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Code+Charles+Petzold&site_origem=1293522) - Chales Petzold
-
+  * [A inteligência do if - parte 1](/a-inteligencia-do-if-parte-1)
+  * [A inteligência do if - parte 2](/a-inteligencia-do-if-parte-2)
+  * [Arquitetura de von Neumann](http://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann)
+  * [Máquina de Turing](http://pt.wikipedia.org/wiki/M%C3%A1quina_de_Turing)

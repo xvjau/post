@@ -28,7 +28,7 @@ Ele pode não parecer, mas é beeem mais antigo do que parece. Nós, veteranos, 
 
 No entanto, esse pequeno grande aplicativo sobreviveu todos esses anos, atingiu a maioridade, e hoje permite a nós, programadores de _mouse_, fazer nossos _backups_ com um simples arquivo de _batch_ e um pouco de imaginação.
 
-<blockquote>Aos mocinho e mocinhas presentes: os arquivos de _batch_, de extensão .bat ou .cmd, são, assim como o MS-DOS, coisas de veteranos do velho oeste.  São arquivos de _script_ que contém um conjunto de comandos que pode-se digitar manualmente na tela preta. Seu objetivo principal é otimizar e facilitar a digitação de tarefas complexas e torná-las mais simples, fáceis de executar e de lembrar.</blockquote>
+Aos mocinho e mocinhas presentes: os arquivos de _batch_, de extensão .bat ou .cmd, são, assim como o MS-DOS, coisas de veteranos do velho oeste.  São arquivos de _script_ que contém um conjunto de comandos que pode-se digitar manualmente na tela preta. Seu objetivo principal é otimizar e facilitar a digitação de tarefas complexas e torná-las mais simples, fáceis de executar e de lembrar.
 
 O uso do programa pode ser aprendido dando-se uma olhada em sua ajuda (xcopy /?)
 

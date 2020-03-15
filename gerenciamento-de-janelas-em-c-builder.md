@@ -116,36 +116,15 @@ Analisando os parâmetros da função PeekMessage podemos obter algumas informa�
 
     
     0:000> dd @$csp L2
-
-* o que tem nessa pilha?
-
-    
+    * o que tem nessa pilha?
     0012fec8  52079211
-
-0012fef8* pMsg
-
-    
+    0012fef8* pMsg
     0:000> dd poi(@$csp+4) L6
-
-* mostrando membros da estrutura MSG
-
-    
+    * mostrando membros da estrutura MSG
     0012fef8
-
-000903ba00000113
-
-    
-     00000001 00000000
-
-* handle da janela
-
-    
-    ,
-
-código da mensagem
-
-    
-    , etc
+    000903ba00000113
+    00000001 00000000
+    * handle da janela , código da mensagem , etc
     0012ff08  007bb129 000000e7
 
 Podemos bater essas informações com as do aplicativo **Spy++**, que captura janelas e suas mensagens:
@@ -154,11 +133,8 @@ Podemos bater essas informações com as do aplicativo **Spy++**, que captura ja
     bd *
     g
 
-<blockquote>
+#### Cuidado com Spy++ x WinDbg
 
-> 
-> #### Cuidado com Spy++ x WinDbg
-> 
 _Normalmente esses dois rodando juntos podem causar alguns conflitos internos. Por isso, quando for usar o Spy++, procure desabilitar seus breakpoints. Após mexer no Spy++, feche-o antes de continuar depurando._</blockquote>
 
 [![Spy++ Window Search](/images/6vmV4qb.png)](/images/6vmV4qb.png)

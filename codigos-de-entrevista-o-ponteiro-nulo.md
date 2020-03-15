@@ -3,11 +3,11 @@ date: "2008-02-25"
 title: Códigos de entrevista - o ponteiro nulo
 tags: [ "code" ]
 ---
-<blockquote>_Bom, parece que o "mother-fucker" wordpress ferrou com meu artigo sobre o Houaiss. Enquanto eu choro as pitangas aqui vai um outro artigo um pouco mais simples, mas igualmente interessante._</blockquote>
+_Bom, parece que o "mother-fucker" wordpress ferrou com meu artigo sobre o Houaiss. Enquanto eu choro as pitangas aqui vai um outro artigo um pouco mais simples, mas igualmente interessante._
 
-<blockquote>_"Wanderley, tenho umas sugestões para teu blog.
+_"Wanderley, tenho umas sugestões para teu blog.
 A primeira:
-Que tal analisar o código abaixo e dizer se compila ou não. Se não compilar, explicar porquê não compila. Se compilar, o que acontecerá e por quê."_</blockquote>
+Que tal analisar o código abaixo e dizer se compila ou não. Se não compilar, explicar porquê não compila. Se compilar, o que acontecerá e por quê."_
 
 O código é o que veremos abaixo:
 
@@ -76,7 +76,7 @@ Porém, estamos escrevendo em um ponteiro nulo, o que com certeza é um comporta
 
 #### Atualização
 
-<blockquote>_Alguns amigos me avisaram sobre algo muito pertinente: dizer que acessar um ponteiro nulo, portanto **inválido**, é **errado** e **nunca deve ser feito**. Como um ponteiro nulo aponta para um **endereço de memória inválido**, acessá-lo irá **gerar uma exceção no seu sistema operacional** e **fazer seu programa capotar**. Um ponteiro nulo é uma maneira padrão e confiável de marcar o ponteiro como **inválido**, e testar isso facilmente através de um if. Mais uma vez: ponteiros nulos apontando para um endereço de memória **inválido** (o endereço 0) **nunca devem ser acessados**, apenas atribuído a ponteiros._
+_Alguns amigos me avisaram sobre algo muito pertinente: dizer que acessar um ponteiro nulo, portanto **inválido**, é **errado** e **nunca deve ser feito**. Como um ponteiro nulo aponta para um **endereço de memória inválido**, acessá-lo irá **gerar uma exceção no seu sistema operacional** e **fazer seu programa capotar**. Um ponteiro nulo é uma maneira padrão e confiável de marcar o ponteiro como **inválido**, e testar isso facilmente através de um if. Mais uma vez: ponteiros nulos apontando para um endereço de memória **inválido** (o endereço 0) **nunca devem ser acessados**, apenas atribuído a ponteiros._
 
 Em código. Isso pode:
 
@@ -90,4 +90,4 @@ Isso **não pode**:
 >     *p = 15; // <strong>NUNCA</strong> acessar ponteiros nulos
 >     int x = *p; // isso também <strong>não pode</strong>, ler de um ponteiro nulo
 > 
-Dito isso, me sinto melhor =)</blockquote>
+Dito isso, me sinto melhor =)

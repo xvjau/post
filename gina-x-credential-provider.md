@@ -48,6 +48,5 @@ Já que fomos brindados com um exemplo de GINA _stub_ do Ferdinando, também ire
 	
   * [Última referência técnica](http://shellrevealed.com/files/folders/code_samples/entry1019.aspx)
   * [Documentação das interfaces](http://msdn2.microsoft.com/en-us/library/ms646532.aspx)
-  * [_Download_ de exemplos](http://www.microsoft.com/downloads/details.aspx?FamilyID=B1B3CBD1-2D3A-4FAC-982F-289F4F4B9300&displaylang=en)
   * [Guia de migração GINA => CP](http://msdn2.microsoft.com/en-us/library/aa480152.aspx#appcomp_topic11)
 

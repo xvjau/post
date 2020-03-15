@@ -24,7 +24,6 @@ Minha lista não é muito diferente da dos outros. Basicamente se resume em: ler
 	
   * **Aprender o meu ritmo. **Às vezes me impressiono com o meu descaso para comigo mesmo. Por exemplo, eu já sabia que "rendia" bem mais quando lia livros simultaneamente, e não em fila. Mas mesmo assim insistia em querer terminar um livro antes de começar o outro. O resultado? Aproveitamento 60%. Nada mau. Mas poderia ser bem melhor. Bastava seguir o método que melhor se adapte às minhas necessidades. E isso é o que eu chamo de aprender a si mesmo.
 
-**E meus convocados são...
-**
+**E meus convocados são...**
 
 Agora que já passei pelo sofrimento de taguear nada como escolher minhas vítimas. Não conheço pessoalmente muitos blogueiros, mas pelo menos essa minha lista é fiel e sincera. [Rodrigo Strauss](http://1bit.com.br/content.1bit/weblog/um_melhor_programador), [Fernando Roberto ](http://www.driverentry.com.br/blog/2007/07/exallocatepool-with-tagging.html)e [Thiago Oliveira](http://codebehind.wordpress.com/2007/07/22/como-ser-um-melhor-programador-nos-proximos-6-meses/): o que vocês farão nos próximos seis meses para se tornarem melhores desenvolvedores (ainda)?

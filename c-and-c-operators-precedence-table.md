@@ -3,10 +3,13 @@ date: "2007-07-30"
 title: C and C++ Operators Precedence Table
 tags: [ "code" ]
 ---
-> _Wanderley,__[your explanation](/precedence-difference) about why a program compiles in C++ and not in C seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing.__I checked out the Appendix A in the "[C ++ - How To Program](http://compare.buscape.com.br/categoria?lkout=1&id=3482&kw=C+++How+to+Program&site_origem=1293522)" (sixth edition) and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article.__I went to the internet and found out in two websites the table and both are equal to the book table. __[http://en.wikipedia.org/wiki/Operators_in_C_and_C](http://en.wikipedia.org/wiki/Operators_in_C_and_C)
-[http://www.cppreference.com/operator_precedence.html](http://www.cppreference.com/operator_precedence.html)__
+> Wanderley, [your explanation](/precedence-difference) about why a program compiles in C++ and not in C seems to me logic and correct, but gave me some doubts, because I always learned that the C and C++ operator precedence are the same thing. I checked out the Appendix A in the "[C ++ - How To Program](http://compare.buscape.com.br/categoria?lkout=1&id=3482&kw=C+++How+to+Program&site_origem=1293522)" (sixth edition) and the book table is equal to the C operators precedence table and it is different from the C++ precedence table presented by you in the article. I went to the internet and found out in two websites the table and both are equal to the book table.
+>
+> [http://en.wikipedia.org/wiki/Operators_in_C_and_C](http://en.wikipedia.org/wiki/Operators_in_C_and_C)
+>
+> [http://www.cppreference.com/operator_precedence.html](http://www.cppreference.com/operator_precedence.html)
 > 
-> From where did you get the presented C++ table?__
+> From where did you get the presented C++ table?
 >
 > []s,
 > 
@@ -62,11 +65,11 @@ is interpreted by the C language as:
 
 In the C++ language is interpreted as:
 
-**e = ( a ? b : ( c = d ) ) **
+**e = ( a ? b : ( c = d ) )**
 
 In the C language case, we have a compilation error because the code is trying to assign a value to a lvalue (remember that **lvalues can't be assigned to anything**).
 
-**( a ? b : c ) = d **
+**( a ? b : c ) = d**
 
 But in C++ there's no invalid assignment, what makes a no error compilation performed.
 
@@ -80,12 +83,7 @@ Well, I believe that, after all our analysis, the answer must be somewhat obviou
 
 I hope this second post about the precedence table have cleared a bit more about the subject. Is not easy to understand the C language, but once you start to try, one magic door opens. Some things to remember from this experience:
 
-	
   * The precedence table is not in the Standard; **it is deduced from the grammar rules**.
-
-	
   * There are rare expressions where we can't use the precedence table (e.g. ternary operator).
-
-	
   * Nobody knows so well a language to the point to understand 100% from it; after all, nobody (and nothing) is perfect.
 

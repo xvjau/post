@@ -101,7 +101,7 @@ Agora qualquer usuário da rede consegue fazer _updates _e _commits. _Um desenvo
     bzr init-repo projeto
     bzr branch bzr://servidor/projeto projeto\projeto
 
-<blockquote>_Note que o usuário do Bazaar não é obrigado a criar um repositório compartilhado. Esse foi um padrão definido aqui e não necessariamente é o melhor. _</blockquote>
+<blockquote>_Note que o usuário do Bazaar não é obrigado a criar um repositório compartilhado. Esse foi um padrão definido aqui e não necessariamente é o melhor. _
 
 #### Quinto passo: ensinando as pessoas a usar
 
@@ -166,4 +166,4 @@ No entanto, se é uma série de mudanças que devem ser colocadas imediatamente 
 
 Existem diversas outras formas de usar o Bazaar, e isso está sob o controle do desenvolvedor. O importante para quem está migrando é saber definir alguns padrões (onde é o servidor principal, ramificação dos projetos) e o resto é só programar, exatamente como antes.
 
-<blockquote>_Para os "SourceSafers" de plantão: o Bazaar funciona como o Subversion sem locks, ou seja, todo mundo pode alterar qualquer fonte a qualquer hora. Isso significa que para começar a trabalhar basta começar a programar. Os commits podem ser feitos a qualquer hora, resolvidos os poucos conflitos que podem ocorrer se existirem pessoas mexendo nos mesmos fontes que você. _</blockquote>
+<lockquote>

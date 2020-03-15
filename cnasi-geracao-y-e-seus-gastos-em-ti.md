@@ -17,7 +17,7 @@ Mas vou parar por aqui antes que alguém levante a bandeira e queira discursar a
 
 O fato é que acabamos subindo a rua novamente sem saber que tal de geração Y é essa que nos fez entrar na palestra errada. Como sempre, nada que uma boa "googada" não resolva.
 
-<blockquote>_Parênteses. Descobri recentemente que os seguidores do [outro lado](http://www.microsoft.com) agora inventaram um novo "termo": [Windows-Live-procurada](http://www.google.com.br/search?q=%22windows-live-searched%22). Um de seus [representantes](http://blogs.technet.com/markrussinovich/archive/2008/09/24/3126858.aspx), anteriormente um homem de respeito e opiniões fortes e imparciais, acredita este ser um termo de uso corrente no dia-a-dia. _</blockquote>
+_Parênteses. Descobri recentemente que os seguidores do [outro lado](http://www.microsoft.com) agora inventaram um novo "termo": [Windows-Live-procurada](http://www.google.com.br/search?q=%22windows-live-searched%22). Um de seus [representantes](http://blogs.technet.com/markrussinovich/archive/2008/09/24/3126858.aspx), anteriormente um homem de respeito e opiniões fortes e imparciais, acredita este ser um termo de uso corrente no dia-a-dia. _
 
 #### E essa tal de geração Y?
 
@@ -31,10 +31,10 @@ Fim de passeio. Voltamos à empresa e falamos com um outro colega sobre o que ha
 
 E viva a geração Y!
 
-<blockquote>_Adendum. A palestra que participamos foi a **"Por que implementar a gestão financeira de TI? Uma abordagem baseada no ITIL, COBIT/VAL IT, e PMBOK"**, e queríamos ter visto a palestra **"Desafio: Como Gerenciar a Geração Y"**, que como pudemos ver não é tarefa fácil, já que essa geração não consegue nem entrar na palestra certa. Veja a [grade do evento](http://www.cnasi.com.br/palestras.php) para mais informações._</blockquote>
+_Adendum. A palestra que participamos foi a **"Por que implementar a gestão financeira de TI? Uma abordagem baseada no ITIL, COBIT/VAL IT, e PMBOK"**, e queríamos ter visto a palestra **"Desafio: Como Gerenciar a Geração Y"**, que como pudemos ver não é tarefa fácil, já que essa geração não consegue nem entrar na palestra certa. Veja a [grade do evento](http://www.cnasi.com.br/palestras.php) para mais informações._
 
 #### Atualização
 
-<blockquote>Ah, sim, meu crachá de gerente. Pois então, achei superinteressante o fato de eu ter entrado em um evento de segurança portando um crachá que diz "gerente" no nome quando na verdade eu **continuo sendo de fato um programador**. Fui eu que disse que era gerente na entrada da feira, como um pequeno teste de acessibilidade.
+Ah, sim, meu crachá de gerente. Pois então, achei superinteressante o fato de eu ter entrado em um evento de segurança portando um crachá que diz "gerente" no nome quando na verdade eu **continuo sendo de fato um programador**. Fui eu que disse que era gerente na entrada da feira, como um pequeno teste de acessibilidade.
 
-Não que isso seja uma falha de segurança muito grave, mas imagine uma empresa suficientemente grande com pessoas mal intencionadas que foram convidadas a visitar a feira e escolheram ser gerentes ou diretores na hora de escolher o cargo. O que poderiam ter feito, **em nome da empresa**, dentro dessa feira? É algo a se pensar...</blockquote>
+Não que isso seja uma falha de segurança muito grave, mas imagine uma empresa suficientemente grande com pessoas mal intencionadas que foram convidadas a visitar a feira e escolheram ser gerentes ou diretores na hora de escolher o cargo. O que poderiam ter feito, **em nome da empresa**, dentro dessa feira? É algo a se pensar...

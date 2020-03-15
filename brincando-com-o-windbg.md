@@ -121,12 +121,12 @@ Algumas coisas a serem notadas nessa API:
 	
   * As _strings_ para as quais os dois parâmetros do meio apontam são do tipo LPCTSTR, o que significa que, além de constantes, podem ser ANSI ou UNICODE, dependendo da versão que estamos utilizando.
 
-<blockquote>
+
 
 > 
 > #### ANSI x UNICODE
 > 
-_O sistema operacional utiliza internamente a codificação UNICODE. Contudo, para manter compatibilidade com versões anteriores de outros SOs, como Windows 95, 98 e ME, as APIs são desenvolvidas em duplas, com versões UNICODE (final W), que repassam a chamada diretamente para o sistema operacional, e ANSI (final A), que fazem a conversão de strings para daí (normalmente) chamar sua irmã em UNICODE. _</blockquote>
+_O sistema operacional utiliza internamente a codificação UNICODE. Contudo, para manter compatibilidade com versões anteriores de outros SOs, como Windows 95, 98 e ME, as APIs são desenvolvidas em duplas, com versões UNICODE (final W), que repassam a chamada diretamente para o sistema operacional, e ANSI (final A), que fazem a conversão de strings para daí (normalmente) chamar sua irmã em UNICODE. _
 
 Sabendo que tudo converge para UNICODE, vamos colocar um singelo _breakpoint_ nessa função API. Para parar a execução do notepad, podemos digitar "Ctrl + Break" ou ir no menu "Debug, break" ou ainda... bem, você pegou o espírito da coisa.
 
@@ -134,12 +134,12 @@ Sabendo que tudo converge para UNICODE, vamos colocar um singelo _breakpoint_ ne
     bp user32!MessageBoxW
     g
 
-<blockquote>
+
 
 > 
 > #### Faça do modo inteligente
 > 
-_Note que utilizei o prefixo **user32!** para especificar que a função está no módulo user32.dll, mas não seria necessário já que o WinDbg procura por qualquer função digitada na sua lista de funções exportadas e símbolos atuais. Contudo, fazer isso torna as coisas mais rápidas e evita perder tempo à toa._</blockquote>
+_Note que utilizei o prefixo **user32!** para especificar que a função está no módulo user32.dll, mas não seria necessário já que o WinDbg procura por qualquer função digitada na sua lista de funções exportadas e símbolos atuais. Contudo, fazer isso torna as coisas mais rápidas e evita perder tempo à toa._
 
 Agora podemos efetuar a mesma operação de abrir um arquivo inexistente no bloco de notas que a execução irá parar no início da função MessageBoxW da API:
 

@@ -1,16 +1,16 @@
 ---
 title: Wanderley Caloni
 tags: [ "blog" ]
-date: 0000-00-00
+css: "<style>.subtitle, .taglist, .gitinfo { visibility: hidden; }</style>"
 ---
 ### Backend Specialist
 
  - Location: São Paulo, Brazil
- - Email: `wanderley.caloni@bitforge.com.br`
+ - Email: wanderley@caloni.com.br
 
 ### Skills
 
-`C`, `C++`, `Assembly`, `Windows`, `x86`, `Reverse Engineering`, `Cryptography`, `Tech/Art Writing`, `Debugging`, `Git`, `SQL`
+_C, C++, Assembly, Windows, x86, Reverse Engineering, Cryptography, Tech/Art Writing, Debugging, Git, SQL_
 
 ### Experience
 

@@ -26,16 +26,8 @@ Finalmente, em 20 de novembro de 1985, a Microsoft lança o **Windows 1.0**, qua
 O novo sistema não fez muito sucesso de imediato. Pelo contrário, foi considerado lento e primitivo. Devido às limitações impostas pela Apple o sistema não pôde apresentar certas características como a **sobreposição de janelas** e a famosa **lixeira** (um conceito proprietário da Apple). Ficou cerca de dois anos boiando no mercado até que foi lançado um produto chamado [Aldus PageMaker 1.0](http://en.wikipedia.org/wiki/Pagemaker). PageMaker foi o primeiro programa WYSIWYG (_What You Seee Is What You Get)_ para o PC. Tinha a grande novidade de juntar tipos e gráficos no mesmo documento. Depois de um ano, a Microsoft lança uma planilha de cálculos chamada **Excel**. Mais tarde outros produtos como **Microsoft Word** e **Corel Draw** ajudaram a aumentar a popularidade do Windows, embora esse ainda precisasse de muitas melhoras.
 
 **Para ler mais**
-
 	
-  * [História do Windows pela Microsoft](http://www.microsoft.com/Windows/WinHistoryIntro.mspx)
-
-	
+  * [Mais artigos do blogue sobre a história do windows](/search)
   * [História do Windows pela Wikipedia](http://en.wikipedia.org/wiki/History_of_Microsoft_Windows)
-
-	
-  * [Outros artigos sobre a história do windows](/search) (Caloni.com.br)
-
-	
   * [Outros artigos sobre a história do windows](http://www.google.com/search?q=historia%20do%20windows) (na Internet)
 

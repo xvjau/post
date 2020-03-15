@@ -11,5 +11,5 @@ Como sabemos, a pasta temporária de um usuário fica em seu perfil, que possui 
 
 **Resultado: **arrastava a nova DLL de hook compilada da pasta de saída direto para a pasta de sistema da máquina virtual e esse caminho através do temporário era seguido, tornando a DLL inacessível para os usuários que eu estava testando.
 
-**Solução: **Após arrastar o arquivo, mude suas permissões. Ou copie-o através do bom e velho copiar/colar. Diferente do arrastar, o Ctrl+C Ctrl+V não gera arquivos temporários.
+**Solução**: após arrastar o arquivo, mude suas permissões. Ou copie-o através do bom e velho copiar/colar. Diferente do arrastar, o Ctrl+C Ctrl+V não gera arquivos temporários.
 

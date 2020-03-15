@@ -7,7 +7,7 @@ O que acontece quando você precisa depurar um programa e não tem o Visual Stud
 
 Tudo bem, mas e se estamos falando de depuração em _kernel mode_? Bem, nesse caso o mais indicado é o nosso já conhecido [WinDbg](/introducao-ao-debugging-tools-for-windows). Só precisamos de um cabo serial, _firewire_ ou USB conectando as duas máquinas.
 
-**Tá certo. Só que eu estou depurando o _kernel-mode_ de um ****Windows 95/98/ME.**
+**Tá certo. Só que eu estou depurando o _kernel-mode_ de um Windows 95/98/ME.**
 
 A vida pode ser complicada às vezes. O WinDbg em versões antigas até rodava em plataforma 9x (95/98/ME), mas agora já não roda mais. Felizmente eu mantenho uma versão das antigonas, só para garantir. Só que ele rodava apenas para depurar em _user mode_, o que de qualquer forma não seria útil nesse caso.
 
@@ -59,18 +59,12 @@ Depois de copiados e o _driver_ instalado, insira pelo Symbol Loader o arquivo N
 
 A interface é divida em pseudojanelas que ficam organizadas em camadas. Para exibir/esconder as janelas ou especificar o tamanho de uma delas usa-se o comando **w**. Aliás, basta começar a digitar um comando e o programa irá listar os comandos possíveis.
 
-**Depurador novo, comandos novos
-**
+**Depurador novo, comandos novos**
 
 Com certeza existe um monte de coisas novas para aprender quando se troca de depurador. Mais uma vez, assim como o WinDbg, temos a opção de utilizar o sistema de janelas ou a linha de comando. Aqui vão algumas dicas importantes:
 
-	
   * Para mostrar a tela do SoftICE, Ctrl + D. Digite novamente e ela some e o sistema volta a rodar.
-
-	
   * Os nomes dos comandos se assemelham aos do WinDbg. Tente usá-los e sinta as diferenças.
-
-	
   * A ajuda do programa é muito boa e explica direitinho todos os detalhes do ambiente. Caso algo falhe, [RTFM](http://en.wikipedia.org/wiki/Rtfm)!
 
 Essa parece ser uma introdução muito básica ao SoftICE. E na verdade é. Teremos outras oportunidades mais pra frente de usar esse poderoso depurador, principalmente naqueles casos onde um problema só acontece no Windows 95 Release A e sem rede. Isso não é tão incomum quanto parece.

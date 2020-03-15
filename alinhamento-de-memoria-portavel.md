@@ -33,7 +33,7 @@ Já pensando nesse problema, os projetistas de vários compiladores suportam uma
     
     #pragma pack( pop )
 
-<blockquote>_A diretiva pragma está definida no padrão C (6.8.6) e C++ (16.6) e seu uso não torna um programa não-padrão. No entanto, o que vai depois da diretiva é dependente da implementação e não é garantido que irá funcionar._</blockquote>
+_A diretiva pragma está definida no padrão C (6.8.6) e C++ (16.6) e seu uso não torna um programa não-padrão. No entanto, o que vai depois da diretiva é dependente da implementação e não é garantido que irá funcionar._
 
 Pronto, nossa estrutura sempre terá 40 bytes ocupados na memória, pois o alinhamento foi forçado em 8 bytes. Resolvido.
 

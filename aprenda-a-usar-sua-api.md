@@ -52,7 +52,7 @@ Sendo assim, o código acima deveria ser:
 
 Taí uma função que muitos erraram. Erraram tanto que eles fizeram uma nova versão menos complicada. Como está escrito no [MSDN](http://msdn.microsoft.com/en-us/library/ms724439(VS.85).aspx):
 
-<blockquote>"_The GetVersionEx function was developed because many existing applications err when examining the packed DWORD value returned by GetVersion, transposing the major and minor version numbers._"</blockquote>
+"_The GetVersionEx function was developed because many existing applications err when examining the packed DWORD value returned by GetVersion, transposing the major and minor version numbers._"
 
 O motivo de tantos erro pode ter sido o fato que o valor retornado é uma estrutura de bits dentro de um DWORD, coisa que nem todos programadores C sabem lidar muito bem, e o fato de ser uma função muito utilizada por todos (pegar a versão do sistema operacional).
 

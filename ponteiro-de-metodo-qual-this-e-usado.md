@@ -93,52 +93,26 @@ Cada compilador e plataforma tem a liberdade de implementar o padrão C++ da man
 
 Em _assembly_ (comando "**cl /Fafuzzycall3.asm fuzzycall3.cpp**" para gerar a listagem), teremos algo assim:
 
-; Line 48
-
-    
-        lea    ecx, DWORD PTR
-
-_fuzzyObject1$
-
-    
+    ; Line 48
+    lea    ecx, DWORD PTR
+    _fuzzyObject1$
     [ebp]
-        call    DWORD PTR
-
-_pMethod$
-
-    
+    call    DWORD PTR
+    _pMethod$
     [ebp]
-
-; Line 49
-
-    
-        lea    ecx, DWORD PTR
-
-_fuzzyObject2$
-
-    
+    ; Line 49
+    lea    ecx, DWORD PTR
+    _fuzzyObject2$
     [ebp]
-        call    DWORD PTR
-
-_pMethod$
-
-    
+    call    DWORD PTR
+    _pMethod$
     [ebp]
-
-; Line 50
-
-    
-        lea    ecx, DWORD PTR
-
-_fuzzyObject3$
-
-    
+    ; Line 50
+    lea    ecx, DWORD PTR
+    _fuzzyObject3$
     [ebp]
-        call    DWORD PTR
-
-_pMethod$
-
-    
+    call    DWORD PTR
+    _pMethod$
     [ebp]
 
 #### Implementação do ponteiros de membros
@@ -153,42 +127,24 @@ Nesse caso, a técnica de usar o próprio enderenço não funciona, já que cada
 
     
     mov    eax, DWORD PTR
-
-_pMember
-
-    
+    _pMember
     $[ebp]
     mov ecx, DWORD PTR
-
-_fuzzyObject1
-
-    
+    _fuzzyObject1
     $[ebp+eax]
     ...
     mov eax, DWORD PTR
-
-_pMember
-
-    
+    _pMember
     $[ebp]
     mov ecx, DWORD PTR
-
-_fuzzyObject2
-
-    
+    _fuzzyObject2
     $[ebp+eax]
     ...
     mov eax, DWORD PTR
-
-_pMember
-
-    
+    _pMember
     $[ebp]
     mov ecx, DWORD PTR
-
-_fuzzyObject3
-
-    
+    _fuzzyObject3
     $[ebp+eax]
 
 Podemos acompanhar este código no WinDbg (ou alguma outra IDE mais pomposa, se preferir) e veremos que o conteúdo do eax irá refletir o _offset_ do membro dentro da classe FuzzyCall.
@@ -200,17 +156,13 @@ Podemos acompanhar este código no WinDbg (ou alguma outra IDE mais pomposa, se 
     00401731 8b45f8          mov     eax,dword ptr [ebp-8] ss:0023:0012ff68=00000000
     0:000> reax
     eax=00000000
-
-; zero é o _offset_, já que a classe possui apenas um membro: o próprio!
-
-    
+    ; zero é o _offset_, já que a classe possui apenas um membro: o próprio!
     0:000> p
     ...
     fuzzycall3!main+0x64:
     00401734 8b4c05fc        mov     ecx,dword ptr [ebp+eax-4] ss:0023:0012ff6c=00000061
     0:000> recx
     ecx=00000061
-
-; 61 (97 em decimal) é o valor do membro para esse this ...
+    ; 61 (97 em decimal) é o valor do membro para esse this ...
 
 Como podemos ver, não é nenhuma magia negra a responsável por fazer os ponteiros de métodos e de membros funcionarem em C++. Porém, eles não são ponteiros ordinário que costumamos misturar a torto e a direito. Essa distinção na linguagem é importante para manter o código "minimamente sadio".

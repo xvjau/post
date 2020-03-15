@@ -129,6 +129,6 @@ int _tmain(int argc, _TCHAR* argv[])
 ```
 
     
-    Saída:
-    =====
-    <a href="/images/Q3U3pPC.png" title="Access Violation dentro do VC"><img src="/images/Q3U3pPC.png" alt="Access Violation dentro do VC"></img></a>
+Saída:
+
+![](/images/Q3U3pPC.png)

@@ -35,7 +35,7 @@ O pior, no entanto, foi tentar encontrar uma solução para o problema. Fiz mil 
 
 Enfim, a coisa não estava saindo do lugar. E o cronograma apertando até o dia final. Até que decidi usar o caminho mais rápido e pentelho: [perguntar para quem entende do assunto](http://marcioandreyoliveira.blogspot.com/). A resposta foi simples e direta:
 
-<blockquote>_- Por que você não instala direto dos fontes?_</blockquote>
+_- Por que você não instala direto dos fontes?_
 
 Uia! E não é que é mais simples, mesmo?
 

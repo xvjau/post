@@ -11,7 +11,7 @@ O uso de banco de dados em programação é mais que essencial, pois permite que
 
 Visando preencher algumas lacunas na internet sobre esse tema, iremos agora nos aventurar na configuração e uso de um banco de dados no C++ Builder.
 
-<blockquote>_Obs. de camarada: banco de dados pode ser uma coisa bem chata. Contudo, a vida não é completa sem as partes chatas. O conhecimento dessa área é vital para a sobrevivência de muito desenvolvedores de software. Além do mais, pode se tornar bem mais interessante em algumas situações, como o estudo sobre normalização._</blockquote>
+_Obs. de camarada: banco de dados pode ser uma coisa bem chata. Contudo, a vida não é completa sem as partes chatas. O conhecimento dessa área é vital para a sobrevivência de muito desenvolvedores de software. Além do mais, pode se tornar bem mais interessante em algumas situações, como o estudo sobre normalização._
 
 #### Todos os resultados da Mega Sena
 

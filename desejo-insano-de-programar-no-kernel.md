@@ -17,6 +17,6 @@ Digamos que é uma cultura bem diferente do que estamos acostumados a vivenciar 
 
 Isso não é uma crítica destrutiva, apenas uma descrição narrativa. Nada que falo aqui é exagero ou blasfêmia. Podem perguntar para o [meu amigo de ](http://www.driverentry.com.br)_[kernel mode](http://www.driverentry.com.br)._ Aliás, use o _blog_ dele para aprender um pouco sobre o _kernel._
 
-**Então o que é esse tal de _kernel programmer_? **
+**Então o que é esse tal de _kernel programmer_?**
 
 O fato é que bons programadores são bons onde quer que eles estejam (e os ruins serão ruins em qualquer lugar). E ser um desenvolvedor de qualidade exige **tempo, dedicação, paciência e estudo**. Pode ser um _designer_ usando Action Script ou um engenheiro da NASA projetando foguetes. Tanto faz. Fazer as coisas com qualidade sempre exigirá mais tempo do que gostaríamos de despender. Não é uma questão de ser mais difícil em _kernel mode_ ou mais fácil em Javascript. É saber qual dos dois será necessário usar para atingir o nível de funcionalidade e qualidade que o projeto exige. O resto é preconceito.

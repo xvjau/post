@@ -35,7 +35,7 @@ Para conseguir esses 4 bits adicionais foram usados dois registradores em conjun
 
 Ou seja, para acessar o byte de número 595764, ou 0x91734, podemos usar o segmento 0x9022 com o offset 0x1514. A soma desses dois com o segmento deslocado irá resultado no endereço flag, ou seja, aquele que obtemos se contarmos a memória do zero até o final da RAM.
 
-<blockquote>_Na época, a RAM não costumava ser de valores como 2GB ou até 4GB, mas em KB mesmo. Isso explica a limitação do 8086 em endereçar até 640 KB._</blockquote>
+_Na época, a RAM não costumava ser de valores como 2GB ou até 4GB, mas em KB mesmo. Isso explica a limitação do 8086 em endereçar até 640 KB._
 
 Se nós repararmos bem, veremos que esse método implica em conseguirmos acessar o mesmo byte com um conjunto de segmentos e offsets diferentes, já que a soma pode ser resultado de operandos diversos. Esse é o chamado efeito de _overlapping_ da memória segmentada, onde os programadores em assembly daquela época tinham que tomar alguns cuidados básicos para não atravessar a memória dos outros. No nosso exemplo acima, por exemplo, seria bem mais fácil chamar nosso bytezinho de segmento 0x9000, offset 0x1734.
 
@@ -64,7 +64,7 @@ Se nós repararmos bem, veremos que esse método implica em conseguirmos acessar
 
 Simples, assim.
 
-<blockquote>_Infelizmente, o WinDbg não nos permite ler certas regiões da memória por conta do cacheamento feito pelo processador. Para permitir a leitura em todas as condições, existem  três flags que podem ser utilizados:_
+_Infelizmente, o WinDbg não nos permite ler certas regiões da memória por conta do cacheamento feito pelo processador. Para permitir a leitura em todas as condições, existem  três flags que podem ser utilizados:_
 
 > 
 	
@@ -77,7 +77,7 @@ Simples, assim.
 >   * **wc** - lê da memória de escrita combinada
 > 
 
-_Nesse caso é possível, embora fique por sua conta e risco, ler qualquer memória não-cacheada usando-se a flag **uc**._</blockquote>
+_Nesse caso é possível, embora fique por sua conta e risco, ler qualquer memória não-cacheada usando-se a flag **uc**._
 
 É possível fazer mais brincadeiras usando os comandos comuns do WinDbg e uma notação diferente da memória. No entanto, é preciso tomar alguns cuidados quando mexer com isso. É recomendado o uso de uma máquina-vítima para esses testes, e não depuração local como estou fazendo.
 

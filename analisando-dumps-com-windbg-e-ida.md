@@ -11,7 +11,7 @@ Para incluir um programa novo em nosso leque de opções, vamos usar dessa vez u
 
 Tecnicamente falando, um dump nada mais é do que o conjunto de informações relevantes de um sistema em um determinado momento da execução, geralmente logo após um _crash_, onde tudo pára e morre. No caso do Windows, o _crash_ é chamado de [BSOD](http://www.google.com/search?q=bsod), Blue Screen Of Death, ou Tela Azul da Morte (bem macabro, não?). Do ponto de vista do usuário, é aquela simpática tela azul que aparece logo após o travamento da máquina.
 
-<blockquote>_Em algumas máquinas, essa tela nem mais é vista, pois o Windows XP é configurado automaticamente para exibir um simpático __reboot que joga todos os seus dados não-salvos naquele momento para o limbo (ou, como diria o [Thiago](http://codebehind.wordpress.com/), para o "céu dos dados não-salvos antes de uma tela azul")._</blockquote>
+_Em algumas máquinas, essa tela nem mais é vista, pois o Windows XP é configurado automaticamente para exibir um simpático __reboot que joga todos os seus dados não-salvos naquele momento para o limbo (ou, como diria o [Thiago](http://codebehind.wordpress.com/), para o "céu dos dados não-salvos antes de uma tela azul")._
 
 Dumps podem ser abertos por um depurador que entenda o tipo de dump gerado (Visual Studio, WinDbg, OllyDbg, IDA, sd, etc). Se estamos falando de aplicativos que travaram, o Visual Studio pode dar conta do recado. Se é realmente uma tela azul, o WinDbg é o mais indicado.
 
@@ -146,7 +146,7 @@ nt!IopLoadDriver+0x66c
 
 Esse é o resultado de um dos minidumps recebidos.
 
-<blockquote>_Um minidump contém apenas a pilha de chamada que causou a tela azul, o estados dos registradores e algumas informações sobre módulos carregados no kernel._</blockquote>
+_Um minidump contém apenas a pilha de chamada que causou a tela azul, o estados dos registradores e algumas informações sobre módulos carregados no kernel._
 
 A partir daí podemos extrair algumas informações úteis, que eu sublinhei na saída do WinDbg. Na ordem de chegada:
 

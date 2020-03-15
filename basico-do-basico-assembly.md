@@ -46,8 +46,9 @@ Para isso funcionar em termos de memória computacional, o programa reserva um e
 
 Se você pensou rápido, a resposta é sim, existem registradores para guardar a posição na pilha em que estamos. Aliás, quando mudamos de função, o valor desses registradores é salvo na própria pilha, já que voltaremos à mesma posição após a chamada.
 
-<blockquote>Um passado distante.
-Antigamente eram muito usados os chamados registradores de segmento. Eles representavam o endereçamento da arquitetura de 16 bits do 8086. Cada endereço de memória estava localizado em um segmento, que era uma abstração para multiplicar a memória e assim alcançar a quantidade de RAM que estava disponível no sistema. Com a chegada do 32 bits, isso não é mais usado diretamente pelos programadores, que não têm que se preocupar mais tanto com esses detalhes internos da memória.</blockquote>
+#### Um passado distante.
+
+Antigamente eram muito usados os chamados registradores de segmento. Eles representavam o endereçamento da arquitetura de 16 bits do 8086. Cada endereço de memória estava localizado em um segmento, que era uma abstração para multiplicar a memória e assim alcançar a quantidade de RAM que estava disponível no sistema. Com a chegada do 32 bits, isso não é mais usado diretamente pelos programadores, que não têm que se preocupar mais tanto com esses detalhes internos da memória.
 
 Resumidamente, temos no PC os seguintes tipos de registradores e seu uso geral na programação C:
 
@@ -68,7 +69,7 @@ O código acima seria representado em assembly mais ou menos como abaixo:
 
 1. carrega valor de x no registrador 1 2. compara registrador 1 com 10 3. pula para 6 se for diferente 4. chama XEhIgualA105. pula para 76. chama XEhDiferenteDe107. próxima instrução
 
-<blockquote>Uma curiosidade interessante é a flag de comparação. Se o resultado da comparação disser que os dois elementos são iguais, a flag fica igual a zero, o que significa que os comparandos são idênticos. Se você reparar, a mesma semântica é utilizada na conhecida função strcmp, que retorna zero caso duas strings sejam idênticas. Isso faz sentido em ambos os lados, já que o resultado computacional geralmente deixa um rastro de diferença que é usado como retorno. Se esse rastro não existir, quer dizer que o que foi comparado é idêntico.</blockquote>
+Uma curiosidade interessante é a flag de comparação. Se o resultado da comparação disser que os dois elementos são iguais, a flag fica igual a zero, o que significa que os comparandos são idênticos. Se você reparar, a mesma semântica é utilizada na conhecida função strcmp, que retorna zero caso duas strings sejam idênticas. Isso faz sentido em ambos os lados, já que o resultado computacional geralmente deixa um rastro de diferença que é usado como retorno. Se esse rastro não existir, quer dizer que o que foi comparado é idêntico.
 
 #### Opcodes para aprender:
 
@@ -119,4 +120,4 @@ O código acima seria representado em assembly mais ou menos como abaixo:
 
 Desmonte programas, chamadas API. Veja que funções internas elas chamam para realizar determinada tarefa. Tente mudar o comportamento do programa para provar que suas observações sobre o funcionamento estavam corretas.
 
-<blockquote>PS.: Ia me esquecendo. Enquanto estava escrevendo este artigo, um [conjunto](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-14.html) [bem](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-24.html) [mais](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-34.html) [detalhado](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-44.html) de artigos estava sendo publicado pelo DQ. Recomendo veementemente sua leitura.</blockquote>
+PS.: Ia me esquecendo. Enquanto estava escrevendo este artigo, um [conjunto](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-14.html) [bem](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-24.html) [mais](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-34.html) [detalhado](http://dqsoft.blogspot.com/2009/01/simulando-um-computador-44.html) de artigos estava sendo publicado pelo DQ. Recomendo veementemente sua leitura.

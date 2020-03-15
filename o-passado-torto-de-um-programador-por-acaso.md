@@ -3,7 +3,7 @@ date: "2007-09-06"
 title: O passado torto de um programador por acaso
 tags: [ "blog" ]
 ---
-_Obs.: este é um artigo não-técnico, o que quer dizer que você pode se deparar com termos desconhecidos. Procure ter à mão um [dicionário de pessoas comuns](http://compare.buscape.com.br/categoria?id=30&lkout=1&kw=houaiss+aurelio+michaelis&site_origem=1293522)._
+_Obs.: este é um artigo não-técnico, o que quer dizer que você pode se deparar com termos desconhecidos. Procure ter à mão um dicionário de pessoas comuns._
 
 Sabe aquele senso comum de que adolescente não sabe o que quer da vida? Pois é, naquela época eu não sabia mesmo. Quando iniciei minha vida, queria ser desenhista. Então descobri que não conseguia desenhar sem uma régua, o que me levava a crer que seria engenheiro. Mas engenheiro de quê? Bom, como esse tipo de pergunta tem um nível de complexidade além dos limites de uma criança de 12 anos, decidi que decidiria isso na minha oitava série.
 

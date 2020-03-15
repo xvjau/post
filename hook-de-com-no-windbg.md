@@ -119,28 +119,10 @@ WinDbg. Na opção "File, Open Executable" selecionamos a nossa vítima, cujo no
 Maravilha. Alguém chamou a função que queríamos (quem será?). Agora podemos dar uma olhada na pilha e no [protótipo da CoGetMalloc](http://msdn2.microsoft.com/en-us/library/ms693395.aspx):
 
     
-    HRESULT CoGetMalloc(DWORD
-
-dwMemContext
-
-    
-    , LPMALLOC *
-
-ppMalloc
-
-    
-    );
+    HRESULT CoGetMalloc(DWORDdwMemContext, LPMALLOC *ppMalloc);
     0:000> dd esp L3
     0012ff70
-
-0040101d000000010012ff7c
-
-    
-     ;
-
-retorno - dwMemContext - ppMalloc
-
-    
+    0040101d000000010012ff7c ;retorno - dwMemContext - ppMalloc
     0:000> dd poi(esp+8) L1
     0012ff7c  00000000
 
@@ -204,7 +186,4 @@ Note que a função pode eventualmente ser chamada internamente (pelo próprio o
 
 Com isso termina o nosso pequeno experimento de como é possível interceptar chamadas COM simplesmente contando e usando o WinDbg. OK, talvez um pouquinho a mais, mas nada de quebrar a cabeça.
 
-[1] Engenharia Reversa para Principiantes:
-
-http://www.slideshare.net/slideshow/embed_code/key/cgeTnnM8pSIG0O
-
+Para saber mais: [Engenharia Reversa para Principiantes](http://www.slideshare.net/slideshow/embed_code/key/cgeTnnM8pSIG0O).

@@ -40,31 +40,31 @@ E sem aquele papo erudito que deve-se programar em OO para ser C++.
 Por ser multiparadigma, a linguagem também suporta o melhor da
 programação procedural e estruturada.
 
-**Popularidade. **C++ é o que há. Linguagem unânime e reconhecida no mundo
+**Popularidade.** C++ é o que há. Linguagem unânime e reconhecida no mundo
 todo como de uso geral. Dificilmente você vai encontrar um algoritmo
 que não tenha representação em C++.
 
-**Economia e Expressividade. **Pode parecer bobagem, mas coisas como
+**Economia e Expressividade.** Pode parecer bobagem, mas coisas como
 operador de incremento e valor em todas expressões permite que se faça
 muita coisa com poucas linhas. Isso a torna muito expressiva. Isso, em
 outras palavras, quer dizer que você pode juntar várias expressões
 numa só, e esse conjunto será também uma expressão.
 
-**Liberdade. **Em C++ você é o culpado de virtualmente qualquer coisa de
+**Liberdade.** Em C++ você é o culpado de virtualmente qualquer coisa de
 bom e ruim que aconteça no seu programa, pois você tem que seguir
 poucas regras e tem que ser responsável no que faz. C++ não te ajuda a
 seguir um bom modelo de programação com restrições embutidas. Isso a
 torna difícil para iniciantes, mas conforme aumenta a experiência,
 maior o prazer em programar.
 
-**Portabilidade. **A possibilidade de compilar e rodar o seu código em
+**Portabilidade.** A possibilidade de compilar e rodar o seu código em
 vários ambientes - de compilação e execução - é uma característica
 útil e agradável. No meu caso é só agradável, pois dificilmente faço
 código portável, apesar das boas noções que tenho sobre o assunto. E
 são essas boas noções que me permitem afirmar que C++ suporta muito
 bem essa possibilidade.
 
-**Rapidez. **Pode não ser importante em muitos casos, mas já é do instinto
+**Rapidez.** Pode não ser importante em muitos casos, mas já é do instinto
 do programador o desejo de eficiência no código. E nada como programar
 numa linguagem extremamente eficiente em tempo de execução para se
 sentir feliz de ver o código rodando.

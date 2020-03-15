@@ -13,7 +13,7 @@ Mesmo se focarmos apenas em computadores, engenharia reversa (de hardware e soft
 
 Porém, é necessária a existência de pessoas interessadas em atacar para que se crie a necessidade de se proteger. Dessa forma é que foram criados os X-Headers explicados por William Costa, os sistema de geração de números verdadeiramente aleatórios para se proteger de trapaceiros em um jogo de pôquer (minha palestra). Foi com o mesmo raciocínio que hoje existem valiosos insights sobre arquiteturas mais robustas discutidas por Rafael Lachi. É tendo curiosidade que encontramos falhas graves nos aplicativos mobile de hoje, como foi demonstrado tanto por Rafael Tosetto Pimentel quanto por Ivan Jeukens. E, não podemos nos esquecer, é essa nova geração do Antonio Costa que procura por brechas ridículas no login de diversos saites, forçando o mercado a se ajustar às melhores práticas.
 
-** [Como Não Desenvolver Pôquer Online ou Como Explorar a Pseudo-Aleatoriedade](https://www.slideshare.net/WanderleyCaloni/como-no-desenvolver-pquer-online-ou-como-explorar-a-pseudoaleatoriedade) ** from **[Wanderley Caloni](http://www.slideshare.net/WanderleyCaloni)**
+[Como Não Desenvolver Pôquer Online ou Como Explorar a Pseudo-Aleatoriedade](https://www.slideshare.net/WanderleyCaloni/como-no-desenvolver-pquer-online-ou-como-explorar-a-pseudoaleatoriedade) from [Wanderley Caloni](http://www.slideshare.net/WanderleyCaloni)
 
 De uma forma ou de outra, segurança deve se tornar um pensamento constante na vida dos programadores, ainda mais web e mobile. Essa não é uma tendência, essa deveria ser uma necessidade básica do dia-a-dia.
 
