@@ -1,5 +1,4 @@
 ---
-title: "caloni"
 date: 2019-11-19
 tags: [ "blog" ]
 css: "<style>.subtitle, .taglist, .gitinfo { visibility: hidden; }</style>"
