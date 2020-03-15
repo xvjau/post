@@ -61,7 +61,7 @@ Mini Kernel Dump File: Only registers and stack trace are available
     *                                                                             *
     *******************************************************************************
 
-Use !analyze -v to get detailed debugging information.
+    Use !analyze -v to get detailed debugging information.
 
     
     BugCheck C, {0, 0, 0, 0}
@@ -87,7 +87,7 @@ Geralmente a melhor idéia agora é seguir o conselho do WinDbg e usar o comando
     *                                                                             *
     *******************************************************************************
 
-MAXIMUM_WAIT_OBJECTS_EXCEEDED
+    MAXIMUM_WAIT_OBJECTS_EXCEEDED
 
     
      (c)
@@ -110,14 +110,14 @@ MAXIMUM_WAIT_OBJECTS_EXCEEDED
     WARNING: Stack unwind information not available. Following frames may be wrong.
     bad17c50 bac914d7 88d851e8 00000000 883a8030
 
-mydriver+0x199e
+    mydriver+0x199e
 
     
     bad17c7c bac94058 899c0f38 8058006a 899c0f38 mydriver+0x14d7
     bad17c84 8058006a 899c0f38 8836b000 00000000 mydriver+0x4058
     bad17d54 80580179 00000240 00000001 00000000
 
-nt!IopLoadDriver+0x66c
+    nt!IopLoadDriver+0x66c
 
     
     bad17d7c 80537757 00000240 00000000 89c3cda8 nt!IopLoadUnloadDriver+0x45
@@ -186,7 +186,7 @@ Como podemos ver pela imagem acima, o ponto de retorno é logo após uma chamada
     .text:000114CC                 call    sub_11BE0
     .text:000114D1                 push    eax
 
-.text:000114D2 call sub_117D0.text:000114D7
+    .text:000114D2 call sub_117D0.text:000114D7
 
     
                      add     esi, 0D9Ch
@@ -203,7 +203,7 @@ Como podemos ver pela imagem acima, o ponto de retorno é logo após uma chamada
     .text:00011996                 push    ebx
     .text:00011997                 push    edi
 
-.text:00011998 call ds:KeWaitForMultipleObjects.text:0001199E 
+    .text:00011998 call ds:KeWaitForMultipleObjects.text:0001199E 
 
     
     mov     eax, [esp+30h+var_14]

@@ -57,7 +57,7 @@ Porém, num daqueles acasos da natureza, o header-do-mal.h define justamente o q
     #define __HEADERDOMAL__
     
      // tirei header da jogada, huahuahua (risos maléficos)
-    <font color="#ff0000">#define __MEUHEADER__</font>
+    #define __MEUHEADER__
     
     #endif // __HEADERDOMAL__
 
@@ -112,51 +112,7 @@ Aqui você irá encontrar geralmente erros bem comportados, como conversão entr
     error C2181: illegal else without matching if
 
     
-    while( (x < z) && func(x, func2(y) != 2 )
-    {
-    	something;
-    }
-
-    
-    error C2143: syntax error : missing ')' before '{'
-
-Claro, não estamos falando de erros relacionados a templates, que são um pesadelo à parte.
-
-_Dica: nunca subestime o poder de informação do compilador e da sua documentação. Se o erro tem um código (geralmente tem), procure a documentação sobre o código de erro específico, para ter uma idéia de por que esse erro costuma ocorrer, exemplos de código com esse erro e possíveis soluções. Ficar batendo a cabeça não vai ajudar em nada, e com o tempo, você irá ficar sabendo rapidamente o que aconteceu._
-
-#### Linkedição
-
-Chegando aqui, onde a esperança reside, tudo pode vir por água abaixo. Isso porque você já espera confiante que tudo dê certo, quando, na verdade, um erro bem colocado pode fazer você desistir pra sempre desse negócio de programar em C.
-
-As características mais desejadas para corrigir erros nessa fase são:
-
-	
-  1. Total conhecimento da fase do preprocessamento
-
-	
-  2. Total conhecimento da fase da compilação
-
-	
-  3. Total conhecimento de **níveis de escopo e assinatura de funções**
-
-Os dois primeiros itens são uma maldição previsível que deve-se carregar para todo o sempre. Se você não consegue entender o que aconteceu nas duas primeiras fases, dificilmente irá conseguir seguir adiante com essa empreitada. O terceiro item significa que deve-se levar em conta as bibliotecas que estamos usando, _headers_ externos (com dependências externas), conflitos entre nomes, etc.
-
-Alguns erros mais encontrados aqui são as funções não encontradas por falta da LIB certa ou por LIBs desatualizadas que não se encaixam mais com o projeto, fruto de muitas dores de cabeça de manutenção de código. Essa é a parte em que mais vale a pena saber organizar e definir uma **interface clara entre os componentes de um projeto**.
-
-Do ponto de vista técnico, é a fase onde o _linker_ junta todos os arquivos-objeto especificados, encontra as funções, métodos e classes necessárias e monta uma **unidade executável**, como ilustrado pela figura abaixo.
-
-[![Linker](/images/RJtiCkA.gif)](/images/RJtiCkA.gif)
-
-_Dica: uma LIB, ou biblioteca, nada mais é que uma coleção de arquivos-objeto que já foram compilados, ou seja, já passaram pelas duas primeiras fases, mas ainda não foram linkeditados. Muitas vezes é importante manter compatibilidade entre LIBs e os projetos que as usam, de forma que o processo de linkedição ocorra da maneira menos dolorosa possível._
-
-#### Erros além da imaginação
-
-É óbvio que, por ter passado pelas três fases de transformação de um código-fonte em um programa executável, não quer dizer que este programa está livre de erros. Os famigerados erros de lógica podem se disfarçar até o último momento da compilação e só se mostrarem quando o código estiver rodando (de preferência, no cliente).
-
-Entre esses erros, os mais comuns costumam se aproveitar de macros, como max, que usa mais de uma vez o parâmetro, que pode ser uma chamada com uma função. A função será chamada duas vezes, mesmo que aparentemente no código a chamada seja feita uma única vez:
-
-    
-    #define max(a, b) ( a > b ? a : b )
+    while( (x  b ? a : b )
     
     int z = max( func(10), 30 );
 

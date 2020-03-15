@@ -19,7 +19,7 @@ Para azar da minha pessoa, o [guia simples e rápido](http://bazaar-vcs.org/Down
     Available Packages
     Name     : bzr
     Arch     : i386
-    Version  : <font color="#ff0000">0.91</font>
+    Version  : 0.91
     ...
 
 O pior, no entanto, foi tentar encontrar uma solução para o problema. Fiz mil e uma pesquisas com palavras-chave que nem imaginava que seria capaz de formular. E nada. A princípio minha idéia era apenas atualizar a lista de pacotes do repositório gerenciado pelo yum, o gerenciador de pacotes oficial do Fedora. Entre minhas buscas, encontrei os seguintes itens:

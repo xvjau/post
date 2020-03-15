@@ -35,9 +35,9 @@ Depois de configurar tudo isso, ajuste as janelas na melhor maneira e proporçã
 
 
 
-> 
-> #### Configure corretamente onde seu código-fonte vai abrir
-> 
+
+#### Configure corretamente onde seu código-fonte vai abrir
+
 _Para que os arquivos fonte caiam no lugar que você escolheu, durante a configuração, abra um código-fonte e coloque no lugar que gostaria de ver todos os fontes listados, junto com um placeholder (um arquivo C usado como localizador, existem 5 dentro da pasta themes). Após isso, feche o código-fonte, mas mantenha o placeholder. Depois é só fechar o WinDbg salvando as configurações. Tudo deve funcionar como previsto (ou você esqueceu alguma coisa)._
 
 Como esses passos deram algum trabalho, trate de salvar as configurações, caso tenha que usá-las em outras máquinas ou restaurá-las caso algo de ruim aconteça com seu SO (como quando você depura seus drivers na mesma máquina em que desenvolve, por exemplo).

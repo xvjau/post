@@ -3,8 +3,6 @@ date: "2008-05-01"
 title: Acessando memória física no WinDbg
 tags: [ "code" ]
 ---
-![dimm.gif](/images/OraOKS3.gif)
-
 Como muitos devem saber, acessar memória virtual no WinDbg é coisa de criança, assim como em todo depurador decente. Se estamos falando de _kernel mode_ então, nem se fala! A memória virtual é parte integrante do sistema operacional. Podemos saber mais sobre isso lendo o artigo do Strauss sobre [gerenciamento de memória no Windows](http://www.1bit.com.br/content.1bit/weblog/borcon_talk).
 
 Porém, existem situações, como a que passei essa semana, onde é preciso saber e alterar o conteúdo da memória de verdade, mesmo. Quando eu falo "de verdade mesmo" estou falando em acessar a memória através do seu **endereçamento real**, que conta do zero até o final da sua memória RAM, sem divisão de processos e sem proteções de acesso.
@@ -66,16 +64,9 @@ Simples, assim.
 
 _Infelizmente, o WinDbg não nos permite ler certas regiões da memória por conta do cacheamento feito pelo processador. Para permitir a leitura em todas as condições, existem  três flags que podem ser utilizados:_
 
-> 
-	
->   * **c** - lê da memória cacheada
-> 
-	
->   * **uc** - lê da memória não-cacheada
-> 
-	
->   * **wc** - lê da memória de escrita combinada
-> 
+ - **c** - lê da memória cacheada
+ - **uc** - lê da memória não-cacheada
+ - **wc** - lê da memória de escrita combinada
 
 _Nesse caso é possível, embora fique por sua conta e risco, ler qualquer memória não-cacheada usando-se a flag **uc**._
 

@@ -3,7 +3,7 @@ date: "2008-12-06"
 title: 'Básico do básico: ponteiros'
 tags: [ "code" ]
 ---
-![Alicerces de uma casa.](/images/8jW9wJy.png)Nessas últimas semanas tenho gastado meu tempo junto da mais nova pupila da [SCUA](http://www.scua.com.br), aspirante a programadora em C e Install Shield Script. Minha tarefa? Explicar tudo, desde o mais simples, como **variáveis**, até as coisas não tão triviais, como **símbolos de depuração**.
+Nessas últimas semanas tenho gastado meu tempo junto da mais nova pupila da [SCUA](http://www.scua.com.br), aspirante a programadora em C e Install Shield Script. Minha tarefa? Explicar tudo, desde o mais simples, como **variáveis**, até as coisas não tão triviais, como **símbolos de depuração**.
 
 Posso afirmar que tem sido muito compensador ativar algumas partes do meu cérebro que acreditava nem mais existirem. Rever velhos conceitos, apesar de manjados, nos dá a oportunidade de lembrar que as coisas mais complexas que construímos no dia-a-dia se baseiam em um punhado de preceitos básicos que é essencial ter na cabeça. E nunca esquecê-los.
 
@@ -20,9 +20,6 @@ De acordo com o meu amigo [Rafael](http://www.sk5.com.br), a melhor definição 
 Deve ter ficado óbvio, mas se não ficou: o armário é a memória RAM, as gavetas são váriáveis e as gavetas onde guardamos pedaços de papel são ponteiros, que não deixam de ser variáveis, e apontam para outras gavetas que são... adivinha? Outras variáveis!
 
 [![Gavetas representando posições na memória.](/images/sx9fYjS.gif)](/images/sx9fYjS.gif)
-
-[
-](/images/GcnMNxv.jpg)
 
 Outros conceitos que costumo utilizar é relacionar a memória RAM com a memória do programa e contar a memória como se contam carneirinhos. Dessa forma fica fácil pelo menos entender dois conceitos fundamentais na arte dos ponteiros: memória e endereço.
 

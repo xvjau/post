@@ -8,7 +8,7 @@ Finalmente chegamos em um pouco onde podemos usar o WinDbg.
 Podemos espetar o depurador e fazê-lo parar assim que conectado. Se estiver rodando antes do próprio sistema operacional, teremos um sistema sem processos e sem threads, pois ele irá parar assim que o executivo puder enviar o sinal de início pela porta serial, após carregar na memória os módulos básicos.
 
     
-    windbg -k com:pipe,port=\\.\pipe\com_1 <strong><font color="#000000">-b</font></strong>
+    windbg -k com:pipe,port=\\.\pipe\com_1 <strong>-b</strong>
 
     
     Microsoft (R) Windows Debugger Version 6.11.0001.404 AMD64
@@ -105,12 +105,11 @@ Podemos espetar o depurador e fazê-lo parar assim que conectado. Se estiver rod
     
     kd> !process 0 0
     **** NT ACTIVE PROCESS DUMP ****
-    NULL value in PsActiveProcess List<font color="#ff0000"> <strong><font color="#000000"> <-- Nenhum processo por aqui</font></strong></font>
+    NULL value in PsActiveProcess List <strong> <-- Nenhum processo por aqui</strong>
     kd> !thread0 0
     No export thread0 found
     kd> !thread 0 0
-    00000000: Unable to get thread content<font color="#000000">s</font><font color="#000000"> <strong> <-- Nenhuma thread também!</strong></font>
-    kd> r
+    00000000: Unable to get thread contents <strong>  r
     eax=00000001 ebx=80087000 ecx=80548c74 edx=80548c44 esi=80087000 edi=00000000
     eip=80526da8 esp=80548c60 ebp=80548de8 iopl=0         nv up ei pl nz na po nc
     cs=0008  ss=0010  ds=0023  es=0023  fs=0030  gs=0000             efl=00000202

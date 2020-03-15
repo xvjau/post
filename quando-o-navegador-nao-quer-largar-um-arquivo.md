@@ -9,10 +9,10 @@ De vez em quando gosto muito de um vídeo que estou assistindo. Gosto tanto que 
     HANDLE WINAPI CreateFile(
       __in      LPCTSTR lpFileName,
       __in      DWORD dwDesiredAccess,
-    <font color="#ff0000">  __in      DWORD dwShareMode,</font>
+      __in      DWORD dwShareMode,
       __in_opt  LPSECURITY_ATTRIBUTES lpSecurityAttributes,
       __in      DWORD dwCreationDisposition,
-    <font color="#ff0000">  __in      DWORD dwFlagsAndAttributes,</font>
+      __in      DWORD dwFlagsAndAttributes,
       __in_opt  HANDLE hTemplateFile
     );
 
@@ -61,8 +61,8 @@ Antes de iniciar a reprodução do vídeo, e conseqüentemente a criação do ar
     cs=001b  ss=0023  ds=0023  es=0023  fs=0038  gs=0000             efl=00000246
     ntdll!DbgBreakPoint:
     7c901230 cc              int     3
-    0:017> bp <font color="#ff0000">kernel32!CreateFileA</font>
-    0:017> bp <font color="#ff0000">kernel32!CreateFileW</font>
+    0:017> bp kernel32!CreateFileA
+    0:017> bp kernel32!CreateFileW
     0:017> g
     Breakpoint 2 hit
     eax=00000001 ebx=00000000 ecx=05432c10 edx=0000003e esi=0532ea00 edi=00000000
@@ -75,8 +75,8 @@ Nesse momento podemos dar uma boa olhada nos parâmetros 4 e 6 da função para 
 
     
     0:000> dd esp
-    0012f30c  300afc06 03f91920 c0000000 <font color="#ff0000">00000000</font>
-    0012f31c  00000000 00000002 <font color="#ff0000">14000000</font> 00000000
+    0012f30c  300afc06 03f91920 c0000000 00000000
+    0012f31c  00000000 00000002 14000000 00000000
 
 Como podemos ver, o modo de compartilhamento do arquivo é nenhum. Entre os flags definidos no sexto parâmetro, está o de apagar o arquivo ao fechar o handle, como pude constatar no header do SDK:
 
@@ -85,9 +85,9 @@ Como podemos ver, o modo de compartilhamento do arquivo é nenhum. Entre os flag
 Nesse caso, a solução mais óbvia e simples foi deixar esse bit desabilitado, não importando se o modo de compartilhamento está desativado. Tudo que temos que fazer é assistir o vídeo mais uma vez e fechar a aba do navegador. O arquivo será fechado, o compartilhamento aberto, e o arquivo, não apagado.
 
     
-    0:012> bp kernel32!CreateFileW <font color="#ff0000">"ed @esp+4*6 poi(@esp+4*6) & 0xfbffffff"</font>
+    0:012> bp kernel32!CreateFileW "ed @esp+4*6 poi(@esp+4*6) & 0xfbffffff"
     breakpoint 1 redefined
-    0:012> bp kernel32!CreateFileA <font color="#ff0000">"ed @esp+4*6 poi(@esp+4*6) & 0xfbffffff"</font>
+    0:012> bp kernel32!CreateFileA "ed @esp+4*6 poi(@esp+4*6) & 0xfbffffff"
     breakpoint 0 redefined
     0:012> g
 

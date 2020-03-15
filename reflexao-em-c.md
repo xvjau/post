@@ -123,6 +123,6 @@ int main()
     
     C:\Tests>typeid-class2.exe
 
-class MyDerivatedClass1::MyMethod class MyDerivatedClass2::MyMethod
+    class MyDerivatedClass1::MyMethod class MyDerivatedClass2::MyMethod
 
 Apenas se lembre de ter de fato uma classe polimórfica (eu consegui isso tornando MyMethod uma função virtual). Do contrário você pode [ter problemas](/typeid-e-os-perigos-do-nao-polimorfismo).

@@ -17,11 +17,11 @@ Um bug que já encontrei uma dúzia de vezes entre os novatos da STL é a utiliz
 Por exemplo, o tradicional código do exemplo abaixo contém o tradicional erro de iterador inválido:
 
     
-    for( container::iterator it = obj.begin(); it != obj.end(); <font color="#ff0000">++it</font> )
+    for( container::iterator it = obj.begin(); it != obj.end(); ++it )
     {
     	if( it->member == 0 ) // condição para apagar elemento
     	{
-    		obj.erase(<font color="#ff0000">it</font>);  // a partir daqui it é inválido,
+    		obj.erase(it);  // a partir daqui it é inválido,
     		                // e não adianta incrementá-lo
     	}
     }
@@ -29,11 +29,11 @@ Por exemplo, o tradicional código do exemplo abaixo contém o tradicional erro 
 Para operações como essa, o retorno geralmente nos dá uma dica de para onde vamos na varredura do contêiner. No caso do método erase, o retorno é o próximo iterador válido, ou o final (retornado pelo método end). Um código mais esperto gera um erro mais sutil:
 
     
-    for( container::iterator it = obj.begin(); it != obj.end(); <font color="#ff0000">++it</font> )
+    for( container::iterator it = obj.begin(); it != obj.end(); ++it )
     {
     	if( it->member == 0 ) // condição para apagar elemento
     	{
-    		<font color="#ff0000">it</font> = obj.erase(it); // ótimo, atualizou it. só
+    		it = obj.erase(it); // ótimo, atualizou it. só
     		                    // que se ele for o final,
     		                    // será incrementado
     	}

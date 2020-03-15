@@ -20,18 +20,9 @@ x = y + z;
 A operação acima é realizada através de microinstruções bem sucintas:
 
 	
-  1. **Leia memória y para registrador 1
-**
-
-	
-  2. ** Leia memória z para registrador 2
-**
-
-	
-  3. **Some valor de registrador 1 e 2 e coloque resultado no registrador 1
-**
-
-	
+  1. **Leia memória y para registrador 1**
+  2. **Leia memória z para registrador 2**
+  3. **Some valor de registrador 1 e 2 e coloque resultado no registrador 1**
   4. **Carregue memória x com valor do registrador 1**
 
 ![Os registradores da CPU em ação](/images/N90ooMD.gif)
@@ -40,7 +31,9 @@ A operação acima é realizada através de microinstruções bem sucintas:
 
 Pilha é uma forma de armazenar memória em blocos empilhados um-a-um. Esses blocos são empilhados na ordem a, b, c e desempilhados na ordem c, b, a. Ou seja, quem foi empilhado por último será o primeiro a ser desempilhado. A analogia com uma pilha de pratos é óbvia e simples de imaginar.
 
-![Pratos de cozinha empilhados.](/images/wZ6kKs8.jpg)![Exemplo de pilha na memória.](/images/EmiZKdc.gif)
+![Pratos de cozinha empilhados.](/images/wZ6kKs8.jpg)
+
+![Exemplo de pilha na memória.](/images/EmiZKdc.gif)
 
 Para isso funcionar em termos de memória computacional, o programa reserva um espaço de memória com começo e fim que irá guardar os blocos empilhados. Além de ter começo e fim é necessário ter um marcador de onde estamos para empilhar o próximo item ou desempilhar o último.
 
@@ -63,7 +56,7 @@ Ah, sim, as flags! Elas são importantíssimas para o funcionamento sadio de nos
 
 As flags são bits que **mudam de acordo com algumas instruções**, principalmente as de **comparação** (vide cmp). Após a execução de comparação, o estado de determinadas flags junto da próxima instrução (que deverá ser um salto condicional) irá dizer para onde o programa irá pular sua execução. É assim que temos o if:
 
-if( x == 10 )XEhIgualA10();elseXEhDiferenteDe10();
+    if( x == 10 )XEhIgualA10();elseXEhDiferenteDe10();
 
 O código acima seria representado em assembly mais ou menos como abaixo:
 
@@ -75,46 +68,17 @@ Uma curiosidade interessante é a flag de comparação. Se o resultado da compar
 
 	
   * mov
-
-	
   * cmp
-
-	
   * jmp
-
-	
   * jne, jle, jnz, etc
-
-	
   * push e pop
-
-	
   * call e ret
 
 #### Pedaços de código que vale a pena estudar:
-
 	
-  * 
-
-    
-    push ebp
-    mov epb, esp
-
-	
-  * 
-
-    
-    push eax
-    mov ecx, dword ptr[variavel]
-    push 10
-    call funcao
-
-	
-  * 
-
-    
-    cmp something
-    jne | jne | jae | ...
+  * push ebp mov epb, esp
+  * push eax mov ecx, dword ptr[variavel] push 10 call funcao
+  * cmp something jne | jne | jae | ...
 
 #### O que é legal de fazer para treinar assembly
 

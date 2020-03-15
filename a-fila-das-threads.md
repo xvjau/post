@@ -3,7 +3,7 @@ date: "2009-04-07"
 title: A fila das threads
 tags: [ "code" ]
 ---
-![Telling Stories](/images/b74V0a9.png) Em um ambiente _multithreading_, diversas threads disputam "a tapas" a atenção do processador (CPU). Certo? Podemos dizer que, em um ambiente com muito processamento a realizar, de certa forma é isso que acontece. São threads e mais threads rodando um [pedacinho de código](/historia-do-windows-parte-40) cada vez que passam pelo processador.
+Em um ambiente _multithreading_, diversas threads disputam "a tapas" a atenção do processador (CPU). Certo? Podemos dizer que, em um ambiente com muito processamento a realizar, de certa forma é isso que acontece. São threads e mais threads rodando um [pedacinho de código](/historia-do-windows-parte-40) cada vez que passam pelo processador.
 
 Um ambiente complexo como esse é repleto de pequenos detalhes que podem fazer o iniciante logo desanimar quando tentar depurar um programa com mais de uma thread. De fato, eu já percebi que muitos não vão saber nem como começar a mastigar o problema.
 

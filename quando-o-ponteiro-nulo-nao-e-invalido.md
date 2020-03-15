@@ -12,9 +12,7 @@ Nesse caso, se tratava de um programa que iria rodar em um microprocessador, daq
     
     ( * (void(*)()) 0 ) ();
 
-Nada mais simples: um _cast _do endereço 0 (apesar de normalmente inválido, 0 pode ser convertido para endereço) para ponteiro de função que não recebe parâmetros e não retorna nada, seguido de deferência ("o apontado de") e chamada (a dupla final de parênteses).
+Nada mais simples: um _cast_ do endereço 0 (apesar de normalmente inválido, 0 pode ser convertido para endereço) para ponteiro de função que não recebe parâmetros e não retorna nada, seguido de deferência ("o apontado de") e chamada (a dupla final de parênteses).
 
     
-    <font color="#0000ff">(* </font><font color="#008000">(void(*)())</font> 0 <font color="#0000ff">) </font><font color="#ff0000">()</font>;
-
 É bem o que o autor diz depois de jogar esta expressão: "expressions like these strike terror into the hearts of C programmers". É lógico que isso não é bem verdade para as pessoas que acompanham este blogue =)

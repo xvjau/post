@@ -144,12 +144,12 @@ Resumidamente, é um !analyze mais esperto com o algoritmo heurístico do Visual
     
     DEBUG_FLR_IMAGE_TIMESTAMP:  4baa49d3
     
-    <font color="#0000ff">BugCheck Fix Tip:
+    BugCheck Fix Tip:
     -----------------
     Try to remove the spin lock aquisition in MyDriver!KeBugCheckTest+2a. By doing this,
     the kernel IRQL priority system will not be in starvation mode.
     
-    Tip Code: C:\Tests\MyDriver\dispatch-funcs.cpp+345</font>
+    Tip Code: C:\Tests\MyDriver\dispatch-funcs.cpp+345
     
     Followup: MachineOwner
     ---------

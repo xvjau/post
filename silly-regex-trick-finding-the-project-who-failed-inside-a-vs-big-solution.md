@@ -21,12 +21,7 @@ What I'm saying inside this regex is "find the first number different from zero 
     FailedProj.cpp
     .FailedProj.cpp(2477) : error C2039: 'Blablabla' : is not a member of 'IBlabla'
     Build log was saved at "file://c:Projects...ReleaseBuildLog.htm"
-    FailedProj -
-
-2 err
-
-    
-    or(s), 0 warning(s)
+    FailedProj - 2 error(s), 0 warning(s)
 
 If you think "what about when a project generates more than 9 errors? the regex wouldn't be able to catch this case", well, you're right. Anyway, that's the quicker form to search for the unsuccessful project inside a big solution. A more complex yet complete regex would be:
 

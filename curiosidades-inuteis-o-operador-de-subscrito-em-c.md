@@ -18,9 +18,9 @@ As regras de acesso a elementos de um _array_ (subscrito) são definidas não em
 > _A postfix expression followed by an expression in square brackets is a postfix expression. One of the expressions shall have the type "pointer to T" and the other shall have enumeration or integral type. The result is an lvalue of type "T". (...) The expression E1 [ E2 ] is identical (by definition) to *( (E1) + (E2) )._
 > 
 
-> 
-> **C++: International Standard ISO/IEC 14882 First Edition 1998-09-01**
-> 
+
+**C++: International Standard ISO/IEC 14882 First Edition 1998-09-01**
+
 
 
 Isso traduzido em miúdos quer dizer que com duas expressões formando a construção **E1 [ E2 ]**, sendo uma delas do tipo **ponteiro para um tipo** e a outra do tipo **integral**, o resultado é equivalente a ***( (E1) + (E2) )**. Como no código abaixo:

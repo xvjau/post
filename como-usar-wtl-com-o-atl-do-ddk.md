@@ -29,7 +29,7 @@ No entanto, você verá o seguinte erro durante a compilação dos recursos:
     Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
     Copyright (C) Microsoft Corporation.  All rights reserved.
     Linking...
-    CVTRES : fatal error CVT1100: <font color="#ff0000">duplicate resource</font>.  type:MANIFEST, name:1, language:0x0409
+    CVTRES : fatal error CVT1100: duplicate resource.  type:MANIFEST, name:1, language:0x0409
     LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
     Build log was saved at "file://c:\Lng\WTL\Samples\MTPad\Debug\BuildLog.htm"
     MTPad - 2 error(s), 0 warning(s)
@@ -44,11 +44,11 @@ Para resolver esse problema, remova a inclusão do arquivo de manifesto no arqui
         "\0"
     END
     
-    <font color="#ff0000">3 TEXTINCLUDE DISCARDABLE
+    3 TEXTINCLUDE DISCARDABLE
     BEGIN
         "CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST ""res\\\\MTPad.exe.manifest""\r\n"
         "\0"
-    END</font>
+    END
     
     #endif    // APSTUDIO_INVOKED
     
@@ -59,7 +59,7 @@ Para resolver esse problema, remova a inclusão do arquivo de manifesto no arqui
     //
     // Generated from the TEXTINCLUDE 3 resource.
     //
-    <font color="#ff0000">CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "res\\MTPad.exe.manifest"</font>
+    CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "res\\MTPad.exe.manifest"
     
     /////////////////////////////////////////////////////////////////////////////
     #endif    // not APSTUDIO_INVOKED
@@ -72,11 +72,11 @@ Depois dessa alteração, deve ainda existir o seguinte erro de linquedição:
     Microsoft (R) Windows (R) Resource Compiler Version 6.0.5724.0
     Copyright (C) Microsoft Corporation.  All rights reserved.
     Linking...
-    <font color="#ff0000">mtpad.obj : error LNK2019: unresolved external symbol
+    mtpad.obj : error LNK2019: unresolved external symbol
        "void * __stdcall ATL::__AllocStdCallThunk(void)" (bla bla bla)
     mtpad.obj : error LNK2019: unresolved external symbol
        "void __stdcall ATL::__FreeStdCallThunk(void *)" (bla bla bla)
-    </font>.\Debug/MTPad.exe : fatal error LNK1120: 2 unresolved externals
+    .\Debug/MTPad.exe : fatal error LNK1120: 2 unresolved externals
     Build log was saved at "file://c:\Lng\WTL\Samples\MTPad\Debug\BuildLog.htm"
     MTPad - 3 error(s), 0 warning(s)
     ========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

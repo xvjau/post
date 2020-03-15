@@ -7,15 +7,14 @@ Reserve sua cadeira. Está marcado para o último dia do mês de maio o [primeir
 
 O assunto gira em torno de duas preocupações constantes na vida de todo programador de linguagens de nível médio:
 
-	
   * Quanta velocidade eu preciso nesse código?
-
-	
   * Em quais plataformas eu conseguiria compilar e rodar meu projeto?
 
 Para responder estas questões teremos uma bateria de palestras com temas que, dessa vez, focam o simples, puro e independente uso das linguagens C/C++:
 
-![wanderley.gif](/images/RPibM82.gif)**Dicas e Truques de Portabilidade**
+![wanderley.gif](/images/RPibM82.gif)
+
+**Dicas e Truques de Portabilidade**
 Wanderley Caloni
 
 O objetivo dessa palestra é focar nos problemas da vida real que enfrentamos no dia-a-dia para tornar um código portável ou mais maleável para um dia ser. Nesse caso existem vários assuntos a tratar, como: construções ambígüas não-padrão, isolamento de particularidades de cada sistema, identificação de problemas de portabilidade, organização do código-fonte portável, entre outros.

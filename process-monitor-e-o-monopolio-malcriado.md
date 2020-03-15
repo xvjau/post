@@ -39,7 +39,7 @@ A primeira busca retorna uma chave no registro referente às propriedades de _jo
 
     
     MonopolyClassic.exe CreateFile	C:\Documents and ...\TikGames\Monopoly NAME COLLISION
-    <font color="#ff0000">MonopolyClassic.exe CreateFile	C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log ACCESS DENIED</font>
+    MonopolyClassic.exe CreateFile	C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log ACCESS DENIED
     MonopolyClassic.exe QueryOpen	C:\Arquivos de programas\GameHouse\Monopoly Classic\DBGHELP.DLL NAME NOT FOUND
     MonopolyClassic.exe RegOpenKey	HKLM\Software\Microsoft\...\DBGHELP.DLL NAME NOT FOUND
 
@@ -47,7 +47,7 @@ O próximo erro diz respeito a uma tentativa de acesso ao arquivo Monopoly.log l
 
     
     C:\Arquivos de programas\GameHouse\Monopoly Classic>cacls Monopoly.log
-    C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log <font color="#ff0000">BUILTIN\Usuários:R</font>
+    C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log BUILTIN\Usuários:R
                                                                      BUILTIN\Administradores:F
                                                                      AUTORIDADE NT\SYSTEM:F
                                                                      MITY\Caloni:F
@@ -61,7 +61,7 @@ Como podemos ver, o que é muito natural, um arquivo dentro da pasta de instala�
     arquivo processado: C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log
     
     C:\Arquivos de programas\GameHouse\Monopoly Classic>cacls Monopoly.log
-    C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log <font color="#ff0000">BUILTIN\Usuários:F</font>
+    C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log BUILTIN\Usuários:F
                                                                      BUILTIN\Administradores:F
                                                                      AUTORIDADE NT\SYSTEM:F
                                                                      MITY\Caloni:F
@@ -81,7 +81,7 @@ Para ter certeza que isso resolveu o problema, uma segunda auditoria de execuç�
     MonopolyClassic.exe QueryStandardInformationFile C:\Documents ...\Monopoly\save.gcf SUCCESS
     MonopolyClassic.exe ReadFile C:\Documents ...\Monopoly\save.gcf SUCCESS
     MonopolyClassic.exe CloseFile C:\Documents ...\Monopoly\save.gcf SUCCESS
-    <font color="#ff0000">MonopolyClassic.exe CreateFile C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log SUCCESS</font>
+    MonopolyClassic.exe CreateFile C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log SUCCESS
     MonopolyClassic.exe CreateFile C:\Arquivos de programas\GameHouse\Monopoly Classic SUCCESS
     MonopolyClassic.exe CloseFile C:\Arquivos de programas\GameHouse\Monopoly Classic SUCCESS
     MonopolyClassic.exe WriteFile C:\Arquivos de programas\GameHouse\Monopoly Classic\Monopoly.log SUCCESS

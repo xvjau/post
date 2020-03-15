@@ -31,7 +31,7 @@ Exatamente o que o comando se dispõe a fazer: **imprimir seus argumentos na tel
     ...
     ModLoad: 5ad70000 5ada8000   C:WINDOWSsystem32UxTheme.dll
     ModLoad: 76390000 763ad000   C:WINDOWSsystem32IMM32.DLL
-    <font color="#ff0000">Passou pelo entry point</font>
+    Passou pelo entry point
     ModLoad: 74720000 7476b000   C:WINDOWSsystem32MSCTF.dll
     ModLoad: 755c0000 755ee000   C:WINDOWSsystem32msctfime.ime
     ModLoad: 10000000 10006000   C:Program FilesMouseToolMT.dll
@@ -68,7 +68,7 @@ Lembram-se de nossa peregrinação pela pilha de chamadas quando fizemos um [_ho
     	int idHook,
     	HOOKPROC lpfn,
     	HINSTANCE hMod,
-    	DWORD dwThreadId <font color="#339966">// Identifier of the thread (...) to be associated</font>
+    	DWORD dwThreadId // Identifier of the thread (...) to be associated
     	);
 
 Relembrando nosso passeio pela pilha, ao entrar em uma função stdcall, os primeiros 4 bytes são o endereço de retorno, os próximos o primeiro parâmetro e assim por diante. O que quer dizer que:

@@ -28,8 +28,6 @@ int main()
 	return 0;
 }
 
- 
-
 ```
 
 A DLL é uma DLL trivial:
@@ -41,9 +39,6 @@ BOOL WINAPI DllMain(HINSTANCE inst, DWORD reason, PVOID reserv)
 {
 	return TRUE;
 }
-
- 
-
 ```
 
 Vamos aos testes.
@@ -62,16 +57,8 @@ Nesse caso, ambos os retornos serão nulos, que é o natural e esperado quando a
     /out:app.exe
     app.obj
     K:\Docs\Projects>app
-    First DLL:
-
-00000000
-
-    
-    Second DLL:
-
-00000000
-
-    
+    First DLL: 00000000
+    Second DLL: 00000000
     K:\Docs\Projects>
 
 #### DLL existe apenas no caminho do aplicativo
@@ -91,11 +78,7 @@ No segundo caso, a DLL é carregada com sucesso se usado o caminho relativo, poi
     dll.obj
     K:\Docs\Projects>app
     First DLL: 00000000
-    Second DLL:
-
-10000000
-
-    
+    Second DLL: 10000000
     K:\Docs\Projects>
 
 #### DLL existe em ambos os lugares
@@ -107,16 +90,8 @@ No caso problemático, a mesma DLL é carregada em dois endereços distintos da 
     K:\Docs\Projects>copy dll.dll DLL
     1 arquivo(s) copiado(s).
     K:\Docs\Projects>app
-    First DLL:
-
-10000000
-
-    
-    Second DLL:
-
-00350000
-
-    
+    First DLL: 10000000
+    Second DLL: 00350000
     K:\Docs\Projects>
 
 Apesar do mundo parecer injusto, temos uma segunda regra que podemos usar para aqueles casos onde a idiotisse já foi feita:
@@ -130,16 +105,8 @@ Vamos supor que estamos no meio de uma mudança bem radical no produto e queremo
     ^Z
     1 arquivo(s) copiado(s).
     K:\Docs\Projects>app
-    First DLL:
-
-10000000
-
-    
-    Second DLL:
-
-10000000
-
-    
+    First DLL: 10000000
+    Second DLL: 10000000
     K:\Docs\Projects>
 
 #### Moral da história

@@ -15,19 +15,13 @@ _Atenção: esse artigo trata sobre xadrez admitindo que o leitor saiba as regra
 
 Vamos supor que a posição no tabuleiro em um dado momento seja a seguinte:
 
-[](/images/6IfiNAY.png)
-
 [![Winboard Mate](/images/6IfiNAY.png)](/images/6IfiNAY.png)
 
 Ora, é um mate inevitável, não é? Agora imagine por um momento que você não tenha percebido isso, e precise de uma ajudinha para saber onde cada peça pode ir ou atacar no próximo lance.
 
-[](/images/GByvceA.png)
-
 [![Winboard Mate (com influências)](/images/GByvceA.png)](/images/GByvceA.png)
 
 Agora ficou muito mais fácil de perceber que a única saída do rei não possui nenhuma proteção, já que tanto o peão quanto o próprio rei não podem fazer muita coisa se a dama atacar a diagonal vulnerável. E ela pode fazer isso.
-
-[](/images/0Nsxat3.png)
 
 [![Winboard Mate Final](/images/0Nsxat3.png)](/images/0Nsxat3.png)
 
@@ -53,8 +47,6 @@ Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de
 Após compilado, basta copiar na pasta de instalação do programa, rodá-lo e habilitar a opção "Show Influence" do menu General. Voilà! É possível até jogar às cegas com esse brinquedinho (opção Blindfold).
 
 [![WinBoard Options](/images/G67wagx.png)](/images/G67wagx.png)
-
-[](/images/R5SjM7r.png)
 
 [![Winboard Blindfold e Influence](/images/R5SjM7r.png)](/images/R5SjM7r.png)
 

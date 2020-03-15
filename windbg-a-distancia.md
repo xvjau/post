@@ -51,9 +51,9 @@ O nome do processo do lado servidor para modo usuário é **dbgsrv.exe**. Para o
 
 
 
-> 
-> #### Lembre-se: _kernel_ é _kernel_, _user_ é _user_
-> 
+
+#### Lembre-se: _kernel_ é _kernel_, _user_ é _user_
+
 Pode parecer besteira falar isso aqui, mas ao depurar um sistema em modo _kernel_ é necessário, é claro, é óbvio, é lógico, ter uma segunda máquina do lado servidor conectada por cabo serial ou _firewire_ ou USB-Debug na máquina-vítima. Ainda que o Debugging Tools permita uma série de flexibilidades, o depurador em modo _kernel_ vai rodar direto do _kernel_ (duh), ou seja, está limitado pela implementação do sistema operacional. Além de que, para travar o processo do _kernel_, você tem que parar todo o sistema, e nesse caso não existe pilha TCP/IP.
 
 Para iniciar o servidor de depuração e deixar as portas abertas para o depurador temos apenas que iniciar o processo dbgsrv.exe:
@@ -73,9 +73,9 @@ Caso não se saiba a porta usada para iniciar o servidor, ou queira-se listar to
 
 
 
-> 
-> #### Não se prenda ao TCP-IP
-> 
+
+#### Não se prenda ao TCP-IP
+
 O exemplo acima utilizou uma conexão TCP para montar o ambiente de depuração remota, o que possibilita inclusive correção de problemas via internet. No entanto, nem sempre podemos nos dar ao luxo de abrir portas não-autorizadas, requisito mínimo para estabelecer a conexão com o depurador. Nesse caso, podemos configurar conexões pela porta serial, por _pipes_ nomeados, por SSL. Se for realmente necessário usar a pilha TCP, mas o lado servidor possui um _firewall_, ainda assim é possível configurar este tipo de conexão com a opção **clicon**. Dessa forma, quem estabelece a conexão é o servidor, evitando que o cliente fique bloqueado de acessar o ambiente de depuração.
 
 ![Windbg Remote](/images/tIbty17.gif)

@@ -38,7 +38,7 @@ Note que existem apenas dois valores possíveis para essa função. Porém, o va
     IsPathDir.obj
     
     C:\Tests>IsPathDir.exe
-    <font color="#ff0000">Resultado: 16.</font>
+    Resultado: 16.
 
 Isso quer dizer apenas que o código abaixo vai funcionar,
 
@@ -102,7 +102,7 @@ O problema ocorre por causa da maneira que a função determina se o caminho é 
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202
     ntdll!DbgBreakPoint:
     7c901230 cc              int     3
-    0:000> <font color="#ff0000">g shlwapi!PathIsDirectoryA</font>
+    0:000> g shlwapi!PathIsDirectoryA
     ModLoad: 76360000 7637d000   C:\WINDOWS\system32\IMM32.DLL
     ModLoad: 62e80000 62e89000   C:\WINDOWS\system32\LPK.DLL
     ModLoad: 74d50000 74dbb000   C:\WINDOWS\system32\USP10.dll
@@ -231,7 +231,7 @@ O problema ocorre por causa da maneira que a função determina se o caminho é 
     eip=77ee75fa esp=0012fd54 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
     SHLWAPI!PathIsDirectoryA+0xc2:
-    77ee75fa ff15d411ea77    <font color="#ff0000">call    dword ptr [SHLWAPI!_imp__GetFileAttributesA (77ea11d4)]</font>
+    77ee75fa ff15d411ea77    call    dword ptr [SHLWAPI!_imp__GetFileAttributesA (77ea11d4)]
     0:000>
     eax=00000011 ebx=7ffde000 ecx=7c91056d edx=00140608 esi=0041dc5c edi=7c911970
     eip=77ee7600 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl zr na pe nc
@@ -249,7 +249,7 @@ O problema ocorre por causa da maneira que a função determina se o caminho é 
     eip=77ee7605 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz ac pe cy
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000217
     SHLWAPI!PathIsDirectoryA+0xcd:
-    77ee7605 83e010          <font color="#ff0000">and     eax,10h</font>
+    77ee7605 83e010          and     eax,10h
     0:000>
     eax=00000010 ebx=7ffde000 ecx=7c91056d edx=00140608 esi=0041dc5c edi=7c911970
     eip=77ee7608 esp=0012fd58 ebp=0012ff68 iopl=0         nv up ei pl nz na po nc
@@ -281,7 +281,7 @@ O problema ocorre por causa da maneira que a função determina se o caminho é 
     SHLWAPI!PathIsDirectoryA+0xbd:
     77ee75f5 c9              leave
     0:000>
-    <font color="#ff0000">eax=00000010</font> ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0006f4cc edi=7c911970
+    eax=00000010 ebx=7ffde000 ecx=00007a43 edx=00140608 esi=0006f4cc edi=7c911970
     eip=77ee75f6 esp=0012ff6c ebp=0012ff78 iopl=0         nv up ei pl zr na pe nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
     SHLWAPI!PathIsDirectoryA+0xbe:
@@ -317,7 +317,7 @@ O problema ocorre por causa da maneira que a função determina se o caminho é 
     IsPathDir!main+0x1b:
     0040102b e81a000000      call    IsPathDir!printf (0040104a)
     0:000>
-    <font color="#ff0000">Resultado: 16.</font>
+    Resultado: 16.
     eax=0000000f ebx=7ffde000 ecx=004010e5 edx=004228b8 esi=0006f4cc edi=7c911970
     eip=00401030 esp=0012ff6c ebp=0012ff78 iopl=0         nv up ei ng nz ac pe nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000296
@@ -343,8 +343,8 @@ Ou seja, para pastas locais a função simplesmente usa a conhecidíssima [GetFi
     0x800
     ...
     
-    <font color="#ff0000">FILE_ATTRIBUTE_DIRECTORY       The handle that identifies a directory.
+    FILE_ATTRIBUTE_DIRECTORY       The handle that identifies a directory.
     16
-    0x10"</font>
+    0x10"
 
 Aqui termina nossa dúvida sobre o pequenino bug na documentação. E isso nos lembra também que é sempre bom comparar as coisas da melhor maneira possível. E essa melhor maneira em se tratando de ifs é supor apenas dois valores binário: ou é zero ou é não-zero.

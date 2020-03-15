@@ -13,58 +13,39 @@ Apesar de não ter nada contra traduzir termos do inglês para português (e vic
 
 	
   * Não se darem o trabalho de colocar ambos os termos: o original em língua estrangeira e a adaptação em português.
-
-	
     * Ex.: "os **ponteiros** em C (**_pointers_**) são um recurso rico e necessário para a escrita de programas de baixo/médio nível".
-
-	
   * Não manterem uma mesma tradução durante todo o livro, esbanjando um festival de sinônimos que complicam bastante a compreensão semântica do conteúdo.
-
-	
     * Ex.:
 (em um capítulo) "... é muito importante inicializar seus **ponteiros** antes de usá-los".
 (em outro capítulo) "... sabe-se que a pior desgraça para um programador C são os famigerados **apontadores** selvagens".
-
-	
   * Traduzirem o código-fonte, quase sempre mal e porcamente. Um exemplo notável é o [famoso livro de algoritmos em C da O'Reilly](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Dominando+Algoritmos+em+C+O%27Reilly&site_origem=1293522), que mesmo na nova edição com uma errata de 49 itens foi possível detectar mais erros. O exemplo abaixo consta no item 46 da edição de 2000 (Editora Ciência Moderna):
-
-	
     * 
-
-    
           if (opos > 0) {
     
              if ((temp = (unsigned char *)realloc(orig, opos + 1)) == NULL) {
     
                 bitree_destroy(tree);
                 free(tree);
-                free(<font color="#ff0000">original</font>);
+                free(original);
                 return -1;
     
              }
     
-             <font color="#ff0000">orig </font>= temp;
+             orig = temp;
     
              }
     
     // Se vai errar o código, <strong>não traduza</strong>!
     // É importante notar que no original <strong>não consta</strong> esse erro.
 
-	
   * Não entenderem que um termo usado pelo autor na verdade é um vocábulo com significado especial para as pessoas que trabalham no ramo. Isso é pior do que não colocar a versão em inglês, pois dá a impressão que não existe significado a ser explicado.
-
-	
     * Ex.:
 (antes do capítulo sobre _threads_): "... quando um **fio **espera o outro e vice-versa, acontece o terrível **bug **da **trava da morte**".
 
 _Esses exemplos, salvo o exemplo do livro de algoritmos, foram criados para ilustrar os tipos de erros mais comuns em traduções de livros técnicos, e não estão relacionados com qualquer livro em específico._
 
-[![Homem tentando enfiar um fio na agulha.](/images/56bgzq0.png)](/images/56bgzq0.png)Então o que era inicialmente para ajudar as pessoas que estão iniciando alguns conceitos acaba por prejudicar ainda mais o aprendizado, gerando aquele tipo de confusão que só com ajuda extra (internet, professor, colega) pode ser resolvida.
+Então o que era inicialmente para ajudar as pessoas que estão iniciando alguns conceitos acaba por prejudicar ainda mais o aprendizado, gerando aquele tipo de confusão que só com ajuda extra (internet, professor, colega) pode ser resolvida.
 
 Assim como no vocabulário comum corrente, em que existem palavras dificilmente adaptáveis ou traduzíveis em um termo comum, como _shopping_ e _show_,  no meio técnico desabrocham as mais variadas expressões estrangeirísticas. Algumas são muito difíceis de encontrar seu primo lusófono, como _link_ e _login_. Outros, no entanto, exageram um pouco as coisas, a ponto de conjugarmos um verbo em inglês usando nosso sistema gramatical ("se você *stopar* o *debugador* vai *crashear* todo o sistema, porque esse _software_ tá *bugado*!").
 
 O fato é que não há escapatória para quem trabalha nessa área, e no fundo isso é uma coisa boa, pois é da leitura técnica em inglês que podemos estender o nosso conhecimento além das barreiras do .br e encontrar conteúdo extremamente interessante (e inédito em nossa língua) para aprender. Se não estivéssemos abarrotados de estrangeirismos talvez fosse um pouco mais difícil fazer o _switch_ entre essas duas linguagens.
-
-[](/images/kCIXlt1.png)
-
-[![Homem de negócios juntando os dois elos de uma corrente gigante.](/images/kCIXlt1.png)](/images/kCIXlt1.png)

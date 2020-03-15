@@ -3,7 +3,7 @@ date: "2008-01-16"
 title: Encontrando as respostas do Flash Pops
 tags: [ "code" ]
 ---
-[![Flash Pops](/images/nwYAF4Q.png)](/images/nwYAF4Q.png)Existe uma [série de jogos](http://www2.uol.com.br/flashpops/jogos/) no sítio da UOL onde você deve acertar o nome de filmes, programas de televisão, entre outros, que vão da [década de 40](http://www.imdb.com/title/tt0034583/) até a [atualidade](http://www.imdb.com/title/tt0109830/). É divertido e viciante fazer pesquisa na internet para encontrar os resultados, ainda mais quando já se é viciado em cinema. Ficamos jogando, eu e minha namorada, por semanas a fio. Quase chegamos a preencher tudo, e por um bom tempo ficamos travados para terminar. Então começamos a apelar para o [Google](http://www.google.com) e o [IMDB](http://www.imdb.com) até os limites do razoável. Nesse fim de semana, por exemplo, chegamos a assistir um filme de madrugada onde tocou rapidamente um trecho de uma das músicas que faltava no jogo sobre televisão. No dia seguinte procuramos a [trilha sonora do filme](http://www.imdb.com/title/tt0140688/soundtrack), ouvimos [faixa a faixa](http://www.amazon.com/exec/obidos/ASIN/B000007T6B/internetmoviedat/) e procuramos [o nome da música](http://www.google.com/search?q=) no Google, para finalmente encontrar [o resultado](http://www.imdb.com/title/tt0088559/).
+Existe uma [série de jogos](http://www2.uol.com.br/flashpops/jogos/) no sítio da UOL onde você deve acertar o nome de filmes, programas de televisão, entre outros, que vão da [década de 40](http://www.imdb.com/title/tt0034583/) até a [atualidade](http://www.imdb.com/title/tt0109830/). É divertido e viciante fazer pesquisa na internet para encontrar os resultados, ainda mais quando já se é viciado em cinema. Ficamos jogando, eu e minha namorada, por semanas a fio. Quase chegamos a preencher tudo, e por um bom tempo ficamos travados para terminar. Então começamos a apelar para o [Google](http://www.google.com) e o [IMDB](http://www.imdb.com) até os limites do razoável. Nesse fim de semana, por exemplo, chegamos a assistir um filme de madrugada onde tocou rapidamente um trecho de uma das músicas que faltava no jogo sobre televisão. No dia seguinte procuramos a [trilha sonora do filme](http://www.imdb.com/title/tt0140688/soundtrack), ouvimos [faixa a faixa](http://www.amazon.com/exec/obidos/ASIN/B000007T6B/internetmoviedat/) e procuramos [o nome da música](http://www.google.com/search?q=) no Google, para finalmente encontrar [o resultado](http://www.imdb.com/title/tt0088559/).
 
 Essa foi a última resposta "honesta". Depois resolvi apelar para o WinDbg =)
 
@@ -80,7 +80,7 @@ De fato, a lista de respostas é tudo que encontramos.
 Assim como no [artigo sobre carregamento de DLLs arbitrárias](/carregando-dlls-arbitrarias-pelo-windbg-parte-2),  vamos usar o muito útil comando **.foreach**, que caminha em uma lista de resultados de um comando para executar uma lista secundária de comandos. Apenas para relembrar, a sintaxe do foreach é a seguinte:
 
     
-    .foreach [Options] ( <font color="#ff0000">Variable</font>  { <font color="#0000ff">InCommands</font> } ) { <font color="#008000">OutCommands</font> }
+    .foreach [Options] ( Variable  { InCommands } ) { OutCommands }
 
 	
   * Variable. Um nome que usamos no OutCommands. Representa cada _token_ do resultado de InCommands.
@@ -99,29 +99,29 @@ Para o .foreach, um _token_ é uma string separada por espaço(s). A saída dos 
     .foreach ( answerList { s -a 0 0fffffff "caca fantasmas" } ) { .echo answerList }
 
     
-    <font color="#ff6600">0575f458</font>
-    <font color="#808000">63</font>
-    <font color="#ff6600">61</font>
-    <font color="#808000">63</font>
-    <font color="#ff6600">61</font>
-    <font color="#808000">20</font>
-    <font color="#ff6600">66</font>
-    <font color="#808000">61</font>
-    <font color="#ff6600">6e-74</font>
-    <font color="#808000">61</font>
-    <font color="#ff6600">73</font>
-    <font color="#808000">6d</font>
-    <font color="#ff6600">61</font>
-    <font color="#808000">73</font>
-    <font color="#ff6600">00</font>
-    <font color="#808000">63</font>
-    <font color="#ff6600">caca</font>
-    <font color="#808000">fantasmas.c</font>
+    0575f458
+    63
+    61
+    63
+    61
+    20
+    66
+    61
+    6e-74
+    61
+    73
+    6d
+    61
+    73
+    00
+    63
+    caca
+    fantasmas.c
 
 Isso acontece porque ele utilizada cada palavra separada por espaços da saída da busca.
 
     
-    <font color="#ff6600">0575f458 </font><font color="#808000">63 </font><font color="#ff6600">61 </font><font color="#808000">63 </font><font color="#ff6600">61 </font><font color="#808000">20 </font><font color="#ff6600">66 </font><font color="#808000">61 </font><font color="#ff6600">6e-74 </font><font color="#808000">61 </font><font color="#ff6600">73 </font><font color="#808000">6d </font><font color="#ff6600">61 </font><font color="#808000">73 </font><font color="#ff6600">00 </font><font color="#808000">63 </font><font color="#ff6600">caca </font><font color="#808000">fantasmas.c</font>
+    0575f458 63 61 63 61 20 66 61 6e-74 61 73 6d 61 73 00 63 caca fantasmas.c
 
 Por isso usamos a flag **[1]**, que faz com que o comando imprima **apenas o endereço** onde ele encontrou a string.
 

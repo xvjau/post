@@ -56,16 +56,16 @@ Também existe um outro formato bem popular, usado pelo pessoal do Java, que sã
 Além desse estilo de comentário, existem campos-chave que podemos colocar. Para definir um campo-chave, uma forma válida é usar o arroba seguido do seu nome, e a descrição. Eis um exemplo cheio deles:
 
     
-    /** <font color="#ff0000">@brief</font> Função de exemplo
+    /** @brief Função de exemplo
     *
     * Essa função tem por objetivo exemplificar o uso do Doxygen
     *
-    * <font color="#ff0000">@param</font> firstParam Serve como primeiro parâmetro da função
-    * <font color="#ff0000">@param[out]</font> anotherParam Esse é outro parâmetro que recebemos
+    * @param firstParam Serve como primeiro parâmetro da função
+    * @param[out] anotherParam Esse é outro parâmetro que recebemos
     *
-    * <font color="#ff0000">@return</font> Se der erro, retorna -1. Se der tudo certo, 0.
+    * @return Se der erro, retorna -1. Se der tudo certo, 0.
     *
-    * <font color="#ff0000">@remarks</font> Essa função não pode ser chamada antes de ChamaEuPrimeiro.
+    * @remarks Essa função não pode ser chamada antes de ChamaEuPrimeiro.
     */
     int FuncaoDeExemplo(int firstParam, int anotherParam)
     {

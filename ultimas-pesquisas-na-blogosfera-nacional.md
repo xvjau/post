@@ -3,7 +3,7 @@ date: "2009-05-08"
 title: Últimas pesquisas na blogosfera nacional
 tags: [ "blog" ]
 ---
-![Mapa do Brasil com o código do filme Matrix](/images/adh1hgp.png) É um imenso prazer constatar que hoje, mais de dez anos depois de eu ter iniciado minha caminhada pelo mundo da programação C/C++, temos uma reação de blogues e saites prontos para elucidar questões simples e avançadas dessas duas linguagens que ainda não morreram e, se depender de como as coisas andam, ainda vão durar pelo menos mais uns dez anos (sim, não sou tão otimista assim).
+É um imenso prazer constatar que hoje, mais de dez anos depois de eu ter iniciado minha caminhada pelo mundo da programação C/C++, temos uma reação de blogues e saites prontos para elucidar questões simples e avançadas dessas duas linguagens que ainda não morreram e, se depender de como as coisas andam, ainda vão durar pelo menos mais uns dez anos (sim, não sou tão otimista assim).
 
 Esse artigo é só para constar em minha lista de referência para o aprendizado de C, C++ e todas as outras coisas que vem depois. Se eu tivesse que escrever isso lá no início, provavelmente recomendaria mais linques de livros e saites em inglês. Hoje, felizmente, temos um conteúdo em pleno desenvolvimento em nossa blogosfera tupiniquim. E espero que continue assim!
 

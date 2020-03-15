@@ -38,11 +38,7 @@ Continuo escovando bits. Dessa vez de forma mais nervosa. Se trata de um serviç
      1429  Id: 4c8.1410 Suspend: 1 Teb: 7fa08000 Unfrozen
           Start: rpcrt4!ThreadStartRoutine (77d37e70)
           Priority: 0  Priority class: 32  Affinity: f
-
-1430 
-
-    
-    Id: 4c8.143c Suspend: 1 Teb: 7fa06000 Unfrozen
+    1430 Id: 4c8.143c Suspend: 1 Teb: 7fa06000 Unfrozen
           Priority: 0  Priority class: 32  Affinity: f
 
 São muitas.
@@ -94,11 +90,8 @@ Analisar essa quantidade absurda de threads seria um saco. Além de inútil. Foi
     6665ffec 00000000 KERNEL32!BaseThreadStart+0x52
     
     Total threads: 1431
-    Duplicate callstacks:
+    Duplicate callstacks: 1092 
 
-1092 
-
-    
     (windbg thread #s follow):
     7, 9, 11, 12, 13, 14, 15, 17, 18, 20, 21, (...), 1428, 1429
 
@@ -107,7 +100,7 @@ Muitas threads duplicadas. Isso quer dizer que podemos nos focar na pilha de uma
     
     0:000> ~1429 kv
 
-ChildEBP 
+    ChildEBP 
 
     
     RetAddr  Args to Child
@@ -116,12 +109,12 @@ ChildEBP
     6645f36c 004054c3 ... KERNEL32!WaitForSingleObject+0xf (FPO: [2,0,0])
     WARNING: Stack unwind information not available. Following frames may be wrong.
 
-6645f690 004060ec ... Service+0x54c3 6645f764 77d79970 
+    6645f690 004060ec ... Service+0x54c3 6645f764 77d79970 
 
     
     ...
 
-Service+0x60ec6645f788 
+    Service+0x60ec6645f788 
 
     
     77d96460 ... rpcrt4!Invoke+0x30
@@ -156,9 +149,7 @@ Através das funções de RPC e OLE32 podemos concluir que se trata de uma chama
     
     0:000> ub
 
-77d79970
-
-    
+    77d79970
     rpcrt4!Invoke+0x20:
     77d79960 fd              std
     77d79961 f3a5            rep movs dword ptr es:[edi],dword ptr [esi]
@@ -167,20 +158,13 @@ Através das funções de RPC e OLE32 podemos concluir que se trata de uma chama
     77d79967 669d            popf
     77d79969 669d            popf
     77d7996b 8b4508          mov     eax,
-
-dword ptr [ebp+8]
-
-    
+    dword ptr [ebp+8]
     77d7996e ffd0            call    eax
 
 Nossa função é obtida em ebp+8. Podemos obter esse endereço pelo campo **ChildEBP **da função em questão.
 
     
-    0:000> dd
-
-6645f788
-
-    
+    0:000> dd 6645f788
     +8 l1
     6645f790  00406061
     0:000> uf 00406061
@@ -188,35 +172,21 @@ Nossa função é obtida em ebp+8. Podemos obter esse endereço pelo campo **Chi
     00406061 55              push    ebp
     00406062 8bec            mov     ebp,esp
     00406064 81ecc8000000    sub     esp,0C8h
-    0040606a 833db09f410000
-
-cmp dword ptr [Service+0x19fb0 (00419fb0)],0
-
-    
+    0040606a 833db09f410000 cmp dword ptr [Service+0x19fb0 (00419fb0)],0
     00406071 751b            jne     Service+0x608e (0040608e)
-
-Service+0x6073
-
-    
-    :
+    Service+0x6073 :
     00406073 6a00            push    0
     00406075 6860514100      push    offset Service+0x15160 (00415160)
     0040607a b9609e4100      mov     ecx,offset Service+0x19e60 (00419e60)
     0040607f e822080000      call    Service+0x68a6 (004068a6)
     00406084 8b4514          mov     eax,dword ptr [ebp+14h]
-    00406087 66c7002f00      mov
-
-word ptr [eax],2Fh
-
-    
+    00406087 66c7002f00      mov word ptr [eax],2Fh
     0040608c eb65            jmp     Service+0x60f3 (004060f3)
-    
     Service+0x608e:
     0040608e 56              push    esi
     0040608f 8b7508          mov     esi,dword ptr [ebp+8]
     00406092 837e5200        cmp     dword ptr [esi+52h],0
     00406096 7430            je      Service+0x60c8 (004060c8)
-    
     Service+0x6098:
     00406098 8d8538ffffff    lea     eax,[ebp-0C8h]
     0040609e 6830514100      push    offset Service+0x15130 (00415130)
@@ -232,7 +202,6 @@ word ptr [eax],2Fh
     004060be 8b4514          mov     eax,dword ptr [ebp+14h]
     004060c1 66c7000a40      mov     word ptr [eax],400Ah
     004060c6 eb2a            jmp     Service+0x60f2 (004060f2)
-    
     Service+0x60c8:
     004060c8 6804010000      push    104h
     004060cd 8d868c010000    lea     eax,[esi+18Ch]
@@ -319,27 +288,15 @@ Para confirmar que não estamos sonhando, podemos dar uma olhada no parâmetro p
     Service+0x6073:
     00406073 6a00            push    0
     00406075 6860514100      push    offset Service+0x15160 (
-
-00415160
-
-    
-    )
+    00415160
     0040607a b9609e4100      mov     ecx,offset Service+0x19e60 (00419e60)
     0040607f e822080000      call
-
-Service+0x68a6
-
-    
-     (004068a6)
+    Service+0x68a6 (004068a6)
     00406084 8b4514          mov     eax,dword ptr [ebp+14h]
     00406087 66c7002f00      mov     word ptr [eax],2Fh
     0040608c eb65            jmp     Service+0x60f3 (004060f3)
-    
     0:000> da
-
-00415160
-
-    
+    00415160
     00415160  "Error opening file before databa"
     00415180  "se to be initialized."
 

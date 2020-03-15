@@ -149,14 +149,8 @@ Além desse evento, que era o que eu estava procurando, esse método permite obt
 
     
   * **JOB_OBJECT_MSG_NEW_PROCESS**. Um novo processo foi criado dentro do job.
-
-    
-  * ** JOB_OBJECT_MSG_EXIT_PROCESS**. Um processo existente dentro do job foi terminado.
-
-    
+  * **JOB_OBJECT_MSG_EXIT_PROCESS**. Um processo existente dentro do job foi terminado.
   * **JOB_OBJECT_MSG_PROCESS_MEMORY_LIMIT**. O limite de memória de um processo já foi alcançado.
-
-    
   * **JOB_OBJECT_MSG_END_OF_PROCESS_TIME**. O limite de tempo de processamento de um processo já foi alcançado.
 
 Enfim, jobs não terminam por aí. Dê mais uma olhada no MSDN e veja se encontra mais alguma utilidade interessante para o nosso amigo job. Eu encontrei e fiquei feliz.

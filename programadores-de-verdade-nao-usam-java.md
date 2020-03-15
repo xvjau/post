@@ -3,7 +3,7 @@ date: "2009-06-18"
 title: Programadores de verdade não usam Java
 tags: [ "blog" ]
 ---
-![Real Programmer](/images/UCyHOVx.png)Quando era um [_newbie_](/o-passado-torto-de-um-programador-por-acaso) (e um [_wanna-be_](/barata-eletrica-e-o-hacker-de-antigamente)) gostava de ler o "[Real Programmers Don't Use Pascal](http://rixstep.com/2/2/20071015,00.shtml)", um texto humorístico que mais me influenciou e encorajou a caminho da iluminação C/C++ do que o [livro de K&R](http://www.caloni.com.br/the-c-programming-language). A partir dele, supunha eu, ser um "programador de verdade" era ser tudo. Ser um Quiche Eater (Comedor de Torta) não era nada. Programadores de verdade é que resolvem os problemas de verdade! Quiche Eaters são os losers que estudam os conceitos acadêmicos da ciência da computação e nunca fazem um maldito programa que preste (conhece alguém assim?).
+Quando era um [_newbie_](/o-passado-torto-de-um-programador-por-acaso) (e um [_wanna-be_](/barata-eletrica-e-o-hacker-de-antigamente)) gostava de ler o "[Real Programmers Don't Use Pascal](http://rixstep.com/2/2/20071015,00.shtml)", um texto humorístico que mais me influenciou e encorajou a caminho da iluminação C/C++ do que o [livro de K&R](http://www.caloni.com.br/the-c-programming-language). A partir dele, supunha eu, ser um "programador de verdade" era ser tudo. Ser um Quiche Eater (Comedor de Torta) não era nada. Programadores de verdade é que resolvem os problemas de verdade! Quiche Eaters são os losers que estudam os conceitos acadêmicos da ciência da computação e nunca fazem um maldito programa que preste (conhece alguém assim?).
 
 Piadas à parte, para mim o humor do texto ainda pode ser aproveitado por aqueles que já se acham muito bons e acreditam não terem mais como crescer profissionalmente. Quando [meu ego infla demais](/entrevista-com-o-caloni-no-do-zero-ao-mestre), ainda me lembro que enquanto programo com [APIs de brincadeirinha](/retorno-do-pathisdirectory) e um [sistema operacional](http://www.caloni.com.br/por-que-minha-dll-travou) que é uma piada tem gente [projetando uma nave](/bugs-dificeis-de-achar) que vai sair da órbita do Sistema Solar!
 
@@ -37,6 +37,6 @@ O fato é que, independente de quanto mais o mundo se tornar "gerenciado" por tr
 
 PS: Na verdade, me lembrei. Eu peguei esse cacoete de falar "quem sabe faz na hora" do meu amigo [Thiago](http://codebehind.wordpress.com/). Ele também dizia "se vira nos 30!". Bom, se eu citar todas as frases brilhantes que ele usava quando trabalhávamos juntos o texto vai ficar bem longo =)
 
-### Update
+#### Update
 
 _Se você gostou desse texto, talvez goste de **[eXtreme Go Horse](/extreme-go-horse)**!_

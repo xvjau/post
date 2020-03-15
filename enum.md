@@ -6,7 +6,7 @@ tags: [ "code" ]
 Padrão C (ISO/IEC 9899:1990)
     
     6.5.2.2 enum-specifier
-     <strong>enum</strong>
+     enum
 
     
     Padrão C++ (ISO/IEC 14882:1998)
@@ -15,7 +15,7 @@ Padrão C (ISO/IEC 9899:1990)
      enum-specifier
     
     enum-specifier
-     <strong>enum</strong>
+     enum
 
 Uma enumeração faz duas coisas: define um novo tipo, parecido com um inteiro, e cria uma **lista de constantes com nomes significativos**. A definição técnica do tipo de um enum é mais complicada, mas basicamente ele é um novo int.
 

@@ -27,19 +27,19 @@ Para instalar o _plugin _do **rebase**, basta [baixá-lo e](http://bazaar-vcs.or
     branch          Create a new copy of a branch.
     ...
     push            Update a mirror of this branch.
-    <font color="#ff0000">rebase          Re-base a branch. [rebase]
+    rebase          Re-base a branch. [rebase]
     rebase-abort    Abort an interrupted rebase [rebase]
     rebase-continue Continue an interrupted rebase after resolving conflicts [rebase]
     rebase-todo     Print list of revisions that still need to be replayed as part of the  [rebase]
-    </font>reconcile       Reconcile bzr metadata in a branch.
+    reconcile       Reconcile bzr metadata in a branch.
     reconfigure     Reconfigure the type of a bzr directory.
     register-branch Register a branch with launchpad.net. [launchpad]
     remerge         Redo a merge.
     remove          Remove files or directories.
     remove-tree     Remove the working tree from a given branch/checkout.
     renames         Show list of renamed files.
-    <font color="#ff0000">replay          Replay commits from another branch on top of this one. [rebase]
-    </font>resolve         Mark a conflict as resolved.
+    replay          Replay commits from another branch on top of this one. [rebase]
+    resolve         Mark a conflict as resolved.
     revert          Revert files to a previous revision.
     ...
     whoami          Show or set bzr user id.

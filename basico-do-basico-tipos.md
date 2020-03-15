@@ -3,7 +3,7 @@ date: "2008-12-12"
 title: 'Básico do básico: tipos'
 tags: [ "code" ]
 ---
-![Forma de bolo.](/images/hSQliI2.jpg)Um tipo nada mais é que do que uma forma (ô) de bolo, que **molda a memória** como acharmos melhor moldá-la. Bom, para isso fazer sentido é necessário explicar memória, que é um conceito **mais básico ainda**.
+Um tipo nada mais é que do que uma forma (ô) de bolo, que **molda a memória** como acharmos melhor moldá-la. Bom, para isso fazer sentido é necessário explicar memória, que é um conceito **mais básico ainda**.
 
 A memória é **qualquer lugar** onde eu possa **guardar alguma coisa**. No [artigo anterior](/basico-do-basico-ponteiros) era um punhado de [gavetas](/images/sx9fYjS.gif). Mas poderiam muito bem ser caixas de presente. Ou um caderno. Ou até uma placa de memória RAM. O que sua criatividade quiser.
 
@@ -83,7 +83,7 @@ Esses elementos, na memória, são um bando de número que, sem os tipos, não p
 
 [![Interpretação de memória de texto e números em um programa C.](/images/zpBbtuD.png)](/images/zpBbtuD.png)
 
-    Note que os números não estão aqui representados em decimal, onde se esperaria 35 e 42, pois a representação formal da memória geralmente está no formato hexadecimal, transformando esses números em 0x23 e 0x2a, respectivamente. Para entender essa diferença cabe estudar um pouco sobre base numérica, outro tema básico do programador sólido.
+_Note que os números não estão aqui representados em decimal, onde se esperaria 35 e 42, pois a representação formal da memória geralmente está no formato hexadecimal, transformando esses números em 0x23 e 0x2a, respectivamente. Para entender essa diferença cabe estudar um pouco sobre base numérica, outro tema básico do programador sólido._
 
 #### Practice makes perfect
 

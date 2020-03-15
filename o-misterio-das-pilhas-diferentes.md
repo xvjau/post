@@ -23,15 +23,15 @@ A análise inicial consistia simplesmente em verificar as entradas e saídas da 
     g
 
     
-    0012fa70  0040a7a9 00000200 <font color="#ff0000">08bbf1d0 00000200</font>
+    0012fa70  0040a7a9 00000200 08bbf1d0 00000200
     0012fa80  0012fa88 00000000
     eax=0012fa88 ebx=00000200 ecx=00000200 edx=08bbf1d0 esi=08bbf1d0 edi=00000200
     eip=7c80180e esp=0012fa70 ebp=0012facc iopl=0         nv up ei pl zr na pe nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
     kernel32!ReadFile:
     7c80180e 6a20            push    20h
-    $$ O buffer de saída é <font color="#ff0000">08bbf1d0 </font>
-    $$ O número de bytes lidos é <font color="#ff0000">200</font>
+    $$ O buffer de saída é 08bbf1d0 
+    $$ O número de bytes lidos é 200
     0:000> db 08bbf1d0 L80
     08bbf1d0  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
     08bbf1e0  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
@@ -43,14 +43,14 @@ A análise inicial consistia simplesmente em verificar as entradas e saídas da 
     08bbf240  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
     0:000> bp /1 @$ra "db 08bbf1d0 L80"
     0:000> g
-    08bbf1d0  2a 70 72 6f 67 72 61 6d-61 2d 66 6f 6e 74 65 0d  <font color="#ff0000">*programa-fonte.</font>
-    08bbf1e0  0a 43 73 2e 6d 2e 0d 0a-64 7b 5c 69 20 73 58 58  <font color="#ff0000">.Cs.m...d{\i sXX</font>
-    08bbf1f0  7d 0d 0a 54 69 6e 66 0d-0a 3a 70 72 6f 67 72 61  <font color="#ff0000">}..Tinf..:progra</font>
-    08bbf200  6d 61 20 64 65 20 63 6f-6d 70 75 74 61 64 6f 72  <font color="#ff0000">ma de computador</font>
-    08bbf210  20 65 6d 20 73 75 61 20-66 6f 72 6d 61 20 6f 72  <font color="#ff0000"> em sua forma or</font>
-    08bbf220  69 67 69 6e 61 6c 2c 20-61 6e 6f 74 61 64 6f 20  <font color="#ff0000">iginal, anotado</font>
-    08bbf230  70 65 6c 6f 20 70 72 6f-67 72 61 6d 61 64 6f 72  <font color="#ff0000">pelo programador</font>
-    08bbf240  20 65 6d 20 75 6d 61 20-6c 69 6e 67 75 61 67 65  <font color="#ff0000"> em uma linguage</font>
+    08bbf1d0  2a 70 72 6f 67 72 61 6d-61 2d 66 6f 6e 74 65 0d  *programa-fonte.
+    08bbf1e0  0a 43 73 2e 6d 2e 0d 0a-64 7b 5c 69 20 73 58 58  .Cs.m...d{\i sXX
+    08bbf1f0  7d 0d 0a 54 69 6e 66 0d-0a 3a 70 72 6f 67 72 61  }..Tinf..:progra
+    08bbf200  6d 61 20 64 65 20 63 6f-6d 70 75 74 61 64 6f 72  ma de computador
+    08bbf210  20 65 6d 20 73 75 61 20-66 6f 72 6d 61 20 6f 72   em sua forma or
+    08bbf220  69 67 69 6e 61 6c 2c 20-61 6e 6f 74 61 64 6f 20  iginal, anotado
+    08bbf230  70 65 6c 6f 20 70 72 6f-67 72 61 6d 61 64 6f 72  pelo programador
+    08bbf240  20 65 6d 20 75 6d 61 20-6c 69 6e 67 75 61 67 65   em uma linguage
     0:000> $$
     0:000> $$ Tudo legível? Mas já? Ai, meu Deus, alguém chama uma benzedeira!
     0:000> $$
@@ -68,19 +68,19 @@ Sim, alguma coisa não-trivial acaba de acontecer. Testei esse procedimento no _
 Depois de um pouco de cabeçadas rastreando o _assembly_ executado, descobri que o ponto onde o _breakpoint_ havia parado não era o retorno da chamada a ReadFile. Isso eu não vou demonstrar aqui pois se trata de raciocínio de passo-a-passo no _assembly_ até descobrir a diferença. É enfadonho e sujeito a erros. Sugiro que tente um dia desses. Para mim, o resultado lógico de tudo isso é a saída que segue:
 
     
-    0012fa70  0040a7a9 00000200 <font color="#ff0000">08bbf1d0 00000200</font>
+    0012fa70  0040a7a9 00000200 08bbf1d0 00000200
     0012fa80  0012fa88 00000000
     eax=0012fa88 ebx=00000200 ecx=00000200 edx=08bbf1d0 esi=08bbf1d0 edi=00000200
     eip=7c80180e esp=0012fa70 ebp=0012facc iopl=0         nv up ei pl zr na pe nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
     kernel32!ReadFile:
     7c80180e 6a20            push    20h
-    0:000> ? <font color="#ff0000">poi(esp)</font>
-    Evaluate expression: 4237225 = <font color="#ff0000">0040a7a9</font>
-    0:000> ? <font color="#ff6600">@$ra</font>
-    Evaluate expression: 4959640 = <font color="#ff6600">004bad98</font>
-    0:000> ? <font color="#ff0000">poi(@$csp)</font>
-    Evaluate expression: 4237225 = <font color="#ff0000">0040a7a9 </font>
+    0:000> ? poi(esp)
+    Evaluate expression: 4237225 = 0040a7a9
+    0:000> ? @$ra
+    Evaluate expression: 4959640 = 004bad98
+    0:000> ? poi(@$csp)
+    Evaluate expression: 4237225 = 0040a7a9 
 
 Como podemos ver pelos comandos acima, o pseudo-registrador $ra não está mostrando o valor corretamente!
 
@@ -89,7 +89,7 @@ Como podemos ver pelos comandos acima, o pseudo-registrador $ra não está mostr
 A primeira coisa que se faz numa hora dessas é comparar as versões dos componentes do depurador de ambos os ambientes. Para isso usamos o comando **version**.
 
     
-    0:000> version <font color="#ff6600">$$ desktop</font>
+    0:000> version $$ desktop
     Windows XP Version 2600 (Service Pack 2) UP Free x86 compatible
     Product: WinNt, suite: SingleUserTS
     kernel32.dll version:
@@ -100,9 +100,9 @@ A primeira coisa que se faz numa hora dessas é comparar as versões dos compone
       User time: 0 days 0:00:02.723
     Live user mode: <Local>
     command line: '"C:\Tools\DbgTools\windbg.exe" -pn houaiss2.exe'  Debugger Process 0xEC4
-    dbgeng:  image <font color="#ff6600">6.6.0007.5</font>, built Sat Jul 08 17:12:40 2006
+    dbgeng:  image 6.6.0007.5, built Sat Jul 08 17:12:40 2006
             [path: C:\Tools\DbgTools\dbgeng.dll]
-    dbghelp: image <font color="#ff6600">6.6.0007.5</font>, built Sat Jul 08 17:11:32 2006
+    dbghelp: image 6.6.0007.5, built Sat Jul 08 17:11:32 2006
             [path: C:\Tools\DbgTools\dbghelp.dll]
             DIA version: 60516
     Extension DLL search Path:
@@ -120,7 +120,7 @@ A primeira coisa que se faz numa hora dessas é comparar as versões dos compone
             [path: C:\Tools\DbgTools\WINXP\ntsdexts.dll]
 
     
-    0:000> version <font color="#ff6600">$$ laptop</font>
+    0:000> version $$ laptop
     Windows XP Version 2600 (Service Pack 2) UP Free x86 compatible
     Product: WinNt, suite: SingleUserTS Personal
     kernel32.dll version:
@@ -131,9 +131,9 @@ A primeira coisa que se faz numa hora dessas é comparar as versões dos compone
       User time: 0 days 0:00:01.078
     Live user mode: <Local>
     command line: '"C:\Tools\DbgTools\windbg.exe" -pn houaiss2.exe'  Debugger Process 0x864
-    dbgeng:  image <font color="#ff6600">6.8.0004.0</font>, built Thu Sep 27 18:28:09 2007
+    dbgeng:  image 6.8.0004.0, built Thu Sep 27 18:28:09 2007
             [path: C:\Tools\DbgTools\dbgeng.dll]
-    dbghelp: image <font color="#ff6600">6.8.0004.0</font>, built Thu Sep 27 18:27:05 2007
+    dbghelp: image 6.8.0004.0, built Thu Sep 27 18:27:05 2007
             [path: C:\Tools\DbgTools\dbghelp.dll]
             DIA version: 20119
     Extension DLL search Path:

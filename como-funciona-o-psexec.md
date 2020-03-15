@@ -68,7 +68,7 @@ Nessa segunda fase, podemos refazer o comportamento esperado inúmeras vezes, co
     kernel32!CreateFileW:
     7c8107f0 8bff            mov     edi,edi
     0:000> du poi(@esp+4)
-    0011ee90  <font color="#0000ff">"\\.\PIPE\wkssvc"</font>
+    0011ee90  "\\.\PIPE\wkssvc"
     0:000> k 50 // pilha muito grande!
     ChildEBP RetAddr
     0011ee6c 77dc4b92 kernel32!CreateFileW
@@ -99,7 +99,7 @@ Nessa segunda fase, podemos refazer o comportamento esperado inúmeras vezes, co
     00121e98 71ae50f0 MPR!WNetUseConnectionW+0x58
     *** WARNING: Unable to verify checksum for image00400000
     *** ERROR: Module load completed but symbols could not be loaded for image00400000
-    00121ec0 00401796 <font color="#0000ff">MPR!WNetAddConnection2W</font>+0x1c
+    00121ec0 00401796 MPR!WNetAddConnection2W+0x1c
     WARNING: Stack unwind information not available. Following frames may be wrong.
     001225d0 0032002e image00400000+0x1796
     001225d4 0030002e 0x32002e
@@ -119,17 +119,17 @@ Se analisarmos mais a fundo a pilha de chamadas conseguiremos dar um olhada nos 
     00121e98 71ae50f0 00000000 00121ee4 004182a0 MPR!WNetUseConnectionW+0x58 (FPO: [Non-Fpo])
     *** WARNING: Unable to verify checksum for image00400000
     *** ERROR: Module load completed but symbols could not be loaded for image00400000
-    00121ec0 00401796 <font color="#0000ff">00121ee4 </font><font color="#000000">004182a0 004139e0</font><font color="#000000"> </font>MPR!WNetAddConnection2W+0x1c (FPO: [Non-Fpo])
+    00121ec0 00401796 00121ee4 004182a0 004139e0 MPR!WNetAddConnection2W+0x1c (FPO: [Non-Fpo])
     WARNING: Stack unwind information not available. Following frames may be wrong.
     001225d0 0032002e 0030002e 0034002e 00000030 image00400000+0x1796
     001225d4 0030002e 0034002e 00000030 00000000 0x32002e
     001225d8 0034002e 00000030 00000000 00000000 0x30002e
     001225dc 00000000 00000000 00000000 00000000 0x34002e
-    0:000> db <font color="#0000ff">00121ee4</font>
+    0:000> db 00121ee4
     00121ee4  00 00 00 00 00 00 00 00-00 00 00 00 03 00 00 00  ................
     00121ef4  e2 1e 12 00 04 1f 12 00-00 00 00 00 00 00 00 00  ................
-    00121f04  5c 00 5c 00 31 00 30 00-2e 00 32 00 2e 00 30 00  <font color="#0000ff">\.\.1.0...2...0.</font>
-    00121f14  2e 00 34 00 30 00 5c 00-49 00 50 00 43 00 24 00  <font color="#0000ff">..4.0.\.I.P.C.$.</font>
+    00121f04  5c 00 5c 00 31 00 30 00-2e 00 32 00 2e 00 30 00  \.\.1.0...2...0.
+    00121f14  2e 00 34 00 30 00 5c 00-49 00 50 00 43 00 24 00  ..4.0.\.I.P.C.$.
     00121f24  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
     00121f34  00 00 00 00 00 00 00 00-00 00 00 00 00 00 00 00  ................
     00121f44  cc da 90 7c c8 2d 91 7c-ec 07 00 00 88 1f 12 00  ...|.-.|........
@@ -140,7 +140,7 @@ Ele tenta abrir uma conexão com a máquina-alvo em seu compartilhamento de **IP
 Depois sugem várias paradas ao CreateFile, de maneira que a melhor forma de acompanhar isso é colocando um "_dumpezinho_" de memória na sua parada:
 
     
-    0:000> bp kernel32!CreateFileW "<font color="#0000ff">du poi(@esp+4)</font>"
+    0:000> bp kernel32!CreateFileW "du poi(@esp+4)"
     breakpoint 0 redefined
     0:000> g
     0011ee90  "\\.\PIPE\wkssvc"
@@ -164,7 +164,7 @@ Depois sugem várias paradas ao CreateFile, de maneira que a melhor forma de aco
     kernel32!CreateFileW:
     7c8107f0 8bff            mov     edi,edi
     0:000> g
-    0012213c  <font color="#0000ff">"\\10.2.0.40\ADMIN$\PSEXESVC.EXE"</font>
+    0012213c  "\\10.2.0.40\ADMIN$\PSEXESVC.EXE"
     eax=00122090 ebx=00000003 ecx=00000000 edx=009300d0 esi=00000080 edi=ffffffff
     eip=7c8107f0 esp=00122064 ebp=001220ac iopl=0         nv up ei pl nz ac po cy
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000213
@@ -180,7 +180,7 @@ Muito bem! Chegamos a mais um ponto importante de nossa análise: o psexecsvc.ex
     Status       Local     Remoto                    Rede
     
     -------------------------------------------------------------------------------
-    OK                     <font color="#0000ff">\\10.2.0.40\IPC$</font>          Rede Microsoft Windows
+    OK                     \\10.2.0.40\IPC$          Rede Microsoft Windows
     Comando concluído com êxito.
     
     >

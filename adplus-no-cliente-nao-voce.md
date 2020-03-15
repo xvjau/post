@@ -47,13 +47,13 @@ A partir do second chance podemos visualizar a cagada feita pelo nosso WinDbg de
     eax=0007cfb8 ebx=80004005 ecx=7e37a622 edx=0000000a esi=00000208 edi=003604e2
     eip=00000000 esp=0007cfa0 ebp=0007d9e4 iopl=0         nv up ei ng nz na pe nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000286
-    <font color="#ff0000">00000000 ??              ???</font>
+    00000000 ??              ???
     k
 
     
     ChildEBP RetAddr
     WARNING: Frame IP not in any known module. Following frames may be wrong.
-    <font color="#ff0000">0007cf9c 763ab8a8 0x0</font>
+    0007cf9c 763ab8a8 0x0
     0007d9e4 763ab90c comdlg32!CDMessageBox+0x76
     0007da04 7638beee comdlg32!InvalidFileWarningNew+0x54
     0007e278 763873cf comdlg32!CFileOpenBrowser::OKButtonPressed+0x9f0

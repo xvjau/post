@@ -20,16 +20,16 @@ Uma solução alternativa para isso é alocar um novo pedaço de memória para a
        ...
        12 0040107d 5d              pop     ebp
        12 0040107e c3              ret
-    0:000> .writemem <font color="#008000">DoProcess.func</font> 00401020 0040107e
-    Writing <font color="#0000ff">5f bytes</font>.
+    0:000> .writemem DoProcess.func 00401020 0040107e
+    Writing 5f bytes.
 
     
     windbg -pvr -pn criticalservice2.exe
     
     0:000> .dvalloc 0x5f
     Allocated 1000 bytes starting at 00030000
-    0:000> .readmem <font color="#008000">DoProcess.func</font> 00030000 <font color="#0000ff">L5f</font>
-    Reading <font color="#0000ff">5f bytes</font>.
+    0:000> .readmem DoProcess.func 00030000 L5f
+    Reading 5f bytes.
     0:000> uf 00030000
     00030000 55              push    ebp
     ...

@@ -10,7 +10,7 @@ Uma diferença que eu considero crucial na linguagem C/C++ é a questão da decl
     {
        int x;
        int y;
-       <font color="#ff0000">Element* next;</font> /* olha eu mesmo aqui! */
+       Element* next; /* olha eu mesmo aqui! */
     };
 
 Por outro lado, e mais importante ainda, é ela que permite que as funções sejam organizadas em **unidades de tradução** (cpps) distintas para depois se unirem durante o _link_, mesmo que entre elas exista uma relação de dependência indissociável:
@@ -76,9 +76,9 @@ Então por que diabos a separação declaração/definição consegue definir co
 Dessa forma, o começo de uma definição de estrutura já declara o nome da estrutura antes de terminar a declaração do tipo inteiro. Bizarro, não? De qualquer forma, isso permite a construção clássica de lista ligada:
 
     
-    <font color="#ff0000">struct Estrutura</font> /* a partir daqui Estrutura já está visível */
+    struct Estrutura /* a partir daqui Estrutura já está visível */
     {
-    	<font color="#ff0000">Estrutura* st;</font> /* recursividade? é apenas um ponteiro! */
+    	Estrutura* st; /* recursividade? é apenas um ponteiro! */
     };
 
 Se vermos pelo lado prático, de qualquer forma seria impossível definir uma variável dentro dela mesma, pois isso geraria uma recursão infinita de definições, e, como sabemos, os recurso da máquina são finitos.

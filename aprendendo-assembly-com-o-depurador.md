@@ -25,22 +25,22 @@ Outro ensinamento bem interessante diz respeito à pilha. Aprendemos sempre que 
     DS=0CF9  ES=0CF9  SS=0CF9  CS=0CF9  IP=0100   NV UP EI PL NZ NA PO NC
     0CF9:0100 69            DB      69
     -r ss
-    SS <font color="#000000">0CF9</font>
-    :<font color="#ff0000">9000</font>
+    SS 0CF9
+    :9000
     -r sp
     SP FFEE
-    :<font color="#ff0000">ffff</font>
+    :ffff
     -r
-    AX=0000  BX=0000  CX=0000  DX=0000  <font color="#ff0000">SP=FFFF</font>  BP=0000  SI=0000  DI=0000
-    DS=0CF9  ES=0CF9  <font color="#ff0000">SS=9000</font>  CS=0CF9  IP=0100   NV UP EI PL NZ NA PO NC
+    AX=0000  BX=0000  CX=0000  DX=0000  SP=FFFF  BP=0000  SI=0000  DI=0000
+    DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0100   NV UP EI PL NZ NA PO NC
     0CF9:0100 69            DB      69
     -a
     0CF9:0100 mov ax, 1234
-    0CF9:0103 <font color="#ff0000">push ax</font>
+    0CF9:0103 push ax
     0CF9:0104 inc ax
-    0CF9:0105 <font color="#ff0000">push ax</font>
+    0CF9:0105 push ax
     0CF9:0106 inc ax
-    0CF9:0107 <font color="#ff0000">push ax</font>
+    0CF9:0107 push ax
     0CF9:0108
     -u
     0CF9:0100 B83412        MOV     AX,1234
@@ -51,22 +51,22 @@ Outro ensinamento bem interessante diz respeito à pilha. Aprendemos sempre que 
     0CF9:0107 50            PUSH    AX
     0CF9:0108 6C            DB      6C
     ...
-    AX=1234  BX=0000  CX=0000  DX=0000  <font color="#ff0000">SP=FFFF</font>  BP=0000  SI=0000  DI=0000
+    AX=1234  BX=0000  CX=0000  DX=0000  SP=FFFF  BP=0000  SI=0000  DI=0000
     DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0103   NV UP EI PL NZ NA PO NC
     0CF9:0103 50            PUSH    AX
     -t
     
-    AX=1234  BX=0000  CX=0000  DX=0000  <font color="#ff0000">SP=FFFD</font>  BP=0000  SI=0000  DI=0000
+    AX=1234  BX=0000  CX=0000  DX=0000  SP=FFFD  BP=0000  SI=0000  DI=0000
     DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0104   NV UP EI PL NZ NA PO NC
     0CF9:0104 40            INC     AX
     -t
     
-    AX=1235  BX=0000  CX=0000  DX=0000  <font color="#000000">SP=FFFD</font>  BP=0000  SI=0000  DI=0000
+    AX=1235  BX=0000  CX=0000  DX=0000  SP=FFFD  BP=0000  SI=0000  DI=0000
     DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0105   NV UP EI PL NZ NA PE NC
     0CF9:0105 50            PUSH    AX
     -t
     
-    AX=1235  BX=0000  CX=0000  DX=0000  <font color="#ff0000">SP=FFFB</font>  BP=0000  SI=0000  DI=0000
+    AX=1235  BX=0000  CX=0000  DX=0000  SP=FFFB  BP=0000  SI=0000  DI=0000
     DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0106   NV UP EI PL NZ NA PE NC
     0CF9:0106 40            INC     AX
     -t
@@ -76,11 +76,11 @@ Outro ensinamento bem interessante diz respeito à pilha. Aprendemos sempre que 
     0CF9:0107 50            PUSH    AX
     -t
     
-    AX=1236  BX=0000  CX=0000  DX=0000  <font color="#ff0000">SP=FFF9</font>  BP=0000  SI=0000  DI=0000
+    AX=1236  BX=0000  CX=0000  DX=0000  SP=FFF9  BP=0000  SI=0000  DI=0000
     DS=0CF9  ES=0CF9  SS=9000  CS=0CF9  IP=0108   NV UP EI PL NZ NA PE NC
     0CF9:0108 6C            DB      6C
     -d 9000:fff9
-    9000:FFF0                             <font color="#ff9900">36 12</font> <font color="#339966">35 12</font> <font color="#0000ff">34 12</font> 00            6.5.4..
+    9000:FFF0                             36 12 35 12 34 12 00            6.5.4..
     -
 
 Como vemos, ao empilhar coisas na pilha, o valor do registrador sp diminui. E ao fazermos um _dump_ do valor de sp conseguimos ver os valores empilhados anteriormente. Isso é muito útil na hora de depurarmos chamadas de funções. Por exemplo, no velho teste do Windbg x Bloco de notas:
@@ -89,7 +89,7 @@ Como vemos, ao empilhar coisas na pilha, o valor do registrador sp diminui. E ao
     windbg notepad
 
     
-    0:000> bp user32!<font color="#ff0000">MessageBoxW</font>
+    0:000> bp user32!MessageBoxW
     0:000> g
     ModLoad: 5cfd0000 5cff6000   C:\WINDOWS\system32\ShimEng.dll
     ModLoad: 596f0000 598ba000   C:\WINDOWS\AppPatch\AcGenral.DLL
@@ -103,12 +103,12 @@ Como vemos, ao empilhar coisas na pilha, o valor do registrador sp diminui. E ao
     eax=00000001 ebx=00000000 ecx=000a7884 edx=00000000 esi=000b2850 edi=0000000a
     eip=7e3b630a esp=0007f6d8 ebp=0007f6f4 iopl=0         nv up ei pl nz na po nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202
-    USER32!<font color="#ff0000">MessageBoxW</font>:
+    USER32!MessageBoxW:
     7e3b630a 8bff            mov     edi,edi
     0:000> dd esp L5
-    0007f6d8  01001fc4 00010226 <font color="#ff0000">000b2850</font> 000a7ac2 ; ret   handle <font color="#ff0000">message</font> caption
+    0007f6d8  01001fc4 00010226 000b2850 000a7ac2 ; ret   handle message caption
     0007f6e8  00000033                            ; mb_ok
-    0:000> du <font color="#ff0000">000b2850</font>
+    0:000> du 000b2850
     000b2850  "O texto do arquivo Sem título fo"
     000b2890  "i alterado...Deseja salvar as al"
     000b28d0  "terações?"

@@ -6,7 +6,7 @@ tags: [ "code" ]
 Estava eu outro belo dia tentando achar um problema em um driver que controla criação de processos quando, por acaso, listo os processos na máquina pelo depurador de kernel, após ter dado alguns logons e logoffs, quando me vem a seguinte lista de processos do Windows Explorer:
 
     
-    PROCESS <font color="#ff0000">815f0da0</font>  SessionId: 0  Cid: 0694    Peb: 7ffd8000  ParentCid: 0100
+    PROCESS 815f0da0  SessionId: 0  Cid: 0694    Peb: 7ffd8000  ParentCid: 0100
         DirBase: 0d6e9000  ObjectTable: 00000000  HandleCount:   0.
         Image: explorer.exe
     
@@ -18,7 +18,7 @@ Estava eu outro belo dia tentando achar um problema em um driver que controla cr
         DirBase: 0bc7f000  ObjectTable: 00000000  HandleCount:   0.
         Image: explorer.exe
     
-    PROCESS 8164c698  SessionId: 0  Cid: <font color="#ff0000">0794    </font>Peb: 7ffde000  ParentCid: 0100
+    PROCESS 8164c698  SessionId: 0  Cid: 0794    Peb: 7ffde000  ParentCid: 0100
         DirBase: 0cb08000  ObjectTable: e1a40f20  HandleCount: 279.
         Image: explorer.exe
 
@@ -27,7 +27,7 @@ Analisando pelo Gerenciador de Tarefas, podemos detectar que o único processo d
 Lembrando que 1940 em hexadecimal é 0x794, exatamente o valor deixado em destaque na lista acima, e reproduzido abaixo:
 
     
-    PROCESS 8164c698  SessionId: 0  Cid: <font color="#ff0000">0794    </font>Peb: 7ffde000  ParentCid: 0100
+    PROCESS 8164c698  SessionId: 0  Cid: 0794    Peb: 7ffde000  ParentCid: 0100
         DirBase: 0cb08000  ObjectTable: e1a40f20  HandleCount: 279.
         Image: explorer.exe
 
@@ -37,7 +37,7 @@ Sendo ele o único processo a rodar, a única explicação válida para as outra
     kd> !object 815f0da0
     Object: 815f0da0  Type: (817cce70) Process
         ObjectHeader: 815f0d88 (old version)
-        HandleCount: <font color="#ff0000">2</font>  PointerCount: <font color="#ff0000">3</font>
+        HandleCount: 2  PointerCount: 3
 
 Muito bem. Temos dois handles e dois ponteiros ainda abertos para o objeto processo-fantasma explorer.exe. O fato de haver um handle aberto indica que é muito provável que se trate de um outro processo rodando em user mode, já que normalmente as referências para objetos dentro do kernel são feitas com o uso de ponteiros.
 
@@ -144,7 +144,7 @@ Uma simples busca pelo EPROCESS do processo-fantasma nos retorna dois processos 
     
     0f44: Object: 8169a958  GrantedAccess: 00000068
     
-    <font color="#ff0000">1020: Object: 815f0da0  GrantedAccess: 00100068</font>
+    1020: Object: 815f0da0  GrantedAccess: 00100068
     
     10dc: Object: 8169a958  GrantedAccess: 00100000
     
@@ -158,35 +158,35 @@ Uma simples busca pelo EPROCESS do processo-fantasma nos retorna dois processos 
     Searching for handles of type Process
     PROCESS 8164c220  SessionId: 0  Cid: 044c    Peb: 7ffdf000  ParentCid: 02a4
         DirBase: 0db16000  ObjectTable: e15c66b8  HandleCount:  12.
-        Image: <font color="#ff0000">ProcessLeaker.exe</font>
+        Image: ProcessLeaker.exe
     
     Handle table at e103a000 with 12 Entries in use
-    <font color="#ff0000">0010: Object: 815f0da0  GrantedAccess: 00100000</font>
+    0010: Object: 815f0da0  GrantedAccess: 00100000
     
-    001c: Object: <font color="#ff0000">815f42f0  </font>GrantedAccess: 00100000
+    001c: Object: 815f42f0  GrantedAccess: 00100000
     
-    0028: Object: <font color="#ff0000">8164bda0  </font>GrantedAccess: 00100000
+    0028: Object: 8164bda0  GrantedAccess: 00100000
     
-    002c: Object: <font color="#ff0000">815f7d50  </font>GrantedAccess: 00100000
+    002c: Object: 815f7d50  GrantedAccess: 00100000
     
-    0030: Object: <font color="#ff0000">8164c698  </font>GrantedAccess: 00100000
+    0030: Object: 8164c698  GrantedAccess: 00100000
 
 Se lembrarmos o ponteiro dos outros processos, podemos notar que ele está bloqueando todas as outras instâncias dos antigos explorer.exe, executados em outras sessões do usuário:
 
     
-    PROCESS <font color="#ff0000">815f0da0</font>  SessionId: 0  Cid: 0694    Peb: 7ffd8000  ParentCid: 0100
+    PROCESS 815f0da0  SessionId: 0  Cid: 0694    Peb: 7ffd8000  ParentCid: 0100
         DirBase: 0d6e9000  ObjectTable: 00000000  HandleCount:   0.
         Image: explorer.exe
     
-    PROCESS <font color="#ff0000">8164bda0</font>  SessionId: 0  Cid: 03b0    Peb: 7ffdf000  ParentCid: 0100
+    PROCESS 8164bda0  SessionId: 0  Cid: 03b0    Peb: 7ffdf000  ParentCid: 0100
         DirBase: 02673000  ObjectTable: 00000000  HandleCount:   0.
         Image: explorer.exe
     
-    PROCESS <font color="#ff0000">815f7d50</font>  SessionId: 0  Cid: 020c    Peb: 7ffd9000  ParentCid: 0100
+    PROCESS 815f7d50  SessionId: 0  Cid: 020c    Peb: 7ffd9000  ParentCid: 0100
         DirBase: 0bc7f000  ObjectTable: 00000000  HandleCount:   0.
         Image: explorer.exe
     
-    PROCESS <font color="#ff0000">8164c698</font>  SessionId: 0  Cid: <font color="#000000">0794    </font>Peb: 7ffde000  ParentCid: 0100
+    PROCESS 8164c698  SessionId: 0  Cid: 0794    Peb: 7ffde000  ParentCid: 0100
         DirBase: 0cb08000  ObjectTable: e1a40f20  HandleCount: 279.
         Image: explorer.exe
 

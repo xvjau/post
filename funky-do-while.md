@@ -78,7 +78,7 @@ So, that's why. When we call a macro, generally we use the funcion-call syntax, 
     
     } /* here I would expect an else or new instruction */
 
-; /* a new command! okay, no else this time */
+    ; /* a new command! okay, no else this time */
 
     
     else /* wait! what this else is doing here without an if?!?! */

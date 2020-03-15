@@ -51,23 +51,23 @@ Não se preocupe, nada aconteceu de errado. Essa é apenas a maneira do WinDbg d
 Vamos destrinchar as informações iniciais para evitar confusão:
 
     
-    Microsoft (R) Windows Debugger  <font color="#ff0000">Version 6.7.0005.1</font> <strong><font color="#000000"><- versão do WinDbg</font></strong>
+    Microsoft (R) Windows Debugger  Version 6.7.0005.1 <strong><- versão do WinDbg</strong>
     Copyright (c) Microsoft Corporation. All rights reserved.
     
-    CommandLine: <font color="#ff0000">notepad.exe</font> <strong><font color="#000000"><-- linha de comando usada</font></strong>
-    Symbol search path is: <font color="#ff0000">SRV*C:Symbols*http://msdl.microsoft.com/downloads/symbols</font> <strong><-- onde estão os símbolos?</strong>
+    CommandLine: notepad.exe <strong><-- linha de comando usada</strong>
+    Symbol search path is: SRV*C:Symbols*http://msdl.microsoft.com/downloads/symbols <strong><-- onde estão os símbolos?</strong>
     Executable search path is:
-    <font color="#ff0000">ModLoad: 01000000 01014000   notepad.exe <strong><font color="#000000"><-- informações sobre cada módulo carregado (ModLoad)</font></strong></font>
+    ModLoad: 01000000 01014000   notepad.exe <strong><-- informações sobre cada módulo carregado (ModLoad)</strong>
     ModLoad: 7c900000 7c9b0000   ntdll.dll
     ModLoad: 7c800000 7c8f5000   C:WINDOWSsystem32kernel32.dll
     ...
-    <font color="#ff0000">(df8.e28): Break instruction exception - code 80000003 (first chance)</font> <strong><-- exceção de breakpoint (início da depuração)</strong>
+    (df8.e28): Break instruction exception - code 80000003 (first chance) <strong><-- exceção de breakpoint (início da depuração)</strong>
     
-    <font color="#ff0000">eax=001a1eb4 ebx=7ffd5000 ecx=00000000 edx=00000001 esi=001a1f48 edi=001a1eb4</font> <strong><-- estado dos registradores</strong>
-    <font color="#ff0000">eip=7c901230 esp=0007fb20 ebp=0007fc94 iopl=0         nv up ei pl nz na po nc
+    eax=001a1eb4 ebx=7ffd5000 ecx=00000000 edx=00000001 esi=001a1f48 edi=001a1eb4 <strong><-- estado dos registradores</strong>
+    eip=7c901230 esp=0007fb20 ebp=0007fc94 iopl=0         nv up ei pl nz na po nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202
-    </font>
-    <font color="#ff0000">ntdll!DbgBreakPoint:</font> <strong><-- paramos aqui</strong>
+    
+    ntdll!DbgBreakPoint: <strong><-- paramos aqui</strong>
     7c901230 cc              int     3
 
 Muito bem. Agora vamos explicar resumidamente o que cada parte significa:
@@ -148,15 +148,15 @@ Agora podemos efetuar a mesma operação de abrir um arquivo inexistente no bloc
     eax=0007cfb8 ebx=80004005 ecx=7e41ce0b edx=00000008 esi=00000208 edi=001b0296
     eip=7e46630a esp=0007cfa0 ebp=0007d9e4 iopl=0         nv up ei ng nz na pe nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000286
-    <font color="#ff0000">USER32!MessageBoxW:</font>
+    USER32!MessageBoxW:
     7e46630a 8bff            mov     edi,edi
 
 Vamos exibir o estado da pilha atual (no registrador **esp**) no formato de _double words_, a palavra padrão em sistemas 32 bits:
 
     
     0:000> <strong>dd</strong> esp ; <strong>D</strong>ump de <em><strong>D</strong>ouble words</em>
-    0007cfa0  <font color="#ff0000">763db810 001b0296 0007cfb8 0007d5d0 </font><font color="#000000"><-- parâmetros do MessageBox (em vermelho)</font>
-    0007cfb0  <font color="#ff0000">00000030 </font>00000187 00720041 00750071 <-- parâmetros do MessageBox (em vermelho)
+    0007cfa0  763db810 001b0296 0007cfb8 0007d5d0 <-- parâmetros do MessageBox (em vermelho)
+    0007cfb0  00000030 00000187 00720041 00750071 <-- parâmetros do MessageBox (em vermelho)
     0007cfc0  00760069 0020006f 006e0069 00780065
     0007cfd0  00730069 00650074 0074006e 002e0065
 
@@ -172,30 +172,30 @@ A primeira coluna (cujo primeiro valor é 0007cfa0) exibe o endereço da pilha, 
 Ao chegar em user32!MessageBoxW o estado da pilha reflete o protótipo, pois é o inverso do inverso (a pilha cresce "para baixo", porém os parâmetros são empilhados do último para o primeiro).
 
     
-    0007cfa0  <font color="#ff0000">763db810 001b0296 0007cfb8 0007d5d0
-    </font>0007cfb0  <font color="#ff0000">00000030</font> 
+    0007cfa0  763db810 001b0296 0007cfb8 0007d5d0
+    0007cfb0  00000030 
     
-    0007cfa0  <font color="#ff0000"> <ret>    <hWnd>  <lpText> <lpCaption>
-    </font>0007cfb0  <font color="#ff0000"><uType></font>
+    0007cfa0   <ret>    <hWnd>  <lpText> <lpCaption>
+    0007cfb0  <uType>
 
 Para referenciarmos os parâmetros através do WinDbg, de forma genérica, tudo que precisamos é adicionar 4 bytes para pularmos de parâmetro em parâmetro:
 
     
     esp = ret
     esp + 4 = hWnd
-    <font color="#339966">esp + 8</font> = <font color="#339966">lpText</font>
-    <font color="#0000ff">esp + c</font> = <font color="#0000ff">lpCaption</font>
+    esp + 8 = lpText
+    esp + c = lpCaption
     esp + 10 =  uType
 
 Baseado nesse princípio básico, podemos agora exibir o conteúdo de cada parâmetro passado usando o comando **d** (_Dump_) do WinDbg, aliado ao comando **poi** (_pointer_), que deferencia um determinado endereço ("o apontado de").
 
     
-    0:000> <strong>du</strong> poi(<font color="#339966">esp+8</font>) <-- <strong>D</strong>ump de string <strong>U</strong>nicode do apontado (poi) do valor em <font color="#339966">esp+8</font> (<font color="#339966">lpText</font>)
-    0007cfb8  <font color="#339966">"Arquivo inexistente.txt.File not"</font>
-    0007cff8  <font color="#339966">" found..Please verify the correc"</font>
-    0007d038  <font color="#339966">"t file name was given."</font>
-    0:000> <strong>du</strong> poi(<font color="#0000ff">esp+c</font>) <-- <strong>D</strong>ump de string <strong>U</strong>nicode do apontado (poi) do valor em <font color="#0000ff">esp+c</font> (<font color="#0000ff">lpCaption</font>)
-    0007d5d0  <font color="#0000ff">"Open"</font>
+    0:000> <strong>du</strong> poi(esp+8) <-- <strong>D</strong>ump de string <strong>U</strong>nicode do apontado (poi) do valor em esp+8 (lpText)
+    0007cfb8  "Arquivo inexistente.txt.File not"
+    0007cff8  " found..Please verify the correc"
+    0007d038  "t file name was given."
+    0:000> <strong>du</strong> poi(esp+c) <-- <strong>D</strong>ump de string <strong>U</strong>nicode do apontado (poi) do valor em esp+c (lpCaption)
+    0007d5d0  "Open"
 
 Note que se estivéssemos tentando exibir uma string **A**nsi iríamos usar o comando **da**. O WinDbg possui inúmeros comandos parecidos que começam com **d**, cuja lista pode ser consultada pelo comando **.hh d**.
 

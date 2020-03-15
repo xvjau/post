@@ -17,36 +17,17 @@ Para ter acesso aos meus projetos iniciais é simples: basta usar o mesmo comand
 
 	
   * [MouseTool](/mousetool) - Simulador de clique de mouse
-
-	
-    * 
-
-    
-    bzr branch https://code.launchpad.net/mtool
-
-	
+    * bzr branch https://code.launchpad.net/mtool
   * [Influence Board](/influence-board) - Complemento ao Winboard que mostra a influência das peças
-
-	
-    * 
-
-    
-    bzr branch https://code.launchpad.net/infboard
-
-	
+    * bzr branch https://code.launchpad.net/infboard
   * [Conversor Houaiss Babylon](/conversor-de-houaiss-para-babylon-parte-2) - Converte de um dicionário para o outro
-
-	
-    * 
-
-    
-    bzr branch https://code.launchpad.net/houaiss2babylon
+    * bzr branch https://code.launchpad.net/houaiss2babylon
 
 
 
-> 
-> #### Atualização
-> 
+
+#### Atualização
+
 _Aviso de plantão. Não irei mais atualizar os projetos acima no LaunchPad, pois estou considerando reorganizar os fontes para algo mais simplificado. Aguardem por novidades no próprio blogue. _
 
 Como o Bazaar foi feito integrado com o Launchpad, também é possível usar um comando bem mais fácil:
@@ -81,7 +62,6 @@ Devido a alguns problemas, recomendo que use o texto exibido na tela do gerador 
 
 6. Use os comandos do Bazaar passando o usuário e o branch:
 
-    
     bzr branch lp:~seu-usuario/projeto/branch
 
 Simples e direto. E funciona!

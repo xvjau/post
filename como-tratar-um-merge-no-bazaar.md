@@ -71,28 +71,19 @@ Feitas as correções devidas, o _branch _linebreak fica com a seguinte cara:
     
     void InitFunction()
     {
-
-printf("InitFunction\n");
-
-    
+        printf("InitFunction\n");
     }
     
     void DoAnotherJob()
     {
-            char buf[100] = "";
-            fgets(buf, sizeof(buf), stdin);
-
-printf("New line: %s\n", buf);
-
-    
+        char buf[100] = "";
+        fgets(buf, sizeof(buf), stdin);
+        printf("New line: %s\n", buf);
     }
     
     void TerminateFunction()
     {
-
-printf("TerminateFunction\n");
-
-    
+        printf("TerminateFunction\n");
     }
 
 Em vermelho podemos notar as linhas alteradas. Uma mudança diferente foi feita para o bug do _buffer overflow_, em seu _branch _correspondente:
@@ -100,12 +91,9 @@ Em vermelho podemos notar as linhas alteradas. Uma mudança diferente foi feita 
     
     void DoAnotherJob()
     {
-
-char buf[200] = "";
-
-    
-            fgets(buf, sizeof(buf), stdin);
-            printf("New line: %s", buf);
+        char buf[200] = "";
+        fgets(buf, sizeof(buf), stdin);
+         printf("New line: %s", buf);
     }
 
 Agora só temos que juntar ambas as mudanças no _branch _principal.
@@ -116,22 +104,19 @@ Com toda razão, pensa o programador que está corrigindo o bug da quebra de lin
 
 Então ele resolve fazer um pequeno fix "de brinde", desconhecendo que mais alguém andou alterando essas linhas:
 
-#define ENOUGH_BYTES 100
+    #define ENOUGH_BYTES 100
 
     
     void InitFunction()
     {
-            printf("InitFunction\n");
+        printf("InitFunction\n");
     }
     
     void DoAnotherJob()
     {
-
-char buf[ENOUGH_BYTES] = "";
-
-    
-            fgets(buf, sizeof(buf), stdin);
-            printf("New line: %s\n", buf);
+        char buf[ENOUGH_BYTES] = "";
+        fgets(buf, sizeof(buf), stdin);
+        printf("New line: %s\n", buf);
     }
 
 Pronto. Um fonte politicamente correto! E que vai causar um conflito ao juntar essa galera. Vamos ver na seqüência:
@@ -169,7 +154,7 @@ Pronto. Um fonte politicamente correto! E que vai causar um conflito ao juntar e
     
     C:\Tests\bzrpilot>bzr pull ..\bzrpilot-bufferoverflow
 
-bzr: ERROR: These branches have diverged. Use the merge command to reconcile them.
+    bzr: ERROR: These branches have diverged. Use the merge command to reconcile them.
 
 Ops. Algo deu errado no segundo _pull_. O Bazaar nos diz que os _branches _estão diferentes, e que termos que usar o comando _merge _no lugar.
 
@@ -177,12 +162,11 @@ Ops. Algo deu errado no segundo _pull_. O Bazaar nos diz que os _branches _estã
     C:\Tests\bzrpilot>bzr merge ..\bzrpilot-bufferoverflow
      M  bzppilot.cpp
 
-Text conflict in bzppilot.cpp
-
+    Text conflict in bzppilot.cpp
     
     1 conflicts encountered.
 
-Usamos _merge _no lugar do _pull _e ganhamos agora um conflito no arquivo bzppilot.cpp, nosso único arquivo. Vamos ver a bagunça que fizemos?
+Usamos _merge_ no lugar do _pull_ e ganhamos agora um conflito no arquivo bzppilot.cpp, nosso único arquivo. Vamos ver a bagunça que fizemos?
 
 #### Como funcionam os merges no Bazaar
 
@@ -222,23 +206,23 @@ Vamos dar uma olhada na versão criada pelo Bazaar:
     
     void InitFunction()
     {
-            printf("InitFunction\n");
+        printf("InitFunction\n");
     }
     
     void DoAnotherJob()
     {
 
-<<<<<<< TREE
+    <<<<<<< TREE
 
     
             char buf[ENOUGH_BYTES] = "";
 
-=======
+    =======
 
     
             char buf[200] = "";
 
->>>>>>> MERGE-SOURCE
+    >>>>>>> MERGE-SOURCE
 
     
             fgets(buf, sizeof(buf), stdin);
@@ -264,22 +248,18 @@ Vamos dar uma olhada na versão criada pelo Bazaar:
 
 Ora, vemos que ele já fez boa parte do trabalho para nós: as quebras de linha já foram colocadas e o novo define já está lá. Tudo que temos que fazer é trocar o _define _por 200 e tirar os marcadores, que é a junção das duas mudanças feitas no mesmo local, e que só um ser humano (AFAIK) consegue juntar:
 
-#define ENOUGH_BYTES 200
+    #define ENOUGH_BYTES 200
 
-    
     void InitFunction()
     {
-            printf("InitFunction\n");
+        printf("InitFunction\n");
     }
     
     void DoAnotherJob()
     {
-
-char buf[ENOUGH_BYTES] = "";
-
-    
-            fgets(buf, sizeof(buf), stdin);
-            printf("New line: %s\n", buf);
+        char buf[ENOUGH_BYTES] = "";
+        fgets(buf, sizeof(buf), stdin);
+        printf("New line: %s\n", buf);
     }
 
 Resolvido o problema, simplesmente esquecemos das versões .BASE, .THIS e .OTHER e falamos pro Bazaar que está tudo certo.
@@ -304,43 +284,35 @@ Após as correções dos conflitos, temos que fazer um _commit _que irá ser o f
     branch nick: bzrpilot
     timestamp: Thu 2008-05-08 22:09:35 -0300
     message:
-      Tudo certo
-        ------------------------------------------------------------
-        revno:
-
-1.1.1
-
-    
-        committer: Wanderley Caloni <wanderley@caloni.com.br>
-        branch nick: bzrpilot-bufferoverflow
-        timestamp: Thu 2008-05-08 21:47:33 -0300
-        message:
-          Corrigido buffer overflow
+    Tudo certo
+    ------------------------------------------------------------
+    revno: 1.1.1
+    committer: Wanderley Caloni <wanderley@caloni.com.br>
+    branch nick: bzrpilot-bufferoverflow
+    timestamp: Thu 2008-05-08 21:47:33 -0300
+    message:
+    Corrigido buffer overflow
     ------------------------------------------------------------
     revno: 3
     committer: Wanderley Caloni <wanderley@caloni.com.br>
     branch nick: bzrpilot-linebreak
     timestamp: Thu 2008-05-08 21:49:30 -0300
     message:
-      A little fix
+    A little fix
     ------------------------------------------------------------
     revno: 2
     committer: Wanderley Caloni <wanderley@caloni.com.br>
     branch nick: bzrpilot-linebreak
     timestamp: Thu 2008-05-08 21:44:23 -0300
     message:
-      Corrected line breaks
+    Corrected line breaks
     ------------------------------------------------------------
-    revno:
-
-1
-
-    
+    revno: 1
     committer: Wanderley Caloni <wanderley@caloni.com.br>
     branch nick: bzrpilot
     timestamp: Thu 2008-05-08 21:33:53 -0300
     message:
-      Our first version
+    Our first version
 
 A versão do branch alternativo é 1.1.1, indicando que ele saiu da revisão número 1, é o primeiro alternativo e foi o único commit. Se houvessem mais modificações neste branch, elas seriam 1.1.2, 1.1.3 e assim por diante. Se mais alguém quisesse juntar alguma modificação da revisão 1 ela seria 1.2.1, 1.3.1, 1.4.1 e assim por diante.
 

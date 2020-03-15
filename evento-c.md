@@ -31,10 +31,10 @@ Mas enquanto isso não acontece vamos dar uma olhada no que tínhamos no [pacote
     *** ERROR: Module load completed but symbols could not be loaded for NotMyFaultEither.exe
     0012f678 004018aa 0040a1dc e280eec4 1d7f113b kernel32!UnhandledExceptionFilter+0x55b
     WARNING: Stack unwind information not available. Following frames may be wrong.
-    0012f9ac 00401357 <font color="#ff0000">dededede dededede dededede</font> NotMyFaultEither+0x18aa
-    0012fbe8 <font color="#ff0000">dededede dededede dededede dededede</font> NotMyFaultEither+0x1357
-    0012fbec <font color="#ff0000">dededede dededede dededede dededede</font> 0xdededede
-    0012fbf4 <font color="#ff0000">dededede dededede dededede dededede</font> 0xdededede
+    0012f9ac 00401357 dededede dededede dededede NotMyFaultEither+0x18aa
+    0012fbe8 dededede dededede dededede dededede NotMyFaultEither+0x1357
+    0012fbec dededede dededede dededede dededede 0xdededede
+    0012fbf4 dededede dededede dededede dededede 0xdededede
     ...
 
 Como foi visto na palestra, uma pilha nesse estado demonstra claramente alguma variável que estourou e corrompeu o resto da pilha de chamadas. Na hora de voltar para a função chamadora, o endereço usado foi o endereço reescrito por lixo, e daí temos o "crash-pattern" Stack Trash.
@@ -45,7 +45,7 @@ Como foi visto na palestra, uma pilha nesse estado demonstra claramente alguma v
     0:000> kv
     ChildEBP RetAddr  Args to Child
     0012f900 7c90df3c 7c8025db 0000007c 00000000 ntdll!KiFastSystemCallRet
-    0012f904 7c8025db <font color="#ff0000">0000007c </font>00000000 00000000 ntdll!NtWaitForSingleObject+0xc
+    0012f904 7c8025db 0000007c 00000000 00000000 ntdll!NtWaitForSingleObject+0xc
     0012f968 7c802542 0000007c ffffffff 00000000 kernel32!WaitForSingleObjectEx+0xa8
     0012f97c 00401176 0000007c ffffffff 00000111 kernel32!WaitForSingleObject+0x12
     WARNING: Stack unwind information not available. Following frames may be wrong.
@@ -58,11 +58,11 @@ Como foi visto na palestra, uma pilha nesse estado demonstra claramente alguma v
     0012fb3c 7e375ba2 0000800a 002d0036 fffffffc user32!NotifyWinEvent+0xd
     0012fbc8 00000000 002d0036 004011b0 dcbaabcd user32!ButtonWndProcWorker+0x79b
     0:000> !handle 0000007c
-    Handle <font color="#ff0000">0000007c</font>
-      Type         	<font color="#ff0000">Thread</font>
+    Handle 0000007c
+      Type         	Thread
     0:000> ~* kv
     
-    .  0  Id: 5e4.<font color="#008000">39c </font>Suspend: 0 Teb: 7ffdd000 Unfrozen
+    .  0  Id: 5e4.39c Suspend: 0 Teb: 7ffdd000 Unfrozen
     ChildEBP RetAddr  Args to Child
     0012f900 7c90df3c 7c8025db 0000007c 00000000 ntdll!KiFastSystemCallRet
     0012f904 7c8025db 0000007c 00000000 00000000 ntdll!NtWaitForSingleObject+0xc
@@ -83,16 +83,16 @@ Como foi visto na palestra, uma pilha nesse estado demonstra claramente alguma v
     00b8ff10 7c90df3c 7c91b22b 00000080 00000000 ntdll!KiFastSystemCallRet
     00b8ff14 7c91b22b 00000080 00000000 00000000 ntdll!NtWaitForSingleObject+0xc
     00b8ff9c 7c901046 0040e940 004010e0 0040e940 ntdll!RtlpWaitForCriticalSection+0x132
-    00b8ffa4 004010e0 <font color="#0000ff">0040e940 </font>00000000 00000000 ntdll!RtlEnterCriticalSection+0x46
+    00b8ffa4 004010e0 0040e940 00000000 00000000 ntdll!RtlEnterCriticalSection+0x46
     WARNING: Stack unwind information not available. Following frames may be wrong.
     00b8ffec 00000000 004010c0 0012f99c 00000000 NotMyFaultEither+0x10e0
-    0:000> !cs <font color="#0000ff">0040e940</font>
+    0:000> !cs 0040e940
     -----------------------------------------
     Critical section   = 0x0040e940 (NotMyFaultEither+0xE940)
     DebugInfo          = 0x00154498
-    <font color="#0000ff">LOCKED</font>
+    LOCKED
     LockCount          = 0x1
-    OwningThread       = <font color="#008000">0x0000039c</font>
+    OwningThread       = 0x0000039c
     RecursionCount     = 0x1
     LockSemaphore      = 0x80
     SpinCount          = 0x00000000
@@ -113,11 +113,11 @@ A thread ativa no momento do dump aguardava por outra thread. Listando todas as 
     0012fb30 7e3799d8 0000800a 0012fbc8 7e375ba2 0x1100a0
     0012fb3c 7e375ba2 0000800a 001100a0 fffffffc user32!NotifyWinEvent+0xd
     0012fbc8 00000000 001100a0 004010f0 dcbaabcd user32!ButtonWndProcWorker+0x79b
-    0:000> <font color="#ff0000">? eax+edx</font>
-    Evaluate expression: 0 = <font color="#ff0000">00000000</font>
+    0:000> ? eax+edx
+    Evaluate expression: 0 = 00000000
     0:000> u
     NotMyFaultEither+0x10a3:
-    004010a3 66890c02        mov     word ptr [<font color="#ff0000">edx+eax</font>],cx
+    004010a3 66890c02        mov     word ptr [edx+eax],cx
     004010a7 83c002          add     eax,2
     004010aa 6685c9          test    cx,cx
 
@@ -130,10 +130,10 @@ O disassemble da instrução inválida tenta escrever claramente em cima do ende
     eip=7c90120e esp=0012f9a0 ebp=00000001 iopl=0         nv up ei pl zr na pe nc
     cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000246
     ntdll!DbgBreakPoint:
-    <font color="#ff0000">7c90120e cc              int     3</font>
+    7c90120e cc              int     3
     0:000> kv
     ChildEBP RetAddr  Args to Child
-    0012f99c 004011ec 0012fc24 004010d0 0012fbe8 <font color="#ff0000">ntdll!DbgBreakPoint</font> (FPO: [0,0,0])
+    0012f99c 004011ec 0012fc24 004010d0 0012fbe8 ntdll!DbgBreakPoint (FPO: [0,0,0])
     WARNING: Stack unwind information not available. Following frames may be wrong.
     0012f9cc 7e37f916 01010054 005a0049 0012f9f4 NotMyFaultEither+0x11ec
     0012fa58 7e37f991 01010054 00000043 01100076 user32!ClientFrame+0xe0
