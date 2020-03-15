@@ -11,11 +11,7 @@ Segue um pequeno roteiro do funcionamento do programa, que é bem simples, aliá
 
 	
   * [Dicionário Houaiss](http://www.dicionariohouaiss.com.br/comocomprar.asp). Testado na versão 2, deve ser instalado com opção de cópia dos arquivos no disco rígido.
-
-	
   * [Babylon](http://www.babylon.com). Testado nas versões 6 e 7. Pode ser registrado ou não.
-
-	
   * [Babylon Builder](http://www.babylon.com.br/BabylonBuilder.asp). O construtor dos dicionários Babylon. Apesar de ser possível construir dicionários personalizados para o Babylon, é necessário que se use esse aplicativo conversor. O HouaissParaBabylon o usa, e por isso precisa que ele esteja instalado corretamente.
 
 Tudo isso verificado, basta então clicar no botão de Iniciar Conversão, sentar e esperar. A primeira fase envolve três passos:
@@ -46,12 +42,3 @@ Outros erros comuns, como o Babylon Builder não instalado, serão obviamente av
 ![Exportação de logs do conversor Houaiss para Babylon.](/images/mKLYThq.png)
 
 E é isso. Para uma versão inicial, talvez esteja razoável. Quem confirmará serão os ansiosos usuário que, espero sinceramente, consigam seus objetivos há tempos aguardados.
-
-#### Linques
-
-	
-  * [Download do aplicativo HouaissParaBabylon do saite oficial](/images/houaissparababylon.zip)
-Extensão: ZIP
-Tamanho:83 KB
-MD5: C1C3D2AD7A7AB5A1F711AEAB28C5F499
-

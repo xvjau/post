@@ -47,4 +47,4 @@ Tools. Além dos componentes essenciais para o funcionamento do software também
 
 Todos os componentes que disponibilizarem unidades de testes devem conter uma pasta Tests dentro de si. Essa padronização permite facilmente a localização de testes internos aos componentes. Além disso, os arquivos executáveis de testes devem sempre terminar seu nome com Test, o que permite a automatização do processo de teste durante o build.
 
-Acredito que este esboço esteja muito bom. É o modelo inicial que estou utilizando nos projetos da empresa e de casa. Deixo disponível [aqui](/images/_template.7z) para download. Críticas e sugestões são bem-vindas.
+Acredito que este esboço esteja muito bom. É o modelo inicial que estou utilizando nos projetos da empresa e de casa.

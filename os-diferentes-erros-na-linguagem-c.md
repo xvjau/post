@@ -166,4 +166,4 @@ Enfim, na vida real, é impossível catalogar todos os erros que podem ocorrer e
 
 #### Um projeto cheio de erros
 
-Criei uma [solução](/images/cpperrors.7z) no Visual Studio com alguns erros básicos, alguns demonstrados aqui, outros não, mas enfim, completamente configuráveis e divididos nessas três fases. É possível habilitar e desabilitar erros através do _header _cpperrors.h. Espero que gostem.
+Criei uma solução no Visual Studio com alguns erros básicos, alguns demonstrados aqui, outros não, mas enfim, completamente configuráveis e divididos nessas três fases. É possível habilitar e desabilitar erros através do _header _cpperrors.h. Espero que gostem.

@@ -77,4 +77,4 @@ Just got stuck in the same problem, but in a C++ source that has 13 years, where
 
 ![](/images/uDmJxtB.png)
 
-Minha próxima tarefa, aparentemente, é ver como sendo sócio da [BitForge](www.bitforge.com.br) e da [Intelitrader](www.intelitrader.com.br), e mesmo tendo já atualizado meu perfil MVP há anos, continuo sendo funcionário da UOL Diveo/Broker =/
+Minha próxima tarefa, aparentemente, é ver como sendo sócio da [BitForge](http://www.bitforge.com.br) e da [Intelitrader](http://www.intelitrader.com.br), e mesmo tendo já atualizado meu perfil MVP há anos, continuo sendo funcionário da UOL Diveo/Broker =/

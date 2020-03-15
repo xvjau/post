@@ -8,7 +8,7 @@ Olá, caro cinéfilo! Aqui você irá encontrar a coletânea de textos escritos 
 Críticos que costumo ler:
 
  - [Roger Ebert](http://www.rogerebert.com/). O falecido crítico ainda possui seus textos publicados e textos de novos filmes compartilhados entre seus colaboradores.
- - [Cinema Em Cena](www.cinemaemcena.com.br). Textos do melhor crítico técnico do Brasil da atualidade, Pablo Villaça, ativo há mais de 20 anos.
+ - [Cinema Em Cena](http://www.cinemaemcena.com.br). Textos do melhor crítico técnico do Brasil da atualidade, Pablo Villaça, ativo há mais de 20 anos.
 
 Se quiser mais conteúdo sobre cinema segue uma lista de links úteis:
 
@@ -29,4 +29,6 @@ E é essa a humilde proposta do Cine Tênis Verde, um canal de textos pretensios
 
 Também há uma seção onde a ficha técnica de todos os trabalhos estão listadas, ao lado de uma clássica cotação de cinco estrelas. Os links entre textos e fichas existe para você poder caminhar com mais ou menos detalhes sobre o filme. Se preferir ler apenas os textos, apenas o diretor e o ano estarão especificados (além do ano em que o texto foi escrito).
 
-Por fim, espero que goste. O conteúdo continuará sendo atualizado (e corrigido) no próprio blog (www.cinetenisverde.com.br), e futuras edições irão surgir para a comodidade de uma leitura fluida. E nosso objetivo continuará sendo entender que todo filme, assim como tudo na vida, é melhor apreciado com o cérebro.
+Por fim, espero que goste. O conteúdo continuará sendo atualizado (e corrigido) no próprio blog (http://www.cinetenisverde.com.br), e futuras edições irão surgir para a comodidade de uma leitura fluida. E nosso objetivo continuará sendo entender que todo filme, assim como tudo na vida, é melhor apreciado com o cérebro.
+
+**Update**: o domínio do blogue Cine Tênis Verde foi extinto; agora todos os posts de lá estão no meu domínio principal (http://www.caloni.com.br).

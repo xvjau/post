@@ -13,23 +13,7 @@ O "conceito" é bem simples: executo o programa, ele exibe um campo texto para d
 
 Algumas "features" avançadas que é bom saber:
 
-	
   * Ele gera o arquivo texto em UNICODE. Na época em que eu digitava em russo, isso era importante.
-
-	
   * Ele já gera suas anotações com data e hora.
-
-	
   * Você pode gerar um atalho para chamá-lo rapidamente e definir um diretório de trabalho diferente: o arquivo será gerado no diretório de trabalho especificado, e não onde está o executável.
-
-	
   * Existe uma versão em .NET que fiz na época que estudava C#. Felizmente eu perdi esse projeto.
-
-#### Atualizado
-
-	
-  * [Binários](/images/daytoday.7z)
-
-	
-  * [Fontes](/images/daytoday-src.7z)
-

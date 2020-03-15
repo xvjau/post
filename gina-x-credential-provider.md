@@ -44,22 +44,10 @@ Já que fomos brindados com um exemplo de GINA _stub_ do Ferdinando, também ire
 
 > _É claro que para utilizar essa GINA, você deve possuir direitos de administração, ou conhecer alguma brecha de segurança. Eu optei pela segunda opção, já que não tinha a primeira. Podemos dizer apenas que o [artigo sobre falhas de segurança relacionadas a usuários avançados](http://blogs.technet.com/markrussinovich/archive/2006/05/01/the-power-in-power-users.aspx) do Russinovich pôde resolver meu problema._
 
-E é isso aí. Como é que aquele cara do DriverEntry diz mesmo? Ah, sim: [have fun](/images/mscindy.7z)! =P
-
-[![¿Saída¿ de nossa GINA stub](/images/pJRxNzi.png)](/images/pJRxNzi.png)
-
-**Para saber mais sobre Credential Providers (e o que fazer com sua GINA)
-**
-
+#### Para saber mais sobre Credential Providers (e o que fazer com sua GINA)
 	
   * [Última referência técnica](http://shellrevealed.com/files/folders/code_samples/entry1019.aspx)
-
-	
   * [Documentação das interfaces](http://msdn2.microsoft.com/en-us/library/ms646532.aspx)
-
-	
   * [_Download_ de exemplos](http://www.microsoft.com/downloads/details.aspx?FamilyID=B1B3CBD1-2D3A-4FAC-982F-289F4F4B9300&displaylang=en)
-
-	
   * [Guia de migração GINA => CP](http://msdn2.microsoft.com/en-us/library/aa480152.aspx#appcomp_topic11)
 

@@ -31,8 +31,6 @@ Para exemplificar o uso de _threads_, resolvi fazer um programa que pode nos ser
 
 [![PwdBreaker screenshot](/images/hfqFtIF.png)](/images/hfqFtIF.png)
 
-Você pode baixar o código fonte, que não é muito complicado, [aqui](/images/pwdbreaker.7z).
-
 Se você está apenas acompanhando estes artigos sem ter se aprofundado em um [livro](http://compare.buscape.com.br/categoria?lkout=1&id=3482&kw=programacao+windows+c++&site_origem=1293522) ou o [MSDN](http://msdn.microsoft.com), algumas coisas podem parecer novas demais, como a maneira que usei para criar a janela. Diferente de CreateWindow, podemos usar funções que criam o que é chamado de caixa de diálogo (_dialog box_), que nada mais é que uma janela modal, como a mostrada pelo [MessageBox](http://msdn2.microsoft.com/en-us/library/ms645505.aspx) (ou até a [System.Windows.Forms.MessageBox](http://msdn2.microsoft.com/en-us/library/system.windows.forms.messagebox.aspx)). Para isso é necessário desenhar uma janela através de um arquivo de _resource_, com a extensão rc. Porém, podemos ver que não é difícil entender como um arquivo de _resources_ funciona:
 
 [![Dialog Box no RC](/images/LL5L2yn.png)](/images/LL5L2yn.png)
@@ -125,7 +123,5 @@ while( g_bruteForceContinue )
 
     
   * [Outros artigos sobre a história do windows](/search)
-
-    
   * [Windows 95: quinze anos de grandes feitos e telas azuis](http://www.geek.com.br/posts/13665-windows-95-quinze-anos-de-grandes-feitos-e-telas-azuis)
 

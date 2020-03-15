@@ -7,39 +7,18 @@ Para quem ainda acha que não desceu demais o nível, existe um ótimo artigo de
 
 Primeiro, precisamos de uma ferramenta fundamental para esse tipo de depuração: o SoftIce versão 16 bits. Desconheço algum outro depurador de sistema em 16 bits, mas se você souber de algum, pode usá-lo com esse tutorial com as devidas adaptações.
 
-Passado o desafio inicial de [encontrar essa versão do SoftIce](/images/softice.flp) e saber usá-la, o resto é fácil:
+Passado o desafio inicial de encontrar essa versão do SoftIce e saber usá-la, o resto é fácil:
 
-	
   1. Crie uma nova VMWare, Virtual PC, VMSbrubles configurada para bootar pelo disquete.
-
-	
   2. Formate dois disquetes de MS-DOS, FreeDos, Sbrubles-DOS.
-
-	
   3. Copie o setor de _boot_ disponível no artigo do CP para o disquete usando o programa disponível em um dos disquetes.
-
-	
   4. Copie o SoftIce no outro disquete.
-
-	
   5. Efetue o _boot_ com o disquete do SoftIce.
-
-	
   6. Execute o SoftIce (é só rodar, ele permanece residente e é ativado com Ctrl + D).
-
-	
   7. Coloque um _breakpoint_ na int **0x13** (disco) na função **2** (leitura) (faz-se assim: **bpint 13 ah=2**).
-
-	
   8. Troque o disquete do Softice pelo disquete com o setor de _boot_ do artigo do CP.
-
-	
   9. Efetue novamente o _boot_ na máquina em modo "quente" (usando o próprio SoftIce, comando **boot**).
-
-	
   10. A execução deve ser paralisada exatamente no ponto onde o código da BIOS lê o setor de boot do seu disquete.
-
-	
   11. Digite **p ret** e em seguida **F10** ou **T** e seja feliz.
 
 #### Para que servem os comandos bpint e boot
@@ -50,11 +29,7 @@ Quando o código da BIOS é executado, ele precisa, entre outras coisas, fazer t
 
 	
   1. Encontrar o dispositivo padrão de _boot._
-
-	
   2. Ler o primeiro setor desse dispositivo para o endereço **0x7C00.**
-
-	
   3. Entregar a execução para o código em **0x7C00.**
 
 O item 2 é justamente o que utiliza essa interrupção para ler do disco. Eu prefiri colocar o _breakpoint_ no item 2, mas nada impediria de você colocá-lo no item 3 e já iniciar a depuração no código do _boot loader_. Mas, como eu já passei por problemas encontrados no código da BIOS que impediam o sistema de entregar a execução para o setor de _boot_, já dei a dica de lambuja caso você também tenha a oportunidade de se divertir em um cliente depurando a BIOS de algum _laptop_ desajustado.
@@ -69,16 +44,8 @@ Pela imagem acima sabemos que após o _boot_ foi executada a interrupção 0x13,
 
 [![O início do pequeno OS](/images/uAy5H4E.png)](/images/uAy5H4E.png)
 
-> _Adendo: fiz um_[](/images/biosdebug.7z)_ [vídeo de demonstração](/images/biosdebug.7z)__ dos passos aqui descritos, para facilitar a visualização dos fatos. Ficou claro? =) _
-
 #### Páginas usadas
 
-	
   * [Building your own operating system](http://www.codeproject.com/system/MakingOS.asp) - ShalomZ
-
-	
   * [Ralf Brown's Interrupt List](http://www.ctyme.com/)
-
-	
   * [Gerenciamento de memória 386](http://dqsoft.blogspot.com/2006/10/gerenciamento-de-memria-386.html) - Daniel Quadros
-

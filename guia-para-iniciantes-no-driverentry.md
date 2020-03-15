@@ -53,5 +53,3 @@ Pelo que eu vi, no geral, acredito que aos poucos irei voltar para os tópicos q
   * [A necessidade inevitável de](http://www.driverentry.com.br/blog/2008/06/utilizando-o-registry-parte-1.html) [mexer com o registro do sistema](http://www.driverentry.com.br/blog/2008/06/utilizando-o-registry-parte-2.html)
 
 Tudo isso aliado aos exemplos e à teoria latente do Windows 2000 Device Driver Book (minha primeira leitura) irá dar um upgrade forçado aos meus neurônios. Espero sobreviver para contar o final da história.
-
-O resultado dos meus exercícios atuais, com alguns poucos comentários, pode ser baixado [aqui](/images/learningdrivers.zip).

@@ -5,7 +5,7 @@ tags: [ "blog" ]
 ---
 Mais um fim-de-semana no ócio e na vadiagem. Tenho que manter minhas [qualidades de bom programador](http://c2.com/cgi/wiki?LazinessImpatienceHubris) que sou: preguiçoso, impaciente e pretensioso.
 
-Mas nem por isso deixei de terminar uma primeira versão do aplicativo que irei usar como base na minha palestra do nosso próximo [encontro C++](http://www.ccppbrasil.org/wiki/Grupo:Encontro_VII): [Crash Dump Analysis](/images/crashdumpanalysis.7z). Se alguém tiver dicas de quais os problemas mais difíceis do Universo para analisar em um dump de memória, comente a respeito e veremos o que dá pra fazer.
+Mas nem por isso deixei de terminar uma primeira versão do aplicativo que irei usar como base na minha palestra do nosso próximo [encontro C++](http://www.ccppbrasil.org/wiki/Grupo:Encontro_VII): Crash Dump Analysis. Se alguém tiver dicas de quais os problemas mais difíceis do Universo para analisar em um dump de memória, comente a respeito e veremos o que dá pra fazer.
 
 ![crash-dump.png](/images/wNd2Z1m.png)
 

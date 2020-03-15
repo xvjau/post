@@ -25,23 +25,15 @@ Para quem se interessou pelo tema e pretende estudar um pouco mais sobre as novi
 
 	
   * [Proposed Wording for Variadic Templates](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2152.pdf)
-
-	
   * [Proposed Wording for RValue Reference](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2118.html)
-
-	
   * [Specifying C++ Concepts](http://www.open-std.org/jtc1/sc22/WG21/docs/papers/2005/n1886.pdf)
-
-	
   * [O sítio do comitê dos padrões C++](http://www.open-std.org/jtc1/sc22/WG21/)
 
 #### Threads em C++ - Wanderley Caloni
 
 O foco principal desse tema foi dividido entre a interface, óbvia, para suportar programas _multithreading_ em C++, incluindo abstrações de sincronismo e variáveis de condição, e a mudança significativa no padrão para definir um modelo de memória consistente com programas _multithreading_, a grande vantagem dessa biblioteca ter sido votada, pois tendo as bases para o que eles estão chamando de "execução consistente", a interface é mera conseqüência.
 
-Durante a apresentação foi mostrado um exemplo de uso das classes thread e mutex. O código foi melhorado (mas não completado), e está disponível para [download aqui](/images/stdthreads.7z), juntamente com a apresentação (em formato OpenOffice).
-
-Ao final da palestra, fiquei devendo os links. Bem, aqui estão eles:
+Durante a apresentação foi mostrado um exemplo de uso das classes thread e mutex. O código foi melhorado (mas não completado). Ao final da palestra, fiquei devendo os links. Bem, aqui estão eles:
 
   * [ISO C++ Strategic Plan for Multithreading](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2005/n1815.html)
   * [Thoughts on a Thread Library for C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2139.html)
@@ -51,4 +43,3 @@ Ao final da palestra, fiquei devendo os links. Bem, aqui estão eles:
 Para ver mais
 	
   * Segue o [álbum de fotos](http://picasaweb.google.com.br/alberto.fabiano/3EncontroDoGrupoCCBrasil1ReuniOTCnica/) disponibilizado pelo [Alberto Fabiano](http://techberto.wordpress.com/), organizador-mor do evento.
-

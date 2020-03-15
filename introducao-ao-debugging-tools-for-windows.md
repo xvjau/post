@@ -32,7 +32,7 @@ Existem ainda outras ferramentas, mas estas são as principais que costumo utili
 
 **Já baixei e instalei. E agora, o que eu faço?**
 
-Para exemplificar um uso prático dessas ferramentas vamos usar o Loggerpara descobrir quais funções API estão sendo chamadas constantemente por um cavalo de tróia, uma coisa um tanto comum em ataques a bancos. Para tornar as coisas mais reais ainda vamos utilizar o código-fonte de um suposto cavalo de tróia usado em [minhas apresentações](/images/freetrojan.cpp):
+Para exemplificar um uso prático dessas ferramentas vamos usar o Loggerpara descobrir quais funções API estão sendo chamadas constantemente por um cavalo de tróia, uma coisa um tanto comum em ataques a bancos. Para tornar as coisas mais reais ainda vamos utilizar o código-fonte de um suposto cavalo de tróia usado em minhas apresentações:
 
 ```cpp
 #include <windows.h>
@@ -108,16 +108,7 @@ Seguem alguns _blogs_ dedicados inteiramente ao assunto WinDbg e _debugging:_
 
     
   * [Microsoft Advanced Windows Debugging and Troubleshooting](http://blogs.msdn.com/ntdebugging/default.aspx) - site mantido pelo time de resolução de problemas críticos da Microsoft.
-
-    
   * [Debugging Toolbox](http://blogs.msdn.com/debuggingtoolbox/default.aspx) - _blog_ mantido pelo Roberto Farah, contém muitos _scripts_ para ser utilizando no Windbg.
-
-    
   * [Crash Dump Analysis](http://www.dumpanalysis.org/blog/) - uma exploração profunda na análise de telas azuis e o motivo delas existirem.
-
-    
   * [WinDbg by Volker von Einem](http://voneinem-windbg.blogspot.com/) - como o autor mesmo diz, "uma coleção de utilidades para lidar com windbg".
-
-    
   * [Nynaeve](http://www.nynaeve.net/) - além de falar sobre _debugging_ no Windows contém análises de engenharia reversa.
-

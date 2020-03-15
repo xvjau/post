@@ -72,12 +72,5 @@ Essa é uma maneira rústica, porém eficaz e rápida de obter a lista de execu�
 
 #### Outras ferramentas úteis para análise de chamadas
 
-	
   * [http://www.kakeeware.com](http://www.kakeeware.com): sítio com monitor de chamadas de API e outras ferramentas interessantes. Detalhe notável: o cara faz tudo usando apenas _assembly_, o que torna os programas realmente pequenos e rápidos.
-
-	
   * [ComTrace](http://www.blunck.se/comtrace/comtrace.html): outro monitor de chamadas, mas de componentes COM. Intercepta todas as chamadas de métodos de um aplicativo.
-
-#### Exemplo para testar
-
-Desenvolvi um exemplo didático que procura por acessos a bancos nacionais conhecidos, exibindo seu endereço caso encontre. Você pode [baixar o executável](/images/trojan-bin.7z) e fazer sua análise. Se conseguir descobrir o que o programa faz, não deixe de comentar neste artigo o método por você empregado, de preferência com o máximo de dados obtidos. Boa sorte =)

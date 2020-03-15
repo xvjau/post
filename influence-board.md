@@ -3,7 +3,7 @@ date: "2008-03-14"
 title: Influence Board
 tags: [ "blog" ]
 ---
-[![Chess Board](/images/4Zv3zxQ.png)](/images/4Zv3zxQ.png)Há muito tempo sou enxadrista não-praticante. Acho que os anos de programação me deixaram mais viciado em codar do que pensar no xeque-mate. No entanto, sempre que posso, dou uma escapulida do Visual Studio e jogo uma partida ou duas na rede, quase sempre, é claro, tomando um piau psicológico.
+Há muito tempo sou enxadrista não-praticante. Acho que os anos de programação me deixaram mais viciado em codar do que pensar no xeque-mate. No entanto, sempre que posso, dou uma escapulida do Visual Studio e jogo uma partida ou duas na rede, quase sempre, é claro, tomando um piau psicológico.
 
 A falta de prática e estudos pesa muito para um enxadrista amador, já que facilmente esquecemos das combinações mortíferas que podemos aplicar e levar. É muito difícil ter em mente aquelas três dúzias de aberturas que já são batidas (e suas variantes), ou então as regrinhas de praxe de como detonar nas finais com um cavalo e um bispo.
 
@@ -36,9 +36,6 @@ Agora ficou muito mais fácil de perceber que a única saída do rei não possui
 Essa maneira de mostrar as influências em um tabuleiro de xadrez eu apelidei de Influence Board, e criei um projeto em linha de comando para fazer as devidas considerações a respeito de uma posição determinada. Mas como ninguém hoje em dia gosta de usar o WinDbg pra jogar xadrez, transformei meu projeto em pseudo-_plugin_ para o [WinBoard](http://www.tim-mann.org/xboard.html), um famoso _frontend_ de xadrez que costumo usar em minhas esporádicas partidas.
 
 #### Como usar
-
-Basicamente a única coisa que o futuro usuário das influências deve fazer é baixar o [projeto WinBoard](http://ftp.gnu.org/gnu/winboard/winboard-4_2_7b.exe), a versão disponível [aqui](/images/xboard%20infboard.7z) (obs.: já contém o WinBoard completo) e compilar. Caso queira uma versão nova do programa terá que fazer o merge entre as duas versões, e por isso deixei disponívei também um [patch](/images/infboard.7z) que instala o "_plugin_" (obs.: a versão usada foi a 2.4.7).
-
     
     C:\Projects\xboard infboard\winboard>nmake msvc.mak
     

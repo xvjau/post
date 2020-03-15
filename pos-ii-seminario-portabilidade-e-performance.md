@@ -13,9 +13,5 @@ Pra terminar, um apanhado de boas práticas e  a experiência de quem já mexeu
 
 Deixarei disponibilizado para download minha transparência, onde infelizmente não estão embutidos o áudio nem o vídeo do momento realmente importante,que foi a interação do grupo durante a apresentação. Se você perdeu, so sorry. Até a próxima!
 
-	
-  * [Palestra Assembly++ (com fontes de exemplo)](/images/assemblypp.7z) (ministrada em 2010-12-11).
-
-	
   * [Saite do evento](http://www.temporealeventos.com.br/?area=101-SeminarioC-e-C++-Portabilidade-e-Performance)
 

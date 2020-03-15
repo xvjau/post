@@ -3,7 +3,7 @@ date: "2014-07-16"
 title: 'TDC 2014: Segurança'
 tags: [ "blog" ]
 ---
-Nesse TDC, além da minha palestra usual na [trilha C/C++](http://www.thedevelopersconference.com.br/tdc/2014/saopaulo/trilha-c-e-cmaismais) irei participar da [trilha de segurança](http://www.thedevelopersconference.com.br/tdc/2014/saopaulo/trilha-seguranca), voltando às minhas origens, quando programava em empresas da segurança da informação. [Foram 10 anos!](/me)
+Nesse TDC, além da minha palestra usual na [trilha C/C++](http://www.thedevelopersconference.com.br/tdc/2014/saopaulo/trilha-c-e-cmaismais) irei participar da [trilha de segurança](http://www.thedevelopersconference.com.br/tdc/2014/saopaulo/trilha-seguranca), voltando às minhas origens, quando programava em empresas da segurança da informação. [Foram 10 anos!](/caloni)
 
 Estão marcadas duas palestras nesse dia (quinta-feira, 7 de agosto de 2014): uma já ministradas [outras](/engenharia-reversa-em-itajuba) [vezes](/tdc-2011) sobre o processo de engenharia reversa do dicionário Houaiss, que gerou tantas discussões nos comentários e [versões alternativas](/houaiss-no-kindle) (inclusive [em Python!](http://www.caloni.com.br/houaiss-para-babylon-em-python)) do código. Aqui, além de já explicar o processo que me fez abrir o dicionário Houaiss para uso no Babylon, pularei a parte do uso no Babylon e irei focar mais nas técnicas de segurança que podemos utilizar para tornar essa engenharia reversa não impossível, mas pelo menos um pouco mais difícil.
 

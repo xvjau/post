@@ -3,7 +3,7 @@ date: "2007-09-26"
 title: Introdução ao C++ Builder...Turbo C++
 tags: [ "code" ]
 ---
-[![Borland Developer Studio](/images/FYJMkF7.png)](/images/FYJMkF7.png)Após mais de [um ano de tentativas](http://www.blogger.com/profile/05210880271965378292), finalmente consegui instalar e iniciar com sucesso o **Borland Developer Studio**. Esse foi o nome pomposo dado pela Borland para a "continuação" do velho [C++ Builder](http://cc.codegear.com/free/cppbuilder) e seus parentes, o Delphi e o C# Builder.
+Após mais de um ano de tentativas, finalmente consegui instalar e iniciar com sucesso o **Borland Developer Studio**. Esse foi o nome pomposo dado pela Borland para a "continuação" do velho [C++ Builder](http://cc.codegear.com/free/cppbuilder) e seus parentes, o Delphi e o C# Builder.
 
 Existem muitas coisas novas ainda para ver, mas não é a usabilidade. Assim como a IDE antiga, é fácil de sair mexendo e fazendo janelas, no bom estilo [WYSIWYG](http://en.wikipedia.org/wiki/Wysiwyg) dos produtos da Borland.
 
@@ -87,5 +87,3 @@ Considerando que o Bloco de Notas é minha vítima preferida para testes (e a v�
   * 2 caixas de diálogo comum (abrir e salvar arquivo).
 
 [![Builder Notepad Design](/images/8GEaElh.png)](/images/8GEaElh.png)
-
-A implementação da versão alfa está [disponível para visualização](/images/turbocpp.htm) em cerca de 5MB de vídeo, além dos [fontes do projeto](/images/2007-09-26-builder-notepad.7z). Bom divertimento!

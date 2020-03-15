@@ -93,7 +93,7 @@ int main()
 
 ```
 
-In order to the see the locking code in action, download the [DLL](/images/loaderlock.cpp) and [EXE](/images/loaderlock-exe.cpp) source files and use the following commands to generate the executable files:
+In order to the see the locking code in action, copy the DLL and EXE source files and use the following commands to generate the executable files:
 
     
     cl /c loaderlock.cpp loaderlock-exe.cpp
@@ -108,7 +108,4 @@ It is important to remember that a DllMain dependant code is a very, very bad th
 
     
   1. [NT Loader (MSJ Sep 99)](http://www.microsoft.com/msj/0999/hood/hood0999.aspx) - Matt Pietrek
-
-    
   2. [mgrier's WebLog](http://blogs.msdn.com/mgrier/default.aspx) - NT Loader team participant
-

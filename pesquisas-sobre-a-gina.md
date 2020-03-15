@@ -25,7 +25,7 @@ A partir de mais algumas buscas e execuções do Process Monitor podemos encontr
 
 #### Será mesmo?
 
-Sempre tem mais. Se a máquina estiver no domínio essa opção não funciona. Porém, o **WinLogon** verifica se existe um valor chamado **ForceFriendlyUi**, que descobri graças ao [Process Monitor](technet.microsoft.com/en-us/sysinternals/bb896645.aspx). Aliado ao **LogonType**, sendo igual a 1, a Tela de Boas-Vindas é habilitada, mesmo em um ambiente com servidor de domínio.
+Sempre tem mais. Se a máquina estiver no domínio essa opção não funciona. Porém, o **WinLogon** verifica se existe um valor chamado **ForceFriendlyUi**, que descobri graças ao **Process Monitor**. Aliado ao **LogonType**, sendo igual a 1, a Tela de Boas-Vindas é habilitada, mesmo em um ambiente com servidor de domínio.
 
 Por último, claro, salvo se não existir o valor **GinaDll** dentro da chave do WinLogon. Se esse for o caso, o ForceFriendlyUi também não funciona. E é exatamente aí que uma GINA é instalada.
 

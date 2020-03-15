@@ -9,7 +9,7 @@ Isso me estimulou a desdobrar um pouco mais os mistérios por trás dos ponteiro
 
 Para entender por inteiro o que acontece quando uma chamada ou acesso utilizando ponteiros dependentes de escopo, algumas pequenas mudanças foram feitas no nosso pequeno FuzzyCall.
 
-#### Versão 3 de fuzzycall ([baixe aqui](/images/fuzzycall3.cpp))
+#### Versão 3 de fuzzycall
 
 ```cpp
 #include <windows.h>

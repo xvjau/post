@@ -136,5 +136,3 @@ Como é normal a qualquer dicionário do Babylon, podemos instalá-lo simplesmen
 [![Houaiss Babylon](/images/aznsNZq.png)](/images/aznsNZq.png)
 
 O projeto atual está um tanto capenga, mas já desencripta os arquivos do Houaiss e gera o projeto do Babylon Builder sozinho. Em anexo já está um projeto do Babylon Builder. Basta copiar o arquivo Houaiss.txt para a pasta do projeto e gerar o projeto do Babylon.
-
-Para os interessados em incrementar [a versão atual](/images/houaiss2babylon.7z), sintam-se à vontade.

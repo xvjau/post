@@ -17,4 +17,4 @@ Já usando a linguagem C++ (o fonte é um .cpp) temos outro resultado totalmente
 
 ![name-mangling-vcpp-cpp.png](/images/CRimP7B.png)
 
-Se quiser tentar entender essas letrinhas bizarras, recomendo baixar [projetos de exemplo](/images/name-mangling.7z). Se apenas entender que você não conseguirá juntar classes VC++ e Builder usando **[dllexport](http://msdn.microsoft.com/en-us/library/a90k134d(VS.80).aspx)** para tudo quanto é lado, então terminamos por aqui.
+Se quiser tentar entender essas letrinhas bizarras, recomendo baixar projetos de exemplo. Se apenas entender que você não conseguirá juntar classes VC++ e Builder usando **[dllexport](http://msdn.microsoft.com/en-us/library/a90k134d(VS.80).aspx)** para tudo quanto é lado, então terminamos por aqui.

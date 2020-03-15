@@ -9,7 +9,7 @@ _Nota de desculpas: eu sei que estou sendo rabugento demais com o mouse. Já é 
 
 **Utilidade do programa**
 
-Como eu já havia dito [anteriormente](/google-shortcuts), uso o _mouse_ quando necessário. Quando ele não é necessário ele fica clicando inconscientemente no Windows Explorer, já que utilizo a configuração de [clique único](http://www.google.com.br/search?q=windows+explorer+folder+options+single-click), onde as pastas e arquivos ficam selecionáveis apenas pousando o cursor sobre eles. Eu gosto dessa configuração, exceto pelo comportamento desagradável que ocorre quando mudo para a janela do Windows Explorer e meu _mouse_ ganha vida própria, selecionando alguma pasta ou arquivo e mudando meu foco de seleção. Preparei um [vídeo](/images/hidemouse.htm) especialmente para demonstrar essa situação.
+Como eu já havia dito [anteriormente](/google-shortcuts), uso o _mouse_ quando necessário. Quando ele não é necessário ele fica clicando inconscientemente no Windows Explorer, já que utilizo a configuração de [clique único](http://www.google.com.br/search?q=windows+explorer+folder+options+single-click), onde as pastas e arquivos ficam selecionáveis apenas pousando o cursor sobre eles. Eu gosto dessa configuração, exceto pelo comportamento desagradável que ocorre quando mudo para a janela do Windows Explorer e meu _mouse_ ganha vida própria, selecionando alguma pasta ou arquivo e mudando meu foco de seleção.
 
 Portanto, o objetivo desse programa é simples e direto: mover o _mouse_ para um canto enquanto eu uso meu teclado. Nada mais, nada menos. Para isso iremos registrar alguns atalhos globais no Windows. Para registrar atalhos globais no Windows utilizamos a função [RegisterHotKey](http://msdn2.microsoft.com/en-us/library/ms911003.aspx).
 
@@ -139,15 +139,6 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, PSTR, int)
 	return ExitProcess(ret), ret;
 } 
 
-```
-
-É possível baixar o fonte junto de um projeto para Visual Studio 2005 [aqui](/images/hidecursor.7z).
-
-__Atualização__. É possível compilar diretamente o exemplo mostrado acima simplesmente copiando e colando em um arquivo C(PP). Para fazer isso com o Visual Studio ou SDK, e considerando que o arquivo se chame nomouse.cpp, digite os seguintes comandos:
-
-```cmd
-     cl /c nomouse.cpp
-     link nomouse.obj user32.lib
 ```
 
 **A explicação**

@@ -93,7 +93,7 @@ int main()
 
 ```
 
-Para ver o problema de _lock_ em ação, baixe os fontes da [DLL](/images/loaderlock.cpp) e do [EXEcutável](/images/loaderlock-exe.cpp) e use os comandos abaixo para gerar os arquivos:
+Para ver o problema de _lock_ em ação, copie os fontes da DLL e do EXEcutável e use os comandos abaixo para gerar os arquivos:
 
     
     cl /c loaderlock.cpp loaderlock-exe.cpp
@@ -108,7 +108,5 @@ Para ver o problema de _lock_ em ação, baixe os fontes da [DLL](/images/loader
 
     
   1. [NT Loader (MSJ Sep 99)](http://www.microsoft.com/msj/0999/hood/hood0999.aspx) - Matt Pietrek
-
-    
   2. [mgrier's WebLog](http://blogs.msdn.com/mgrier/default.aspx) - NT Loader team participant
 
