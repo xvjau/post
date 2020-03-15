@@ -9,7 +9,7 @@ Na última vez que foi abordado o tema "lambda na ferida" falamos brevemente sob
 
 O padrão do lambda é supor que sua função embutida e enlatada não precisa retornar nada, o que torna a sintaxe mais simples: é um void AlgumaCoisa(argumentos). No entanto, para algoritmos como o find_if isso não funciona, então é necessário retornar algo. E, no caso de find_if, chamá-lo mais de uma vez pode ser feito facilmente criando uma variável lambda:
 
-```cpp
+```
 #include "Common.h"
 #include <algorithm>
 #include <vector>

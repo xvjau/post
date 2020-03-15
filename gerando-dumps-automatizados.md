@@ -9,7 +9,7 @@ Fiquei impressionado com a simplicidade com que podemos capturar qualquer exceç
 
 A mágica é tão bela que resolvi gravar um vídeo do que ocorreu quando compilei e testei o programa abaixo. Note que o tamanho do arquivo de dump ficou em torno dos 10 KB, ridículos nessa era de barateamento de espaço.
 
-```cpp
+```
 /** @file OnCrash
 
 @brief Exemplo de como capturar exceções no seu programa.

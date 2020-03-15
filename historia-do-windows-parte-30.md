@@ -61,7 +61,7 @@ O aplicativo fica aguardando por eventos em um _loop_ conhecido como **_loop_ de
 
 E aqui está o código completo:
 
-```c
+```
 /*--------------------------------------------------------
    HELLOWIN.C -- Displays "Hello, Windows" in client area
                  (c) Charles Petzold, 1990

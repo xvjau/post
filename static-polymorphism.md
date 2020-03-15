@@ -5,7 +5,7 @@ tags: [ "code", "blog" ]
 ---
 To explain the polymorphism nothing is better than see how stuff used to be. If you were a twenty old C programmer in the past and created the following functions:
 
-```c
+```
 int soma(int x, int y);
 double soma(double x, double y);
 
@@ -33,7 +33,7 @@ Immediately the compiler would blame you about the following errors:
 
 This happens because in C **the identifiers are unique into the scope.** This is the reason why the following code is wrong also:
 
-```c
+```
 int main()
 {
     int x = 0;
@@ -54,7 +54,7 @@ Back to the 90's, this is also wrong in C++. Even for a logic issue: how the com
 
 Even though, there's a little trick to stop the ambiguity when we talk about functions: the parameters that they receives.
 
-```cpp
+```
 int soma(int x, int y);
 double soma(double x, double y);
 

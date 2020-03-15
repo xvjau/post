@@ -9,7 +9,7 @@ Desde que comecei a programar, para compartilhar variáveis entre processo é me
 
 Era comum (talvez ainda seja) fazer um código assim:
 
-```cpp
+```
 // aqui definimos uma nova seção (note o 'shared' usado como atributo)
 #pragma section("shared", read, write, shared)
 
@@ -54,7 +54,7 @@ Houve uma vez em que tive que fazer _hooks_ direcionados a threads específicas 
 
 Foi daí que eu fiz um conjunto de funções alfa-beta de compartilhamento de variáveis baseado em template e memória mapeada:
 
-```cpp
+```
 #pragma once
 #include <windows.h>
 #include <tchar.h>
@@ -136,7 +136,7 @@ O segredo para entender mais detalhes dessa técnica é **pesquisar as funções
 
 Ah, é mesmo! Fiz especialmente para o artigo:
 
-```cpp
+```
 #define _CRT_SECURE_NO_DEPRECATE
 #include "ShareVar.h"
 #include <windows.h>

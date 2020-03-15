@@ -11,7 +11,7 @@ Para entender por inteiro o que acontece quando uma chamada ou acesso utilizando
 
 #### Versão 3 de fuzzycall
 
-```cpp
+```
 #include <windows.h>
 #include <iostream>
 #include <time.h>

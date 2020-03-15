@@ -25,7 +25,7 @@ As regras de acesso a elementos de um _array_ (subscrito) são definidas não em
 
 Isso traduzido em miúdos quer dizer que com duas expressões formando a construção **E1 [ E2 ]**, sendo uma delas do tipo **ponteiro para um tipo** e a outra do tipo **integral**, o resultado é equivalente a ***( (E1) + (E2) )**. Como no código abaixo:
 
-```cpp
+```
 #include <iostream>
 
 int main()

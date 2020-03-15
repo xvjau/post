@@ -8,7 +8,7 @@ Acho que já está na hora de nos reencontrarmos, né?
 
 A comunidade CCPP Brasil está preparando mais um daqueles eventos em que conversaremos sobre nossa maior paixão: <del>B!</del> <del>BCPL!</del> C e C++!
 
-```cpp
+```
 #include <ccpp-people.h>
 
 int main()

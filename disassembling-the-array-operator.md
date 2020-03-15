@@ -11,7 +11,7 @@ When I was reading the [K&R](http://www.amazon.com/C-Programming-Language-2nd/dp
 
 Notice that the rules don't specify the order of expressions to access the array. In other words, it doesn't matter for the language if we use a **pointer before the integer or an integer before the pointer**.
 
-```cpp
+```
 #include <iostream>
 #include <cassert>
 

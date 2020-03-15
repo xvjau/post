@@ -5,7 +5,7 @@ tags: [ "code", "blog" ]
 ---
 Em C++ não temos (ainda) a possibilidade de listarmos, por exemplo, a lista de métodos de um determinado tipo, a fim de chamá-lo pelo nome em tempo de execução. Algo assim:
 
-```cpp
+```
 class MyClass
 {
 public:
@@ -30,7 +30,7 @@ Porém, existem algumas maneiras de contornar esse problema. A solução, é cla
 
 Vamos supor, por exemplo, que você queira cadastrar funções para serem chamadas de maneira uniforme pelo prompt de comando. Vamos chamar nossa classe tratadora de CommandPrompt.
 
-```cpp
+```
 typedef void (Method*)(vector<string>& args);
 
 class CommandPrompt
@@ -45,7 +45,7 @@ public:
 
 Internamente, para armazenar as funções de acordo com o nome dado, basta criarmos um mapeamento entre esses dois tipos e fazemos a amarração necessária para o método principal de parseamento:
 
-```cpp
+```
 typedef map<string, Method> MethodList; // uma variável desse tipo armazena todas as funções
 
 void CommandPrompt::Interact(ostream& os, istream& is)

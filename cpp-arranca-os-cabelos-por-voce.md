@@ -7,7 +7,7 @@ Um dos [últimos posts](https://groups.google.com/forum/#!topic/ccppbrasil/-AC9U
 
 Isso porque mudanças pontuais que vão sendo aplicadas na linguagem e biblioteca, como *move semantics*, não cabe mais em exemplos de livrinhos de C++ para iniciantes da década de 90:
 
-```cpp
+```
 #include <string.h>
 #include <stdlib.h>
 #include <memory>

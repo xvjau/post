@@ -32,7 +32,7 @@ Isso cria um serviço de start automático que irá iniciar o debugger na ponta 
 
 Para este exemplo vamos usar um programa console que será convertido, assim como o msvsmon, em serviço, e uma DLL que ele carrega, chamando dois métodos; um de start, outro de stop. Nosso objetivo aqui é começar a depurar a DLL logo em seu início, na chamada do start.
 
-```c++
+```
 #include <iostream>
 #include <windows.h>
 
@@ -57,7 +57,7 @@ int main()
 
 As funções de start e stop não fazem nada, apenas imprimem um passou-por-aqui:
 
-```c++
+```
 #include "DLL.h"
 #include <iostream>
 
@@ -94,7 +94,7 @@ Lembre-se de iniciar o serviço.
 
 Após esse teste podemos modificar a DLL para aguardar por um depurador:
 
-```c++
+```
 #include <windows.h>
 
 void DLL_Start()

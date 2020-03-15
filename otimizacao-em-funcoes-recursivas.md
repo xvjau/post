@@ -11,7 +11,7 @@ O [livro que estou lendo](http://compare.buscape.com.br/categoria?id=3482&lkout=
 
 Imagine uma função recursiva que calcula o [fatorial](http://pt.wikipedia.org/wiki/Fatorial) de um número. Apenas para lembrar, o fatorial de um número n é igual a n * n-1 * n-2 * n-3 até o número 1. Existem implementações iterativas (com um laço for, por exeplo) e recursivas, que no caso chamam a mesma função n vezes.
 
-```c
+```
 int factorial(int n)
 {
 	if (n > 1)
@@ -208,7 +208,7 @@ Isso acontece porque o compilador é obrigado a montar um novo _stack frame_ par
 Note que ser a última instrução não implica em ser a última linha da função, o importante é que seja a última linha **executada**. No nosso exemplo, isso já é fato, só que usamos o retorno em uma expressão.
 
     
-```cpp
+```
     return factorial(n - 1) * n;
     // o retorno da chamada recursiva 
     // é parte de uma expressão
@@ -217,7 +217,7 @@ Note que ser a última instrução não implica em ser a última linha da funç�
 
 Por isso é necessário desenvolver uma segunda versão do código, que utiliza dois parâmetros para que aconteça a situação de _tail recursion_.
 
-```c
+```
 int factorial(int n, int a)
 {
 	if (n < 0)
@@ -444,7 +444,7 @@ Voilà!
 
 PS: De brinde uma versão que permite passar o número via linha de comando para facilitar os testes (e você vai reparar que há um problema em calcular o fatorial de 1000: ele é estupidamente grande! Resolver isso fica como exercício =).
 
-```c
+```
 #include <stdio.h>
 
 int factorial(int n, int a)

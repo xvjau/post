@@ -13,7 +13,7 @@ Isso significa que finalmente os algoritmo da STL vão ser úteis e não um "pai
 
 Por exemplo, antes, tínhamos que fazer o seguinte malabarismo para mexer com arrays/vetores/listas:
 
-```cpp
+```
 #include "Common.h"
 #include <algorithm>
 #include <vector>
@@ -39,7 +39,7 @@ Imagine que para cada interação devíamos criar uma função que manipulasse o
 
 Uma alternativa que costumava utilizar era a de roubar na brincadeira e criar um tipo dentro da função (permitido) e dentro desse tipo criar uma função (permitido):
 
-```cpp
+```
 #include "Common.h"
 #include <algorithm>
 #include <vector>
@@ -64,7 +64,7 @@ Apesar disso gerar INTERNAL_COMPILER_ERROR em muitos builds com o Visual Studio 
 
 Agora isso não é mais necessário. Desde o Visual Studio 2010 (que eu uso) a Microsoft tem trabalhado essas novidades do padrão no compilador, e aos poucos podemos nos sentir mais confortáveis em usar essas modernices sem medo. Por exemplo:
 
-```cpp
+```
 #include "Common.h"
 #include <algorithm>
 #include <vector>
@@ -86,7 +86,7 @@ int main()
 
 "Caraca, mas o que é esse código alienígena?", diria alguém como eu alguns anos atrás (talvez até meses). Bom, nada vem de graça em C++ e dessa vez houve algumas mudanças meio drásticas na sintaxe para acomodar o uso dessa lambida inline.
 
-```cpp
+```
 #include <algorithm>
 #include <iostream>
 

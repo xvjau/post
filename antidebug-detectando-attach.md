@@ -11,7 +11,7 @@ O objetivo dessa proteção é detectar se, após o executável ter sido iniciad
 
 O código que eu encontrei nada mais faz do que se aproveitar de uma peculiaridade do processo de _attach_: ao disparar o evento, a função **ntdll!DbgUiRemoteBreakin** é chamada. Ora, se é chamada, é lá que devemos estar, certo? E isso, como vemos abaixo, é relativamente fácil:
 
-```cpp
+```
 #include <windows.h>
 #include <iostream>
 #include <assert.h>
@@ -96,7 +96,7 @@ Após o programa ter sido executado, qualquer tentativa de _attach_ irá exibir 
 
 Sim, eu sei. Às vezes temos que apelar pra "ignorância" e fazer códigos obscuros como esse:
 
-```cpp
+```
 // opcodes to run a jump to the function AntiAttachAbort
 BYTE jmpToAntiAttachAbort[] =
 { 0xB8, 0xCC, 0xCC, 0xCC, 0xCC,   // mov eax, 0xCCCCCCCC

@@ -7,7 +7,7 @@ It's a known habit to use do-while constructions when there's a need to define a
 
 Let's imagine a trace macro that's enabled in debug mode, whilst kept in silence in release builds:
 
-```cpp
+```
 #ifdef NDEBUG
 
 #define MYTRACE( message ) /* nothing */
@@ -31,7 +31,7 @@ Let's imagine a trace macro that's enabled in debug mode, whilst kept in silence
 
 Nothing much, but it seems to work. But, as we going to see in the following lines, it is really a buggy piece of code, since a call inside an if-else construction simply doesn't work.
 
-```c
+```
 if( exploded() )
 	MYTRACE("Oh, my God");
 else
@@ -44,7 +44,7 @@ else
 
 Why's that? In order to answer this question, we need to look closer into the result code from the preprocessor, just replacing the macro for its piece of code:
 
-```c
+```
 if( exploded() )
 	{
 		char buffer[500];
@@ -119,7 +119,7 @@ For this reason, the tradicional way to skip this common error is to use a valid
 
 So we can rewrite our trace macro the right way, even being a funcky one:
 
-```c
+```
 #ifdef NDEBUG
 
 #define MYTRACE( message ) /* nothing */
@@ -145,7 +145,7 @@ So we can rewrite our trace macro the right way, even being a funcky one:
 
 Using a do-while (with a false expression inside the test to execute the block just once) the if-else construction is allowed and working properly:
 
-```c
+```
 if( exploded() )
 	do
 	{

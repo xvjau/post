@@ -11,7 +11,7 @@ Os mais comuns (devem ser, pois foram os únicos que encontrei até hoje) são:
 
 #### 1. Passagem de tipo na string de formatação diferente da variável passada:
 
-```cpp
+```
 // SPrintf.cpp : Guess how many lines we need to create a bug in C++?
 //
  
@@ -34,7 +34,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 Isso costuma ser mais comum quando existem centenas de milhares de parâmetros na chamada, o que confunde o programador (e o leitor de certos blogues especializados em confundir):
 
-```cpp
+```
 // SPrintf.cpp : Come one, now it is not so hard to find out.
 //
  
@@ -58,7 +58,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 #### 2. Passagem de tipo inteiro de tamanho diferente:
 
-```cpp
+```
 // SPrintf.cpp : Come one, now it is not so hard to find out.
 //
  
@@ -112,7 +112,7 @@ Conforme o printf interpreta a string de formatação, ele vai "comendo" (no bom
 
 Como os próximos 32 bits de nosso int64 estão zerados, faz sentido o printf imprimir (null) no lugar da string, pois este é o comportamento padrão da função quando o ponteiro é nulo. Agora, se tivéssemos um int realmente grande - vulgo "intão" - daí as coisas seriam diferentes:
 
-```cpp
+```
 // SPrintf.cpp : Come one, now it is not so hard to find out.
 //
  

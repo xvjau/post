@@ -31,7 +31,7 @@ Entre xadrez e andar de bicicleta, seu principal hobby, ou o que ele levou mais 
 
 Abaixo temos uma breve lista (não-exaustiva) das coisas que eu andei fazendo na minha breve vida de programador. Em inglês tenho o que chamamos de [resume](/resume).
 
-```cpp
+```
 .dump /ma curriculo.dmp
 ```
 

@@ -15,7 +15,7 @@ Para fazer a DLL, existe um projeto de demonstração que se utiliza de uma téc
 
 Existem três funções que poderão ser utilizadas pelo seu programa:
 
-```cpp
+```
 /** Run process and get rights for running remote threads. */
 HANDLE CreateAndGetProcessGodHandle(LPCTSTR lpApplicationName, LPTSTR lpCommandLine);
 
@@ -29,7 +29,7 @@ BOOL RemoteFreeLibrary(HANDLE hProcess, HMODULE hModule);
 
 Eis a rotina principal simplificada demonstrando como é simples a utilização das funções:
 
-```cpp
+```
 //...
 // Start process and get handle with powers.
 hProc = CreateAndGetProcessGodHandle(tzProgPath, tzProgArgs);
@@ -50,7 +50,7 @@ if( hProc != NULL )
 
 A parte mais complicada talvez seja o que fazer quando a sua DLL é carregada. Considerando que ao ser chamada em seu ponto de entrada, o código da DLL possui algumas limitações (uma já citada; para mais, vide a ajuda de **DllMain** no MSDN), fiz uma "execução alternativa", criando uma _thread_ na função **DllMain**:
 
-```cpp
+```
 BOOL APIENTRY DllMain(HANDLE hModule, DWORD ul_reason_for_call, LPVOID lpReserved)
 {
 	switch( ul_reason_for_call )
@@ -88,7 +88,7 @@ BOOL APIENTRY DllMain(HANDLE hModule, DWORD ul_reason_for_call, LPVOID lpReserve
 
 A função da _thread_, por sua vez, é esperar pela finalização da _thread_ **DllMain** (temos o _handle_ dessa _thread_ armazenado em g**_hThrDllMain**), fazer o que tem que fazer, e retornar, liberando ao mesmo tempo o _handle_ da DLL criado para si:
 
-```cpp
+```
 /**
 * Sample function, called remotely for RmThread.exe.
 */

@@ -27,7 +27,7 @@ Tudo que um ponteiro faz de útil em C/C++ foi emprestado para a STL usar em seu
 
   * Dois ponteiros podem ser subtraídos para sabermos a distância entre dois elementos.
 
-```cpp
+```
 
 template<typename T>
 T VaiSomandoVaiSomando(T begin, T end)

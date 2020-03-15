@@ -10,7 +10,7 @@ O livro-base sobre a linguagem C++ e como programar nela tem o nome pouco criati
 
 Stroustrup não fez tudo do zero, nem fez tudo de uma vez. A primeira necessidade era apenas criar uma abstração já existente na linguagem C, mas que ainda não havia sido integrada à sintaxe: __o contexto de uma estrutura__, que se assemelha a uma proto-classe, ou para alguns já é até uma classe, pois possui membros e métodos:
 
-```cpp
+```
 class Cpp // uma classe é uma estrutura com funções, e vice-versa
 {
     int x; // membro primitivo, do tipo int
@@ -38,7 +38,7 @@ int main()
 
 A grande sacada é que no meio de toda essa sintaxe de chamada de método havia a passagem de um parâmetro escondido, o this, que se referia à uma instância específica da classe: um objeto.
 
-```cpp
+```
 Cpp::GetX() // estou recebendo this escondido aqui; o tipo de this é Cpp * const
 {
     return this->x; // outra forma de retornar o membro da classe
@@ -47,7 +47,7 @@ Cpp::GetX() // estou recebendo this escondido aqui; o tipo de this é Cpp * cons
 
 Isso equivaleria a uma struct em C com funções que recebessem um this adaptado:
 
-```cpp
+```
 struct C // uma classe em C
 {
     int x; // membro primitivo, do tipo int

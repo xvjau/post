@@ -7,7 +7,7 @@ No [primeiro artigo](/antidebug-interpretacao-baseada-em-excecao-parte-1) vimos 
 
 O upgrade apresentado aqui continua utilizando o lançamento de exceções intrinsecamente, mas agora não depende mais da divisão do código em minifunções e chamá-las aos poucos. Em invés disso, temos apenas que pegar traços de código e colocá-los em torno de uma macro milagrosa que fará tudo o que quisermos. Isso, claro, depois de algumas marteladas que serão explicadas aqui.
 
-```cpp
+```
 // Go back to place pre-defined by the restoration point.
 void LongJmp(restorePoint)
 {
@@ -86,7 +86,7 @@ Func:
 
 Toda essa esculhambada em assembly não precisa ser necessariamente feita em linguagem de baixo nível. Foi apenas uma maneira que encontrei pra ilustrar as diferenças entre retorno baseado em pilha e alteração no fluxo do código. Como já foi dito, para a sorte e o bem-estar de todos, essa mesma técnica pode ser implementada com funções C da biblioteca ANSI:
 
-```cpp
+```
 jmp_buf env; // Contains the next instruction (stack state).
 
 void Func()
@@ -109,7 +109,7 @@ void CallFunc()
 
 Essa foi a técnica adicionada à solução do lançamento de exceções. O código final ficou mais claro:
 
-```cpp
+```
 /** The only purpose of this function is to generate an exception.
 */
 DWORD LongJmp(jmp_buf* env)
@@ -158,7 +158,7 @@ int main()
 
 À primeira vista parece um desperdício o if estar diretamente no código (lembre-se que vamos utilizar a mesma estrutura condicional em várias e várias partes do código. Para tornar mais claro seu uso, resumir a chamada protegida e permitir que a proteção seja desabilitada em debug, vamos criar uma macro:
 
-```cpp
+```
 /** Use this macro instead LongJmp
 */
 #define ANTIDEBUG(code)

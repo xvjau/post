@@ -26,7 +26,7 @@ http://youtu.be/GVTCej6zwAk
 
 Feito com a ajuda de um tabuleiro-template e um pouco do poder Python+PIL:
 
-```python
+```
 from PIL import Image
 from PIL import ImageFont
 from PIL import ImageDraw

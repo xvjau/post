@@ -15,7 +15,7 @@ O resumo da ópera é que o código do Windows chamador do DllMain das DLLs carr
 
 O código abaixo é besta, mas representa o que já vi em muito código-fonte, e muitas vezes não consegui perceber o que estava acontecendo (tanto porque desconhecia a existência desse _loader lock_ quanto o código estava obscuro demais pra entender mesmo). Os comentários dizem tudo:
 
-```cpp
+```
 //
 // LoaderLock.dll
 //
@@ -73,7 +73,7 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved)
 
 Uma simples vítima disso pode ser um pobre executável usando uma pobremente escrita DLL, assim como no código abaixo:
 
-```cpp
+```
 //
 // Victim.exe
 //

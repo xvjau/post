@@ -13,7 +13,7 @@ Vejamos alguns exemplos.
 
 O código abaixo parece bem razoável:
 
-```c
+```
 #include <windows.h>
 
 int main()
@@ -71,7 +71,7 @@ Mesmo que não seja tão difícil, pode ser ambíguo. Por exemplo, como saber se
 
 O código abaixo, muito usado por todos que suportam ainda o Windows mais velhinhos, verifica se estamos rodando em plataforma NT ou 9x.
 
-```c
+```
 #include <windows.h>
 #include <stdio.h>
 

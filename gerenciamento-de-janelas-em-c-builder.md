@@ -7,7 +7,7 @@ As janelas criadas no C++ Builder são equivalentes às janelas criadas pela API
 
 Abra o Builder. Um projeto padrão é criado. Agora no menu **File**, vá em **New**, **Form**. Isso adicionará um novo formulário ao projeto padrão. Pronto! Temos dois formulários. Agora se formos dar uma passeada no WinMain, vemos que o código para iniciar a VCL se alterou conforme a música:
 
-```cpp
+```
 //...
 try
 {
@@ -22,7 +22,7 @@ try
 
 Porém, se rodarmos a aplicação nesse momento, podemos notar que o programa exibe apenas a janela correspondente ao primeiro formulário. De fato, ao chamar o método **Application->Run()**, apenas o primeiro _form_ criado é exibido. Isso não significa, é claro, que o segundo _form_ não tenha sido criado. Para demonstrar como ele está lá, coloque o seguinte evento no clique de um botão do **Form1**:
 
-```cpp
+```
 #include "Unit2.h" // extern PACKAGE TForm2 *Form2;
 
 void __fastcall TForm1::Button1Click(TObject *Sender)
@@ -44,7 +44,7 @@ Esse funcionamento e automação na criação de janelas da VCL foi feita para f
 
 Para exemplificar, vamos inverter as coisas. Coloque um botão no segundo formulário que finalize o programa de maneira explítica:
 
-```cpp
+```
 void __fastcall TForm2::Button1Click(TObject *Sender)
 {
 	Application->Terminate();
@@ -54,7 +54,7 @@ void __fastcall TForm2::Button1Click(TObject *Sender)
 
 Agora, no evento de **OnClose** (acho que você conhece o Object Inspector, não? Bom, se não conhece, talvez isso mereça um [artigo à parte](/introducao-ao-c-builderturbo-c)) do **TForm1** insira o seguinte código:
 
-```cpp
+```
 void __fastcall TForm1::FormClose(TObject *Sender, TCloseAction &Action)
 {
 	Action = caNone;

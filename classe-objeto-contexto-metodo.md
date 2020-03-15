@@ -10,7 +10,7 @@ Hoje faremos isso.
 
 Isso é relativamente simples quando se conhece ponteiros de função, existentes tanto em C quanto em C++. Ponteiros de função são tipos que contém endereço de uma função com assinatura específica (tipo de retorno e de argumentos). Através de um ponteiro de função é possível chamar uma função e passar alguns argumentos. Como o contexto nada mais é que um argumento, será só passá-lo como parâmetro.
 
-```cpp
+```
 bool MinhaFuncao(int x, int y)
 {
 	return x == y;
@@ -25,7 +25,7 @@ int main()
 
 No exemplo anterior não sabíamos como chamar um método de nosso "objeto" em C:
 
-```cpp
+```
 struct MinhaClasse
 {
     int MinhaPropriedade;
@@ -40,7 +40,7 @@ void MinhaClasse_MeuMetodo(MinhaClasse* pThis)
 
 Isso se torna fácil se tivermos uma nova "propriedade" na nossa struct que é um ponteiro para a função que queremos chamar.
 
-```cpp
+```
 #include <stdio.h>
 
 struct MinhaClasse

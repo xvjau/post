@@ -43,7 +43,7 @@ Existem aqueles compiladores que não suportam essa idéia da mesma forma, ou n�
 
 Pelo que eu pude constatar, existe, sim.
 
-```c
+```
 #include <stdio.h>
 
 union TesteAlign
@@ -135,7 +135,7 @@ Ou seja, se já for múltiplo de 8, é o próprio valor. Se não for, então div
 
 É lógico que, como se trata de uma construção onde temos completo domínio dos tipos e valores envolvidos, transformar isso em um _template _é "[pedaço de torta](http://en.wikipedia.org/wiki/Piece_of_cake)".
 
-```cpp
+```
 #include <stdio.h>
 
 template<typename Teste, int Align>

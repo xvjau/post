@@ -13,7 +13,7 @@ Vamos supor um caso bem simples e plausível, que é exatamente o mesmo do artig
 
 O código do aplicativo apenas tenta carregar a DLL em dois lugares distintos e exibe o endereço para onde elas foram mapeadas em nosso processo de teste:
 
-```c
+```
 #include <windows.h>
 #include <stdio.h>
 
@@ -34,7 +34,7 @@ int main()
 
 A DLL é uma DLL trivial:
 
-```c
+```
 #include <windows.h>
 
 BOOL WINAPI DllMain(HINSTANCE inst, DWORD reason, PVOID reserv)

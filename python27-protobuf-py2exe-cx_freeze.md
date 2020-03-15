@@ -188,7 +188,7 @@ d:\src\MyFictionalPackage\build\exe.win32-2.7\MyFictionalPackage.exe
 
 **Nota**: conteúdo do arquivo setup.py:
 
-```py
+```
 import sys
 import os
 from cx_Freeze import setup, Executable

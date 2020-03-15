@@ -7,7 +7,7 @@ Quando usamos o operador _typeid_ geralmente desejamos conhecer informações so
 
 Eis um exemplo singelo, sem dramatização (com dramatização == "500 linhas de código de produção além do código abaixo").
 
-```cpp
+```
 #include <iostream>
 #include <typeinfo>
 
@@ -74,7 +74,7 @@ O _typeid_ usado nesse exemplo será o estático, no estilo _typeid(type)_, porq
 
 Se o esperado pelo programador fosse um _class Deriv_ na última linha da saída, ou seja, que o _typeid_ utilizado fosse a versão dinâmica, então a nossa classe Base tem que ser polimórfica:
 
-```cpp
+```
 virtual ~Base() // agora sou polimórfica também!
 {
 	cout << "~Base()\n";

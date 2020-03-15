@@ -10,7 +10,7 @@ Como isso pode ser causado?
 
 Bom, em C/C++ sempre é mais simples de entender esses conceitos. Um código simples que se esquece de fechar o handle usando __CloseHandle__ ou a função equivalente do recurso obtido já seria o suficiente. O último bug que eu encontrei em um código desses comete o clássico erro de sair no meio da função, deixando os recursos alocados:
 
-```cpp
+```
 DWORD ClassicHandleLeak()
 {
 	DWORD ret = 0;
@@ -43,7 +43,7 @@ E como fazer para descobrir esse tipo de leak?
 
 O HandleLeaker é apenas um exemplo de aplicação que realiza o leak de um handle por segundo. Ele tenta (e consegue) abrir um handle para seu próprio processo, e deixa o handle aberto (programas em Win32 API não são muito bons em [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization)).
 
-```cpp
+```
 int main()
 {
 	while (true)

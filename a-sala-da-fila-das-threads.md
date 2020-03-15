@@ -23,7 +23,7 @@ Do ponto de vista do programador, o critical secton é apenas uma estrutura que 
 
 Falando assim, parece simples. Bom, na verdade é simples, mesmo. Tudo que você precisa para corrigir o programa do artigo anterior é criar um critical section e fazer com que as threads obtenham-no antes de mexer com o contador compartilhado.
 
-```cpp
+```
 #include <windows.h>
 #include <stdio.h>
  

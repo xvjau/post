@@ -20,7 +20,7 @@ Inserir suporte a linques na biblioteca de controles comuns:
 
 Usar o CreateWindow com a classe certa, fazer markup html dentro do título e cuidar das mensagens de `<click>` e `<enter>` no controle:
 
-```cpp
+```
 CreateWindowEx(0, WC_LINK, 
 	L"<a href=\"http://www.caloni.com.br\">This site rocks!</a>", 
 	WS_VISIBLE | WS_CHILD | WS_TABSTOP, ...);

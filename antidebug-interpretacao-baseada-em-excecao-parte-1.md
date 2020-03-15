@@ -7,7 +7,7 @@ Um depurador utiliza _breakpoints_ para "paralisar" momentaneamente a execução
 
 A idéia principal na proteção baseada em exceção é tomarmos conta dessas exceções durante a execução do aplicativo. Fazendo isso podemos nos aproveitar desse fato e, no código responsável por tratar a exceção, **executar o código protegido**. A solução discutida aqui é parecido com um **interpretador de scripts**. Consiste basicamente de duas _threads_. A primeira thread **lê uma seqüência de instruções** e manda a segunda thread **executá-las passo a passo**. Para fazer isso a segunda thread usa um conjunto de **pequenas funções** com blocos de código bem definidos. Em pseudocódigo isso ficaria assim:
 
-```cpp
+```
 // the well-defined functions are functional blocks of code and have
 // the same signature, allowing the creation of a pointer array to them
 void WellDefinedFunction1( args );
@@ -52,7 +52,7 @@ int Start()
 
 A proteção ainda não está aí. Mas fará **parte intrínseca** da _thread_ de execução. Tudo que precisamos fazer é adicionar um **tratamento de exceções** e fazer chover ints 3. As exceções disparadas pela int 3 são capturadas por uma segunda função que antes de retornar o controle executa a próxima instrução enfileirada:
 
-```cpp
+```
 // filter exceptions that were thrown by the thread below
 DWORD ExceptionFilterButExecuteWellDefinedFunction()
 {
@@ -97,7 +97,7 @@ O preço pago por essa proteção fica na **visibilidade e compreensão** do có
 
 O exemplo abaixo recebe entrada por um prompt de comandos e **mapeia a primeira palavra digitada** para o índice de uma função que deve ser chamada. O resto da linha digitada é passado como parâmetro para essa função. A _thread_ de interpretação lê a entrada do usuário e escreve em uma **variável-_string_ global**, ao mesmo tempo que a _thread_ de execução espera essa _string_ ser preenchida para executar a ação. Foi usado o _pool_ dessa variável para o código ficar mais simples, mas o ideal seria algum tipo de sincronismo, como [eventos](http://msdn.microsoft.com/library/en-us/dllproc/base/createevent.asp), por exemplo.
 
-```cpp
+```
 /** @brief Sample demonstrating how to implemente antidebug in a code exception based.
 @date jul-2007
 @author Wanderley Caloni

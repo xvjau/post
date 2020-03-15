@@ -7,7 +7,7 @@ tags: [ "code" ]
 
 Uma dúvida besta e importante ao mesmo tempo que muitos iniciantes em C++ possuem é saber qual a diferença entre um objeto declarado como _class_ e um objeto declarado como _struct_. A causa dessa dúvida é uma linguagem que se derivou de outra (C) que não possuía classes, e portanto criou a palavra-chave _class_ para "ficar bonito", pois, na prática, não muda muita coisa. Tomemos como exemplo o código mais simples de todos:
 
-```cpp
+```
 struct MinhaEstrutura
 {
 };
@@ -32,7 +32,7 @@ Ele compila e roda sem problemas:
 
 Isso pode ser visto quando adicionamos um construtor para nossos tipos de teste:
 
-```cpp
+```
 struct MinhaEstrutura
 {
     MinhaEstrutura() {}
@@ -61,7 +61,7 @@ Isso mesmo! Nada lhe obriga tecnicamente a usar class. Porém, assim como nada l
 
 Geralmente uma _struct_ é uma forma de concatenar tipos primitivos e só. Algumas liberdades além disso geralmente são permitidas, mas desencorajadas, como um construtor que inicia os membros da _struct_ com valores-default.
 
-```cpp
+```
 #include <iostream>
 
 struct MinhaEstrutura
@@ -90,7 +90,7 @@ int main()
 
 E, por que não, uma sobrecarga do operador de stream para imprimirmos diretamente os valores de **MinhaEstrutura** para a saída com apenas um comando?
 
-```cpp
+```
 #include <iostream>
 
 struct MinhaEstrutura

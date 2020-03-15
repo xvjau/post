@@ -21,7 +21,7 @@ Uma enumeração faz duas coisas: define um novo tipo, parecido com um inteiro, 
 
 Como funciona: definimos uma lista com cada elemento tendo um valor inteiro, geralmente único. Todos os nomes usados na lista passam a fazer parte do espaço de nomes atual e funcionam como constantes com o seu valor definido no início.
 
-```cpp
+```
 enum FileType // criamos o novo tipo inteiro FileType
 {
    Binary = 1, // Binary é uma constante com valor igual a 1
@@ -34,7 +34,7 @@ enum FileType // criamos o novo tipo inteiro FileType
 
 Obs.: Os elementos que não possuem valor definido são definidos automaticamente como o valor do elemento anterior acrescidos de um. Se for o primeiro elemento, seu valor padrão é zero.
 
-```cpp
+```
 enum Numbers
 {
    zero,  // igual a zero
@@ -56,7 +56,7 @@ enum Hexa
 
 _Detalhe bizarro_: você sabia que, apesar da vírgula ser usada para separar valores de enumeração, ela pode também terminar uma listagem? Por algum motivo exdrúxulo (se alguém quiser explicar), um valor de enumeração foi definido de tal forma que sempre poderá existir uma vírgula terminando ele:
 
-```cpp
+```
 enum VirgulaSafada { 
    um = 1, 
    dois, 
@@ -69,7 +69,7 @@ enum VirgulaSafada {
 
 Geralmente usamos enumerações para definir valores únicos (tag) em um argumento de função, ou, mais moderno, como substituto daqueles antigos defines em C para mapas de bits. Nesse último caso não usamos o tipo da enumeração, pois ele pode conter apenas um valor único definido, e não um conjunto deles:
 
-```cpp
+```
 enum ModoDeServir
 {
    assado,
@@ -112,7 +112,7 @@ Como os tipos da enumeração passam a pertencer ao namespace atual, eles podem 
 
 O surgimento do enum veio como evolução de uma prática já consagrada pelo uso na linguagem C, que eram as listas de valores constantes criados através de defines com algum prefixo em comum (FILE_SHARE_*, SW_SHOW_*, etc). Portanto, sempre que se encontrar em uma situação para criar esse tipo de lista, a enumeração é o caminho atualmente ideal.
 
-```cpp
+```
 // A listagem abaixo pode virar um enum...
 #define FOM_READ   0x0001
 #define FOM_WRITE  0x0002
@@ -155,7 +155,7 @@ Perguntado [por um leitor](/enum) sobre qual a diferença prática do último ex
 
 Para ilustrar melhor fiz um mais elaborado. Aqui, estamos lendo pedaços de dados que tiveram que ser alinhados com alguma "gordura".
 
-```cpp
+```
 // alinhamento obrigatório pelo leiaute dos dados
 #define CHUNKSZ_BASE 0x5000
 

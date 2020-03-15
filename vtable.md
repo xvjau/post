@@ -11,7 +11,7 @@ A vtable foi um mecanismo criado para implementar o polimorfismo em C++ quando f
 
 A coisa fica mais simples quando explicamos que em C++ você só paga pelo que usa. Se você declarar uma classe que não tenha nenhum método virtual, os objetos dessa classe não precisarão de uma vtable. No entanto, você não conseguirá sobrescrever um método dessa classe através de uma derivada:
 
-```cpp
+```
 #include <iostream>
 
 class C

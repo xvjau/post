@@ -25,7 +25,7 @@ Resumidamente, um _loop_ de mensagens é a maneira definida pelo Windows para **
 
 **O código**
 
-```cpp
+```
 /** @brief Puts the mouse cursor in a pre-defined place.
 @author Wanderley Caloni (wanderley@caloni.com.br)
 @date 07-2007

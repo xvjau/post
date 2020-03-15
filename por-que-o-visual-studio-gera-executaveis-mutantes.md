@@ -9,7 +9,7 @@ Essa é a segunda vez que encontro esse mesmo problema. Como acredito que outras
 
 Primeiro, precisamos de um solution que contenha um projeto console e uma LIB. O projeto console deve usar a LIB para fazer alguma coisa. No exemplo abaixo, estarei listando os programas instalados no Windows (os mostrados no painel de controle através da opção "Adicionar/remover programas".
 
-```cpp
+```
 /** library.h
 */
 #pragma once
@@ -127,7 +127,7 @@ O sistema no pode executar o programa especificado.
 
 Tudo bem, meu executável não é mutante ainda. Mas agora vamos trocar a chamada da nossa função que usa STL por uma função que não usa:
 
-```cpp
+```
 /** library.h
 */
 int doesNothing();

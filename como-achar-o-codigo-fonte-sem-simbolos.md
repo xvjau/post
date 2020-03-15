@@ -256,7 +256,7 @@ word ptr [eax],2Fh
 
 Note como a função compara algo com zero. Caso não seja zero ela continua. Caso contrário ela vai para um ponto que chama uma função interna e move um código de erro para um ponteiro recebido como parâmetro, o que é muito normal, se lembrarmos que as funções COM de um programa em C devem retornar o código da chamada no retorno (S_OK) e o código de erro em um lResult da vida.
 
-```cpp
+```
 STDMETHODIMP CService::Open(<params>, PLONG *pctReturn)
 {
 	if( DeuErrado() )
@@ -272,7 +272,7 @@ STDMETHODIMP CService::Open(<params>, PLONG *pctReturn)
 
 O código retornado é 2Fh, e agora temos uma boa pista para encontrar a localização no fonte. A primeira coisa é encontrar o define responsável por esse erro, o que exige um pouco de familiaridade com o sistema, pois não se trata aqui de um código Windows.
 
-```cpp
+```
 #define OSRL_ERR	44	/* Data file serial number overflow */
 #define KLEN_ERR	45	/* Key length exceeds MAXLEN parameter */
 #define	FUSE_ERR	46	/* File number already in use */
@@ -286,7 +286,7 @@ O código retornado é 2Fh, e agora temos uma boa pista para encontrar a localiz
 
 Ótimo. 2F, para os leigos (leigos? o que vocês estão fazendo aqui?), é 47 em decimal, exatamente nosso código listado acima. Com esse define podemos agora procurar no código-fonte e analisar todas as funções que retornam esse código em seu início. Para nossa sorte, existe apenas uma.
 
-```cpp
+```
 STDMETHODIMP CService::Open(BYTE *fileName, COUNT keyNo, COUNT *pctReturn)
 {
 	char szMsg[200];

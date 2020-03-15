@@ -9,7 +9,7 @@ O sistema de _drag and drop_ do C++ Builder é muito fácil de usar, integrado q
 
 A parte (ridídula) do código fica por conta da manipulação do evento de drop. Para aceitar um objeto, devemos tratar o evento **OnDragOver**. Basta isso para que a variável **Accept** tenha seu valor _default_ definido para _true_. Podemos, entretanto, escolher se iremos ou não tratar um possível drop de um objeto. Verificando seu tipo, por exemplo:
 
-```cpp
+```
 void __fastcall TMain::FormDragOver(TObject *Sender, TObject *Source,
       int X, int Y, TDragState State, bool &Accept)
 {
@@ -26,7 +26,7 @@ void __fastcall TMain::ListBoxDragOver(TObject *Sender, TObject *Source,
 
 A parte mais interessante do código fica por conta da hora que o objeto é "jogado", no evento **OnDragDrop**. Nela recebemos o ponteiro para o Sender (como sempre), que é o _target object_, e um Source. Geralmente para manipular o _source object_ é necessário antes realizar um _cast_ para um tipo mais conhecido.
 
-```cpp
+```
 void __fastcall TMain::ListBoxDragDrop(TObject *Sender, TObject *Source, 
 	int X, int Y)
 {

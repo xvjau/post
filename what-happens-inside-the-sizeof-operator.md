@@ -5,7 +5,7 @@ tags: [ "code", "blog" ]
 ---
 The question: how to get the size of a struct member without declaring it as a variable in memory? In pseudocode:
 
-```cpp
+```
 static const size_t FIELD_SIZE_MSGID = 15;
 
 struct FEEDER_RECORD_HEADER

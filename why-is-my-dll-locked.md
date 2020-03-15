@@ -15,7 +15,7 @@ In short, the Windows code responsible to call DllMain for each loaded/unloaded 
 
 The code below is silly, but represents quite well what I've seen in lots of production code. For many times I was unable to realize what was going on (whether because I didn't know about the loader lock or the code readability was too bad). The comments say by themselves:
 
-```cpp
+```
 //
 // LoaderLock.dll
 //
@@ -73,7 +73,7 @@ BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved)
 
 A simple victim of all this can be an executable using a poorly written DLL, just like the code above:
 
-```cpp
+```
 //
 // Victim.exe
 //

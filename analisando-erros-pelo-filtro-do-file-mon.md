@@ -19,7 +19,7 @@ Isso só acontece em algumas máquinas, na maioria delas tudo funciona perfeitam
 
 O analista Juquinha, do suporte técnico terceirizado na Índia sul-americana, foi chamado para dar uma olhada nesse problema. Como os chineses não confiam em um não-comedor de pastel de flango, Juquinha não terá acesso ao código-fonte do produto, mas poderá dar uma espiada no instalador. Ei-lo:
 
-```cpp
+```
 int _tmain(int argc, _TCHAR* argv[])
 {
 	std::cout << "Happy installing...\n";
@@ -39,7 +39,7 @@ Vamos agora dar uma olhada no código do aplicativo, coisa que nosso analista n�
 
 O produto é constituído de três binários: __myapp.exe__, __myanotherapp.exe__ e __mydll.dll__. Os dois executáveis usam a DLL (no bom sentido). Cada um deles chama a DLL para realizar algumas operações.
 
-```cpp
+```
 // mypp.exe v. 1
 int _tmain(int argc, _TCHAR* argv[])
 {
@@ -83,7 +83,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 Na DLL há apenas uma função exportada: Version1. Quer dizer, na versão sendo atualizada foi criada uma nova função, a Version2. Vejamos a versão final:
 
-```cpp
+```
 void Version1()
 {
 	std::cout << "Version 1\n";

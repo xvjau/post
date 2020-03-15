@@ -11,7 +11,7 @@ Vamos fazer da área da janela principal uma tela onde possamos desenhar. Para i
 
 Saber o estado dos botões é trivial, podemos capturar isso nos eventos **OnMouseDown** e **OnMouseUp** e guardar em alguma variável.
 
-```cpp
+```
 //...
 private:
 	bool mouseDown; // essa variável guarda o estado do mouse...
@@ -44,7 +44,7 @@ Saber quando o _mouse_ está sendo arrastado também é um passo trivial, uma ve
 
 Para desenhar, todo formulário e mais alguns controles gráficos possuem um objeto chamado **Canvas**, do tipo TCanvas (duh). Essa classe representa uma superfície de desenho que você pode acessar a partir de seus métodos. Isso é a abstração do conhecido _[device context](http://www.google.com/search?q=device+context+site%3Amsdn.microsoft.com)_ da GDI, tornando a programação mais fácil. O desenho de uma linha, por exemplo, é feito literalmente em uma linha de código.
 
-```cpp
+```
 void __fastcall TForm1::FormMouseMove(TObject *Sender, TShiftState Shift,
 	int X, int Y)
 {
@@ -66,7 +66,7 @@ Um dos problemas nele reflete o comportamento de gráficos em janelas no Windows
 
 Se precisamos repintar, logo precisamos saber tudo o que o usuário fez até então. Uma das técnicas mais baratas no quesito memória para salvar o estado gráfico de uma janela é guardar um histórico das operações realizadas sobre sua superfície e executá-las novamente ao repintar a janela. A GDI é rápida o bastante para que o custo de processamento não seja sentido na maioria dos casos. Para o nosso _Paint_, apenas um array de coordenadas origem-destino já dá conta do recado:
 
-```cpp
+```
 //...
 private:
 	bool mouseDown; // essa variavel guarda o estado do mouse

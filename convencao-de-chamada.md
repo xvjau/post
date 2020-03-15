@@ -7,7 +7,7 @@ Pergunta de um leitor:
 
 #### Leitor: Olhe essa bizarrice em C:
 
-```cpp
+```
 void func()
 {
 
@@ -28,7 +28,7 @@ OK, a verdade é que não existem (existiam?) muitas regras de sintaxe a serem r
 
 Isso me lembra também que havia a declaração "arcaica" da linguagem (já era arcaica antes mesmo do padrão de 1998 sair):
 
-```cpp
+```
 void func()
 char* sbrubles; /* isso é um argumento de entrada */
 {
@@ -49,7 +49,7 @@ Agora que sabemos disso, o comportamento do __va_list__ nem deve parecer tão m�
 
 Porém, o uso canônico na linguagem C e a forma mais educada de navegar nos parâmetros extras é usando o header stdarg.h. Isso porque C é uma linguagem independente de plataforma, e _a priori_ não temos a mínima ideia de como os dados estão estruturados no computador. Essa visão das variáveis locais e etc é apenas algo que sabemos sobre a arquitetura PC (8086) porque já brincamos demais de _assembly_ e seus registradores.
 
-```cpp
+```
 int soma(int argc, ...);
 
 int main()
@@ -78,7 +78,7 @@ int soma(int argc, ...)
 
 Uma versão de quem já manja dos internals da arquitetura onde está programando e não se importa com portabilidade poderia simplesmente caminhar pela pilha a partir do endereço de argc.
 
-```cpp
+```
 int soma(int argc, ...)
 {
 	int ret = 0;

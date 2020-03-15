@@ -25,7 +25,7 @@ Por padrão, todo projeto no Visual Studio depende da LIBC. Isso quer dizer que,
     
   6. Compile e _link_ (Build, Build Solution)
 
-```c
+```
 #define _CRT_SECURE_NO_DEPRECATE
 #include <stdio.h>
 #include <string.h>

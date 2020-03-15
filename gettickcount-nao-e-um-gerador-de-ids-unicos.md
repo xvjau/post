@@ -9,7 +9,7 @@ Muitas vezes uma solução intuitiva não é exatamente o que esperamos que seja
 
 Porém, nada como código para provar que estamos errados:
 
-```cpp
+```
 #include <windows.h>
 #include <iostream>
 #include <list>

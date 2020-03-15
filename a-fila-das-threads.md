@@ -13,7 +13,7 @@ A primeira "parábola" conta a história da fila das threads em direção ao gui
 
 O exemplo abaixo cria três threads, todas iniciando na mesma função. O objetivo de todas elas é incrementar um contador até que seu valor chegue a 10. Todas param quando esse objetivo é alcançado.
 
-```cpp
+```
 #include <windows.h>
 #include <stdio.h>
 
@@ -79,7 +79,7 @@ Quando uma thread quer realizar algum processamento, ela precisa entrar na** fil
 
 Uma thread pode opcionalmente ir para o final da fila por conta própria. Para isso, basta que ela chame a função [Sleep](http://msdn.microsoft.com/en-us/library/ms686298(VS.85).aspx) da API passando qualquer valor em milissegundos; até mesmo zero. Se passar um valor diferente de zero, ela irá para outra fila de espera, a **fila das inativas**, até o tempo determinado estourar. Depois ela volta para a fila das threads ativas. Se passar zero, ela vai direto para a fila das ativas.
 
-```cpp
+```
 #include <windows.h>
 #include <stdio.h>
 
@@ -142,7 +142,7 @@ Peraí. O mesmo contador? Isso não pode gerar problemas de duas threads tentand
 
 Não vou mentir; pode sim. Para isso acontecer, basta **irmos para o final da fila antes de incrementarmos**, mas **após pegarmos o valor atual do contador**. Note que a saída muda completamente.
 
-```cpp
+```
 #include <windows.h>
 #include <stdio.h>
 

@@ -11,7 +11,7 @@ The purpose of this protection is to detect if some debugger tries to attach int
 
 The code I've found does nothing more than to make use of the attach process function that's always called: the **ntdll!DbgUiRemoteBreakin**. Being always called, we can just to put our code there, what is relatively easy to do:
 
-```cpp
+```
 #include <windows.h>
 #include <iostream>
 #include <assert.h>
@@ -96,7 +96,7 @@ After the program has been running, every try to attach will show a detection me
 
 Yes, I know. Sometimes we have to use "brute force codding" and make obscure codes, like this:
 
-```cpp
+```
 // opcodes to run a jump to the function AntiAttachAbort
 BYTE jmpToAntiAttachAbort[] =
 { 0xB8, 0xCC, 0xCC, 0xCC, 0xCC,   // mov eax, 0xCCCCCCCC

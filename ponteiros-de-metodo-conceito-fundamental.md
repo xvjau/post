@@ -18,7 +18,7 @@ Três regras iniciais que devem ser consideradas para usarmos ponteiros para mé
 
 Visto isso, passemos a um exemplo simples, um chamador de métodos aleatórios, que ilustra o princípio básico de utilização:
 
-```cpp
+```
 #include <windows.h>
 #include <iostream>
 #include <time.h>
@@ -87,7 +87,7 @@ Na hora de atribuir, usamos o operador de endereço e o nome do método (com esc
 
 E, por fim, a chamada. Como é a chamada de um método, é quase intuitiva a necessidade de um objeto para chamá-la. Do contrário não teríamos um this para alterar o objeto em qualquer método não-estático, certo? Daí a necessidade do padrão C++ especificar dois operadores especialistas para esse fim, construídos a partir da combinação de operadores já existentes em C:
 
-```cpp
+```
 FuzzyCall fuzzyObject; // esse é o objeto local
 FuzzyCall* pFuzzy = &fuzzyObject; // ponteiro para esse mesmo objeto
 

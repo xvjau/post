@@ -260,7 +260,7 @@ Acredito que para todo profissional de engenharia reversa a parte mais emocionan
 
 Note que essa operação é realizada para cada byte lido do _buffer_ usado na leitura do arquivo. Conseqüentemente, não é difício de imaginar que o valor 0x0B é a chave usada para ofuscar o dicionário em arquivo, subtraindo esse valor de cada byte. Para desfazer a ofuscação, portanto, basta adicionar novamente o mesmo valor, que é exatamente o que faz a instrução _assembly _acima, e o meu singelo código de desofuscação do dicionário Houaiss abaixo:
 
-```cpp
+```
 #define _CRT_SECURE_NO_DEPRECATE
 #include <windows.h>
 #include <stdio.h>

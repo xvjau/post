@@ -11,7 +11,7 @@ O primeiro erro acima ocorre principalmente se não houver algum Houaiss instala
 
 Abaixo segue a função criada para exibir essas mensagens:
 
-```cpp
+```
 void MessageError(DWORD err, PCSTR msg, ...)
 {
 	CHAR errBuffer[100];

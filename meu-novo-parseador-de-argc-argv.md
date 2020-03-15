@@ -6,7 +6,7 @@ desc: ""
 ---
 Eis que me deparo com um projeto onde não posso usar STL. Ou seja, nada de map nem string. Isso quer dizer que [minha função bonita e completa de parseamento de argumentos](/como-parsear-argc-argv-para-um-map-stl) argc/argv não pode ser usado. Essa é uma má notícia. A boa notícia é que achei uma forma muito mais simples e à prova de falhas de fazer isso. Quer ver?
 
-```c++
+```
 /** Interpreta argumentos da linha de comando (versão raiz).
 
 @author Wanderley Caloni <wanderley.caloni@bitforge.com.br>
@@ -38,7 +38,7 @@ MeuPrograma.exe --debug --file c:\path\arquivo.ext --readonly 1
 
 Ao chamar GetArg se passa o argc/argv recebido no main e o terceiro argumento é apenas o nome de um argumento válido que pode ser recebido via linha de comando. O resultado é um ponteiro (obtido no próprio argv) da próxima string ou uma string C vazia constante (não precisa de alocação) se for o último argv. E caso ele não ache o retorno é NULL. Seu uso comum é uma linha apenas:
 
-```c++
+```
 if ( GetArg(argc, argv, "--debug") )
 {
     printf("Waiting for debugger...\n");
@@ -47,7 +47,7 @@ if ( GetArg(argc, argv, "--debug") )
 }
 ```
 
-```c++
+```
 if ( const char* configFile = GetArg(argc, argv, "--configfile") )
 {
     strcpy(g_configFile, configFile, _countof(g_configFile));

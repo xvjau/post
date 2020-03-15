@@ -8,7 +8,7 @@ Para quem decide usar a linguagem C para resolver tudo, a gota da água é o `go
 
 O uso mais simples dessa importante construção da linguagem é pular de um ponto para outro do código em que esses pontos não estão diretamente relacionados, como geralmente ocorre, como sair de um laço, não entrar em um `if` ou selecionar um `case` do `switch` (lembrando que no caso do `case` do `switch` ele é no fundo um `goto` disfarçado).
 
-```c
+```
 #include <stdio.h>
 
 main(int argc, char* argv[])
@@ -57,7 +57,7 @@ Claro que esse uso é trivial demais para valer a pena uma troca de fluxo tão d
 
 Mas, por exemplo, imagine que precisamos nos desfazer de recursos na ordem inversa ao qual vão sendo adquiridos. Pode-se aninhar indefinidamente `ifs` ou usar um bloco de código de _unwinding_ que vai fechando os recursos na ordem inversa e inicia sua chamada dependendo de onde ocorreu o erro. Código é melhor para ilustrar:
 
-```c
+```
 #include <stdio.h>
 
 main(int argc, char* argv[])
@@ -128,7 +128,7 @@ c:\Projects\goto>
 
 Esse estilo de liberação de recursos é muito usado em códigos de kernel e software mais básico, pois simplifica a visualização e aumenta a flexibilidade. Compare com a versão estruturada:
 
-```c
+```
 #include <stdio.h>
 
 main(int argc, char* argv[])
@@ -209,7 +209,7 @@ Aliás, esse uso do `goto` é a maneira de aplicar [RAII](https://en.wikipedia.o
 
 Esse uso super-aninhado do código me lembra do exemplo clássico de sair de muitos loops aninhados. Apenas por didática, vamos citá-lo:
 
-```c
+```
 #include <stdio.h>
 
 main(int argc, char* argv[])
@@ -236,7 +236,7 @@ main(int argc, char* argv[])
 
 Comentei no começo do texto que os `cases` do `switch` são labels de goto disfarçados. E são mesmo. Um dos algoritmos mais famosos de transformação de loop chamado [Duff's device](https://en.wikipedia.org/wiki/Duff%27s_device) junta um `do-while` com `switch` e realiza uma cópia de buffer com um número de bytes variável:
 
-```c
+```
 send(to, from, count)
 register short *to, *from;
 register count;
@@ -260,7 +260,7 @@ O que está acontecendo no código acima: é possível inserir qualquer tipo de 
 
 Esse código também seria possível de ser feito com o `goto` clássico, mas note que nesse caso ele fica mais verboso, pois é necessário fazer um `if` diferente para cada condição.
 
-```c
+```
 #include <stdio.h>
 
 send(to, from, count)
@@ -303,7 +303,7 @@ Caso você tenha estranhada a definição inicial da função, ela é como se de
 
 Passemos para o próximo uso: código infinito. Esse é um uso clássico, e diferente do uso degenerado de laços em que a condição é sempre verdadeira (`while(true)`, `for(;;)`) usando o `goto` fica bem-documentado que o objetivo é ficar eternamente nesse loop. Um laço infinito que eu me lembro é quando dá tela azul no Windows. O código-fonte do kernel era algo mais ou menos assim:
 
-```c
+```
 /* ... */
 gerarDump();
 mudarParaVga();
@@ -315,7 +315,7 @@ while( true )
 
 Os programadores usaram o apelo clássico do `while`. Sem motivo, pois `goto` é usado direto como RAII (já explicado acima). A maneira procedural de fazer seria assim:
 
-```c
+```
 main()
 {
     infinite:

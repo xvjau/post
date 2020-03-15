@@ -27,7 +27,7 @@ Dessa forma, temos que traçar uma solução baseada nas combinações entre as 
 
 Sim, de XOR. O XOR aqui pode ser usado para detectarmos qual a combinação de switches precisamos para que cada tomada encaixa em cada dispositivo. Esse é o nosso conjunto universo de giros de disjuntores. Com esse conjunto em mãos fica fácil saber quais combinações são possíveis de encaixar todos os dispositivos: basta contar!
 
-```cpp
+```
 #include "CodeJam.h"
 #include <algorithm>
 #include <map>

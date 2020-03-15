@@ -24,7 +24,7 @@ Among these events we can tell the most frequent:
 
 In the case of connecting into a existent process, the API DebugActiveProcess is called. Since this call, if successful, the caller program is free now to call the API DebugActiveProcess looking for debugging events. The main loop for a debugger is, so, pretty simple:
 
-```cpp
+```
 void DebugLoop()
 {
 	bool exitLoop = false;
@@ -59,7 +59,7 @@ void DebugLoop()
 
 The interesting detail about this communication process is that a program can be debugged actively only for ONE debugger. In other words, while there's a process A debugging process B, no one besides A can debug and break B.Using this principle, we can imagine a debugging protection based on this exclusivity, creating a protector process that connects to the protected process and "debugs" it:
 
-```cpp
+```
 /** @brief Antidebug protection based on DebugPort aquisition.
 * @author Wanderley Caloni (wanderley@caloni.com.br)
 * @date 2007-08

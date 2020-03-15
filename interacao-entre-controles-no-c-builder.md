@@ -16,7 +16,7 @@ Bom, sabemos já como colocar esses caras no _form_ principal. Apenas espalhe-os
 
 Agora no evento _default_ do Button1 (duplo-clique nele) colocaremos o seguinte código:
 
-```cpp
+```
 void __fastcall TForm1::Button1Click(TObject *Sender)
 {
 	if( !Edit1->Text.IsEmpty() )
@@ -32,7 +32,7 @@ Percebeu? Não? Então rode e note o que acontece quando você aperta o botão.
 
 Agora iremos fazer algo mais interessante ainda com o segundo botão. Coloque no evento default o seguinte código:
 
-```cpp
+```
 void __fastcall TForm1::Button1Click(TObject *Sender)
 {
 	if( !Edit1->Text.IsEmpty() )

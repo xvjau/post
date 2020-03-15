@@ -5,7 +5,7 @@ tags: [ "code" ]
 ---
 No projeto que é criado quando iniciamos a IDE três arquivos-fonte são gerados: Project1.cpp, Unit1.cpp e Unit1.h. Desses três, vamos analisar o primeiro:
 
-```cpp
+```
 #include <vcl.h>
 
 WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
@@ -33,7 +33,7 @@ Voltando ao código: o **Application** é um objeto visível em todo os módulos
 
 Olhando para o outro fonte, Unit1.h, podemos ver a definição da classe que representa o _form_ principal:
 
-```cpp
+```
 class TForm1 : public TForm
 {
 __published: // IDE-managed Components
@@ -56,7 +56,7 @@ Na classe existe um escopo extendido chamado **__published**. Nele são colocado
 
 Esses membros são iniciados automaticamente pela VCL. Contudo, você ainda pode criar objetos em tempo de execução e entregar o gerenciamento de seu tempo de vida para a VCL (o que significa chamar **new** e nunca um **delete**). Para essa proeza, todos os construtores de componentes devem receber um ponteiro para o seu **Owner**, que será o responsável por destruir o objeto. Veja como é ridículo criar um controle novo e definir algumas propriedades:
 
-```cpp
+```
 void __fastcall TForm1::Button1Click(TObject *Sender)
 {
 	TButton* btn2 = new TButton(this); // this é o meu form

@@ -7,7 +7,7 @@ A debugger puts breakpoints to stop for a moment the debuggee execution. In orde
 
 The main idea in this protection is to take care these exceptions during the application execution. Doing this, we can make use of this fact and, in the handling code, **run the protected code**. The solution here looks like a **script interpreter**. It consists basically of two threads: The first one read an instructions sequence and tells the second thread to **run it step to step**. In order to do this the second thread uses a **small functions** set with well defined code blocks. Here's the example in pseudocode:
 
-```cpp
+```
 // the well-defined functions are functional blocks of code and have
 // the same signature, allowing the creation of a pointer array to them
 void WellDefinedFunction1( args );
@@ -52,7 +52,7 @@ int Start()
 
 The protection isn't there yet. But it will as intrinsic part of the execution thread. All we need to do is to add a exception handling and to throw lots of int 3. The thrown exceptions are caught by a second function that runs the instruction before to returning:
 
-```cpp
+```
 // filter exceptions that were thrown by the thread below
 DWORD ExceptionFilterButExecuteWellDefinedFunction()
 {
@@ -97,7 +97,7 @@ The price paid for this protection stays on the source code visibility and under
 
 The example bellow receives input through a command prompt and maps the first word typed to the function that must be called. The rest of the typed line is passed as arguments to the functions. The interpreter thread reads the user input and writes into a global string variable, at the same time the executor thread waits the string to be completed to starts the action. It was used the variable pool to let the code simpler, but the ideal would be some kind of synchronise, just like [events](http://msdn.microsoft.com/library/en-us/dllproc/base/createevent.asp), by example.
 
-```cpp
+```
 /** @brief Sample demonstrating how to implemente antidebug in a code exception based.
 @date jul-2007
 @author Wanderley Caloni

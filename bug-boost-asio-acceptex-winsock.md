@@ -8,7 +8,7 @@ Depois de um mês de correção e mais um ou dois meses preparando um compilado 
 
 O problema ocorreu em um uso padrão do Boost.Asio de modo assíncrono. Sem querer entrar muito em código nesse momento -- que teve como base nosso projeto de servidor de requisições mais rápido do universo, o **motherforker** -- se trata apenas de um listening que usa spawn de um lambda para tratar os accepts e dentro dele cria processos, redirecionando sua entrada e saída.
 
-```cpp
+```
 // pseudocode
 void Acceptor::doAccept()
 {
@@ -22,7 +22,7 @@ void Acceptor::doAccept()
 
 Nas entranhas do Boost.Asio na implementação para Windows o accept utiliza a API AcceptEx, que já cria o socket cliente antes mesmo da conexão ser fechada. Se trata de uma operação de IO assíncrono como os que tem no Windows: faz tudo que é necessário fazer e é responsabilidade do programa verificar se houve IO (de maneira síncrona ou assíncrona). No caso do Asio a maneira de verificar é via checagem do handle de completion durante os momentos de idle do **io_service**.
 
-```cpp
+```
 BOOL AcceptEx(
   SOCKET       sListenSocket,
   SOCKET       sAcceptSocket, // <--- socket cliente já criado
@@ -37,7 +37,7 @@ BOOL AcceptEx(
 
 Quando há uma nova conexão o método createProcessGetOutputAndSendBack lê dados do socket cliente como um comando a ser executado e utiliza a API CreateProcess passando esse comando. A saída desse processo criado é capturada via saída-padrão. Para isso é usada a flag de herança de handles e handles de arquivos (poderiam ser pipes) são usados para enviar entrada, capturar saída, etc.
 
-```cpp
+```
 BOOL CreateProcessA(
   LPCSTR                lpApplicationName,
   LPSTR                 lpCommandLine,
@@ -65,7 +65,7 @@ Após o término do processo a saída estará no arquivo aberto em si.hStdOutput
 
 O que não estava previsto é que junto da herança dos handles vai também handles indesejados. Como o de "\Device\Afd", que é um recurso usado na comunicação do winsock. Ao usar as funções síncronas e tradicionais do winsock, que constitui em criar o socket server, dar listen e no accept o socket cliente ter sido criado, o AcceptEx exige já um socket cliente criado, o que é feito no sample da Microsoft com a função socket e no Boost.Asio com a duplicação do socket existente (que também foi criado via socket function).
 
-```cpp
+```
 ClientSocket = socket(result->ai_family, result->ai_socktype, result->ai_protocol);
 ```
 

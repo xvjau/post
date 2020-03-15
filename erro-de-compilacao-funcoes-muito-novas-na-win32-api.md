@@ -7,7 +7,7 @@ Quando fala-se em depuração geralmente o pensamento que vem é de um código q
 
 O fonte abaixo, por exemplo, envolve um detalhe que costuma atormentar alguns programadores, ou por falta de observação ou documentação (ou ambos).
 
-```cpp
+```
 #include <stdio.h>
 #include <windows.h>
 
@@ -99,7 +99,7 @@ Esse tipo de problema acontece na maioria das vezes por dois motivos:
 
 De fato, se criarmos coragem e abrirmos o arquivo winbase.h, que é onde a função é definida de fato, e procurarmos pela função GetComputerNameEx encontramos a seguinte condição:
 
-```c
+```
 #if (_WIN32_WINNT >= 0x0500)
 
 typedef enum _COMPUTER_NAME_FORMAT {
@@ -145,7 +145,7 @@ GetComputerNameExW (
 
 Ou seja, para que essa função seja visível a quem inclui o windows.h, é necessário antes definir que a versão mínima do Windows será a 0x0500, ou seja, Windows 2000 (vulgo Windows 5.0). Aliás, é como aparece na documentação. Um pouco de observação nesse caso seria o suficiente para resolver o caso, já que tanto abrindo o _header_ quanto olhando no exemplo do MSDN nos levaria a crer que é necessário definir essa macro:
 
-```cpp
+```
 #define _WIN32_WINNT 0x0500
 
 #include <windows.h>

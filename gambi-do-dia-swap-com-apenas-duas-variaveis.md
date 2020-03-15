@@ -7,7 +7,7 @@ tags: [ "blog" ]
 
 Essa interessantíssima questão veio do meu amigo [Kabloc](http://www.kabloc.com.br/): como trocar o valor entre duas variáveis do tipo int **sem utilizar uma variável intermediária**? O algoritmo ordinário para um _swap_ entre tipos inteiros é:
 
-```cpp
+```
 /** Troca o valor entre duas variáveis inteiras. Ou seja, ao final da função
 a variável first irá conter o valor da variável second e vice-versa.
 */
@@ -37,7 +37,7 @@ int main()
 
 Uma das soluções que eu conheço é utilizar o operador de **ou exclusivo**, o conhecido **XOR**. Esse operador binário tem a não pouco bizarra habilidade de armazenar dois padrões de bits dentro de um mesmo espaço de armazenamento. Se você tiver um dos dois padrões, conseguirá o segundo. Relembremos sua tabela verdade:
 
-```cpp
+```
 void xorTable()
 {
 	cout << "XOR Table\n---------\n"
@@ -76,7 +76,7 @@ Para obter o segundo padrão é só utilizar o primeiro obtido:
 
 Calcule a mesma operação com as quatro combinações possíveis e verá que podemos sempre reaver os dados partindo de um dos padrões. Como o cálculo independe do número de bits, já que operadores **bit a bit** operam um **bit de cada vez**, podemos usar a mesma técnica para juntar dois inteiros, duas _strings_, dois "qualquer coisa armazenada numa seqüência de zeros e uns":
 
-```cpp
+```
 template<typename T1, typename T2, typename T3>
 void universalXor(const T1& first, const T2& second, T3& result)
 {
@@ -128,7 +128,7 @@ Essa técnica é uma das mais básicas - se não for a mais - de **criptografia 
 
 Mas, voltando ao nosso problema original, podemos trocar duas variáveis inteiras usando a técnica do XOR. Em claro:
 
-```cpp
+```
 #include <iostream>
 
 using namespace std;

@@ -15,7 +15,7 @@ Mas eis que liga o seu gerente para o celular vermelho que te entregou no caso d
 
 Com toda a calma do mundo, você saca o seu netbook, baixa a versão homologada do controle de fonte e descobre facilmente o problema, gerando um patch e recompilando o projeto.
 
-```cpp
+```
 #include <windows.h>
 #include <stdio.h>
 #include <time.h>

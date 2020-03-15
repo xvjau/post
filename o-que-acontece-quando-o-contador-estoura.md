@@ -7,7 +7,7 @@ Dois conceitos de programação relacionados a limites computacionais são bem c
 
 Nada melhor que um código para ilustrar melhor esses dois ilustres acontecimentos:
 
-```cpp
+```
 #include <limits.h>
 #include <iostream>
 

@@ -11,7 +11,7 @@ Que tal analisar o código abaixo e dizer se compila ou não. Se não compilar, 
 
 O código é o que veremos abaixo:
 
-```c
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -41,7 +41,7 @@ Por isso, vamos analisar passo a passo cada bloco de código e entender o que po
 
 Dois includes padrões, ultranormal, nada de errado aqui.
 
-```c
+```
 void func()
 {
   *(int *)0 = 0;return 0;

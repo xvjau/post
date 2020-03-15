@@ -34,7 +34,7 @@ Existem ainda outras ferramentas, mas estas são as principais que costumo utili
 
 Para exemplificar um uso prático dessas ferramentas vamos usar o Loggerpara descobrir quais funções API estão sendo chamadas constantemente por um cavalo de tróia, uma coisa um tanto comum em ataques a bancos. Para tornar as coisas mais reais ainda vamos utilizar o código-fonte de um suposto cavalo de tróia usado em minhas apresentações:
 
-```cpp
+```
 #include <windows.h>
 #include <shlwapi.h>
 

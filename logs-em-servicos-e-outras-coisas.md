@@ -7,7 +7,7 @@ tags: [ "code" ]
 
 Já uso logs há muito tempo. Me lembro muito bem que quando programava em BASIC o "passou por aqui" já era útil. Depois de fazer muitas bibliotecas super-flexíveis de escrita em saídas diferentes, níveis configuráveis e uso do mais complexo ao mais banal, cheguei à seguinte conclusão:
 
-```cpp
+```
 Log("Quero um log mais simples possível (de preferência ", 15, " vezes mais simples)");
 ```
 
@@ -15,7 +15,7 @@ Vou tentar defender meu ponto de vista.
 
 Esse [artigo do Dr. Dobbs](http://www.drdobbs.com/cpp/a-lightweight-logger-for-c/240147505) explica de uma maneira bem completa como fazer uma lib de log leve e configurável. O que eu peguei desse exemplo foi a forma mais C++ de formatar as linhas, deixando para trás o estilão printf que depois de variadic templates já está datado.
 
-```cpp
+```
 #include <iostream>
 #include <sstream>
 
@@ -78,7 +78,7 @@ E ainda uma vantagem-bônus:
 
 Acho que cada um deve escrever no seu header o que achar melhor para depurar seus programas. No entanto, acho válido compartilhar quais são as informações que tem sido úteis para mim:
 
-```cpp
+```
 inline void LogHeader(std::ostringstream& os)
 {
 	SYSTEMTIME st;

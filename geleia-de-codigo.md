@@ -25,7 +25,7 @@ Todos os exercícios levam em consideração um arquivo de entrada que possui em
     9 10 7 12
     13 14 8 16
 
-```python
+```
 import sys
 
 f = open(sys.argv[1])
@@ -56,7 +56,7 @@ for case in range(0, total):
 
 O segundo exercício já envolvia um jogo bem divertido em que o jogador ficava clicando em cookies como se não houvese amanhã. Esse deu um pouco mais de trabalho, mas foi mais divertido que o primeiro.
 
-```python
+```
 import sys
 
 def CookieClicker(farmCost, farmIncrement, cookieTarget):
@@ -84,7 +84,7 @@ for case in range(1, total + 1):
 
 Já o terceiro... o terceiro passa. Vamos para o quarto, um dos mais instigantes, pois envolve duas regras distintas de um jogo e a otimização das melhores estratégias para ambos. Isso consumiu bem mais tempo que os outros dois iniciais, pois lembro de ter me isolado por uma hora para conseguir colocar tudo na cabeça.
 
-```python
+```
 import sys
 
 def BestBlock(block, blocks):
@@ -148,7 +148,7 @@ Já o terceiro foi um fracasso total. Tentei de todas as maneiras resolver o imp
 
 Eis a solução porca e mal-resolvida (alguns pontos do códido foram feitos depois de ver o código de outrem):
 
-```python
+```
 import sys
 
 def FieldToString(field):

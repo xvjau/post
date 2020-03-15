@@ -12,7 +12,7 @@ Estou viajando e com poucas horas de acesso a um computador, mas os dois primeir
 
 **Solução**: copiar como string o número para o primeiro deles e colocar zero no segundo; sempre que houver a incidência do caractere '4' trocar por '3' no primeiro número e '1' no segundo (ou a soma que lhe convier).
 
-```c++
+```
 #include <iostream>
 #include <string>
 
@@ -56,7 +56,7 @@ int main()
 
 **Solução**: essa pegadinha é o que ironicamente resolve o problema, pois basta inverter os comandos S e E da string recebida como o caminho da garota e ele nunca se repete e sai do mesmo jeito, pois é o labirinto mais fácil do mundo.
 
-```c++
+```
 #include <iostream>
 #include <string>
 
@@ -90,7 +90,7 @@ int main()
 
 **Solução**: tentei fazer na força bruta criando o dicionário de primos usado procurando o resto zero das divisões dos números e depois já com o alfabeto montado reproduzir as reproduções. Apesar do sample funcionar devo ter perdido pelo tempo ou um erro que não descobri.
 
-```c++
+```
 #include <iostream>
 #include <map>
 #include <string>

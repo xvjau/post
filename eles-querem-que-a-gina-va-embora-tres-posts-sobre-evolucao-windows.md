@@ -13,7 +13,7 @@ Seja no formato Home Computer (a telinha de boas vindas) ou no tradicional "Pres
 
 Se você, programador de médio nível, quisesse implementar sua própria autenticação de usuários ¿ como a Novell possuía, diga-se passagem ¿ era necessário editar um valor no registro entrando a sua GINA personalizada. Lógico que ela deveria ter todas as funções documentadas implementadas e exportadas para que o WINLOGON conseguisse se comunicar, como a famigerada [WlxInitialize](http://msdn.microsoft.com/en-us/library/windows/desktop/aa380567%28v=vs.85%29.aspx), que recebia a lista de ponteiros de funções para os outros eventos a ser tratados.
 
-```cpp
+```
 // Essa funcao sobrescreve a original do Windows no momento do logon.
 // No codigo abaixo gravamos os dados de autenticacao do usuario.
 int

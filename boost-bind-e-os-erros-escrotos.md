@@ -10,7 +10,7 @@ Isso não quer dizer que a **linguagem C++** está indo para um bom caminho. Mui
 
 Isso às vezes não importa muito para o dia-a-dia, mas outras vezes importa. Veja o caso da biblioteca **Boost.Bind**, uma das mais antigas a entrar para o projeto. Sua função é simples: expandir o conceito do `std::bind` para quantos argumentos for necessário. Isso foi criado na época com a ajuda de inúmeros overloads da função (em modo template), mas hoje é possível fazer com variadic templates. Seu uso é simples, intuitivo, direto, e resolve muitos problemas de encaixe de código:
 
-```c++
+```
 #include <iostream>
 #include <boost/bind.hpp>
 
@@ -33,7 +33,7 @@ int main()
 
 No entanto, o que era para ser um uso simples e direto de uma feature bem-vinda ao cinto de utilidades do programador C++ se transforma em um pesadelo quando as coisas não se encaixam tão bem:
 
-```c++
+```
 #include <iostream>
 #include <boost/bind.hpp>
 

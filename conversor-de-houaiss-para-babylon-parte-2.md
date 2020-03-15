@@ -21,7 +21,7 @@ As duas primeiras observações do formato do arquivo nos dizem que (1) o primei
 
 Dessa forma, podemos começar a construir nosso interpretador de arquivos do Houaiss em seu formato básico.
 
-```cpp
+```
 #include <iostream>
 #include <string>
 
@@ -65,7 +65,7 @@ Para conseguir mais, é necessário mais trabalho.
 
 A formatação segue o estilo já identificado, de forma que podemos aos poucos montar um interpretador de formatação para HTML, que é o formato reconhecido pelo Babylon Builder. Podemos seguir o seguinte molde, chamado no exemplo de código anterior:
 
-```cpp
+```
 void format(string& str)
 {
 	string::size_type pos1 = 0;

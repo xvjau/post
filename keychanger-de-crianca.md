@@ -35,7 +35,7 @@ A idéia é simples, e o código também não é nada complexo. Só preciso de u
 
 Nas chamadas da função de _callback_ da DLL, manipulo a mensagem [WM_CHAR](http://msdn.microsoft.com/library/en-us/winui/winui/windowsuserinterface/userinput/keyboardinput/keyboardinputreference/keyboardinputmessages/wm_char.asp), que corresponde à digitação de caracteres, para trocar os caracteres originais do teclado pelos caracteres que deveriam existir no recém-inventado formato latino-russo, totalmente fora dos padrões e normas de segurança existentes:
 
-```cpp
+```
 switch( pMsg->message )
 {
 	case WM_CHAR:

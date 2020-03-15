@@ -5,7 +5,7 @@ tags: [ "code" ]
 ---
 Once upon a time my old friend [Kabloc](http://www.kabloc.com.br) wrote this little and "harmless" function in order to print the multiplication table:
 
-```cpp
+```
 #include <stdio.h>
 
 int main()
@@ -271,13 +271,13 @@ Besides some now less important details, we can notice at the end of the table a
 
 In order to understand bit by bit the problem, let's disassemble the second part of that **for**:
 
-```cpp
+```
     ( f1 == 11 && s != 5 ) ? s = 5, f1 = 0, putchar(10) : ( f1 <= 10 ) ? f1 = f1 : f1 = 12, f1 <= 11; 
 ```
 
 We have two ternary operators nestled. In accordance with C++ standard, the ternary operators have **less precedence** than the attribution operators and are evaluated **from left to right**. In other words, in first place all the atributions inside the expression are made **before** any ternary operator. After that, the first ternary operator is executed, followed by the second:
 
-```cpp
+```
     ( ( f1 == 11 && s != 5 ) ? (s = 5), (f1 = 0), putchar(10) : ( f1 <= 10 ) ) ? (f1 = f1) : (f1 = 12), f1 <= 11; 
 ```
 
@@ -285,20 +285,20 @@ The parts in red are the first ones to run, followed by the green ones and, fina
 
 Now let't take a look in C. In this language, different from C++, the ternary operators have **more precedence** than the attribution operators, and are executed **from right to left**. That means the first and last ternary operators are executed, ignoring the right attribution, and after that the first ternary operator is executed. Only after these two events the right attribution is evaluated:
 
-```cpp
+```
     ( ( f1 == 11 && s != 5 ) ? s = 5, f1 = 0, putchar(10) : ( ( f1 <= 10 ) ? f1 = f1 : f1 ) ) = 12, f1 <= 11;
 ```
 
 All this make us to see the attribution to 12 will be done on the **first ternary operator result**, which possible values could be from the **putchar return** or **f1**. Remember about the **comma operator** purpose outside function calls: chain expressions, execute them and return the value from the **rightmost** expression:
 
-```cpp
+```
     s = 5, f1 = 0, putchar(10) // makes s equals 5, f1 equals 0 and returns the putchar call value.
     f1 = f1 : f1 // in both cases the returned value is the f1 variable
 ```
 
 Well, the f1 variable is an integer. And putchar return as well. This is not going to break any type rule. However, breaks the **attribution gold rule**: "put an lvalue in the right side of an attribution".
 
-```cpp
+```
     f1 = 12; // right; nothing to say
     putchar(10) = 12; // woops! what's that? putchar doesn't return variable but a constant value
 ```

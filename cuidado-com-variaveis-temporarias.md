@@ -7,7 +7,7 @@ Um dos problemas que a linguagem C++ possui para seus iniciantes é o de não de
 
 Por exemplo, vejamos o singelo caso de alguém que precisa formatar uma saída de erro e para isso escolheu um stringstream:
 
-```cpp
+```
 #include <sstream>
 #include <exception>
 #include <iostream>

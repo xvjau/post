@@ -5,7 +5,7 @@ tags: [ "code" ]
 ---
 O título desse artigo é uma técnica presente no paradigma da programação em C++, razão pela qual [não temos o operador finally](http://public.research.att.com/~bs/bs_faq2.html#finally). A idéia por trás dessa técnica é conseguirmos usar recursos representados por objetos locais de maneira que ao final da função esses objetos sejam destruídos e, junto com eles, os recursos que foram alocados. Podemos chamar de recursos aquele arquivo que necessita ser aberto para escrita, o bitmap que é exibido na tela, o ponteiro de uma interface COM, etc. O nosso exemplo é sobre arquivos:
 
-```cpp
+```
 #include <windows.h>
 
 class File
@@ -43,7 +43,7 @@ Para vislumbrarmos melhor a utilidade dessa técnica convém lidarmos com as fam
 
 Por outro lado, ao usarmos objetos, devemos ter **plena confiança** nas suas capacidades de gerenciar os recursos que foram por eles alocados. Só assim se tem liberdade o suficiente para nos concentrarmos no código da função e solenemente ignorarmos a implementação da classe que estamos utilizando. Afinal, temos que considerar que muitas vezes o código-fonte não está disponível. Veja a mesma função com uma chance de desvio incondicional (o lançamento de uma exceção):
 
-```cpp
+```
 void BlowUpFunction()
 {
 	// the things are not that good. so...
@@ -67,7 +67,7 @@ Nesse exemplo tudo funciona, certo? Até se a exceção for lançada, o recurso 
 
 Agora, e se a exceção de BlowUpFunction é lançada e a classe File não está preparada para fechar o arquivo no destrutor? Esse é o caso da versão 2 de nossa classe File, logo abaixo. Apesar de ser a segunda versão ela foi piorada (acontece nas melhores famílias e classes):
 
-```cpp
+```
 class File2
 {
 public:

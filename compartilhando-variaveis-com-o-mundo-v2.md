@@ -13,7 +13,7 @@ Quando comentei no final do artigo anterior que existem pessoas que só consegue
 
 Nessa segunda solução do nosso programa alocador de variáveis globais, pra variar, vamos utilizar uma classe. E pra entrar de vez no mundo POO vamos utilizar de quebra tratamento de erro orientado a exceções. Como vamos notar, aplicadas adequadamente, essas duas características da linguagem conseguirão um código mais simples de entender, embora não se possa dizer o mesmo da implementação "_under the hood_".
 
-```cpp
+```
 /** Classe helper para as nossas funções de alocação de variáveis
 compartilhadas com o mundo. */
 template<typename T>
@@ -58,7 +58,7 @@ Note que nossa classe tenta fazer as coisas logo no construtor, já que seu úni
 
 Bem, como o código agora está em uma classe e o erro é baseado em exceção, o código cliente muda um pouco:
 
-```cpp
+```
 /** Exemplo de como usar as funções de alocação de memória compartilhada
 AllocSharedVariable, OpenSharedVariable e FreeSharedVariable.
 */

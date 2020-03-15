@@ -7,7 +7,7 @@ In the first article we saw how it's possible to spoof the debugger through exce
 
 The upgrade showed here still uses the exception throwing intrinsically, but now it doesn't depends on the code division in minifunctions and minicalls. Instead, we just need to get code traces and put them inside a miraculous macro that will do everything we want. This, of course, after some "hammer work" that will be explained here.
 
-```cpp
+```
 // Go back to place pre-defined by the restoration point.
 void LongJmp(restorePoint)
 {
@@ -91,7 +91,7 @@ Well, in the same way we can follow this simple execution, the attacker will do 
 
 All this assembly stuff doesn't need to be written in assembly level. It was just a way I found to illustrate the differences between the stack return and the jump return. As it was said, to the luck and well being for all, this same technique can be implemented using ANSI C functions:
 
-```cpp
+```
 jmp_buf env; // Contains the next instruction (stack state).
 
 void Func()
@@ -114,7 +114,7 @@ void CallFunc()
 
 That was the new trick for the trowing of exceptions. The final code is clearer, now:
 
-```cpp
+```
 /** The only purpose of this function is to generate an exception.
 */
 DWORD LongJmp(jmp_buf* env)
@@ -163,7 +163,7 @@ int main()
 
 At first sight, it seems a waste the if being directly in the code (remember we gonna use the same conditional structure in several parts in the code). To turn things clearer, resume the protected call and allows the protection to be disabled in debug version code, let's create a macro:
 
-```cpp
+```
 /** Use this macro instead LongJmp
 */
 #define ANTIDEBUG(code)

@@ -27,7 +27,7 @@ void *memset( void *dest, int c, size_t count ); // sets buffers to a specified 
 
 Segue o exemplo de uma função na linguagem B, hoje muito famosa:
 
-```c
+```
 /* The following function is a general formatting, printing, and
    conversion subroutine.  The first argument is a format string.
    Character sequences of the form `%x' are interpreted and cause

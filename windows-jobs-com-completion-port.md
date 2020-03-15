@@ -27,7 +27,7 @@ No final desse artigo ele chega a citar o controle mais refinado dos processos a
 
 Bom, agora há:
 
-```cpp
+```
 #define _WIN32_WINNT 0x0500 // Jobs só existem do 2000 em diante
 #include <windows.h>
 

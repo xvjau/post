@@ -74,7 +74,7 @@ set(VCPKG_LIBRARY_LINKAGE static)
 if(PORT MATCHES "qt5-")
     set(VCPKG_LIBRARY_LINKAGE dynamic)
 endif()
-``` 
+```
 
 Que compila qualquer coisa que entre no match "qt5-\*" como dinâmico (DLLs), embora todo o resto possa ser estático.
 

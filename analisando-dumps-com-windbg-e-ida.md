@@ -214,7 +214,7 @@ Como podemos ver pela imagem acima, o ponto de retorno é logo após uma chamada
 
 Voilà! O caminho não foi tão longo. Chegamos rapidamente no ponto onde é chamada a função [KeWaitForMultipleObject](http://www.osronline.com/DDKx/kmarch/k105_18oi.htm) que, de acordo com o WinDbg e com a OSR, pode gerar uma tela azul se esperarmos por mais de três objetos e não especificarmos um buffer no parâmetro **WaitBlockArray**. Agora podemos olhar no fonte e ver por quantos objetos esperamos e tirar nossa própria conclusão do que está acontecendo:
 
-```c
+```
 //...
 	processorCount = 0;
 	processorsMask = KeQueryActiveProcessors();

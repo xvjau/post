@@ -21,7 +21,7 @@ A diferença entre o bom e o ruim é que o bom pega aleatoriamente apenas os ele
 
 O que eu tentei fazer durante meu fim-de-semana retrasado e o feriado foi encontrar um detector de aleatoriedade (aliás, encontrei um bem interessante chamado [ent](http://www.fourmilab.ch/random/)), tanto "na mão" quanto pesquisando. O que eu não imaginava foi que o teste que eu tinha feito no início usando uma simples planilha Excel era a solução óbvia (naquelas de é óbvio só depois que você vê). E foi essa a solução adotada por Kaizero.
 
-```cpp
+```
 /** @author Kaizero
 @desc Versão comentada (em português) e desofuscada do código do 
 Code Jam 2014, 1A, problema 3 (Proper Shuffle)

@@ -9,7 +9,7 @@ Uma solução simples e rápida é comparar os 4 primeiros bytes de uma string, 
 
 Por exemplo, imagine o seguinte código que abre todos os arquivos da pasta de sistema:
 
-```cpp
+```
 #define _CRT_SECURE_NO_WARNINGS
 #include <Windows.h>
 #include <stdio.h>

@@ -10,7 +10,7 @@ O problema da lib [hidapi](https://github.com/signal11/hidapi) era que a comunic
 
 O funcionamento padrão via overlapped é bem simples: faça a operação de I/O (passando a estrutura) e verifique o retorno. Ele deve ser FALSE e o retorno do próximo GetLastError deve ser ERROR_IO_PENDING. Bom, descrevendo a operação ela não parece ser tão intuitiva. Mas funciona:
 
-```cpp
+```
 if (!ReadFile(hFile,
                  pDataBuf,
                  dwSizeOfBuffer,
@@ -46,7 +46,7 @@ Ou seja, em caso da função ReadFile (ou WriteFile) retornar TRUE em uma opera�
 
 Uma colinha da M$ de como deve ser feito o tratamento:
 
-```cpp
+```
    if (!ReadFile(hFile,
                  pDataBuf,
                  dwSizeOfBuffer,

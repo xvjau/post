@@ -24,7 +24,7 @@ Entre esses eventos podemos citar os seguintes:
 
 No caso de se conectar em um processo já existente, é chamada a função da API DebugActiveProcess. A partir dessa chamada, se retornado sucesso, o processo que depura agora está liberado para ficar chamando continuamente a função API WaitForDebugEvent. E o código se resume a isto:
 
-```cpp
+```
 void DebugLoop()
 {
 	bool exitLoop = false;
@@ -61,7 +61,7 @@ O detalhe interessante desse processo de comunicação depurador/depurado é que
 
 Partindo desse princípio, podemos imaginar uma proteção baseada nessa exclusividade, criando um processo protetor que conecta no processo protegido e o "depura":
 
-```cpp
+```
 /** @brief Antidebug protection based on DebugPort aquisition.
 * @author Wanderley Caloni (wanderley@caloni.com.br)
 * @date 2007-08

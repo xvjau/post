@@ -37,7 +37,7 @@ Se você está apenas acompanhando estes artigos sem ter se aprofundado em um [l
 
 Também não deve ser muita surpresa saber que uma caixa de diálogo também possui sua função de janela, que é praticamente idêntica a do CreateWindow. A diferença está mais no tratamento das mensagens.
 
-```cpp
+```
 INT_PTR CALLBACK DialogProc(HWND hwndDlg, UINT uMsg, 
 							WPARAM wParam, LPARAM lParam)
 {
@@ -78,7 +78,7 @@ INT_PTR CALLBACK DialogProc(HWND hwndDlg, UINT uMsg,
 
 A surpresa maior deve ficar por conta da nova _thread_, que é criada através da função da API [CreateThread](http://msdn2.microsoft.com/en-us/library/ms682453.aspx):
 
-```cpp
+```
 void StartBruteForceThread()
 {
 	g_bruteForceContinue = TRUE;
@@ -94,7 +94,7 @@ Assim como na criação de janelas, é passada uma função de _callback_. Só q
 
 Depois que uma _thread_ termina, existem maneiras das outras _threads _ficarem sabendo e até obterem seu código de retorno. Isso pode ser feito utilizando-se o _handle_ retornado pela função CreateThread, uma duplicação desse mesmo _handle_ ou até a obtenção de um novo _handle_ através do identificador da _thread, _o _Thread Id_ (TID).
 
-```cpp
+```
 DWORD WINAPI ThreadProc(PVOID param)
 {
 	// Executing in a new thread...
@@ -105,7 +105,7 @@ DWORD WINAPI ThreadProc(PVOID param)
 
 Bom, acho que para explicar o uso de um sistema _multithreading_ em um artigo só não basta. Mas para explicar por que sua senha deve ter mais de três caracteres, acho que é o bastante. Até a próxima.
 
-```cpp
+```
 while( g_bruteForceContinue )
 {
 	if( lstrcmp(currentPassword, breakPassword) != 0 )

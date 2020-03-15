@@ -5,7 +5,7 @@ tags: [ "code" ]
 ---
 Quando queremos que um membro de nossa classe seja visível apenas dentro dos métodos da classe e dentro dos métodos das classes derivadas dessa classe usamos o nível de proteção _protected_. Isso, é claro, não quer dizer que uma classe derivada vá ter acesso aos membros protegidos de outra:
 
-```cpp
+```
 #include <iostream>
 
 using namespace std;
@@ -56,7 +56,7 @@ int main()
 
 Esse é o motivo fundamental do porquê não podermos fazer isso:
 
-```cpp
+```
 // another chance
 
 int Derived::GetAnotherProtected()
@@ -69,7 +69,7 @@ int Derived::GetAnotherProtected()
 
 Ao acessar membros protegidos é importante o tipo da expressão que está do lado esquerdo do "." ou "->". Afinal, **o nível de proteção se baseia no escopo**, e as classes são um escopo. É por isso que consigo acessar os membros protegidos de um outro objeto de minha classe, mesmo sendo outro objeto:
 
-```cpp
+```
 // dentro da lei
 
 int Derived::GetAnotherProtected()
@@ -82,7 +82,7 @@ int Derived::GetAnotherProtected()
 
 A definição do escopo é tudo o que o compilador dispõe para saber se acessa ou não acessa um membro. Podemos ter acesso a m_protected enquanto somos do tipo Derived, mas não quando o mesmo objeto é usado como Base:
 
-```cpp
+```
 // fora-da-lei
 
 int Derived::GetAnotherProtected()
@@ -95,7 +95,7 @@ int Derived::GetAnotherProtected()
 
 Essa proteção parece desnecessária - e até mesmo incoerente - quando lidamos com o mesmo objeto que acessa. Afinal, somos nós mesmos! Só que o compilador não sabe disso, e ele deve desconfiar de tudo e de todos para evitar esse tipo de "ataque":
 
-```cpp
+```
 // espertinho, hein?
 
 int Derived::GetAnotherProtected()

@@ -100,7 +100,7 @@ Como os programadores habituados com ataques de stack overrun devem deduzir, uma
 
 Esse também é um bônus da MSDN, que te presenteia com exemplos de código tão fantasiosos quanto a própria função, veja o primeiro exemplo, por exemplo:
 
-```cpp
+```
 #include windows.h
 #include stdio.h
 
@@ -137,7 +137,7 @@ Depois ele chega a reimplementar o exemplo usando va_list, o que é muito intere
 
 Esse é o uso clássico: precisamos de uma descrição de um código de erro para o usuário; um código Win32. A chamada para esse tipo de uso pode ser encapsulada em uma função mais simples:
 
-```cpp
+```
 #define _CRT_SECURE_NO_WARNINGS // quanta frescura...
 #include <tchar.h>
 #include <windows.h>

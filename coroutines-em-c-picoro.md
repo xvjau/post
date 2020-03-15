@@ -22,7 +22,7 @@ O picoro organiza tudo isso em torno de uma lista ligada. Aliás, de duas listas
 
 Vamos começar com um exemplo simples: apenas um corrotina que recebe um inteiro e incrementa três vezes. A cada vez que ele incrementa ele devolve o controle de execução via yield. O `main` cria três dessas corrotinas e dá resume em cada uma delas três vezes, finalizando a execução de todas. Ao final, o counter final é de 9.
 
-```c++
+```
 #include "..\picoro\picoro.h"
 #include <stdio.h>
 

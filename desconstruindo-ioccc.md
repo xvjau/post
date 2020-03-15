@@ -15,7 +15,7 @@ Publico aqui a interpretação do primeiro programa a ganhar a tal [menção des
 
 Aparentemente o fonte é bem confuso, apesar de podermos já ver a famosa string escondida no meio do código. Depois de aplicar uma formatação mais adequada para nossa tarefa de desfazer o feito, o resultado é bem mais legível:
 
-```c
+```
 int i;
 
 main()
@@ -177,7 +177,7 @@ E voilà =)
 
 Abaixo um código-fonte equivalente, devidamente desencriptado:
 
-```c
+```
 int i = 0;
 
 main()

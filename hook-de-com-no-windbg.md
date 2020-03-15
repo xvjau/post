@@ -27,7 +27,7 @@ Agora vamos sair da teoria e tentar fazer as coisas mais ou menos parecidas na p
 
 O nosso sorteado desse artigo foi o IMalloc, a interface de alocação de memória do COM, que existe desde a época em que não se sabia direito pra que esse tal de COM iria servir. O IMalloc é definido como se segue:
 
-```cpp
+```
 MIDL_INTERFACE("00000002-0000-0000-C000-000000000046")
 IMalloc : public IUnknown
 {
@@ -60,7 +60,7 @@ Agora iremos precisar interceptar primeiro a função que irá retornar essa int
 
 Nesse exemplo iremos obter o ponteiro através de um aplicativo de teste trivial, ignorando todas aquelas proteções _antidebugging_ que podem estar presentes no momento da reversa, feitos por alguém que [lê meu blog](/search) (quanta pretensão!):
 
-```cpp
+```
 /** @brief A stupid sample for show WinDbg COM hooking!
 * @author Wanderley Caloni (wanderley@caloni.com.br)
 */

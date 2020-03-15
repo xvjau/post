@@ -11,7 +11,7 @@ O sistema de **RTTI** (_Run Time Type Identification_), a identificação de tip
 
 Um leitor pediu para que eu falasse um pouco sobre essas coisas, especificamente como se faz para obter o nome da classe de onde estamos executando um determinado método. Para esse tipo de construção podemos usar o operado **typeid**, que retorna informações básicas sobre um tipo de acordo com um tipo, instância ou expressão:
 
-```cpp
+```
 #include <iostream>
 
 using namespace std;
@@ -43,7 +43,7 @@ int main()
 
 Dessa forma, podemos nos aproveitar do fato que todo método não-estático possui a variável implícita **this**, do tipo "ponteiro constante para T", onde T é o tipo da classe que contém o método sendo chamado.
 
-```cpp
+```
 #include <iostream>
 
 using namespace std;
@@ -82,7 +82,7 @@ class MyClass::MyMethod
 
 Com classes não-polimórficas a coisa parece não ter muita utilidade. No entanto, essa mesma técnica pode ser aplicada em classes derivadas, uma vez que o operador typeid pode trabalhar em tempo de execução:
 
-```cpp
+```
 #include <iostream>
 
 using namespace std;

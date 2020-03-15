@@ -5,7 +5,7 @@ tags: [ "code", "blog" ]
 ---
 Para explicar polimorfismo, nada como ver as coisas como elas eram. Se você fosse um programador C de vinte anos atrás e criasse as seguintes funções:
 
-```c
+```
 int soma(int x, int y);
 double soma(double x, double y);
 
@@ -33,7 +33,7 @@ Imediatamente o compilador iria acusar os seguintes erros:
 
 Isso acontece porque em C **os identificadores são únicos por escopo**. Esse é o motivo por que o seguinte código também está errado:
 
-```c
+```
 int main()
 {
     int x = 0;
@@ -54,7 +54,7 @@ De volta aos anos 90, isso também está errado em C++. Até por uma questão de
 
 Só que existe um truquezinho para impedir essa ambiguidade quando falamos de funções: os parâmetros que ela recebe.
 
-```cpp
+```
 int soma(int x, int y);
 double soma(double x, double y);
 

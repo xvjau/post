@@ -7,7 +7,7 @@ tags: [ "code" ]
 
 Alguém já se perguntou se é possível usar sobrecarga de função quando a diferença não está nos parâmetros recebidos, mas no tipo de retorno? Melhor dizendo, imagine que eu tenha o seguinte código:
 
-```cpp
+```
 GUID guid;
 wstring guidS;
 
@@ -19,7 +19,7 @@ CreateNewGUID(guid); // chama void CreateNewGUID(GUID&) (o compilador sabe disso
 
 É um uso sensato de sobrecarga. Mas vamos supor que eu queira uma sintaxe mais intuitiva, com o retorno sendo atribuído à variável:
 
-```cpp
+```
 GUID guid;
 wstring guidS;
 
@@ -31,7 +31,7 @@ guid = CreateNewGUID(); // chama GUID CreateNewGUID() (o compilador sabe disso?)
 
 Voltando às teorias de C++, veremos que o código acima NÃO funciona. Ou, pelo menos, não deveria. Só pelo fato das duas funções serem definidas o compilador já reclama:
 
-```cmd
+```
     error C2556: 'GUID CreateNewGUID(void)' :
     overloaded function differs only by return type from 'std::wstring CreateNewGUID(void)'
 ```
@@ -40,7 +40,7 @@ Correto. O tipo de retorno não é uma propriedade da função que exclua a ambi
 
 Pois bem. Não podemos fazer isso utilizando funções ordinárias. Então o jeito é criar nosso próprio "tipo de função" que dê conta do recado:
 
-```cpp
+```
 struct CreateNewGUID
 {
    // o que vai aqui?
@@ -50,7 +50,7 @@ struct CreateNewGUID
 
 Pronto. Agora podemos "chamar" a nossa função criando uma nova instância e atribuindo o "retorno" a wstring ou à nossa GUID struct:
 
-```cpp
+```
 guidS = CreateNewGUID(); // instancia um CreateNewGUID
 guid = CreateNewGUID(); // instancia um CreateNewGUID. A diferença está no "retorno" 
 
@@ -58,7 +58,7 @@ guid = CreateNewGUID(); // instancia um CreateNewGUID. A diferença está no "re
 
 Uma vez que criamos um novo tipo, e considerando que este tipo é, portanto, diferente dos tipos wstring e GUID já existentes, devemos simplesmente converter nosso novo tipo para cada um dos tipos de retorno desejados:
 
-```cpp
+```
 struct CreateNewGUID
 {
    operator wstring () { ... } // a conversão é a "chamada da função".
@@ -70,7 +70,7 @@ struct CreateNewGUID
 
 E isso conclui a solução meio esquizofrênica de nossa sobrecarga às avessas:
 
-```cpp
+```
 // instancia um CreateNewGUID e chama CreateNewGUID::operator wstring()
 guidS = CreateNewGUID();
 
@@ -81,7 +81,7 @@ guid = CreateNewGUID();
 
 Eis o fonte completo:
 
-```cpp
+```
 #include <windows.h>
 #include <objbase.h>
 

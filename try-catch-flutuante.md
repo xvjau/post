@@ -22,7 +22,7 @@ Apesar dessa capacidade, não conseguimos parar o lançamento da exceção. Apó
 
 O exemplo abaixo demonstra um código de uma classe que captura a exceção durante a inicialização dos membros. Na seguida o catch da função main é executada, provando que a exceção de fato não é "salva" no primeiro bloco.
 
-```cpp
+```
 #include <iostream>
 
 /* This class explodes */

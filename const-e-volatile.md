@@ -50,7 +50,7 @@ Teoricamente a região da memória que contiver uma variável const pode ser qua
 
 Eu costumo usar variáveis const no lugar de defines. Além de ganhar na tipagem as constantes não precisam ser necessariamente globais, nem acessíveis por outros módulos. Um outro uso muito comum é criar variáveis locais que você sabe que não devem ser alteráveis por ninguém, como o tamanho de matrizes primitivas.
 
-```cpp
+```
 namespace Math
 {
 	const float Pi = 3.14;

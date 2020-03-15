@@ -12,7 +12,7 @@ A primeira vantagem do Vim em relação a outros editores é sua capacidade de a
 
 Para navegar no código, existem duas técnicas que não necessitam de nenhum plugin. A primeira é a busca por regex, que pode ser feita com os comandos [:vimgrep](http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:vimgrep) ou [:grep](http://vimdoc.sourceforge.net/htmldoc/quickfix.html#:grep), sendo que o primeiro busca em um padrão de arquivos (usando wildcard) e o segundo dentro dos buffers já abertos (útil se você já tiver uma sessão ativa; mais sobre isso depois).
 
-```vim
+```
 " No Vim não é necessário digitar o comando completo; note que esse wildcard busca pastas recursivamente
 :vimg /regex/ \Projects\SomeProject\**\*.cpp
 
@@ -24,7 +24,7 @@ O bom é que, no caso de logs, se você buscar por expressões unívocas, isso j
 
 A segunda técnica de navegar no código é através das tags que são montadas pela ferramenta ctags. Ela é genérica o suficiente para suportar várias linguagens, mas pode ser usada até para qualquer sequência de palavras. Há plugins que realizam essa varredura do fonte automática, mas particularmente não gosto de encher meu Vim de plugins, sendo que o único que uso que me lembro é o [MRU](http://www.vim.org/scripts/script.php?script_id=521) (porque o Vim ainda não suporta algo do gênero internamente). De qualquer forma, tudo que eu preciso fazer para atualizar as tags de um projeto é abrir o readme do projeto (que geralmente fica na pasta raiz) e rodar meu atalho.
 
-```vim
+```
 " Roda recursivamente e otimiza para C++ e Python.
 map <S-F5> :!ctags --tag-relative=yes --recurse --c++-kinds=+p --python-kinds=-i --fields=+iaS --extra=+q<CR>
 " Busca pelo arquivo tags na pasta atual e vai subindo a hierarquia.
@@ -35,7 +35,7 @@ Isso vai gerar um arquivo ctags na pasta do projeto que será usada automaticame
 
 Como no Windows o atalho padrão do comando tag do Vim não funciona também preciso fazer uma pequena adaptação técnica (e de quebra já uso para navegar nos próximos resultados):
 
-```vim
+```
 map <C-K> <C-]>
 " O bom é que o first e o next ficam um do lado do outro.
 map <C-J> :tnext<CR>
@@ -43,7 +43,7 @@ map <C-J> :tnext<CR>
 
 Depois de dar uma olhada no log, encontrar os métodos que você precisa analisar, seu fluxo, etc, você terá um monte de buffers relevantes abertos nas linhas relevantes. Seria muito bom se tudo isso pudesse ser guardado em um estado para que você continue amanhã ou em sua próxima sessão de flow. Para isso existe o comando [:mksession](http://vimdoc.sourceforge.net/htmldoc/starting.html#:mksession).
 
-```vim
+```
 " Salva estado atual dos buffers
 :mksession \temp\analise.vim
 " Restaura um estado salvo anteriomente
