@@ -1,10 +1,10 @@
 ---
 date: 2019-05-09
 title: "Deep Work => Flow"
-desc: "Deep Work => Flow. Por Robin Wieruch."
+desc: "Escrito por Robin Wieruch, é um resumo valioso de dois livros."
 tags: [ "blog", "reading" ]
 ---
-(Deep Work) => Flow - A proven Path to Satisfaction, de Robin Wieruch, é um resumo valioso de dois livros, um sobre deep work e outro sobre flow, e como ambos se relacionam. Robin é um programador e também leu [On Writing Well](/on-writing-well) (ele possui [algumas notas](https://www.robinwieruch.de/lessons-learned-on-writing-well/) sobre essa leitura também).
+[(Deep Work) => Flow - A proven Path to Satisfaction](https://www.robinwieruch.de/lessons-learned-deep-work-flow), de Robin Wieruch, é um resumo valioso de dois livros, um sobre deep work e outro sobre flow, e como ambos se relacionam. Robin é um programador e também leu [On Writing Well](/on-writing-well) (ele possui [algumas notas](https://www.robinwieruch.de/lessons-learned-on-writing-well/) sobre essa leitura também).
 
  - Professional activities performed in a state of distraction-free concentration that push you cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
  - Flow can be produced by small things that cause active enjoyment rather than passive pleasure. 
