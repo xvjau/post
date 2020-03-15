@@ -3,7 +3,7 @@ date: "2008-01-28"
 title: 'RmThread: rode código em processo vizinho'
 tags: [ "code" ]
 ---
-<blockquote>_Aproveitando que utilizei a mesma técnica semana passada para desenvolver um vírus para [Ethical Hacking](http://en.wikipedia.org/wiki/White_hat), republico aqui este [artigo que já está mofando no Code Projet](http://www.codeproject.com/KB/threads/RmThread.aspx), mas que espero que sirva de ajuda pra muita gente que gosta de fuçar nos internals do sistema. Boa leitura!_</blockquote>
+_Aproveitando que utilizei a mesma técnica semana passada para desenvolver um vírus para [Ethical Hacking](http://en.wikipedia.org/wiki/White_hat), republico aqui este [artigo que já está mofando no Code Projet](http://www.codeproject.com/KB/threads/RmThread.aspx), mas que espero que sirva de ajuda pra muita gente que gosta de fuçar nos internals do sistema. Boa leitura!_
 
 RmThread é um projeto que fiz baseado em uma das três idéias do artigo de [Robert Kuster](http://www.codeproject.com/script/profile/whos_who.asp?id=136330) , ["Three Ways to Inject Your Code into Another Process"](http://www.codeproject.com/threads/winspy.asp). No entanto, não utilizei código algum. Queria aprender sobre isso, pesquisei pela internet, e me influenciei pela técnica **CreateRemoteThread** & **LoadLibrary**. O resto foi uma mistura de "chamada de funções certas" e MSDN.
 

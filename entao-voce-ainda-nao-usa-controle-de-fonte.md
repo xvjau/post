@@ -11,7 +11,7 @@ Portanto, a primeira decisão que deve ser tomada pelo programador que quer muda
 
 Os três comandos simples não são nada do outro mundo: criar o repositório, adicionar arquivos e fazer **commit**.
 
-<blockquote>_Dica: Um commit é uma maneira de dizer ao controle de fonte: "já modifiquei o que tinha pra modificar, então mande tudo que tenho de novo para o controle". _</blockquote>
+_Dica: Um commit é uma maneira de dizer ao controle de fonte: "já modifiquei o que tinha pra modificar, então mande tudo que tenho de novo para o controle". _
 
 Tanto faz qual controle você pretende usar. No meu exemplo usarei o Bazaar, que é a ferramenta que [uso no dia-a-dia](/como-estou-trabalhando-com-o-bazaar) com minha pequena equipe e serve bem para programadores solitários também. Basicamente para ter o Bazzar instalado basta [baixá-lo](http://wiki.bazaar.canonical.com/Download), next next e finish.
 

@@ -11,7 +11,7 @@ Today I've figured out a pretty interesting shortcut to achieve it.
 
 An [Alex Ionescu article](http://www.alex-ionescu.com/?p=59) talks about this command line application used to create, initiate and remove services. Even not being the article focus, I found the information pretty useful, since I didn't know such app. Soon some ideas starting to born in my mind:
 
-<blockquote>"What if I used this guy to run notepad?"</blockquote>
+"What if I used this guy to run notepad?"
 
 Well, the Notepad is the default test victim. Soon, the following line would prove possible to run it in the system account:
 

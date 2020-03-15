@@ -28,16 +28,16 @@ Por isso mesmo que, aproveitando que agora tenho uma linha de comando personaliz
     devenv meu-solution-do-coracao.sln /build Debug
     devenv meu-project-do-coracao.vcproj /build Release
 
-<blockquote>
+
 
 > 
 > #### Dica para programadores profissionais
 > 
-_Além de ser rápido, pode ser usado em __builds automatizados, coisa que já fazemos. O que quer dizer que podemos matar os itens 2 e 3 do [teste do Joel](http://brazil.joelonsoftware.com/Articles/TheJoelTest.html), nos deixando um passo mais próximo do purgatório._</blockquote>
+_Além de ser rápido, pode ser usado em __builds automatizados, coisa que já fazemos. O que quer dizer que podemos matar os itens 2 e 3 do [teste do Joel](http://brazil.joelonsoftware.com/Articles/TheJoelTest.html), nos deixando um passo mais próximo do purgatório._
 
 #### Depuração
 
-<blockquote>_Tudo bem, mas eu preciso depurar o código! Você não quer que eu use o [NTSD](http://www.codeproject.com/debug/cdbntsd.asp), ou quer?_</blockquote>
+_Tudo bem, mas eu preciso depurar o código! Você não quer que eu use o [NTSD](http://www.codeproject.com/debug/cdbntsd.asp), ou quer?_
 
 Sabe que não é uma má idéia?
 

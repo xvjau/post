@@ -11,7 +11,7 @@ Mas eis que liga o seu gerente para o celular vermelho que te entregou no caso d
 
 ![Detector de Pares](/images/wHctVe6.png)
 
-<blockquote>_Oh, meu Deus!_</blockquote>
+_Oh, meu Deus!_
 
 Com toda a calma do mundo, você saca o seu netbook, baixa a versão homologada do controle de fonte e descobre facilmente o problema, gerando um patch e recompilando o projeto.
 
@@ -54,7 +54,7 @@ Tudo que você precisa é abrir o processo pelo WinDbg, encontrar a versão defe
 
 ![Corrigindo versão](/images/zrZQir4.png)
 
-<blockquote>_Nota: O parâmetro -pv permite depurar um processo de forma não-invasiva, mas as threads serão suspensas. Já com -pvr podemos depurar de forma não-invasiva e ainda conseguir manter as threads do processo rodando._</blockquote>
+_Nota: O parâmetro -pv permite depurar um processo de forma não-invasiva, mas as threads serão suspensas. Já com -pvr podemos depurar de forma não-invasiva e ainda conseguir manter as threads do processo rodando._
 
 Analisando o disassembly da função nova e antiga podemos perceber que o tamanho delas não mudou (bom sinal), mas o uso dos registradores e a lógica interna teve uma alteração significativa (mau sinal):
 

@@ -3,7 +3,7 @@ date: "2007-12-31"
 title: 'Gambi do dia: swap com apenas duas variáveis'
 tags: [ "blog" ]
 ---
-<blockquote>_Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência. Boa leitura!_</blockquote>
+_Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência. Boa leitura!_
 
 Essa interessantíssima questão veio do meu amigo [Kabloc](http://www.kabloc.com.br/): como trocar o valor entre duas variáveis do tipo int **sem utilizar uma variável intermediária**? O algoritmo ordinário para um _swap_ entre tipos inteiros é:
 

@@ -101,7 +101,7 @@ Agora qualquer usuário da rede consegue fazer _updates _e _commits. _Um desenvo
     bzr init-repo projeto
     bzr branch bzr://servidor/projeto projeto\projeto
 
-<blockquote>_Note que o usuário do Bazaar não é obrigado a criar um repositório compartilhado. Esse foi um padrão definido aqui e não necessariamente é o melhor. _
+_Note que o usuário do Bazaar não é obrigado a criar um repositório compartilhado. Esse foi um padrão definido aqui e não necessariamente é o melhor. _
 
 #### Quinto passo: ensinando as pessoas a usar
 

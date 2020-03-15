@@ -3,8 +3,8 @@ date: "2007-12-27"
 title: 'Curiosidades inúteis: o operador de subscrito em C++'
 tags: [ "code" ]
 ---
-<blockquote>_Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência. Boa leitura!
-_</blockquote>
+_Este artigo é uma reedição de meu blogue antigo, guardado para ser republicado durante minhas miniférias. Esteja à vontade para sugerir outros temas obscuros sobre a linguagem C ou C++ de sua preferência. Boa leitura!
+_
 
 Em C e C++ as regras de sintaxe são extremamente flexíveis. Essa liberdade toda se manteve no decorrer dos tempos porque se trata de uma das idéias fundamentais da linguagem C, motivo de sua criação. Me lembro certa vez que, bitolado em C Standard 89, usei uma sintaxe não lá muito usual para acessar um elemento de um _array_. Foi apenas um experimento de estudante, coisa que nunca vi em código algum e queria comprovar.
 
@@ -12,7 +12,7 @@ Em C e C++ as regras de sintaxe são extremamente flexíveis. Essa liberdade tod
 
 As regras de acesso a elementos de um _array_ (subscrito) são definidas não em termos do _array_, mas em termos de um ponteiro e de um índice. "Me dê um ponteiro para T e um inteiro e te retorno um _lvalue_ do tipo T". Essa é a idéia geral. A mesma idéia, com pequenas alterações, se manteve em C++. Eis parte do parágrafo que fala sobre isso:
 
-<blockquote>
+
 
 > 
 > _A postfix expression followed by an expression in square brackets is a postfix expression. One of the expressions shall have the type "pointer to T" and the other shall have enumeration or integral type. The result is an lvalue of type "T". (...) The expression E1 [ E2 ] is identical (by definition) to *( (E1) + (E2) )._
@@ -21,7 +21,7 @@ As regras de acesso a elementos de um _array_ (subscrito) são definidas não em
 > 
 > **C++: International Standard ISO/IEC 14882 First Edition 1998-09-01**
 > 
-</blockquote>
+
 
 Isso traduzido em miúdos quer dizer que com duas expressões formando a construção **E1 [ E2 ]**, sendo uma delas do tipo **ponteiro para um tipo** e a outra do tipo **integral**, o resultado é equivalente a ***( (E1) + (E2) )**. Como no código abaixo:
 

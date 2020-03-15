@@ -53,7 +53,7 @@ Depurando diretamente, vemos que a stream, de fato, contém o que esperávamos. 
 
 O porquê isso ocorre só fica óbvio quando vemos [a ajuda](http://www.cplusplus.com/reference/iostream/stringstream/str/) (ou a assinatura) da função str da classe stringstream:
 
-<blockquote>
+
 
 >     
 >     <strong><span style="color: #ff0000;">string str ( ) const;</span></strong>
@@ -65,7 +65,7 @@ O porquê isso ocorre só fica óbvio quando vemos [a ajuda](http://www.cplusplu
 >     
 >     <strong>The first version <span style="text-decoration: underline; color: #ff0000;">returns a copy of the string object</span> currently associated with the string stream buffer.</strong>
 > 
-</blockquote>
+
 
 Ora, a função str retorna uma **cópia** do objeto string usado internamento pelo buffer de nossa string stream. Duas coisas ocorrem em qualquer cópia de um objeto retornada por uma função:
 

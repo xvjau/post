@@ -7,7 +7,7 @@ Arrays are fascinating in C language because they are so simple and so powerful 
 
 When I was reading the [K&R](http://www.amazon.com/C-Programming-Language-2nd/dp/0131103628) book (again) I was enjoying the language specification details in the **Appendix A**. It was specially odd the description as an array must be accessed:
 
-<blockquote>_A postfix expression followed by an expression in square brackets is a postfix expression. One of the expressions shall have the type "pointer to T" and the other shall have enumeration or integral type. The result is an lvalue of type "T". (...) The expression E1 [ E2 ] is identical (by definition) to *( (E1) + (E2) )._</blockquote>
+_A postfix expression followed by an expression in square brackets is a postfix expression. One of the expressions shall have the type "pointer to T" and the other shall have enumeration or integral type. The result is an lvalue of type "T". (...) The expression E1 [ E2 ] is identical (by definition) to *( (E1) + (E2) )._
 
 Notice that the rules don't specify the order of expressions to access the array. In other words, it doesn't matter for the language if we use a **pointer before the integer or an integer before the pointer**.
 

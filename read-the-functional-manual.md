@@ -25,7 +25,7 @@ Atualmente existem diversas formas do google te ajudar a encontrar o que você p
 
 É assim que você irá começar a pedir ajuda das pessoas: indiretamente. Não se pergunta nada que já tenha sido respondido. Porque é uma perda de tempo dos dois lados. Do lado que pergunta porque sua resposta já pode estar prontinha em algum canto da web. Do lado que responde porque a pessoa terá que achar o lugar onde respondeu a mesma pergunta, copiar e colar (ou simplesmente ignorar, o que te fará perder mais tempo).
 
-<blockquote>_Você já devia saber disso. Faz parte da [netiqueta](http://pt.wikipedia.org/wiki/Netiqueta), o guia mundial de bom uso da internet. O quê? Você nunca leu a netiqueta? Se nunca, então comece por lá. Depois venha fazer perguntas interessantes._</blockquote>
+_Você já devia saber disso. Faz parte da [netiqueta](http://pt.wikipedia.org/wiki/Netiqueta), o guia mundial de bom uso da internet. O quê? Você nunca leu a netiqueta? Se nunca, então comece por lá. Depois venha fazer perguntas interessantes._
 
 #### Quando tudo está perdido...
 
@@ -37,7 +37,7 @@ Intercomunicação é quando você fica empolgado com o assunto, conversa com to
 
 Desespero é quando tudo que você tentou não funciona e você sabe que para adquirir o conhecimento que precisa irá levar muito mais tempo do que fazer a pergunta certa para a pessoa certa. Nesse caso, estou falando realmente de MUITO tempo, coisa de meses a anos.
 
-<blockquote>_Também existe um outro caso de desespero, que é quando você sabe que vai perder o emprego se não resolver o problema._</blockquote>
+_Também existe um outro caso de desespero, que é quando você sabe que vai perder o emprego se não resolver o problema._
 
 Eu disse que existem duas escolhas nesse estágio. A primeira é perguntar para quem entende do assunto. Porém, o que acontece se **você **é uma das pessoas que mais entende do assunto que você conhece?
 

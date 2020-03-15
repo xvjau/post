@@ -74,7 +74,7 @@ Para analisarmos melhor o que ocorre nos _internals_ da coisa, criei um projeto 
 
 Além disso, iremos precisar do nosso velho e fiel amigo WinDbg, o que o trás de volta à cena do crime depois de alguns artigos de jejum.
 
-<blockquote>
+
 
 > 
 > #### Não fique de fora!
@@ -135,7 +135,7 @@ Podemos bater essas informações com as do aplicativo **Spy++**, que captura ja
 
 #### Cuidado com Spy++ x WinDbg
 
-_Normalmente esses dois rodando juntos podem causar alguns conflitos internos. Por isso, quando for usar o Spy++, procure desabilitar seus breakpoints. Após mexer no Spy++, feche-o antes de continuar depurando._</blockquote>
+_Normalmente esses dois rodando juntos podem causar alguns conflitos internos. Por isso, quando for usar o Spy++, procure desabilitar seus breakpoints. Após mexer no Spy++, feche-o antes de continuar depurando._
 
 [![Spy++ Window Search](/images/6vmV4qb.png)](/images/6vmV4qb.png)
 

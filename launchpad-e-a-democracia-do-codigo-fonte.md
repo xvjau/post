@@ -42,12 +42,12 @@ Para ter acesso aos meus projetos iniciais é simples: basta usar o mesmo comand
     
     bzr branch https://code.launchpad.net/houaiss2babylon
 
-<blockquote>
+
 
 > 
 > #### Atualização
 > 
-_Aviso de plantão. Não irei mais atualizar os projetos acima no LaunchPad, pois estou considerando reorganizar os fontes para algo mais simplificado. Aguardem por novidades no próprio blogue. _</blockquote>
+_Aviso de plantão. Não irei mais atualizar os projetos acima no LaunchPad, pois estou considerando reorganizar os fontes para algo mais simplificado. Aguardem por novidades no próprio blogue. _
 
 Como o Bazaar foi feito integrado com o Launchpad, também é possível usar um comando bem mais fácil:
 
@@ -70,8 +70,8 @@ Dessa forma os passos são os seguintes:
 
 ![puttygen.png](/images/68VrP6x.png)
 
-<blockquote>_ATENÇÃO
-Devido a alguns problemas, recomendo que use o texto exibido na tela do gerador de chaves em vez de copiar diretamente do arquivo da chave pública para o cadastro no saite. Guarde bem essas chaves com você, pois você as usará sempre que necessário fazer uma modificação no projeto._</blockquote>
+_ATENÇÃO
+Devido a alguns problemas, recomendo que use o texto exibido na tela do gerador de chaves em vez de copiar diretamente do arquivo da chave pública para o cadastro no saite. Guarde bem essas chaves com você, pois você as usará sempre que necessário fazer uma modificação no projeto._
 
 4. Atualizar no cadastro do saite (item "Update SSH keys")
 

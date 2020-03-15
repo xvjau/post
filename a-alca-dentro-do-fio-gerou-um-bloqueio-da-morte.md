@@ -57,7 +57,7 @@ Apesar de não ter nada contra traduzir termos do inglês para português (e vic
     * Ex.:
 (antes do capítulo sobre _threads_): "... quando um **fio **espera o outro e vice-versa, acontece o terrível **bug **da **trava da morte**".
 
-_Esses exemplos, salvo o exemplo do livro de algoritmos, foram criados para ilustrar os tipos de erros mais comuns em traduções de livros técnicos, e não estão relacionados com qualquer livro em específico._</blockquote>
+_Esses exemplos, salvo o exemplo do livro de algoritmos, foram criados para ilustrar os tipos de erros mais comuns em traduções de livros técnicos, e não estão relacionados com qualquer livro em específico._
 
 [![Homem tentando enfiar um fio na agulha.](/images/56bgzq0.png)](/images/56bgzq0.png)Então o que era inicialmente para ajudar as pessoas que estão iniciando alguns conceitos acaba por prejudicar ainda mais o aprendizado, gerando aquele tipo de confusão que só com ajuda extra (internet, professor, colega) pode ser resolvida.
 

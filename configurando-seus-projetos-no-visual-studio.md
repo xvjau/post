@@ -7,7 +7,7 @@ Ao iniciar na arte da programação em C no Visual Studio, eventualmente o progr
 
 Porém, seus "poroberemas se acabaram-se". Com o inovador configurador de projetos do Visual Studio, tudo o que você queria é possível, e ainda mais!
 
-<blockquote>_Nota do autor: isso não foi uma propaganda gratuita, apenas uma piada. Se fosse um verdadeiro anúncio das maravilhas do Visual Studio, eu agora estaria falando daquele tal código gerenciado e o tal do C++ CLI._</blockquote>
+_Nota do autor: isso não foi uma propaganda gratuita, apenas uma piada. Se fosse um verdadeiro anúncio das maravilhas do Visual Studio, eu agora estaria falando daquele tal código gerenciado e o tal do C++ CLI._
 
 Inicialmente, se compilarmos um programa em Debug no Visual Studio 2005 teremos as seguintes dependências:
 
@@ -35,7 +35,7 @@ Existem atualmente quatro tipos de _runtime_ que você pode escolher:
 	
   * **Multi-threaded Debug DLL (/MDd)**. Versão Debug que depende de DLL.
 
-<blockquote>_Essas runtimes são chamada de multi-threaded porque antigamente existiam versões single-threaded dessas mesmas __runtimes.  Contudo, versões mais novas do Visual Studio só vêm com esse sabor mesmo._</blockquote>
+_Essas runtimes são chamada de multi-threaded porque antigamente existiam versões single-threaded dessas mesmas __runtimes.  Contudo, versões mais novas do Visual Studio só vêm com esse sabor mesmo._
 
 Note que, por padrão, existem dois tipos de configuração em seu projeto: Debug (para testes) e Release (para distribuição). Convém não misturar configurações Debug com DLLs Release e vice-versa, a não ser que você tenha certeza do que está fazendo.
 

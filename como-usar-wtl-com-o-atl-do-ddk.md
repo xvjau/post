@@ -11,7 +11,7 @@ O fato é que eles fizeram isso, e agora é possível ter o WTL mais novo compil
 
 A primeira coisa a fazer é obter o tal doWDK. Para variar um pouco, agora existe um [processo de registro](http://www.microsoft.com/whdc/DevTools/WDK/WDKpkg.mspx) antes de obter acesso ao _download_, mais ou menos nos termos da Borland para baixar o [Builder](http://cc.codegear.com/free/turbo) / [Turbo](http://cc.codegear.com/free/turbo) / [Developer Studio](http://cc.codegear.com/free/turbo).
 
-<blockquote>Aliás, para os que baixaram esses produtos gratuitos da Borland versão C++ e não funcionou em algumas máquinas, como foi o meu caso, está disponível para baixar uma versão mais nova; dessa vez não vi nenhum problema na compilação e depuração. Ainda.</blockquote>
+Aliás, para os que baixaram esses produtos gratuitos da Borland versão C++ e não funcionou em algumas máquinas, como foi o meu caso, está disponível para baixar uma versão mais nova; dessa vez não vi nenhum problema na compilação e depuração. Ainda.
 
 Após instalado, em qualquer lugar da sua escolha, configure no seu [Visual Studio Express](http://www.microsoft.com/Express/) o caminho de onde se encontra a pasta atl71 (ou a 30, ou a 21). Aproveite também para colocar a pasta do WTL e o diretório de LIBs:
 

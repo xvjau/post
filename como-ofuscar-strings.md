@@ -64,4 +64,4 @@ Dessa forma abrir ou fechar a variável pode ser feito usando a mesma função.
 
 Alguém aí gostaria de uma explicação didática sobre o operador XOR?
 
-<blockquote>_PS: Acho que, além das minhas palestras, meus artigos estão também parecendo um brainstorm. _</blockquote>
+_PS: Acho que, além das minhas palestras, meus artigos estão também parecendo um brainstorm. _

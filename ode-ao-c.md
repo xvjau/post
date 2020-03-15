@@ -3,7 +3,7 @@ date: "2008-04-21"
 title: Ode ao C++
 tags: [ "blog" ]
 ---
-<blockquote>_Strauss: lembra quando nós conversávamos sobre o assunto "Por que C++?", há muitas décadas atrás, e seu blogue era um dos primeiros no Brasil que não ficava relatando o que o autor comia no café da manhã, além de falar sobre programação? Pois é, eu estava reorganizando meus g-mails e reencontrei nossa conversa e, pior, seu artigo "derivado" dela, que irei republicar aqui pois, assim como antes, acredito em tudo que escrevi naquela época._</blockquote>
+_Strauss: lembra quando nós conversávamos sobre o assunto "Por que C++?", há muitas décadas atrás, e seu blogue era um dos primeiros no Brasil que não ficava relatando o que o autor comia no café da manhã, além de falar sobre programação? Pois é, eu estava reorganizando meus g-mails e reencontrei nossa conversa e, pior, seu artigo "derivado" dela, que irei republicar aqui pois, assim como antes, acredito em tudo que escrevi naquela época._
 
 (direto do "Contato do Site")
 
@@ -79,6 +79,6 @@ _**Strauss **-- Legal. Vou colocar minha água mercadológica no feijão e [colo
 
 Não quis alterar o texto original, mas colocaria, além de rapidez, o título **economia de recursos**. É incrível o quanto progredimos no quesito _hardware_ todos esses anos, e mesmo assim, existem linguagens e ambientes que parecem ter fome suficiente para consumir tudo e deixar um computador de última geração parecer um micro "meio lerdinho". Felizmente não preciso dar nome aos bois, pois todos sabem ou conhecem pelo menos uma linguagem com essa característica.
 
-<blockquote>_Também não quis generalizar. C e C++ não são as duas únicas opções quando se fala em bom desempenho. Existe também assembly e [linguagens de script](http://www.python.org/), que chegam inclusive a ser mais flexíveis e rápidas (além de mais produtivas)._</blockquote>
+_Também não quis generalizar. C e C++ não são as duas únicas opções quando se fala em bom desempenho. Existe também assembly e [linguagens de script](http://www.python.org/), que chegam inclusive a ser mais flexíveis e rápidas (além de mais produtivas)._
 
 Ainda acredito em tudo isso que C++ proporciona e irá continuar proporcionando por muto tempo. Para os que não seguiram o linque do artigo do Strauss, existe uma [modesta lista de programas escritos nessa linguagem ao redor do planeta](http://www.research.att.com/~bs/applications.html). Muitos são conhecidíssimos e usados nos quatro cantos do mundo, muitas vezes em mais de um sistema operacional. C++ está morto? Longe disso... talvez pareça assim em território nacional, mas esse é o motivo de meus [votos de sucesso](http://groups.google.com/group/ccppbrasil/msg/64f084207c068689) no início de nosso grupo C++.

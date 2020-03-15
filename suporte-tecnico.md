@@ -91,7 +91,7 @@ Essa série de passos foi reproduzida em menos de uma hora até chegarmos a apen
 
 Que se revelou pertencer à DLL [dispex.dll](http://www.google.com.br/search?q=dispex.dll):
 
-<blockquote>_"dispex.dll is a module that contains COM interfaces used by Visual Basic scripts"_</blockquote>
+_"dispex.dll is a module that contains COM interfaces used by Visual Basic scripts"_
 
 Pesquisando soluções de restauração achei [esse KB](http://support.microsoft.com/kb/836929) que explica que existe um aplicativo chamado McRepair que teoricamente conserta a bagunça.
 

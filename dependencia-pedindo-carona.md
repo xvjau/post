@@ -23,7 +23,7 @@ Um recurso muito útil para ver essas funções é o Dependency Walker, meu amig
 
 [![depends-process32-not-found2.png](/images/rBZdxkh.png)](/images/rBZdxkh.png)
 
-<blockquote>"Mas, Caloni, eu nem uso essa função! Como ela pode ser necessária?"</blockquote>
+"Mas, Caloni, eu nem uso essa função! Como ela pode ser necessária?"
 
 Pois é. As coisas nem sempre acabam sendo como o esperado. Se você possuir uma LIB, por exemplo, e nela existirem duas funções, como abaixo, e você se limitar a usar em seu programa apenas a primeira, todas as dependências da segunda também irão parar no executável final.
 

@@ -22,5 +22,5 @@ Está marcado para dia 19 desse mês em São Paulo o **terceiro encontro de prog
 
 Conto com a participação de todos que se interessam, usam ou aprendem sobre essas fabulosas linguagens de programação. Vamos levantar a moral de C++ no cenário brasileiro!
 
-<blockquote>_Errata: na verdade o que ocorreu dia 19 foi um **encontro** de C++ com direito a palestras e coffee break, o que de certa forma invalida o nome CppCon. Futuramente teremos o que poderemos chamar de **conferência **C++, no sentido amplo do termo. Te espero lá._</blockquote>
+_Errata: na verdade o que ocorreu dia 19 foi um **encontro** de C++ com direito a palestras e coffee break, o que de certa forma invalida o nome CppCon. Futuramente teremos o que poderemos chamar de **conferência **C++, no sentido amplo do termo. Te espero lá._
 

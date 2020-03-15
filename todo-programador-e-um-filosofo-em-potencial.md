@@ -7,7 +7,7 @@ Tivemos uma conversa muito frutífera hoje durante o almoço ao conhecer uma pro
 
 O importante dessa colóquio foi ter encontrado um motivo muito mais forte para gostar de programação do que [qualquer outro](http://www.1bit.com.br/content.1bit/weblog/why_do_you_code_) que já me surgira na cabeça desde que mexo com essas coisas:
 
-<blockquote>_O computador não deve dar ordens ao homem e este repeti-las como uma máquina. O homem, como ser pensante, deve dizer ao computador o que fazer, e este responder-lhe diligentemente._</blockquote>
+_O computador não deve dar ordens ao homem e este repeti-las como uma máquina. O homem, como ser pensante, deve dizer ao computador o que fazer, e este responder-lhe diligentemente._
 
 Para resumir desde o começo essa conclusão, um exemplo paupável: quando fazemos um curso de treinamento, uma especialização, uma faculdadeZINHA ou qualquer outro evento de "aprendizado" que nos propõe a digitar comandos sem fim, repetidamente para um computador, para no final ganharmos um comprovante de que sabemos digitar aqueles comandos decorados e repetitivos como ninguém, isso quer dizer que as coisas vão mal, **se** e **quando **tudo se resume a isso.
 

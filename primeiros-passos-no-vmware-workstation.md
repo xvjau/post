@@ -17,41 +17,41 @@ No entanto, não entremos em mais detalhes financeiros. Os detalhes técnicos s�
 
 A instalação é simples e indolor, sendo constituída de cinco ou seis botões de _next_. O resto, e mais importante, é a instalação de um sistema operacional dentro de sua primeira máquina virtual. Outro assistente existe nessa fase para guiá-lo através de suas escolhas que irão configurar sua futura máquina.
 
-<blockquote>Um pouco sobre redes
+Um pouco sobre redes
 
 **Use bridged networking**. É criada uma conexão real através de uma ponte feita em cima de uma placa de rede da máquina real. É usado um IP diferente da máquina real e se comporta como uma outra máquina qualquer na rede.
 
 **Use NAT**. As conexões são criadas usando o IP do sistema operacional hospedeiro. Para isto acontecer é usado o conhecido esquema de NAT, onde um único IP externo pode representar n IPs internos de uma rede (nesse caso, a rede virtual formada pelas máquinas virtuais de uma mesma máquina real).
 
-**Use host-only networking**. O IP usado nessa conexão é diferente da máquina real, mas só é enxergada por ela e por outras VMs localizadas na mesma máquina hospedeira. Muito útil para isolar um teste de vírus, quando se precisa de uma rede mas não podemos usar a rede da empresa inteira.</blockquote>
+**Use host-only networking**. O IP usado nessa conexão é diferente da máquina real, mas só é enxergada por ela e por outras VMs localizadas na mesma máquina hospedeira. Muito útil para isolar um teste de vírus, quando se precisa de uma rede mas não podemos usar a rede da empresa inteira.
 
 Imagine uma VM (Virtual Machine) como uma máquina de verdade, onde podemos dar _boot_, formatar HDs (virtuais ou reais), colocar e remover dispositivos. Tendo isso em mente, fica simples entender o que funciona por dentro de sua console, ou seja, a tela onde vemos a saída da virtualização.
 
-<blockquote>Um pouco sobre discos virtuais
+Um pouco sobre discos virtuais
 
-Os HDs que criamos para nossas VMs são arquivos lógicos localizados em nosso HD real. A mágica em que o sistema operacional virtual acessa o disco virtual como se fosse de verdade é feita pela VMware, inclusive a doce ilusão que ele cotém 80 GB, enquanto seu arquivo-repositório ocupa meros 5 GB no disco. Nas edições novas do software, é possível mapear um HD virtual e exibi-lo na máquina real.</blockquote>
+Os HDs que criamos para nossas VMs são arquivos lógicos localizados em nosso HD real. A mágica em que o sistema operacional virtual acessa o disco virtual como se fosse de verdade é feita pela VMware, inclusive a doce ilusão que ele cotém 80 GB, enquanto seu arquivo-repositório ocupa meros 5 GB no disco. Nas edições novas do software, é possível mapear um HD virtual e exibi-lo na máquina real.
 
 Se você dispõe do CD de instalação de um sistema operacional, por exemplo, Windows XP, basta inseri-lo no CD virtual de sua VM. Ela aceita também imagens ISO, se for o caso. Lembre-se apenas que ele terá que ser "bootável", do contrário é necessário um disquete de _boot_.
 
-<blockquote>Um pouco sobre BIOS</blockquote>
+Um pouco sobre BIOS
 
-<blockquote>A sua VM emula todo o comportamento de uma máquina real. Ela, portanto, contém uma BIOS, feita pela VMware. Essa BIOS possui as mesmas opções interessantes de ordem de _boot _(primeiro o disquete, depois o HD, etc) e escolha de dispositivo de _boot _(tecla ESC).</blockquote>
+A sua VM emula todo o comportamento de uma máquina real. Ela, portanto, contém uma BIOS, feita pela VMware. Essa BIOS possui as mesmas opções interessantes de ordem de _boot _(primeiro o disquete, depois o HD, etc) e escolha de dispositivo de _boot _(tecla ESC).
 
 A instalação do sistema operacional segue os mesmos passos que a instalação do sistema operacional de qualquer máquina de verdade.
 
-<blockquote>As teclas mágicas
+As teclas mágicas
 
 **Entrar o foco na VM. Digite Ctrl + G.** Todos seus movimentos de teclado e mouse só irão funcionar dentro da máquina virtual, exceto o Ctrl + Alt + Del, exclusividade do [sistema de autenticação do Windows](/gina-x-credential-provider).
 
 **Tirar o foco da VM. Digite Ctrl + Alt.** Todos seus movimentos de teclado e mouse passam a ser do SO hospedeiro.
 
-**Ctrl + Alt + Del dentro da VM. Use Ctrl + Alt + Insert.** Ele terá o mesmo efeito que um CAD, independente em que tela estiver em sua VM.</blockquote>
+**Ctrl + Alt + Del dentro da VM. Use Ctrl + Alt + Insert.** Ele terá o mesmo efeito que um CAD, independente em que tela estiver em sua VM.
 
 Após feita a instalação, você terá um sistema operacional rodando dentro de um sistema operacional. Isso não é legal?
 
-<blockquote>_Snapshots_
+_Snapshots_
 
-A primeira coisa a fazer em sua VM com SO recém-instalado é criar um _snapshot_, ou seja, salvar o estado atual de sua máquina virtual. Ao fazer isso, se fizer alguma coisa dentro da VM que possa se arrepender depois, basta voltar para o estado que salvou anteriormente. A VMware permite criar quantos _snapshots _precisar (basta ter espaço em disco). Ela permite que você crie novas máquinas virtuais a partir de um estado de uma VM já criada, o que pode economizar todo o tempo de montar do zero outra VM ou copiar o disco virtual.</blockquote>
+A primeira coisa a fazer em sua VM com SO recém-instalado é criar um _snapshot_, ou seja, salvar o estado atual de sua máquina virtual. Ao fazer isso, se fizer alguma coisa dentro da VM que possa se arrepender depois, basta voltar para o estado que salvou anteriormente. A VMware permite criar quantos _snapshots _precisar (basta ter espaço em disco). Ela permite que você crie novas máquinas virtuais a partir de um estado de uma VM já criada, o que pode economizar todo o tempo de montar do zero outra VM ou copiar o disco virtual.
 
 #### Dois usos muito úteis para uma VM
 

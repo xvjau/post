@@ -124,14 +124,14 @@ Em um passado bem longínquo, o padrão ANSI C não existia, e outras funções 
 
 Dentro desse mundo paralelo, existem identificadores de fluxos padrões para a entrada e a saída padrão. Melhor ainda, esses identificadores são inteiros que estão especificados da seguinte maneira (tirado da [referência GNU](http://www.gnu.org/software/libc/manual/html_node/Descriptors-and-Streams.html#index-STDIN_005fFILENO-1235) da linguagem C, meu grifo):
 
-<blockquote>_"There are also symbolic constants defined in unistd.h for the file descriptors belonging to the standard streams stdin, stdout, and stderr; see Standard Streams._
+_"There are also symbolic constants defined in unistd.h for the file descriptors belonging to the standard streams stdin, stdout, and stderr; see Standard Streams._
 
 _STDIN_FILENO
 This macro has value 0, which is the file descriptor for standard input.
 ** STDOUT_FILENO
 This macro has value 1, which is the file descriptor for standard output.**
 STDERR_FILENO
-This macro has value 2, which is the file descriptor for standard error output."_</blockquote>
+This macro has value 2, which is the file descriptor for standard error output."_
 
 Agora podemos voltar ao fonte. Vejamos como é implementada a função read, chamada dentro do laço for. Como todos sabem, se uma função já é definida em sua própria unidade, **não haverá uma busca por referências externas**, o que quer dizer que a implementação padrão de read não atrapalha a implementação local.
 

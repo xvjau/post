@@ -11,7 +11,7 @@ Hoje eu descobri um atalho bem interessante para isso.
 
 Um [artigo do Alex Ionescu](http://www.alex-ionescu.com/?p=59) falava sobre esse aplicativo linha de comando usado para criar, iniciar e apagar serviços. Mesmo não sendo o foco do artigo, achei muito útil a informação, pois não conhecia esse utilitário. Logo começaram a borbulhar idéias na minha mente:
 
-<blockquote>"E se eu usasse esse carinha para iniciar o notepad?"</blockquote>
+"E se eu usasse esse carinha para iniciar o notepad?"
 
 Bem, o Bloco de Notas é a vítima padrão de testes. Logo, a linha a seguir provaria que é possível rodá-lo na conta de sistema:
 

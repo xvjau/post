@@ -35,7 +35,7 @@ Uma MBR padrão procura por essa partição e lê seu primeiro setor, fazendo um
 
 Vamos supor que você tenha algum Windows moderno na partição ativa. A MBR irá carregar o primeiro pedaço de código desse sistema operacional moderno, que, até então, estará rodando em modo real desprotegido como o bom e velho MS-DOS.
 
-<blockquote>(Note que, mesmo que se trate de uma MBR escrita por terceiros, se ela se comportar como manda o figurino, irá carregar o primeiro setor da partição ativa descrita na tabela de partições. Isso é o que faz com que MBRs escritas pelo pessoal do Linux (e.g. [Lilo](http://en.wikipedia.org/wiki/LILO_%28boot_loader%29)) consiga fazer o boot de uma partição Microsoft.)</blockquote>
+(Note que, mesmo que se trate de uma MBR escrita por terceiros, se ela se comportar como manda o figurino, irá carregar o primeiro setor da partição ativa descrita na tabela de partições. Isso é o que faz com que MBRs escritas pelo pessoal do Linux (e.g. [Lilo](http://en.wikipedia.org/wiki/LILO_%28boot_loader%29)) consiga fazer o boot de uma partição Microsoft.)
 
 Agora chegamos em todos os passos iniciais realizados antes de entrar em cena o S.O.:
 

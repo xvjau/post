@@ -21,12 +21,12 @@ Não existe milagre, mas existem coisas que podemos fazer para ajudá-lo a acont
 
 Enfim, essa tarefa também terminou. Agora é só manutenção constante e disciplinada.
 
-<blockquote>
+
 
 > 
 > #### Conclusão
 > 
-_Por fim, considero se achar melhor depois de ter melhorado um ou dois itens da vida profissional uma "escrutinisse", tão inútil quanto achar-se já um desenvolvedor muito bom. Porque a qualquer hora podemos cometer novamente aquelas besteiras que fazíamos há cinco anos, e a qualquer hora podemos ter idéias brilhantes. O importante, na minha opinião, é aprender exatamente por que erramos e por que acertamos. Aprender exatamente, e lembrar-se disso, pode ser um enorme catalisador de anos de depuração aleatória._</blockquote>
+_Por fim, considero se achar melhor depois de ter melhorado um ou dois itens da vida profissional uma "escrutinisse", tão inútil quanto achar-se já um desenvolvedor muito bom. Porque a qualquer hora podemos cometer novamente aquelas besteiras que fazíamos há cinco anos, e a qualquer hora podemos ter idéias brilhantes. O importante, na minha opinião, é aprender exatamente por que erramos e por que acertamos. Aprender exatamente, e lembrar-se disso, pode ser um enorme catalisador de anos de depuração aleatória._
 
 #### Lista de tarefas inusitada
 
