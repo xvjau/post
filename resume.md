@@ -1,8 +1,9 @@
 ---
-title: Wanderley Caloni
+title: "Résumé"
 tags: [ "blog" ]
 css: "<style>.subtitle, .taglist, .gitinfo { visibility: hidden; }</style>"
 ---
+# Wanderley Caloni
 ### Backend Specialist
 
  - Location: São Paulo, Brazil

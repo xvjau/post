@@ -1,5 +1,5 @@
 ---
-date: 2019-11-19
+title: "Wanderley Caloni"
 tags: [ "blog" ]
 css: "<style>.subtitle, .taglist, .gitinfo { visibility: hidden; }</style>"
 ---
