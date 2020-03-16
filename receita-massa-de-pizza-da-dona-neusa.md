@@ -1,6 +1,6 @@
 ---
 title: "Receita: Massa de Pizza da Dona Neusa"
-tags: [ "food", "blog" ]
+tags: [ "food" ]
 date: 2017-05-30
 ---
 

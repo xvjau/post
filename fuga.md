@@ -4,7 +4,7 @@ title: "Fuga"
 desc: "Fugue (Polônia, República Tcheca, Suécia, 2018), escrito por Gabriela Muskala, dirigido por Agnieszka Smoczynska, com Gabriela Muskala, Lukasz Simlat, Malgorzata Buczkowska. #mostrasp"
 imdb: "7051048"
 
-tags: [ "movies", "blog" , "cinemaqui" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 
 ---

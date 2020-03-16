@@ -4,7 +4,7 @@ title: "Vamos Dançar?"
 desc: "Shall We Dance. EUA, 1937. Escrito por uma galera grande, incluindo Allan Scott e Ernest Pagano. Dirigido por Mark Sandrich. Com Fred Astaire e Ginger Rogers como seus alter-egos."
 imdb: "0029546"
 
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 stars: "2/5"
 ---
 Não é porque é um filme antigo com os dançarinos icônicos Fred Astaire e Ginger Rogers que o filme tem que ser bom. Nesse caso ele é uma bagunça, cheio de plots repetidos, piadas que já perderam a graça já na década de 30 e com muitas poucas cenas de dança. Este é um filme sobre dança e música ou não é?

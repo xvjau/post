@@ -2,7 +2,7 @@
 imdb: "1937149"
 
 date: "2015-02-14"
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "El Cuerpo"
 stars: "3/5"
 desc: "El Cuerpo. El cuerpo (Spain, 2012). Dirigido por Oriol Paulo. Escrito por Oriol Paulo, Lara Sendim. Com José Coronado, Hugo Silva, Belén Rueda, Aura Garrido, Miquel Gelabert, Juan Pablo Shuk, Oriol Vila, Carlota Olcina, Patrícia Bargalló."

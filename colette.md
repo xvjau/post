@@ -4,7 +4,7 @@ title: "Colette"
 desc: "Colette. Escrito por Richard Glatzer, Wash Westmoreland, Rebecca Lenkiewicz baseados em uma estória por Glatzer. Dirigido por Wash Westmoreland. Com Keira Knightley como Colette, Dominic West como seu marido Willy."
 imdb: "5437928"
 
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 Colette é uma tentativa de fazer justiça a respeito das obras entituladas Claudine, escritas pela escritora ganhadora do prêmio Nobel (e famosa pelo romance "Gigi"), mas com os créditos dados ao seu marido Willy, na época um famoso crítico e escritor. Se trata de uma biografia burocrática, que descreve acontecimentos sem paixão, apenas se detendo no que mais chama a atenção do público: as relações extra-conjugais do casal.

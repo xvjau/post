@@ -1,7 +1,7 @@
 ---
 date: "2014-07-01"
 title: Introdução à Introdução à Computação
-tags: [ "blog", "reading" ]
+tags: [ "reading" ]
 ---
 [![Capa do livro](/images/X6UJJym.jpg)](/images/X6UJJym.jpg) Chegou minha segunda cópia do livro ["Introdução Ilustrada à Computação"](/50-anos-de-basic), de Larry Gonick, recém-encontrado em um sebo. Esse eu não empresto para mais ninguém. Porém, posso recomendar aos ainda não-iniciados, e até mesmo aos iniciados em um nível superior ao do elétron: leiam esse livro pelo menos duas vezes. Isso é o que estou fazendo, e mesmo já com quase 15 anos computando nas ruas ainda aprendendo alguma coisa interessante.
 

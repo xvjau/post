@@ -1,6 +1,6 @@
 ---
 title: "Receita: Pipoca Caramelizada"
-tags: [ "food", "blog" ]
+tags: [ "food" ]
 date: 2019-09-08
 ---
 

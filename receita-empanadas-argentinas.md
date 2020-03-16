@@ -1,6 +1,6 @@
 ---
 title: "Receita: Empanadas Argentinas"
-tags: [ "food", "blog" ]
+tags: [ "food" ]
 date: 2019-01-07 
 ---
 

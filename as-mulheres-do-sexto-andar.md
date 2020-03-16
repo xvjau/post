@@ -2,7 +2,7 @@
 imdb: "1805297"
 
 date: "2012-03-01"
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "As Mulheres do Sexto Andar"
 stars: "4/5"
 desc: "As Mulheres do Sexto Andar. Les femmes du 6e étage (France, 2010). Dirigido por Philippe Le Guay. Escrito por Philippe Le Guay, Jérôme Tonnerre. Com Fabrice Luchini, Sandrine Kiberlain, Natalia Verbeke, Carmen Maura, Lola Dueñas, Berta Ojea, Nuria Solé, Concha Galán, Marie-Armelle Deguy."

@@ -4,7 +4,7 @@ title: "Minecraft Story Mode"
 desc: "Minecraft Story Mode. EUA, Suécia, 2015. Escrito por muita gente para listar, dirigido também. Com Patton Oswalt, Catherine Taber, Dee Bradley Baker. Interativo."
 imdb: "4291714"
 
-tags: [ "series", "blog" ]
+tags: [ "series" ]
 stars: "2/5"
 ---
 O problema de uma história interativa nunca é a interação em si, mas a falta de capacidade do roteirista em criar uma árvore de possibilidades onde permaneça uma narrativa suficientemente interessante para o espectador. O espectador sente quando está sendo enganado, quando o que ele vê em sua tela é um mero replicante (Blade Runner).

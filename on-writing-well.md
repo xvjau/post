@@ -1,7 +1,7 @@
 ---
 date: 2019-02-03T17:18:02-02:00
 title: "On Writing Well"
-tags: [ "blog", "reading" ]
+tags: [ "reading" ]
 desc: "Este é um livro de William Zinsser que já tem mais de 30 anos e que é falado no Hacker News como referência para escritores de não-ficção."
 
 ---

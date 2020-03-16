@@ -3,7 +3,7 @@ imdb: "0074102"
 
 date: "2019-06-03"
 review: [ "2019" ]
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "O Império dos Sentidos"
 stars: "4/5"
 desc: "O Império dos Sentidos. Ai no korîda (Japan, 1976). Dirigido por Nagisa Ôshima. Escrito por Nagisa Ôshima. Com Tatsuya Fuji, Eiko Matsuda, Aoi Nakajima, Yasuko Matsui, Meika Seri, Kanae Kobayashi, Taiji Tonoyama, Kyôji Kokonoe, Naomi Shiraishi. Texto original de 2010-11-13."

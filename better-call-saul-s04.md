@@ -4,7 +4,7 @@ title: "Better Call Saul S04"
 desc: "Better Call Saul (USA, 2015). Escrito por Vince Gilligan, Peter Gould. Com Bob Odenkirk, Jonathan Banks, Rhea Seehorn, Patrick Fabian, Michael Mando."
 imdb: "3032476"
 
-tags: [ "series", "blog" ]
+tags: [ "series" ]
 stars: "4/5"
 ---
 Better Call Saul em sua quarta temporada segue o mesmo formato de todas as anteriores: é uma novela porque se estende demais -- as regras um pouco degastantes de uma série -- mas entrega o que promete mais uma vez: um protagonista um pouco mais próximo de se tonar o Saul Goodman que todos nós conhecemos de Breaking Bad.

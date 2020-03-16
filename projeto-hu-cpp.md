@@ -2,7 +2,7 @@
 date: "2020-03-15"
 title: "Projeto Hu Cpp"
 desc: "Devaneios de um domingo à noite."
-tags: [ "code", "blog" ]
+tags: [ "code" ]
 ---
 Utilizo o [Hugo](https://gohugo.io/) como renderizador do meu saite já faz um tempo. Depois que juntei os posts do finado [Cine Tênis Verde](/sobre-cine-tenis-verde) e do meu blogue técnico a soma dos textos ultrapassou a marca dos dois mil. Atualmente levo cerca de quinze segundos para renderizar todo o saite antes de publicá-lo.
 

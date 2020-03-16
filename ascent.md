@@ -2,7 +2,7 @@
 imdb: "5933966"
 
 date: "2016-10-25"
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "Ascent"
 stars: "4/5"
 desc: "Ascent. Ascent (Japan, 2016). Dirigido por Fiona Tan. Escrito por Fiona Tan. Com Hiroki Hasegawa (Hiroshi)."

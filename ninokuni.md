@@ -3,7 +3,7 @@ date: "2020-03-10"
 title: "Ninokuni"
 desc: '"Ni no Kuni" (Japão, 2019), escrito por Akihiro Hino, dirigido por Yoshiyuki Momose, com Kento Yamazaki, Tucker Chandler e Ray Chase. Ê laiá, Netflix, zoando com os estúdio Ghibli.'
 imdb: "9760504"
-tags: [ "blog", "movies" ]
+tags: [ "movies" ]
 stars: "2/5"
 ---
 Uma animação dos Estúdios Ghibli recente, com distribuição Warner e Netflix. Os animadores juntam algumas cenas com computação para aumentar a resolução e construir exércitos de clones. O resultado é pavoroso. Felizmente são apenas alguns momentos.

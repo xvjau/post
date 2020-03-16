@@ -2,7 +2,7 @@
 imdb: "0134402"
 
 date: "2012-09-20"
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "Cabra Marcado Para Morrer"
 stars: "4/5"
 desc: "Cabra Marcado Para Morrer. Cabra Marcado Para Morrer (Brazil, 1985). Dirigido por Eduardo Coutinho. Escrito por Eduardo Coutinho. Com Eduardo Coutinho, Tite de Lemos, Ferreira Gullar."

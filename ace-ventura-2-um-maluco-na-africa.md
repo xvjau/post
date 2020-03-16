@@ -4,7 +4,7 @@ title: "Ace Ventura 2: Um Maluco Na África"
 desc: "Ace Ventura: When Nature Calls. EUA, 1995. Escrito e dirigido por Steve Oedekerk baseado nos personagens de Jack Bernstein (pra quê). Com Jim Carrey, Ian McNeice, Simon Callow. Comédia pastelão com traços televisivos."
 imdb: "0112281"
 
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 stars: "2/5"
 ---
 Jim Carrey está de volta em sua persona de detetive de animais para fazer todo tipo de piada politicamente incorreta na África. Agora ele precisa resgatar um animal sagrado da tribo dos... bom, quem se importa? É Carrey fazendo caretas e movimentos desengonçados que se desenvolvem bem como comédia, mas péssimo como história. Não se trata de um Carrey que se entrega de alma em um projeto coerente como Deby e Loide, mas somente um humorista fazendo humor de situações criadas especificamente para fazer rir, e não movimentar a história.

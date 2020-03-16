@@ -2,7 +2,7 @@
 imdb: "0944835"
 
 date: "2010-07-30"
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "Salt"
 stars: "3/5"
 desc: "Salt. Salt (USA, 2010). Dirigido por Phillip Noyce. Escrito por Kurt Wimmer. Com Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor, Daniel Olbrychski, August Diehl, Daniel Pearce, Hunt Block, Andre Braugher, Olek Krupa."

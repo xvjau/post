@@ -2,7 +2,7 @@
 date: 2019-05-09
 title: "Deep Work => Flow"
 desc: "Escrito por Robin Wieruch, é um resumo valioso de dois livros."
-tags: [ "blog", "reading" ]
+tags: [ "reading" ]
 ---
 [(Deep Work) => Flow - A proven Path to Satisfaction](https://www.robinwieruch.de/lessons-learned-deep-work-flow), de Robin Wieruch, é um resumo valioso de dois livros, um sobre deep work e outro sobre flow, e como ambos se relacionam. Robin é um programador e também leu [On Writing Well](/on-writing-well) (ele possui [algumas notas](https://www.robinwieruch.de/lessons-learned-on-writing-well/) sobre essa leitura também).
 

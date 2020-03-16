@@ -2,7 +2,7 @@
 imdb: "2085059"
 
 date: "2015-12-13"
-tags: [ "series", "blog" ]
+tags: [ "series" ]
 title: "Black Mirror - S02E04 - White Christmas"
 stars: "5/5"
 desc: "White Christmas. Black Mirror (UK, 2011). Dirigido por Carl Tibbetts. Escrito por Charlie Brooker. Com Jon Hamm, Rafe Spall, Oona Chaplin."

@@ -4,7 +4,7 @@ title: "Botched"
 desc: "EUA, 2014. Série com Paul Nassif, Terry J. Dubrow, Rajee Narinesingh."
 imdb: "3781836"
 
-tags: [ "series", "blog" ]
+tags: [ "series" ]
 stars: "3/5"
 ---
 Botched é mais uma das séries de canais como Discovery Home & Health e... ops. Acho que me enganei de canal. Anyway. Algum canal pago desses por aí onde abrem mulheres para fazer cirurgias plásticas para as completarem como os últimos Frankesteins de nossa geração.

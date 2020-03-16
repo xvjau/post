@@ -1,7 +1,7 @@
 ---
 date: "2009-07-07"
 title: Strings
-tags: [ "code", "blog" ]
+tags: [ "code" ]
 ---
 Como já vimos [centenas](/basico-do-basico-tipos) e [centenas](/guia-basico-para-programadores-de-primeiro-int-main) de vezes, memória é apenas memória até que alguém diga que isso vale alguma coisa. Em seu estado latente é o que chamamos formalmente de **dados**. E dados são bytes armazenados na memória.
 

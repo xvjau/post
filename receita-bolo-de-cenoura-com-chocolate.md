@@ -1,6 +1,6 @@
 ---
 title: "Receita: Bolo de Cenoura com Chocolate"
-tags: [ "food", "blog" ]
+tags: [ "food" ]
 date: 2017-05-30
 ---
 

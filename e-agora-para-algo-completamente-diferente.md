@@ -2,7 +2,7 @@
 imdb: "0066765"
 
 date: "2015-12-12"
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "E Agora para Algo Completamente Diferente"
 stars: "3/5"
 desc: "E Agora para Algo Completamente Diferente. And Now for Something Completely Different (UK, 1971). Dirigido por Ian MacNaughton. Escrito por Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin. Com Graham Chapman, John Cleese, Terry Gilliam, Eric Idle, Terry Jones, Michael Palin, Carol Cleveland, Connie Booth, Lewis Alexander."

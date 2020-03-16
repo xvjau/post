@@ -2,7 +2,7 @@
 imdb: "0083798"
 
 date: "2012-03-27"
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "Cliente Morto Não Paga"
 stars: "4/5"
 desc: "Cliente Morto Não Paga. Dead Men Don't Wear Plaid (USA, 1982). Dirigido por Carl Reiner. Escrito por Carl Reiner, George Gipe, Steve Martin. Com Steve Martin, Rachel Ward, Alan Ladd, Carl Reiner, Barbara Stanwyck, Ray Milland, Ava Gardner, Burt Lancaster, Humphrey Bogart."

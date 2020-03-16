@@ -2,7 +2,7 @@
 imdb: "1634003"
 
 date: "2013-04-12"
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "Um Time Show de Bola"
 stars: "3/5"
 desc: "Um Time Show de Bola. Metegol (Spain, 2013). Dirigido por Juan José Campanella. Escrito por Michael Broadbridge, David Burgess, Juan José Campanella, Roberto Fontanarrosa, Gastón Gorali, Eduardo Sacheri. Com Gabriel Almirón, Federico Cecere, Ezequiel Cipols, Luciana Falcón, Roberto Kim, Lucía Maciel, Marcos Mundstock, Mariana Otero, Alejandro Piar."

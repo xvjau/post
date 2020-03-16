@@ -4,7 +4,7 @@ title: "Super Drags"
 desc: "Idem. Criado por Paulo Lescaut, Anderson Mahanski, Fernando Mendonça. Com Suzy Brasil, Guilherme Briggs, Sérgio Cantú."
 imdb: "8912244"
 
-tags: [ "series", "blog" ]
+tags: [ "series" ]
 stars: "3/5"
 ---
 Super Drags é um projeto de animação de três idealizadores patrocinados pela Netflix. Um deles é de Fernando Mendonça, que depois de produzir CDs interativos na internet 1.0 já participou de um projeto megalomaníaco chamado [BugiGangue no Espaço](/bugigangue-no-espaco), mas agora parte para o público adulto em uma ideia simples: uma animação para adultos envolvendo drag queens.

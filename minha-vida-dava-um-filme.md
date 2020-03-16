@@ -2,7 +2,7 @@
 imdb: "1698648"
 
 date: "2014-01-18"
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "Minha Vida Dava um Filme"
 stars: "3/5"
 desc: "Minha Vida Dava um Filme. Girl Most Likely (USA, 2012). Dirigido por Shari Springer Berman, Robert Pulcini. Escrito por Michelle Morgan. Com Kristen Wiig, Annette Bening, Matt Dillon, Darren Criss, Christopher Fitzgerald, June Diane Raphael, Natasha Lyonne, Bob Balaban, Sydney Lucas."

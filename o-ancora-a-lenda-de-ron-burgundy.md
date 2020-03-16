@@ -2,7 +2,7 @@
 imdb: "0357413"
 
 date: "2014-05-08"
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "O Âncora A Lenda de Ron Burgundy"
 stars: "3/5"
 desc: "O Âncora A Lenda de Ron Burgundy. Anchorman: The Legend of Ron Burgundy (USA, 2004). Dirigido por Adam McKay. Escrito por Will Ferrell, Adam McKay. Com Will Ferrell, Christina Applegate, Paul Rudd, Steve Carell, David Koechner, Fred Willard, Chris Parnell, Kathryn Hahn, Fred Armisen."

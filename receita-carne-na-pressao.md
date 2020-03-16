@@ -1,6 +1,6 @@
 ---
 title: "Receita: Carne na Pressão"
-tags: [ "food", "blog" ]
+tags: [ "food" ]
 date: 2019-09-08
 ---
 

@@ -4,7 +4,7 @@ title: "As Virgens Suicidas"
 desc: "The Virgin Suicides. EUA, 1999. Dirigido por Sofia Coppola. Escrito por Sofia adaptado do livro de Jeffrey Eugenides. Com Kirsten Dunst, Josh Hartnett, James Woods."
 imdb: "0159097"
 
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 stars: "3/5"
 ---
 O primeiro filme de Sofia Coppola, produzido pelo pai, ninguém menos que Francis Ford Coppola, é o debut de uma filhinha de papai que vai melhorando o estilo a cada novo filme, explorando a sofrida vida dos ricos, mas que nesse começa prepotente demais para um dramazinho adolescente cujo drama em si nunca é visto.

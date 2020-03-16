@@ -3,7 +3,7 @@ date: "2020-01-11"
 title: "Antologia da Cidade Fantasma"
 desc: '"Répertoire des villes disparues (aka Ghost Town Anthology)" (Canadá, 2019), escrito por Denis Côté levemente baseado no livro de Laurence Olivier, dirigido por Denis Côté, com Robert Naylor, Josée Deschênes e Jean-Michel Anctil. Escrito para o CinemAqui.'
 imdb: "9068100"
-tags: [ "movies", "blog" , "cinemaqui" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 ---
 Antologia da Cidade Fantasma é um terror psicológico que flerta com questões sociais sem conseguir desenvolver com sucesso nenhuma delas. Porém, a atmosfera opressiva que o clima de inverno exerce sobre essas pessoas é quase um personagem à parte, e isso vale a pena acompanhar.

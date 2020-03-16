@@ -1,7 +1,7 @@
 ---
 date: "2009-07-13"
 title: Name mangling
-tags: [ "code", "blog" ]
+tags: [ "code" ]
 ---
 A [sobrecarga estática](/polimorfismo-estatico) possui algumas desvantagens em relação ao sistema de nomes da boa e velha linguagem C: ela **não foi padronizada** entre compiladores. O que isso quer dizer na prática é que funções exportadas de bibliotecas dinâmicas (DLLs) vão possuir nomes diferentes dependendo do compilador utilizado (e sua versão). Isso é o que chamamos [name mangling](http://en.wikipedia.org/wiki/Name_mangling).
 

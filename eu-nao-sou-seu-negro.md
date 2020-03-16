@@ -2,7 +2,7 @@
 imdb: "5804038"
 
 date: "2017-01-31"
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "Eu Não Sou Seu Negro"
 stars: "5/5"
 desc: "Eu Não Sou Seu Negro. I Am Not Your Negro (France, 2016). Dirigido por Raoul Peck. Escrito por James Baldwin. Com Samuel L. Jackson (Narration), James Baldwin (Himself), Dick Cavett (Himself), Shumerria Harris (Herself)."

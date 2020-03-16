@@ -2,7 +2,7 @@
 imdb: "2321405"
 
 date: "2017-01-27"
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "Minha Vida de Abobrinha"
 stars: "3/5"
 desc: "Minha Vida de Abobrinha. Ma vie de Courgette (Switzerland, 2016). Dirigido por Claude Barras. Escrito por Gilles Paris, Céline Sciamma, Germano Zullo, Claude Barras, Morgan Navarro. Com Gaspard Schlatter (Courgette), Sixtine Murat (Camille), Paulin Jaccoud (Simon), Michel Vuillermoz (Raymond), Raul Ribera (Ahmed), Estelle Hennard (Alice), Elliot Sanchez (Jujube), Lou Wick (Béatrice), Brigitte Rosset (Tante Ida)."

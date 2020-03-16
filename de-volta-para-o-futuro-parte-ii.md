@@ -2,7 +2,7 @@
 imdb: "0096874"
 
 date: 2016-03-20
-tags: [ "movies", "blog" ]
+tags: [ "movies" ]
 title: "De Volta para o Futuro Parte II"
 stars: "5/5"
 desc: "De Volta para o Futuro Parte II. Back to the Future Part II (USA, 1989). Dirigido por Robert Zemeckis. Escrito por Robert Zemeckis, Bob Gale, Robert Zemeckis, Bob Gale, Bob Gale. Com Michael J. Fox, Christopher Lloyd, Lea Thompson, Thomas F. Wilson, Elisabeth Shue, James Tolkan, Jeffrey Weissman, Casey Siemaszko, Billy Zane."

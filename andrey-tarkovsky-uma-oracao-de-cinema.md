@@ -3,7 +3,7 @@ date: "2019-10-26"
 title: "Andrey Tarkovsky: Uma Oração de Cinema"
 desc: '"Andrey Tarkovsky. A Cinema Prayer" (Itália, Rússia e Suécia, 2019), escrito por Andrey A. Tarkovskiy, dirigido por Andrey A. Tarkovskiy. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "10850518"
-tags: [ "movies", "blog" , "cinemaqui" ]
+tags: [ "movies" , "cinemaqui" ]
 stars: "3/5"
 ---
 "Andrey Tarkovsky: Uma Oração de Cinema" é o documentário dirigido pelo filho de um dos mais importantes cineasta da história do cinema. Sim, o filho dirige seu primeiro longa, e é sobre o pai. Apenas isso já deveria chamar sua atenção de cinéfilo, mas se não fez efeito talvez nem o resto desse texto faça.
