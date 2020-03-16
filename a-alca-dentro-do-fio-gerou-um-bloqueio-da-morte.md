@@ -2,47 +2,61 @@
 date: "2008-10-21"
 title: A alça dentro do fio gerou um bloqueio da morte
 tags: [ "code" ]
+desc: "Exemplos de como não traduzir conteúdo técnico em inglês."
 ---
 Estava folheando um [livro fenomenal](http://www.amazon.com/exec/obidos/ASIN/155615481X/shelfari-20) que meu amigo havia pedido emprestado para ler quando me deparei com algumas traduções (o livro estava em português) no mínimo curiosas.
 
 Se trata do primeiro Windows Internals publicado após o lançamento da primeira versão do Windows NT, uma plataforma escrita (quase) inteiramente do zero para suplantar as versões 9x, que herdaram do DOS algumas partes indesejáveis em sistemas operacionais modernos.
 
-Sabe-se lá por que, essa edição foi traduzida. É interessante notar que naquela época foi dado um tratamento especial a alguns termos e conceitos já comuns no dia-a-dia do programador americano, apesar de quase nenhum desses termos ter se mantido em sua versão original. Os exemplos mais gritantes são as _threads _(fios ou linhas) , os _dead locks _(bloqueios da morte) e _handles _(alças).
+Sabe-se lá por que, essa edição foi traduzida. É interessante notar que naquela época foi dado um tratamento especial a alguns termos e conceitos já comuns no dia-a-dia do programador americano, apesar de quase nenhum desses termos ter se mantido em sua versão original. Os exemplos mais gritantes são as _threads_ (fios ou linhas) , os _dead locks_ (bloqueios da morte) e _handles_ (alças).
 
-Apesar de não ter nada contra traduzir termos do inglês para português (e vice-versa), as coisas que mais me incomodam em tradução de livros técnicos é o fato dos tradutores:
+Apesar de não ter nada contra traduzir termos do inglês para português (e vice-versa), algumas coisas incomodam em tradução de livros técnicos.
 
-	
-  * Não se darem o trabalho de colocar ambos os termos: o original em língua estrangeira e a adaptação em português.
-    * Ex.: "os **ponteiros** em C (**_pointers_**) são um recurso rico e necessário para a escrita de programas de baixo/médio nível".
-  * Não manterem uma mesma tradução durante todo o livro, esbanjando um festival de sinônimos que complicam bastante a compreensão semântica do conteúdo.
-    * Ex.:
-(em um capítulo) "... é muito importante inicializar seus **ponteiros** antes de usá-los".
-(em outro capítulo) "... sabe-se que a pior desgraça para um programador C são os famigerados **apontadores** selvagens".
-  * Traduzirem o código-fonte, quase sempre mal e porcamente. Um exemplo notável é o [famoso livro de algoritmos em C da O'Reilly](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Dominando+Algoritmos+em+C+O%27Reilly&site_origem=1293522), que mesmo na nova edição com uma errata de 49 itens foi possível detectar mais erros. O exemplo abaixo consta no item 46 da edição de 2000 (Editora Ciência Moderna):
-    * 
-          if (opos > 0) {
-    
-             if ((temp = (unsigned char *)realloc(orig, opos + 1)) == NULL) {
-    
-                bitree_destroy(tree);
-                free(tree);
-                free(original);
-                return -1;
-    
-             }
-    
-             orig = temp;
-    
-             }
-    
-    // Se vai errar o código, <strong>não traduza</strong>!
-    // É importante notar que no original <strong>não consta</strong> esse erro.
+#### Não colocar o termo original em inglês ao lado do termo usado em português
 
-  * Não entenderem que um termo usado pelo autor na verdade é um vocábulo com significado especial para as pessoas que trabalham no ramo. Isso é pior do que não colocar a versão em inglês, pois dá a impressão que não existe significado a ser explicado.
-    * Ex.:
-(antes do capítulo sobre _threads_): "... quando um **fio **espera o outro e vice-versa, acontece o terrível **bug **da **trava da morte**".
+Com essa informação, que pode ser usada apenas nos primeiros usos da palavra, agradaria gregos e troianos. Abaixo um exemplo.
 
-_Esses exemplos, salvo o exemplo do livro de algoritmos, foram criados para ilustrar os tipos de erros mais comuns em traduções de livros técnicos, e não estão relacionados com qualquer livro em específico._
+> "os **ponteiros** em C (**_pointers_**) são um recurso rico e necessário para a escrita de programas de baixo/médio nível".
+
+#### Não manter o mesmo termo traduzido durante todo o livro
+
+Por exemplo, ler um dado capítulo:
+
+> "... é muito importante inicializar seus **ponteiros** antes de usá-los."
+
+E, depois de se acostumar com o termo, ler em outro capítulo:
+
+> "... sabe-se que a pior desgraça para um programador C são os famigerados **apontadores** selvagens."
+
+
+#### Traduzir o código-fonte, quase sempre mal e porcamente
+
+Um exemplo notável é o [famoso livro de algoritmos em C da O'Reilly](http://compare.buscape.com.br/categoria?id=3482&lkout=1&kw=Dominando+Algoritmos+em+C+O%27Reilly&site_origem=1293522), que mesmo na nova edição com uma errata de 49 itens foi possível detectar mais erros. O exemplo abaixo consta no item 46 da edição de 2000 (Editora Ciência Moderna):
+
+    if (opos > 0) {
+    
+        if ((temp = (unsigned char *)realloc(orig, opos + 1)) == NULL) {
+    
+            bitree_destroy(tree);
+            free(tree);
+            free(original); /* original? */
+            return -1;
+        }
+    
+        orig = temp;
+    }
+
+_Obs.: importante notar que no original não consta esse erro._
+
+#### Não entender que um termo usado é vocábulo com significado especial para pessoas do ramo
+
+Isso é pior do que não colocar a versão em inglês, pois dá a impressão que não existe significado a ser explicado. Por exemplo, ver antes do capítulo sobre _threads_:
+
+> "... quando um **fio **espera o outro e vice-versa, acontece o terrível **bug** da **trava da morte**."
+
+_Obs.: para quem não descobriu o que foi escrito no original, se trata de um **deadlock**, cujo termo inclusive é usado no seu original na [Wikipédia em português](https://pt.wikipedia.org/wiki/Deadlock)._
+
+_Obs. 2: esses exemplos, salvo o exemplo do livro de algoritmos, foram criados para ilustrar os tipos de erros mais comuns em traduções de livros técnicos, e não estão relacionados com qualquer livro em específico._
 
 Então o que era inicialmente para ajudar as pessoas que estão iniciando alguns conceitos acaba por prejudicar ainda mais o aprendizado, gerando aquele tipo de confusão que só com ajuda extra (internet, professor, colega) pode ser resolvida.
 
