@@ -1,6 +1,6 @@
 ---
 date: "2019-08-21"
-title: "Nara Lámen"
+title: "Restaurante Nara Lámen"
 desc: "Casa de lámen tradicional no bairro da Saúde saúda os japas que vivem nessa segunda nipocomunidade da cidade de SP."
 tags: [ "food", "blog" ]
 stars: "4/5"
