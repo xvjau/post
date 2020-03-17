@@ -55,6 +55,3 @@ Uma desvantagem desse comando é que ele oculta o resto das linhas do fonte e n�
 
 ![Comando qconfig do Bazaar](/images/TyYMS4s.png)
 
-####  Bônus
-
-Para quem não sabe fazer comandos de contexto no Explorer sem instalar Shell Extensions, deem uma olhada no [REG exportado](/images/bzr.txt).  Bom proveito.
