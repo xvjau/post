@@ -1,4 +1,5 @@
 ---
+date: "2007-06-14"
 title: "Wanderley Caloni"
 tags: [ "blog" ]
 css: "<style>.subtitle, .taglist, .gitinfo { visibility: hidden; }</style>"

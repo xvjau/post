@@ -1,4 +1,5 @@
 ---
+date: "2007-06-13"
 title: "Résumé"
 tags: [ "blog" ]
 css: "<style>.subtitle, .taglist, .gitinfo { visibility: hidden; }</style>"
