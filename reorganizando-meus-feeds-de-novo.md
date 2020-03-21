@@ -9,14 +9,8 @@ Porém, ainda utilizo o Google Reader por uma série de motivos:
 
 	
   * Integrado com as ferramentas Google, que eu venero;
-
-	
   * Tem [atalhos no teclado](http://www.google.com/reader/ui/444944535-en-keyboard-help-tearoff?hl=en), que eu [venero](/mousetool-clique-automatico-do-seu-rato)
-
-	
   * Consigo [anotar](http://www.google.com/support/reader/bin/answer.py?hl=en&answer=98739) o que quiser em qualquer página que navegar;
-
-	
   * Posso organizar os feeds por categorias.
 
 [![](/images/qoVgRHE.png)](/images/qoVgRHE.png)
@@ -29,20 +23,10 @@ Por isso, para evitar ser abarrotado de notícias, mantenho a seguinte organiza�
 
 	
   1. **Notícias**: todos os feeds que cospem milhares de entradas. Organizo por "mágica" e leio apenas os que ficarem no topo. Ao final, clico no famigerado "Mark all as read" e fim de história.
-
-	
   2. **Diário**: leituras imediatas, que não requerem mais que cinco minutos, como a tirinha do Dilbert e minhas pesquisas cadastradas no Google.
-
-	
   3. **Semanal**: leitura um pouco mais demorada, para quando tiver mais que 10 minutos sobrando.
-
-	
   4. **Amigos**: todos os feeds das pessoas que eu conheço e acompanho.
-
-	
   5. **Pessoal**: meus próprios feeds, para reler o que eu escrevi e capturar "o outro lado da comunicação" (você, leitor).
-
-	
   6. **Fóruns: **mensagens do grupo de programação C++, por exemplo. Está no final da lista porque posso dedicar um pouco do fim-de-semana para ler a evolução dos tópicos, ou até colaborar quando tiver algum conhecimento a acrescentar.
 
 Além disso, os Shared Itens estão configurados como Start page, sendo que tudo que eu anotar durante minha navegação deve ser lida quando eu abro o Reader (incluindo minhas anotações).

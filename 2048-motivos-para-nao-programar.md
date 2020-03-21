@@ -1,7 +1,7 @@
 ---
 date: "2014-04-24"
 title: 2048 motivos para não programar
-tags: [ "blog" ]
+tags: [ "code" ]
 ---
 [![2048](/images/LpkzLQH.jpg)](/images/LpkzLQH.jpg)
 

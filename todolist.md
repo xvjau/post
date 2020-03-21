@@ -19,28 +19,13 @@ Bem, me parecia mais do que eu precisava. No entanto ele é flexível, e suas co
 
 Entre algumas coisas legais que gosto nesse programa que me fizeram ficar com ele, consigo me lembrar da seguinte lista:
 
-	
   * Posso levar onde quiser e salvar minhas configurações em um arquivo ini.
-
-	
   * Ele fica na [área de notificação](http://blogs.msdn.com/oldnewthing/archive/2003/09/10/54831.aspx) e posso ativá-lo com um atalho global.
-
-	
   * Ele conta o tempo de uma tarefa se você quiser.
-
-	
   * Ele exporta as listas em formatos como Excel, HTML e texto puro.
-
-	
   * Ele é pequeno e não precisa de instalação.
-
-	
   * O código-fonte é disponível e está sempre sendo atualizado.
-
-	
   * Posso salvar minhas listas em XML (padrão) ou encriptado.
-
-	
   * Pode ser estendido por meio de _plugins._
 
 #### Agora um pouco sobre organização
@@ -57,12 +42,7 @@ Enfim, cada pessoa tem sua maneira de encarar problemas, catalogar idéias e faz
 
 **Para continuar divagando**
 
-	
   * [Artigo no Code Project](http://www.codeproject.com/tools/todolist2.asp) sobre a ferramenta (e _link_ para _download)._
-
-	
   * [Sítio do criador do programa](http://www.abstractspoon.com/) (com mais recursos para baixar).
-
-	
   * [Como fazer cronogramas](/cronograma) (dicas simples e rápidas para programadores).
 

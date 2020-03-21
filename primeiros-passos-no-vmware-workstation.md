@@ -1,7 +1,7 @@
 ---
 date: "2008-07-10"
 title: Primeiros passos no VMware Workstation
-tags: [ "blog" ]
+tags: [ "code" ]
 ---
 Como uma ferramenta essencial que uso todos os dias da minha vida de programador, sou obrigado a falar neste blogue sobre a [VMware](http://www.vmware.com), ferramenta que tem me salvado algumas centenas de horas de depuração, testes e alguns cabelos brancos (a mais).
 

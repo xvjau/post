@@ -1,7 +1,7 @@
 ---
 date: "2017-03-23"
 title: "Forma simples de baixar atualizações remotamente de um cliente para um servidor"
-tags: [ "blog" ]
+tags: [ "code" ]
 desc: "Neste post vemos coisas como SimpleHTTPServer, http.server, python, curl. Atualizado em 2020-03-11."
 ---
 A forma mais simples e rápida para subir um servidor de arquivos é usar o file server embutido do python:

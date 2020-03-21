@@ -1,5 +1,5 @@
 ---
-date: "2013-04-02"
+date: "2013-04-01"
 title: Depuração na nuvem com o novo Visual Studio
 tags: [ "blog" ]
 ---

@@ -2,7 +2,7 @@
 date: "2019-08-08"
 title: "Some things I learned in a Hacker Rank exercise (in C++)"
 desc: "About the heap issue and how to keep balanced items wihtout overload the processing."
-tags: [ "blog" ]
+tags: [ "code" ]
 ---
 A couple of days ago I subscribed to [Hacker Hank](https://www.hackerrank.com), a website specialized in provide interview exercises. The site is as a better version of Code Jam, with the possibility to Compile & Run the code, as well as running several test cases.
 

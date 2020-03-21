@@ -2,7 +2,7 @@
 date: "2019-12-26"
 title: "How to Make Sourdough More or Less Sour Part I"
 desc: "Como fazer o fermento mais ou menos azedo (Parte I)."
-tags: [ "blog" ]
+tags: [ "food" ]
 ---
 Pesquisando sobre como tornar o fermento (e o pão feito com ele) menos azedo que o tradicional pão de fermentação longa, encontrei este artigo dividido em duas partes. Essas anotações dizem respeito à primeira parte.
 

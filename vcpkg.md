@@ -1,7 +1,7 @@
 ---
 date: 2018-07-14
 title: "Vcpkg: gerenciador de libs c++ para Linux, Mac OS... e Windows!"
-tags: [ "blog" ]
+tags: [ "code" ]
 ---
 O ambiente padronizado de bibliotecas C/C++ dos sistemas *nix é motivo de inveja dos programadores Windows por séculos. Mas, finalmente, a Microsoft tem acordado diante da ressurreição do C++, com seus novos bug fixes e new deprecated features.
 

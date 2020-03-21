@@ -1,7 +1,7 @@
 ---
 date: "2016-08-04"
 title: "Vídeo: Criando Projeto C++ Console no Visual Studio 2015"
-tags: [ "blog" ]
+tags: [ "code" ]
 ---
 Esse [vídeo](https://www.youtube.com/embed/6wP3ZXg-0lA) é um experimento que estou fazendo para tentar começar a compartilhar conhecimento em vídeo. Para começar, acho que nada mais apropriado que criar um projeto novo no Visual Studio, não? Dúvidas, sugestões, críticas, todas bem-vindas. Compartilhem com aquele amigo que pensa em começar a programar (ainda mais se for em C++).
 

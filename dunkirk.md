@@ -1,7 +1,5 @@
 ---
-
 imdb: "5013056"
-
 date: 2017-07-25T11:23:01
 tags: [ "movies" , "cinemaqui" ]
 title: "Dunkirk"

@@ -1,7 +1,7 @@
 ---
 date: 2018-02-20T16:48:37-03:00
 title: "Caloni Palestrando Sobre Bitcoins Antes De Virar (Muito) Modinha"
-tags: [ "blog" ]
+tags: [ "code" ]
 ---
 Naquela época o bitcoin estava oscilando entre 3000 e 5000 reais. Dá pra acreditar? Faz muito tempo. Cerca de um ano. E hoje tem pessoas dizendo que o mundo vai acabar porque bitcoin caiu para a mínima de 20k. Aham. Porém, existe uma imensidão de questões no meio desses valores que é: o que, afinal de contas, é uma moeda digital?
 

@@ -11,43 +11,20 @@ Esse artigo é só para constar em minha lista de referência para o aprendizado
 
 	
   * [Strings](http://bcsanches.wordpress.com/2008/12/11/strings-em-c/)
-
-	
   * [Strings e Números](http://bcsanches.wordpress.com/2009/01/23/strings-e-numeros/)
-
-	
   * Os [diversos](http://bcsanches.wordpress.com/2008/08/27/c-type-casting-1%c2%aa-parte/) [tipos](http://bcsanches.wordpress.com/2008/09/18/c-type-casting-2%c2%aa-parte/) de [casting](http://bcsanches.wordpress.com/2008/11/05/c-type-casting-3%c2%aa-e-ultima-parte/)
-
-	
   * [Pointeiros](http://blog.blabos.org/2009/04/ponteiros-e-referencias-em-c-parte-1/) e [Referências](http://blog.blabos.org/2009/05/ponteiros-e-referencias-em-c-parte-2/)
-
-	
   * [Templates](http://www.thradams.com/codeblog/templates.pdf)
-
-	
   * [Smart Pointer - Introdução](http://bcsanches.wordpress.com/2008/05/29/smart-pointers-introducao/)
-
-	
   * [Auto Pointer (auto_ptr)](http://bcsanches.wordpress.com/2008/06/10/auto-pointers/)
-
-	
   * Boost [Shared Pointer](http://bcsanches.wordpress.com/2008/07/09/boost-shared-pointers/), [Weak Pointer](http://bcsanches.wordpress.com/2008/07/17/boost-weak-pointer-weak_ptr/) e [Scoped Pointer](http://bcsanches.wordpress.com/2008/07/09/boost-shared-pointers/)
-
-	
   * Boost [Shared Array e Scoped Array ](http://bcsanches.wordpress.com/2008/07/30/boost-shared-array-e-scoped-array-shared_array-e-scoped_array/)
-
-	
   * [Quando usar cada um dos smart pointers](http://devhints.blogspot.com/2008/12/c-quando-usar-cada-smart-pointer.html)
-
-	
   * [As infinitas e riquíssimas discussões na lista C/C++](http://groups.google.com/group/ccppbrasil/topics)
 
 #### Visual Studio
 
-	
   * [Como usar](http://bcsanches.wordpress.com/2009/03/06/como-utilizar-o-visual-studio-c-parte-1/) o [Visual](http://bcsanches.wordpress.com/2009/04/01/como-utilizar-o-visual-studio-c-parte-2/) [Studio](http://bcsanches.wordpress.com/2009/04/22/como-utilizar-o-visual-studio-parte-3/)
-
-	
   * [Compilando o Boost no Windows (usando Visual Studio)](http://bcsanches.wordpress.com/2008/05/14/compilando-a-boost-no-windows-usando-visual-studio/)
 
 #### Mais assuntos?
