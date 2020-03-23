@@ -1,12 +1,11 @@
 ---
-imdb: "0978762"
-
 date: "2010-04-16"
-review: [ "2018" ]
-tags: [ "movies" ]
 title: "Mary e Max uma Amizade Diferente"
-stars: "5/5"
 desc: "Mary e Max uma Amizade Diferente. Mary and Max (Australia, 2009). Dirigido por Adam Elliot. Escrito por Adam Elliot. Com Toni Collette, Philip Seymour Hoffman, Barry Humphries, Eric Bana, Bethany Whitmore, Renée Geyer, Ian 'Molly' Meldrum, John Flaus, Julie Forsyth."
+tags: [ "movies" ]
+imdb: "0978762"
+stars: "5/5"
+review: [ "2018" ]
 ---
 Tudo em "Mary e Max" é construído para tentar responder uma das perguntas emocionalmente mais ambiciosas e filosoficamente mais intrigantes que nós, passageiros desse planeta em direção à morte, nos fazemos de vez em quando: o que é a amizade?
 
