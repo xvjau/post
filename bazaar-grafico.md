@@ -1,7 +1,7 @@
 ---
 date: "2010-02-25"
 title: Bazaar gráfico
-tags: [ "blog" ]
+tags: [ "blogue" ]
 ---
 Bom, já que por enquanto os assuntos de macho estão em falta (acabei de voltar de férias), apresento-lhes o maravilhoso mundo do [Bazaar](/guia-basico-de-repositorios-no-bazaar) <strike>para boiolas</strike> _user-friendly_!
 

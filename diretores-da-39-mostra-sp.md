@@ -1,6 +1,6 @@
 ---
 date: "2015-10-12"
-tags: [ "blog" ]
+tags: [ "blogue" ]
 title: "Diretores da 39a. Mostra de Cinema em São Paulo"
 desc: "Diretores da 39a. Mostra de Cinema em São Paulo."
 ---

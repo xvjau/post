@@ -2,7 +2,7 @@
 date: "2020-03-22"
 title: "What Did Jack Do?"
 desc: '"What Did Jack Do?" (United States, 2017), escrito por David Lynch, dirigido por David Lynch, com Jack Cruz, David Lynch e Toototabon.'
-tags: [ "blog" ]
+tags: [ "blogue" ]
 imdb: "11644096"
 stars: "3/5"
 ---

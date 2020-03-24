@@ -1,7 +1,7 @@
 ---
 date: "2013-08-12"
 title: Melhor integração entre Vim e Visual Studio
-tags: [ "blog" ]
+tags: [ "blogue" ]
 ---
 Pelo menos é a mais rápida:
 

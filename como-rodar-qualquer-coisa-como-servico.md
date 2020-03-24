@@ -1,7 +1,7 @@
 ---
 date: "2008-03-20"
 title: Como rodar qualquer coisa como serviço
-tags: [ "blog" ]
+tags: [ "blogue" ]
 ---
 A maior vantagem de se rodar um aplicativo como serviço, interativo ou não, é permitir que ele seja iniciado antes que seja feito um _logon_ na máquina. Um exemplo que acontece comigo é a necessidade de depurar a [GINA](/gina-x-credential-provider). Para isso, preciso que o depurador remoto do Visual Studio seja iniciado antes do _logon_. A solução mais fácil e rápida é rodar o Msvcmon, a parte servidora da depuração, como um serviço.
 

@@ -1,7 +1,7 @@
 ---
 date: "2010-02-01"
 title: Correção de bugs instantânea
-tags: [ "blog" ]
+tags: [ "blogue" ]
 ---
 Um programador tarimbado sabe que a melhor situação da vida dele para corrigir um bug é quando esse bug acontece em sua máquina de desenvolvimento, na versão Debug e ainda passo-a-passo. Como nessa situação a correção é um verdadeiro "passeio no parque" (ou na mesa do café) ela tende a quase nunca acontecer. Isso é [Murphy](/correcao-de-bugs-instantanea) Aplicado.
 

@@ -1,7 +1,7 @@
 ---
 date: "2009-08-10"
 title: AdPlus no cliente, não você!
-tags: [ "blog" ]
+tags: [ "blogue" ]
 ---
 O AdPlus é uma das poderosas ferramentas do pacote [Debugging Tools for Windows](/introducao-ao-debugging-tools-for-windows). Se trata basicamente de um _script _que serve para realizar múltiplas fotografias no estado de um programa em execução usando para isso os depuradores do próprio pacote. Quando alguma coisa estiver errada, principalmente um _crash _ou travamento, ele paralisa a execução e gera um _dump _final com toda a história contada desde o começo.
 

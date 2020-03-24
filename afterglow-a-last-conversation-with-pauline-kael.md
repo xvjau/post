@@ -2,7 +2,7 @@
 date: "2019-11-17"
 title: "Afterglow: A Last Conversation With Pauline Kael"
 desc: "Trechos da última entrevista da crítica de cinema feita por Francis Davis."
-tags: [ "blog" ]
+tags: [ "blogue" ]
 ---
 Retirado do blog [Keeping My Brain Alive](http://keepingmybrainalive.blogspot.com/2006/09/afterglow-last-conversation-with.html).
 

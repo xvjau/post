@@ -2,7 +2,7 @@
 date: 2019-02-18T18:11:07-03:00
 title: "Dogville Teatro"
 desc: "Dogville Teatro. Peça organizada pelo Teatro Porto Seguro a partir do texto de Lars Von Trier com direção de Zé Henrique de Paula. Com Mel Lisboa (Grace), Eric Lenate (Narrador), Fábio Assunção (Chuck), Rodrigo Caetano (Tom Edison)."
-tags: [ "blog" ]
+tags: [ "blogue" ]
 stars: "4/5"
 ---
 Eu não me lembro direito do filme de Lars von Trier, mas eu sei que ele foi impactante quando o vi, provavelmente em 2005. Estupro, escravidão, tiros. Quando você vai assistir a um filme do diretor dinamarquês é necessário que você esteja preparado para o pior. A peça dirigida por Zé Henrique de Paula talvez se prepare demais.

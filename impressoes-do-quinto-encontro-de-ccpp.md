@@ -1,7 +1,7 @@
 ---
 date: "2008-10-07"
 title: Impressões do quinto encontro de CCPP
-tags: [ "blog" ]
+tags: [ "blogue" ]
 ---
 Pois é, [passou](/v), acabou... e foi muito bom!
 

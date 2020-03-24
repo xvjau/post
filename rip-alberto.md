@@ -1,7 +1,7 @@
 ---
 date: "2015-01-21"
 title: RIP, Alberto
-tags: [ "blog" ]
+tags: [ "blogue" ]
 ---
 ![](/images/JzKj9Z6.png)
 

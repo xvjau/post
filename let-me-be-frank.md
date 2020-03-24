@@ -3,7 +3,7 @@ date: 2019-02-02T22:51:20-02:00
 title: "Let Me Be Frank"
 desc: "Let Me Be Frank. EUA, 2018. Com Kevin Spacey como Frank Underwood."
 imdb: "9495238"
-tags: [ "blog" ]
+tags: [ "blogue" ]
 stars: "5/5"
 ---
 Fato curioso: este curta produzido e protagonizado por Kevin Spacey soma três minutos de duração e mais frases brilhantes do que toda a última temporada de [House of Cards](/search), com duração aproximada de 400 minutos, protagonizada por Claire Underwood. Esta temporada da série foi a única em que a protagonista era uma mulher. Coincidência?

@@ -1,7 +1,7 @@
 ---
 date: "2011-02-07"
 title: Mudança
-tags: [ "blog" ]
+tags: [ "blogue" ]
 ---
 #### Fecha uma porta...
 

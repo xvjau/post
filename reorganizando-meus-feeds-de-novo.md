@@ -1,7 +1,7 @@
 ---
 date: "2011-03-10"
 title: Reorganizando meus feeds (de novo)
-tags: [ "blog" ]
+tags: [ "blogue" ]
 ---
 Depois da minha opinião dada ao Efetividade na matéria sobre ferramentas para gerenciar as [leituras](http://www.efetividade.net/2010/10/21/gerenciamento-de-leituras-pendentes-as-ferramentas-preferidas-dos-leitores/) tenho que atualizar que não utilizo mais o esquema das estrelinhas, porque acabei me dando conta que nunca lia o que marcava para ler "depois".
 
