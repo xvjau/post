@@ -2,7 +2,7 @@
 imdb: "1725073"
 
 date: "2012-02-15"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Penumbra"
 stars: "2/5"
 desc: "Penumbra. Penumbra (Argentina, 2011). Dirigido por Adrián García Bogliano, Ramiro García Bogliano. Escrito por Adrián García Bogliano, Ramiro García Bogliano. Com Cristina Brondo, Camila Bordonaba, Berta Muñiz, Arnaldo André, Mirella Pascual, Victoria Witemburg, Diego Cremonesi, Gustavo Garzón, Hernan Penner."

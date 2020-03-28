@@ -4,7 +4,7 @@ title: "Elegia De Um Crime"
 desc: "Elegia De Um"
 imdb: "8389758"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 
 ---

@@ -2,7 +2,7 @@
 date: 2018-02-06T20:52:37
 imdb: "6257970"
 
-tags: [ "series" ]
+tags: [ "tv" ]
 stars: "3/5"
 title: "The End Of The F***ing World"
 desc: "The End Of The F***ing World. EUA, 2017. Com Jessica Barden, Alex Lawther, Steve Oram."

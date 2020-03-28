@@ -2,7 +2,7 @@
 imdb: "0461770"
 
 date: "2012-06-14"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Encantada"
 stars: "4/5"
 desc: "Encantada. Enchanted (USA, 2007). Dirigido por Kevin Lima. Escrito por Bill Kelly. Com Amy Adams, Patrick Dempsey, James Marsden, Timothy Spall, Idina Menzel, Rachel Covey, Susan Sarandon, Julie Andrews, Jeff Bennett."

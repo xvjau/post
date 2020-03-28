@@ -3,7 +3,7 @@ imdb: "0246578"
 
 date: "2019-05-10"
 review: [ "2019" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Donnie Darko"
 stars: "5/5"
 desc: "Donnie Darko. (USA, 2001). Dirigido e escrito por Richard Kelly. Com Jake Gyllenhaal, Holmes Osborne, Maggie Gyllenhaal, Daveigh Chase, Mary McDonnell, James Duval, Arthur Taxier, Patrick Swayze, Mark Hoffman. Texto original de 2010-12-20."

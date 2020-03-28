@@ -4,7 +4,7 @@ title: "Viagem Aos Povos Fumigados"
 desc: ""
 imdb: "7962890"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "2/5"
 
 ---

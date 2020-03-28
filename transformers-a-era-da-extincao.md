@@ -2,7 +2,7 @@
 imdb: "2109248"
 
 date: "2014-12-20"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Transformers: A Era da Extinção"
 stars: "1/5"
 desc: "Transformers: A Era da Extinção. Transformers: Age of Extinction (USA, 2014). Dirigido por Michael Bay. Escrito por Ehren Kruger. Com Mark Wahlberg, Stanley Tucci, Kelsey Grammer, Nicola Peltz, Jack Reynor, Titus Welliver, Sophia Myles, Bingbing Li, T.J. Miller."

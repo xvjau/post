@@ -3,7 +3,7 @@
 imdb: "4072352"
 
 date: "2016-09-17"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "A Passageira"
 stars: "4/5"
 desc: "A Passageira. Magallanes (Peru, 2015). Dirigido por Salvador del Solar. Escrito por Salvador del Solar. Com Damián Alcázar, Tatiana Astengo, Jairo Camargo, Tatiana Espinoza, Nicolás Galindo, Federico Luppi, Camila MacLennan, Christian Meier, Bruno Odar."

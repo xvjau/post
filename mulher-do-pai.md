@@ -2,7 +2,7 @@
 imdb: "6032376"
 
 date: "2017-06-13"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Mulher do Pai"
 stars: "3/5"
 desc: "Mulher do Pai. Mulher do Pai (Brazil, 2016). Dirigido por"

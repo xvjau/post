@@ -3,7 +3,7 @@ date: "2020-01-16"
 title: "Sensual Demais"
 desc: '"Too Much Flesh" (França, 2000), escrito por Pascal Arnold e Jean-Marc Barr, dirigido por Pascal Arnold e Jean-Marc Barr, com Rosanna Arquette, Élodie Bouchez e Jean-Marc Barr. Da série de DVDs que pegamos sem querer, pela duração.'
 imdb: "0226540"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 Segundo filme da trilogia iniciada por Lovers, que é o quinto filme do Dogma 95, este filme do ator e diretor Jean-Marc Barr ainda possui as influências do movimento artístico iniciado por Lars von Trier de quando o ator participou do [Dançando no Escuro](/dancando-no-escuro): sem edições de fotografia e iluminação, cenários praticamente ou muito próximos do real, sons diegéticos, câmera na mão. O que o dogma não cobre é a parte boa: atores fingindo estarem em um filme amador, se divertindo loucamente com uma história estapafúrdia e divertindo o espectador, incerto se está vendo um soft porn caseiro ou um trabalho de apelo ao cinema íntimo e pessoal, longe das grandes avenidas dos estúdios de Hollywood.

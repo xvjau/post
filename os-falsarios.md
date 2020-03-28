@@ -3,7 +3,7 @@ date: "2019-09-12"
 title: "Os Falsários"
 desc: '"Die Fälscher (aka The Counterfeiters)" (Áustria, Alemanha, 2007), escrito por Adolf Burger e Stefan Ruzowitzky, dirigido por Stefan Ruzowitzky, com Karl Markovics, August Diehl e Devid Striesow.'
 imdb: "0813547"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 Os Falsários é uma história real embutida em um drama sobre a moral e o fazer certo, mesmo que arriscando sua própria vida. E não há cenário mais propício para se desenvolver uma trama como essa do que nos limites do homem: a guerra.

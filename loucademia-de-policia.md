@@ -3,7 +3,7 @@ date: "2019-08-10"
 title: "Loucademia de Polícia"
 desc: '"Police Academy" (EUA, 1984), escrito por Neal Israel, Pat Proft e Hugh Wilson, dirigido por Hugh Wilson, com Steve Guttenberg, Kim Cattrall, G.W. Bailey, Bubba Smith, Donovan Scott, George Gaynes, Andrew Rubin, David Graf, Leslie Easterbrook e Michael Winslow. Assisti porque saiu na Netflix.'
 imdb: "0087928"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 Quem não se lembra dessa série de filmes que passava na Sessão da Tarde ad infinitum? Mahoney, Tackleberry, e tantos outros. As piadas certeiras. O Blue Oyster. E o melhor momento do original, quando o Comandante Lassard acredita que Carey Mahoney lhe pagou sexo oral. Ele vai furioso procurá-lo e diz ao Tenente Harris que ele fez algo muito ruim, no que o tenente pergunta a quem ele fez algo ruim e a cara do Comandante Lassard dizendo "eu não sei" é a melhor declaração pró-amor livre que você vai ver em um filme nos anos 80.

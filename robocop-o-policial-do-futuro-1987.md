@@ -2,7 +2,7 @@
 imdb: "0093870"
 
 date: "2013-09-27"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "RoboCop O Policial do Futuro"
 stars: "5/5"
 desc: "RoboCop O Policial do Futuro. RoboCop (USA, 1987). Dirigido por Paul Verhoeven. Escrito por Edward Neumeier, Michael Miner. Com Peter Weller, Nancy Allen, Dan O'Herlihy, Ronny Cox, Kurtwood Smith, Miguel Ferrer, Robert DoQui, Ray Wise, Felton Perry."

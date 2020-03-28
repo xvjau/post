@@ -3,7 +3,7 @@ date: "2019-09-20"
 title: "Sócrates"
 desc: '"Sócrates" (Brasil, 2018), escrito por Thayná Mantesso e Alexandre Moratto, dirigido por Alexandre Moratto, com Christian Malheiros, Tales Ordakji e Caio Martinez Pacheco. Escrito para o CinemAqui.'
 imdb: "8026554"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 ---
 Sócrates, além de ser um filme arrebatador, como produção é mais um exemplo a ser seguido pelo cinema brasileiro. Iniciando com baixo orçamento, ganhando fôlego necessário na pós-produção, e viajando o mundo ganhando prêmios (Grécia, Alemanha, EUA), a única parte que não é admirável em todo o processo é ter que esperar todo esse tempo por sua estreia em seu país de origem. Mas, ainda assim: que momento para nos orgulharmos do cinema nacional.

@@ -2,7 +2,7 @@
 imdb: "0316654"
 
 date: "2016-07-07"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Homem-Aranha 2"
 stars: "5/5"
 desc: "Homem-Aranha 2. Spider-Man 2 (USA, 2004). Dirigido por Sam Raimi. Escrito por Stan Lee, Steve Ditko, Alfred Gough, Miles Millar, Michael Chabon, Alvin Sargent. Com Tobey Maguire, Kirsten Dunst, James Franco, Alfred Molina, Rosemary Harris, J.K. Simmons, Donna Murphy, Daniel Gillies, Dylan Baker."

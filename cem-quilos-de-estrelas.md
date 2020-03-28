@@ -3,7 +3,7 @@ date: "2020-02-20"
 title: "Cem Quilos de Estrelas"
 desc: '"100 kilos d''étoiles" (França, 2018), escrito por Anaïs Carpita e Marie-Sophie Chambon, dirigido por Marie-Sophie Chambon, com Laure Duchene, Angèle Metzger e Pauline Serieys.'
 imdb: "7501966"
-tags: [ "movies", "cinemaqui" ]
+tags: [ "movie", "cinemaqui" ]
 stars: "3/5"
 ---
 A cabine de imprensa teve convidadas ilustres que nunca apareceram antes: mulheres obesas interessadas na temática de Cem Quilos de Estrelas, estreia em longas-metragens de Marie-Sophie Chambon, protagonizada por uma adolescente com o peso e inteligência acima da média. Antes de iniciar a sessão ouvimos a introdução da assessora sobre o filme, que mencionou em algum momento a palavra "gordofobia". Iniciado o filme, duas das convidadas ilustres ficaram mexendo no celular o tempo todo, e três delas chegaram atrasadas e conversando em um tom de voz que parecia estar em uma praça de alimentação.

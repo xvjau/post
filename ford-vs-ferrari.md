@@ -3,7 +3,7 @@ date: "2019-11-06"
 title: "Ford Vs Ferrari"
 desc: '"Ford v Ferrari" (EUA e França, 2019), escrito por Jez Butterworth, John-Henry Butterworth e Jason Keller, dirigido por James Mangold, com Christian Bale, Matt Damon e Caitriona Balfe. Escrito para o CinemAqui.'
 imdb: "1950186"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 ---
 Ford Vs Ferrari narra uma corrida histórica, mas seu pano de fundo é um conto de fadas estadunidense com o objetivo de levantar questões controversas a respeito da postura dos "homens de verdade" das décadas pós-guerra, sendo a principal das questões qual a envergadura moral de um Henry Ford II em levantar a bandeira do industrialista orgulhoso, quando tudo o que lhe resta dos tempos gloriosos e do trabalho duro de seu avô são milhões de dólares e influência herdados e empacotados na forma de uma diretoria pronta para concordar com seu chefe apenas por ser seu chefe.

@@ -3,7 +3,7 @@ date: "2019-12-26"
 title: "Teasing Master: Takagi-san"
 desc: '"Karakai Jouzu no Takagi-san" (Japão, 2018), escrito por Touko Machida, Fumi Tsubota e Soichiro Yamamoto, dirigido por Hiroaki Akagi, com Rie Takahashi, Yûki Kaji e Konomi Kohara. Uma surpresa agradável na Netflix.'
 imdb: "7808344"
-tags: [ "series" ]
+tags: [ "tv" ]
 stars: "4/5"
 ---
 É muito fácil não gostar dessa série por causa dela não explorar um tema que você goste e esteja na sua zona de conforto, e muito difícil deixar de gostar depois que você entende seu tema pueril. Ela é um respiro de ar livre de tensões fictícias, heróis e vilões, explosões e o salvamento do mundo, ou até como lidar com um poder inusitado. É apenas a história de um menino e uma menina pré-adolescentes. Eles sentam um ao lado do outro na escola e ela o provoca de maneira inteligente, como mulheres costumam agir, e ele encara as provocações como uma competição, como homens parecem encarar toda sua vida.

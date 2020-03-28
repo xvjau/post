@@ -4,7 +4,7 @@ title: "A Guerra dos Botões"
 desc: "La guerre des boutons. França, 2011. Escrito por Yann Samuell baseado no romance de Louis Pergaud. Com Vincent Bres como William Lebrac, Salomé Lemire como Lanterna, Théo Bertrand como Azteca, Eric Elmosnino como Professor Merlin, Mathilde Seigner como a mãe de Lebrac, Alain Chabat como Professor Labru, Fred Testot como Padre Simão e Tristan Vichard como o pequeno Tigibus."
 imdb: "1861375"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 A Guerra dos Botões é um filme magnífico se você analisar apenas os seus melhores momentos: lúdicos, épicos, vivos! Porém, ao tentar juntá-los, Yann Samuell exagera no caos e transforma essa experiência como deve ser na cabeça de uma criança: há alguns flashes na memória inesquecíveis, mas é impossível se lembrar de todo o contexto.

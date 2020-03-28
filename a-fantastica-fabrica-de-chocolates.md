@@ -2,7 +2,7 @@
 imdb: "0067992"
 
 date: "2014-12-26"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "A Fantástica Fábrica de Chocolate"
 stars: "5/5"
 desc: "A Fantástica Fábrica de Chocolate. Willy Wonka & the Chocolate Factory (USA, 1971). Dirigido por Mel Stuart. Escrito por Roald Dahl, Roald Dahl, David Seltzer. Com Gene Wilder, Jack Albertson, Peter Ostrum, Roy Kinnear, Julie Dawn Cole, Leonard Stone, Denise Nickerson, Nora Denney, Paris Themmen."

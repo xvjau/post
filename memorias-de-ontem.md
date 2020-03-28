@@ -3,7 +3,7 @@ date: "2020-02-02"
 title: "Memórias de Ontem"
 desc: '"Omohide poro poro" (Japão, 1991), escrito por Hotaru Okamoto, Yuuko Tone e David Freedman, dirigido por Isao Takahata, com Miki Imai, Toshirô Yanagiba e Yoko Honna. Assistindo um dos filmes que estrearam na Netflix.'
 imdb: "0102587"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "5/5"
 ---
 Memórias de Ontem é um filme excepcional dos Estúdios Ghibli sobre personagens da vida comum. Feito nos anos 90 e lançado internacionalmente em 2015, somos levados pelo passado da criança Taeko através da mente da adulta Taeko, que usa suas férias no trabalho como desejaríamos fazê-lo se fôssemos corajosos a esse ponto, tal como a máxima do filósofo Henry David Thoreau: para viver nossas vidas como em nossos sonhos.

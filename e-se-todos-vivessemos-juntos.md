@@ -2,7 +2,7 @@
 imdb: "1674057"
 
 date: "2012-10-21"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "E se Vivêssemos Todos Juntos?"
 stars: "3/5"
 desc: "E se Vivêssemos Todos Juntos?. Et si on vivait tous ensemble? (France, 2011). Dirigido por Stéphane Robelin. Escrito por Stéphane Robelin. Com Guy Bedos, Daniel Brühl, Geraldine Chaplin, Jane Fonda, Claude Rich, Pierre Richard, Bernard Malaka, Camino Texeira, Gwendoline Hamon."

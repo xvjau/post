@@ -2,7 +2,7 @@
 imdb: "0081534"
 
 date: "2013-07-12"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Em Algum Lugar do Passado"
 stars: "5/5"
 desc: "Em Algum Lugar do Passado. Somewhere in Time (USA, 1980). Dirigido por Jeannot Szwarc. Escrito por Richard Matheson, Richard Matheson. Com Christopher Reeve, Jane Seymour, Christopher Plummer, Teresa Wright, Bill Erwin, George Voskovec, Susan French, John Alvin, Eddra Gale."

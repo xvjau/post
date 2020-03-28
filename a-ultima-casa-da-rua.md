@@ -4,7 +4,7 @@ title: "A Última Casa da Rua"
 desc: "House at the End of the Street. Canadá, EUA, 2012. Dirigido por Mark Tonderai e escrito por David Loucka e Jonathan Mostow, com Jennifer Lawrence como a mega-star, Max Thieriot como o garoto bonitinho e Elisabeth Shue como a mãezona protetora e muito bem, obrigado."
 imdb: "1582507"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 House at the End of the Street apresenta a mega-star Jennifer Lawrence da [série Jogos Vorazes](/jogos-vorazes) descobrindo os podres do garoto bonitinho interpretado por Max Thieriot. O problema do material entregue pelos roteiristas é que esta é a velha fórmula do mistério se abrindo aos poucos com uma revelação nem tão bombástica assim, e a morte de uma personagem importante no meio não torna as coisas tão imprevisíveis também.

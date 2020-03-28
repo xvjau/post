@@ -4,7 +4,7 @@ title: "A Costureira dos Sonhos"
 desc: "Sir (Índia, França, 2018), escrito e dirigido por Rohena Gera, com Ahmareen Anjum, Vivek Gomber, Geetanjali Kulkarni. #mostrasp"
 imdb: "7142506"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 
 ---

@@ -4,7 +4,7 @@ title: "O Método Kominsky"
 desc: "The Kominsky Method. EUA, 2018. Criado por Chuck Lorre. Com Michael Douglas, Alan Arkin, Sarah Baker."
 imdb: "7255502"
 
-tags: [ "series" ]
+tags: [ "tv" ]
 stars: "3/5"
 ---
 Essa nova criação de Chuck Lorre (Big Bang: a Teoria, Dois Homens e Meio) consegue elencar os excelentes Michael Douglas e Alan Arkin em plena forma, mas não parece dar lhes personagens dignos de suas performances. A série não parece muito certa de si se pretende seguir uma linha mais humorística ou dramática. Com certeza não consegue fazer os dois. Isso é para poucos, e do jeito que está o piloto já parece uma bagunça.

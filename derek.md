@@ -2,7 +2,7 @@
 imdb: "2616280"
 
 date: "2015-07-28"
-tags: [ "series" ]
+tags: [ "tv" ]
 title: "Derek"
 stars: "4/5"
 desc: "Derek. Derek (UK, 2012). Dirigido por Ricky Gervais. Escrito por Ricky Gervais. Com Ricky Gervais, Kerry Godliman, David Earl, Tim Barlow, Arthur Nightingale, Margaret Towner, Ninette Finch, Sheila Collings, Barry Martin."

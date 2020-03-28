@@ -3,7 +3,7 @@ date: "2019-10-05"
 title: "Viver Para Cantar"
 desc: '"To Live to Sing" (China, França, Canadá, 2019), escrito por Johnny Ma, dirigido por Johnny Ma, com Guidan Gan e Xiaoli Zhao. Escrito para o CinemAqui para cobertura da #mostrasp.'
 imdb: "10225288"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 ---
 Viver Para Cantar é inspirado livremente no documentário A Folk Troupe (Gang Zhao, 2013), que conta a história real desse grupo tradicional de ópera chinesa lutando para continuar apresentando peças milenares em um espaço condenado pelas autoridades. A ficção de Johnny Ma alimenta a mesma tradição da ópera chinesa, mas a atualiza para o tempo das cidades chinesas crescendo, se modernizando e demolindo todos os valores culturais de uma nação.

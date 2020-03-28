@@ -2,7 +2,7 @@
 imdb: "0379725"
 
 date: "2015-03-13"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Capote"
 stars: "3/5"
 desc: "Capote. Capote (USA, 2005). Dirigido por Bennett Miller. Escrito por Dan Futterman, Gerald Clarke. Com Allie Mickelson, Kelci Stephenson, Philip Seymour Hoffman, Craig Archibald, Bronwen Coleman, Kate Shindle, David Wilson Barnes, Michael J. Burg, Catherine Keener."

@@ -3,7 +3,7 @@ date: "2020-02-13"
 title: "As Invisíveis"
 desc: '"Invisibles" (França, 2018), escrito por Marion Doussot e Claire Lajeunie, dirigido por Louis-Julien Petit, com Patricia Mouchon, Khoukha Boukherbache e Bérangère Toural.'
 imdb: "8633950"
-tags: [ "movies", "cinemaqui" ]
+tags: [ "movie", "cinemaqui" ]
 stars: "3/5"
 ---
 As Invisíveis é uma dramédia alto astral com momentos comerciais que fez com que ele contratasse um batalhão de atrizes em moldes semelhantes à série Orange is The New Black, onde cada personagem tem suas idiossincrasias, enriquecendo e humanizando a história. Dirigido por Louis-Julien Petit, que já trabalhou na segunda e terceira unidades de vários filmes de Hollywood, este é um filme que mescla bem seu drama de "filme de arte" com seu lado mais blockbuster. E é isso o que fez com ele fosse um sucesso de público na França, não o fato de ser protagonizado por mulheres.

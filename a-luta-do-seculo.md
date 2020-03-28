@@ -4,7 +4,7 @@ title: "A Luta do Século"
 desc: "Idem. Brasil, 2016. Escrito e dirigido por Sérgio Machado."
 imdb: "8201726"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 A luta é do século. No caso, o século 21. Estamos diante de dois rivais clássicos da luta de boxe do nordeste brasileiro. Todo Duro e Holyfield são os ícones mais desconhecidos que já se teve história no esporte, e ao mesmo tempo possuem a rixa mais incompreensível. Regionalistas e com uma primeira luta com desfecho surpreendente, o desfecho dessa história é mais surpreendente ainda.

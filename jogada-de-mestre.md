@@ -3,7 +3,7 @@
 imdb: "2917388"
 
 date: "2015-04-30"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Jogada de Mestre"
 stars: "3/5"
 desc: "Jogada de Mestre. Kidnapping Mr. Heineken (Netherlands, 2015). Dirigido por Daniel Alfredson. Escrito por William Brookfield, Peter R. de Vries. Com Jim Sturgess, Sam Worthington, Ryan Kwanten, Anthony Hopkins, Mark van Eeuwen, Thomas Cocquerel, Jemima West, David Dencik, Vera Van Dooren."

@@ -2,7 +2,7 @@
 imdb: "4715290"
 
 date: "2017-04-04"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Filhos de Bach"
 stars: "2/5"
 desc: "Filhos de Bach. Bach in Brazil (Germany, 2015). Dirigido por Ansgar Ahlers. Escrito por Ansgar Ahlers, Soern Menning, Soern Finn Menning. Com Edgar Selge (Marten Brückling), Pablo Vinicius (Fernando), Aldri Anunciação (Candido), Franziska Walser (Marianne), Dhonata Augusto, Dhonata Augusto (Heitor), Marília Gabriela (Ministerin), Thaís Garayp (Aufseherin), Helene Grass (Notarin)."

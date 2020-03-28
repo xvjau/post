@@ -2,7 +2,7 @@
 date: 2018-01-30T19:52:28
 imdb: "5753856"
 
-tags: [ "series" ]
+tags: [ "tv" ]
 stars: "3/5"
 title: "Dark"
 desc: "Dark. Alemanha, 2017. Criado por Baran bo Odar, Jantje Friese. Com Oliver Masucci, Karoline Eichhorn, Jördis Triebel."

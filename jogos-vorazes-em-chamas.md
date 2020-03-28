@@ -3,7 +3,7 @@ imdb: "1951264"
 
 date: "2013-07-12"
 review: [ "2014" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Jogos Vorazes Em Chamas"
 stars: "4/5"
 desc: "Jogos Vorazes Em Chamas. The Hunger Games: Catching Fire (USA, 2013). Dirigido por Francis Lawrence. Escrito por Simon Beaufoy, Michael Arndt, Suzanne Collins. Com Jennifer Lawrence, Liam Hemsworth, Jack Quaid, Taylor St. Clair, Sandra Ellis Lafferty, Woody Harrelson, Josh Hutcherson, Paula Malcomson, Willow Shields."

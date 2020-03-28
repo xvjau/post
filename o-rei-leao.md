@@ -3,7 +3,7 @@ imdb: "0110357"
 
 date: "2011-09-05"
 review: [ "2012" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Rei Leão"
 stars: "4/5"
 desc: "O Rei Leão. The Lion King (USA, 1994). Dirigido por Roger Allers, Rob Minkoff. Escrito por Irene Mecchi, Jonathan Roberts, Linda Woolverton, Brenda Chapman, Burny Mattinson, Barry Johnson, Lorna Cook, Thom Enriquez, Andy Gaskill. Com Jonathan Taylor Thomas, Matthew Broderick, James Earl Jones, Jeremy Irons, Moira Kelly, Niketa Calame, Ernie Sabella, Nathan Lane, Robert Guillaume."

@@ -2,7 +2,7 @@
 imdb: "4538072"
 
 date: "2016-10-28"
-tags: [ "series" ]
+tags: [ "tv" ]
 title: "Black Mirror - S03E04 - San Junipero"
 stars: "5/5"
 desc: "San Junipero. Black Mirror (UK, 2011). Dirigido por Owen Harris. Escrito por Charlie Brooker. Com Gugu Mbatha-Raw, Mackenzie Davis, Denise Burse."

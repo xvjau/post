@@ -4,7 +4,7 @@ title: "O Homem Que Copiava"
 desc: "O Homem Que Copiava (aka The Man Who Copied). Brasil, 2003. Dirigido e escrito por Jorge Furtado. Com Lázaro Ramos e Leandra Leal, além de Luana Piovani, Pedro Cardoso. E até Paulo José."
 imdb: "0367859"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 A sinopse do IMDB diz assim: "André, relatively poor, falls in love with Silvia, a neighbor whom he spies with a telescope." Relatively poor é o que me chamou a atenção, pois isso diz muito sobre o filme. Que é relativamente excelente.

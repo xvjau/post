@@ -2,7 +2,7 @@
 imdb: "1276104"
 
 date: "2012-10-09"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Looper Assassinos do Futuro"
 stars: "4/5"
 desc: "Looper Assassinos do Futuro. Looper (USA, 2012). Dirigido por Rian Johnson. Escrito por Rian Johnson. Com Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano, Noah Segan, Piper Perabo, Jeff Daniels, Pierce Gagnon, Qing Xu."

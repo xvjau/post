@@ -4,7 +4,7 @@ title: "Amadeus (versão do diretor)"
 desc: "Amadeus. EUA, França, Tchecoslováquia. Dirigido por Milos Forman, escrito por Peter Shaffer. Com F. Murray Abraham, Tom Hulce, Elizabeth Berridge."
 imdb: "0086879"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 A grande sacada de Amadeus não é fazer uma biografia sobre Mozart estabelecendo o óbvio: ele foi um músico genial. Isso todos sabemos. O grande trunfo do filme de Milos Forman foi mostrar isso do ponto de vista de uma pessoa que desejaria mais que tudo em ser um Mozart, mas, como a maioria de nós, pobres mortais, teve que conviver com um fato amargo da vida: somos todos medíocres. Aliás, essa é a própria definição de medíocre. A média é o povão. O excepcional acontece de vez em quando.

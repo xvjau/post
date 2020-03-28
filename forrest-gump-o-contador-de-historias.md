@@ -2,7 +2,7 @@
 date: 2018-01-12T00:43:01
 imdb: "0109830"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "5/5"
 title: "Forrest Gump: o Contador De Histórias"
 desc: "Forrest Gump: o Contador De Histórias."

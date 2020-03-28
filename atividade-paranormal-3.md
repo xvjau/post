@@ -2,7 +2,7 @@
 imdb: "1778304"
 
 date: "2011-11-24"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Atividade Paranormal 3"
 stars: "3/5"
 desc: "Atividade Paranormal 3. Paranormal Activity 3 (USA, 2011). Dirigido por Henry Joost, Ariel Schulman. Escrito por Christopher Landon, Oren Peli. Com Lauren Bittner, Christopher Nicholas Smith, Chloe Csengery, Jessica Tyler Brown, Hallie Foote, Dustin Ingram, Johanna Braddy, Katie Featherston, Brian Boland."

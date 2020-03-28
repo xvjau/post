@@ -3,7 +3,7 @@ imdb: "1791682"
 
 date: "2015-07-03"
 review: [ "2017" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Enquanto Somos Jovens"
 stars: "4/5"
 desc: "Enquanto Somos Jovens. While We're Young (USA, 2014). Dirigido por Noah Baumbach. Escrito por Noah Baumbach. Com Naomi Watts, Ben Stiller, Maria Dizzia, Adam Horovitz, Matthew Maher, Peter Yarrow, Bonnie Kaufman, Hector Otero, Deborah Eisenberg."

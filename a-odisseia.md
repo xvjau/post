@@ -2,7 +2,7 @@
 date: 2018-02-20T01:28:30
 imdb: "1659619"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 title: "A Odisseia"
 desc: "A Odisseia."

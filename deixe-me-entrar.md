@@ -2,7 +2,7 @@
 imdb: "1228987"
 
 date: "2011-02-17"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Deixe-me Entrar"
 stars: "4/5"
 desc: "Deixe-me Entrar. Let Me In (UK, 2010). Dirigido por Matt Reeves. Escrito por Matt Reeves, John Ajvide Lindqvist, John Ajvide Lindqvist. Com Kodi Smit-McPhee, Chloë Grace Moretz, Richard Jenkins, Cara Buono, Elias Koteas, Sasha Barrese, Dylan Kenin, Chris Browning, Ritchie Coster."

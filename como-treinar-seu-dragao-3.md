@@ -4,7 +4,7 @@ title: "Como Treinar Seu Dragão 3"
 desc: "How to Train Your Dragon: The Hidden World. Escrito e dirigido por Dean DeBlois baseado nos personagens de Cressida Cowell."
 imdb: "2386490"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 Enquanto as animações quase sempre tentam se concentrar no poder de encantar e divertir seu público mais jovem através de piadas e caminhos fáceis de superação dos seus mini heróis, a saga Como Treinar Seu Dragão se arisca cada vez mais em flertar com a o rito de passagem do seu herói, Soluço, que caminha da puberdade para se tornar não apenas um adulto, mas o líder do povo que seu pai liderou.

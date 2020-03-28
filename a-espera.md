@@ -2,7 +2,7 @@
 imdb: "3715122"
 
 date: "2017-01-16"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "A Espera"
 stars: "4/5"
 desc: "A Espera. L'attesa (Italy, 2015). Dirigido por Piero Messina. Escrito por Giacomo Bendotti, Ilaria Macchia, Andrea Paolo Massara, Piero Messina, Luigi Pirandello. Com Juliette Binoche (Anna), Giorgio Colangeli (Pietro), Lou de Laâge (Jeanne), Domenico Diele (Giorgio), Antonio Folletto (Paolo), Corinna Locastro (Rosa), Giovanni Anzaldo (Giuseppe)."

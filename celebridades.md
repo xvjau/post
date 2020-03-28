@@ -2,7 +2,7 @@
 imdb: "0120533"
 
 date: "2013-01-24"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Celebridades"
 stars: "4/5"
 desc: "Celebridades. Celebrity (USA, 1998). Dirigido por Woody Allen. Escrito por Woody Allen. Com Greg Mottola, Jeff Mazzola, Dick Mingalone, Vladimir Bibic, Melanie Griffith, Francisco Quidjada, Aleksa Palladino, Dan Moran, Peter Castellotti."

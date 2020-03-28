@@ -2,7 +2,7 @@
 imdb: "0158714"
 
 date: "2013-03-09"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Lady Snowblood"
 stars: "4/5"
 desc: "Lady Snowblood. Shurayukihime (Japan, 1973). Dirigido por Toshiya Fujita. Escrito por Kazuo Kamimura, Kazuo Koike, Norio Osada. Com Meiko Kaji, Toshio Kurosawa, Masaaki Daimon, Miyoko Akaza, Shinichi Uchida, Takeo Chii, Noboru Nakaya, Yoshiko Nakada, Akemi Negishi."

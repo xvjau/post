@@ -3,7 +3,7 @@ date: "2019-12-10"
 title: "O Irlandês"
 desc: '"The Irishman" (EUA, 2019), escrito por Steven Zaillian baseado no livro de Charles Brandt, dirigido por Martin Scorsese, com Robert De Niro, Al Pacino, Joe Pesci, Harvey Keitel, Ray Romano e Bobby Cannavale. Produzido pela Netflix.'
 imdb: "1302006"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "5/5"
 ---
 Se você já assistiu a O Poderoso Chefão e [Os Bons Companheiros](/os-bons-companheiros), O Irlandês fica no meio do caminho. É um filme mais agitado e com muito mais violência gráfica que o clássico de Coppola, mas muito menos apressado que o filme de gângsters de Martin Scorsese. Cito Goodfellas não porque tem Joe Pesci no elenco, mas porque fala sobre um caso real de máfia e possui o ponto de vista de alguém que viveu aquilo de perto.

@@ -3,7 +3,7 @@ date: "2019-11-07"
 title: "Um Dia De Chuva Em Nova York"
 desc: '"A Rainy Day in New York" (EUA, 2019), escrito por Woody Allen, dirigido por Woody Allen, com Timothée Chalamet, Elle Fanning, Selena Gomez, Jude Law, Rebecca Hall, Liev Schreiber, Diego Luna, Kelly Rohrbach, Suki Waterhouse e Cherry Jones. Escrito para o CinemAqui.'
 imdb: "7139936"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "5/5"
 ---
 Um dia com um tempo incerto em São Paulo, variando entre sol, frio, calor e chuva, mas muitas pessoas compareceram para a cabine de imprensa. Em meio a uma carreira com altos e baixos, em que os baixos estão quase sempre acima da média, e uma agenda em que um trabalho é lançado a cada ano, diluindo as centenas de páginas geniais arquivadas de um diretor/roteirista dedicado nas últimas décadas a estar sempre filmando, a pergunta que gostaria de responder durante essa sessão era: Woody Allen ainda é relevante nesses dias? E nos primeiros quinze minutos de Um Dia De Chuva em Nova York, absorto nas entrelinhas existenciais de mais uma história banal em Manhatan, a resposta veio fácil, automática e enfática: relevante e necessário.

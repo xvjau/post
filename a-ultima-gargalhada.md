@@ -4,7 +4,7 @@ title: "A Última Gargalhada"
 desc: "The Last Laught. EUA, 2019. Escrito e dirigido por Greg Pritikin. Com Chevy Chase, Richard Dreyfuss, Andie MacDowell."
 imdb: "7427356"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "2/5"
 ---
 A Última Gargalhada é daqueles exemplos de produção Netflix que não precisa existir no mundo. É sobre uma história sem tensão, sem motivação e sem paixão. Um conselho: viva sua vida no lugar de assistir esse filme; será capaz de sonhar mais do que acompanhar essa série televisiva de um episódio apenas de uma hora e meia.

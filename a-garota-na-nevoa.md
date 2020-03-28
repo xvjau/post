@@ -4,7 +4,7 @@ title: "A Garota Na Névoa"
 desc: "La ragazza nella nebbia (Itália, Alemanha, França, 2017), escrito e dirigido por Donato Carrisi, com Toni Servillo, Alessio Boni, Lorenzo Richelmy e Jean Reno. Thriller, literatura, crime."
 imdb: "6892400"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 
 ---

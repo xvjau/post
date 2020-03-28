@@ -2,7 +2,7 @@
 imdb: "4429194"
 
 date: "2017-05-31"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Paris Pode Esperar"
 stars: "3/5"
 desc: "Paris Pode Esperar. Bonjour Anne (USA, 2016). Dirigido por Eleanor Coppola. Escrito por Eleanor Coppola. Com Diane Lane (Anne), Alec Baldwin (Michael), Arnaud Viard (Jacques), Linda Gegusch (Anne Marie), Élodie Navarre (Carol), Elise Tielrooy (Martine), Cédric Monnet (Gardien de musée)."

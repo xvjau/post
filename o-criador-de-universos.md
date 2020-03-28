@@ -2,7 +2,7 @@
 date: 2018-10-10T18:26:38-03:00
 title: "O Criador de Universos"
 desc: "El"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "2/5"
 
 

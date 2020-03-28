@@ -3,7 +3,7 @@
 imdb: "5294966"
 
 date: "2016-10-20"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Depois da Tempestade"
 stars: "4/5"
 desc: "Depois da Tempestade. Umi yori mo mada fukaku (Japan, 2016). Dirigido por Hirokazu Kore-eda. Escrito por Hirokazu Koreeda, Hirokazu Koreeda. Com Hiroshi Abe (Shinoda Ryota), Yôko Maki (Shiraishi Kyoko), Taiyô Yoshizawa (Shiraishi Shingo), Kirin Kiki (Shinoda Yoshiko), Lily Franky, Isao Hashizume, Shôno Hayama (High school student), Sôsuke Ikematsu, Satomi Kobayashi."

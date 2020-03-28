@@ -2,7 +2,7 @@
 imdb: "0137363"
 
 date: "2015-04-10"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Suspeito da Rua Arlington"
 stars: "4/5"
 desc: "O Suspeito da Rua Arlington. Arlington Road (USA, 1999). Dirigido por Mark Pellington. Escrito por Ehren Kruger. Com Jeff Bridges, Tim Robbins, Joan Cusack, Hope Davis, Robert Gossett, Mason Gamble, Spencer Treat Clark, Stanley Anderson, Viviane Vives."

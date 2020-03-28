@@ -1,6 +1,5 @@
 ---
-tags: "series"
-
+tags: [ "tv" ]
 date: "2017-05-18"
 title: "Juacas"
 ---

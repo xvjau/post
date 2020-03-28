@@ -2,7 +2,7 @@
 imdb: "1951181"
 
 date: "2016-11-17"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Era Uma Vez em Nova York"
 stars: "4/5"
 desc: "Era Uma Vez em Nova York. The Immigrant (USA, 2013). Dirigido por James Gray. Escrito por James Gray, Ric Menello. Com Marion Cotillard (Ewa Cybulska), Joaquin Phoenix (Bruno Weiss), Jeremy Renner (Orlando the Magician / Emil), Dagmara Dominczyk (Belva), Jicky Schnee (Clara), Elena Solovey (Rosie Hertz), Maja Wampuszyc (Edyta Bistricky), Ilia Volok (Wojtek Bistricky), Angela Sarafyan (Magda Cybulska)."

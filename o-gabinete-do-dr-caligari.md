@@ -4,7 +4,7 @@ title: "O Gabinete do Dr Caligari"
 desc: "Das Cabinet des Dr. Caligari. Alemanha, 1920. Dirigido por Robert Wiene, escrito por Carl Mayer, Hans Janowitz. Com Werner Krauss, Conrad Veidt, Friedrich Feher. Expressionismo alemão."
 imdb: "0010323"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 Caligari! Caligari! Caligari! Um grito surdo que se traduz no cinema mudo com este nome sendo escrito pela tela de todas as formas. Este é um dos representantes do expressionismo alemão que inspirou o estilo noir que por sua vez está influenciando o neo-noir. Cenários com sombras distorcidas, elementos exagerados na tela, maquiagem pesada estilo gótico (o de indivíduos, não a arte alemã). É um filme curto que já arrisca detalhes novos na linguagem como paralelismo, sonhos e certa complexidade na história.

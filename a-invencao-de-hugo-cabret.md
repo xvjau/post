@@ -3,7 +3,7 @@ imdb: "0970179"
 
 date: "2012-02-25"
 review: [ "2014", "2017" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "A Invenção de Hugo Cabret"
 stars: "3/5"
 desc: "A Invenção de Hugo Cabret. Hugo (USA, 2011). Dirigido por Martin Scorsese. Escrito por John Logan, Brian Selznick. Com Ben Kingsley, Sacha Baron Cohen, Asa Butterfield, Chloë Grace Moretz, Ray Winstone, Emily Mortimer, Christopher Lee, Helen McCrory, Michael Stuhlbarg."

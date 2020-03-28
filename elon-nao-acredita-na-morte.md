@@ -2,7 +2,7 @@
 imdb: "6096528"
 
 date: "2017-04-25"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Elon Não Acredita na Morte"
 stars: "3/5"
 desc: "Elon Não Acredita na Morte. Elon Não Acredita na Morte (Brazil, 2016). Dirigido por Ricardo Alves Jr.. Escrito por Ricardo Alves Jr, Diego Hoefel, Germano Melo, João Salaviza. Com Rômulo Braga (Elon), Clara Choveaux (Madalena e Jasmin), Ricardo Alves Jr. (Delegado), Helvecio Alves Izabel (Vigia), Francisco Loyola (Chico), Claudio Marcio (Jovem), Olavino Marçal (Policial 1), Germano Melo (Chefe), Eduardo Moreira (Legista)."

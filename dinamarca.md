@@ -3,7 +3,7 @@ date: "2019-10-24"
 title: "Dinamarca"
 desc: '"Denmark" (Reino Unido, 2019), escrito por Jeff Murphy, dirigido por Adrian Shergold, com Rafe Spall, Joel Fry e Steve Speirs. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "7037712"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 ---
 Tempos difíceis geram homens fortes; homens fortes geram tempos fáceis; tempos fáceis geram homens molengas; homens molengas geram tempos difíceis. "Dinamarca" é uma história que se passa em nossos tempos difíceis e com um de seus homens molengas, um homem que não fará nada a respeito de sua própria vida exceto tentar se manter sendo servido por alguém.

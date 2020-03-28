@@ -3,7 +3,7 @@
 imdb: "1699518"
 
 date: 2017-10-21T20:06:17
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "O Jovem Karl Marx"
 stars: "3/5"
 desc: "O Jovem Karl Marx. Le jeune Karl Marx (Germany, 2017). Dirigido por Raoul Peck. Escrito por Pascal Bonitzer, Raoul Peck, Pierre Hodgson. Com August Diehl (Karl Marx), Stefan Konarske (Friedrich Engels), Vicky Krieps (Jenny von Westphalen), Olivier Gourmet (Pierre Proudhon), Hannah Steele (Mary Burns), Alexander Scheer (Wilhelm Weitling), Hans-Uwe Bauer (Arnold Ruge), Michael Brandner (Joseph Moll), Ivan Franek (Maaikhail Aleksandrovich Bakunin)."

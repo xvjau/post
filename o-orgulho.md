@@ -4,7 +4,7 @@ title: "O Orgulho"
 desc: "Le brio (França, Bélgica, 2017), escrito por Bryan Marciano, Noé Debré, Victor Saint Macary, Yaël Langmann, Yvan Attal, dirigido por Yvan Attal, com Daniel Auteuil, Camélia Jordana, Yasin Houicha."
 imdb: "6462462"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 
 ---

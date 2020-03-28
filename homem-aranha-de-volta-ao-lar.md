@@ -2,7 +2,7 @@
 imdb: "2250912"
 
 date: "2017-07-09"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Homem-Aranha: De Volta ao Lar"
 stars: "3/5"
 revison: ['2017-08-03']

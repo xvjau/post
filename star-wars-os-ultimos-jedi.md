@@ -2,7 +2,7 @@
 imdb: "2527336"
 
 date: 2017-12-14T21:49:10
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Star Wars: os Últimos Jedi"
 stars: "5/5"
 desc: "Star Wars: os Últimos Jedi. Star Wars: The Last Jedi (USA, 2017). Dirigido por Rian Johnson. Escrito por Rian Johnson, George Lucas. Com Daisy Ridley (Rey), Tom Hardy (Stormtrooper), Mark Hamill (Luke Skywalker), Adam Driver (Kylo Ren), Gwendoline Christie (Captain Phasma), Domhnall Gleeson (General Hux), Carrie Fisher (Leia), Billie Lourd (Lieutenant Connix), Andy Serkis (Supreme Leader Snoke), Joseph Gordon-Levitt, Laura Dern (Vice Admiral Amilyn Holdo), Oscar Isaac (Poe Dameron), Benicio Del Toro (DJ), Kelly Marie Tran (Rose Tico), Justin Theroux (Slicer), John Boyega (Finn), Lupita Nyong'o (Maz Kanata), Warwick Davis, Hermione Corfield (Tallie Lintra)."

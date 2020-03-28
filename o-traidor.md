@@ -2,7 +2,7 @@
 imdb: "4844288"
 
 date: "2016-09-04"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Traidor"
 stars: "2/5"
 desc: "O Traidor. Gansin (South Korea, 2015). Dirigido por Kyu-dong Min. Escrito por Yoon-Seong Lee, Kyu-dong Min. Com Ji-hun Ju, Kang-woo Kim, Ho-jin Chun, Ji-Yeon Lim, Young-chang Song, Han-Cheol Jo, Cha Ji-Yeon."

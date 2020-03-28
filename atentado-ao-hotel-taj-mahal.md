@@ -4,7 +4,7 @@ title: "Atentado ao Hotel Taj Mahal"
 desc: "Hotel Mumbai (Austrália, EUA, Índia, 2018), escrito por John Collee, Anthony Maras, dirigido por Anthony Maras, com Dev Patel, Armie Hammer, Nazanin Boniadi."
 imdb: "5461944"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "5/5"
 
 ---

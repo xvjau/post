@@ -2,7 +2,7 @@
 imdb: "1610525"
 
 date: "2017-05-18"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Punhos de Sangue"
 stars: "4/5"
 desc: "Punhos de Sangue. The Bleeder (USA, 2016). Dirigido por Philippe Falardeau. Escrito por Jeff Feuerzeig, Jerry Stahl, Michael"

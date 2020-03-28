@@ -2,7 +2,7 @@
 imdb: "1270798"
 
 date: "2011-06-07"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "X-Men Primeira Classe"
 stars: "5/5"
 desc: "X-Men Primeira Classe. X-Men: First Class (USA, 2011). Dirigido por Matthew Vaughn. Escrito por Ashley Miller, Zack Stentz, Jane Goldman, Matthew Vaughn, Sheldon Turner, Bryan Singer. Com James McAvoy, Laurence Belcher, Michael Fassbender, Bill Milner, Kevin Bacon, Rose Byrne, Jennifer Lawrence, Beth Goddard, Morgan Lily."

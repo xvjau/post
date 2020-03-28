@@ -2,7 +2,7 @@
 imdb: "0362270"
 
 date: "2016-01-09"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "A Vida Marinha com Steve Zissou"
 stars: "4/5"
 desc: "A Vida Marinha com Steve Zissou. The Life Aquatic with Steve Zissou (USA, 2004). Dirigido por Wes Anderson. Escrito por Wes Anderson, Noah Baumbach. Com Bill Murray, Owen Wilson, Cate Blanchett, Anjelica Huston, Willem Dafoe, Jeff Goldblum, Michael Gambon, Noah Taylor, Bud Cort."

@@ -3,7 +3,7 @@
 imdb: "3108662"
 
 date: "2015-08-23"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Entrando Numa Roubada"
 stars: "3/5"
 desc: "Entrando Numa Roubada. Entrando Numa Roubada (Brazil, 2015). Dirigido por André Moraes. Escrito por André Moraes, André Moraes. Com Deborah Secco, Lúcio Mauro Filho, Júlio Andrade, Bruno Torres, Ana Carolina Machado, Marcos Veras, Tadeu Mello, Tonico Pereira, Thogun."

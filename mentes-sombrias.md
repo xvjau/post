@@ -4,7 +4,7 @@ title: "Mentes Sombrias"
 desc: "The Darkest Minds (EUA, 2018), escrito por Chad Hodge baseado no romance de Alexandra Bracken, dirigido por Jennifer Yuh Nelson, com Amandla Stenberg, Harris Dickinson, Miya Cech e Skylan Brooks."
 imdb: "4073790"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 
 ---

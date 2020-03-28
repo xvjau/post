@@ -3,7 +3,7 @@
 imdb: "4975722"
 
 date: "2017-01-12"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Moonlight: Sob a Luz do Luar"
 stars: "3/5"
 desc: "Moonlight: Sob a Luz do Luar. Moonlight (USA, 2016). Dirigido por Barry Jenkins. Escrito por Barry Jenkins, Tarell Alvin McCraney. Com Mahershala Ali (Juan), Shariff Earp (Terrence), Duan Sanderson (Azu), Alex R. Hibbert (Little), Janelle Monáe (Teresa), Naomie Harris (Paula), Jaden Piner (Kevin), Herman 'Caheei McGloun (Longshoreman), Kamal Ani-Bellow (Portable Boy 1)."

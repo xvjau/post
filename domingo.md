@@ -4,7 +4,7 @@ title: "Domingo"
 desc: "Domingo (Brasil, França, 2018), escrito por Lucas Paraizo, dirigido por Fellipe Barbosa, Clara Linhart, com Ismael Caneppele, Augusto Madeira, Camila Morgado, Ítala Nandi, Martha Nowill, Silvana Silvia, Chay Suede, Clemente Viscaino e Michael Wahrmann. Política, sociedade, história, família. #mostrasp"
 imdb: "9025112"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 
 ---

@@ -4,7 +4,7 @@ title: "Cidadão Kane"
 imdb: "0033467"
 desc: "Citizen Kane. United States, 1941. Dirigido por Orson Welles, escrito por Herman J. Mankiewicz, Orson Welles, John Houseman. Com Joseph Cotten, Dorothy Comingore, Agnes Moorehead."
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "5/5"
 ---
 Cidadão Kane ainda é relevante esses dias? Votado por cinco décadas como filme mais influente pela [associação de críticos mais respeitada do mundo](https://en.wikipedia.org/wiki/Sight_%26_Sound), sendo desbancado finalmente por Um Corpo Que Cai, a única coisa que eu peço antes que você responda essa pergunta é: assista o filme sabendo que quase nenhuma de suas trucagens ou efeitos de montagem e mise en scene existiam antes dele, mas logo depois todos começaram a copiar.

@@ -4,7 +4,7 @@ title: "A Prece"
 desc: ""
 imdb: "7839456"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 
 ---

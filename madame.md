@@ -1,7 +1,7 @@
 ---
 date: 2018-03-19T18:49:51-03:00
 title: "Madame"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 imdb: "6045466"
 
 stars: "4/5"

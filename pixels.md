@@ -3,7 +3,7 @@
 imdb: "2120120"
 
 date: "2015-07-21"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Pixels"
 stars: "2/5"
 desc: "Pixels. Pixels (USA, 2015). Dirigido por Chris Columbus. Escrito por Tim Herlihy, Timothy Dowling, Tim Herlihy, Patrick Jean. Com Adam Sandler, Kevin James, Michelle Monaghan, Peter Dinklage, Josh Gad, Matt Lintz, Brian Cox, Sean Bean, Jane Krakowski."

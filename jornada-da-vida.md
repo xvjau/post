@@ -4,7 +4,7 @@ title: "Jornada da Vida"
 imdb: "8058904"
 desc: "Yao. France, Senegal, 2018. Dirigido por Philippe Godeau, escrito por Philippe Godeau, Agnès de Sacy. Com Omar Sy, Lionel Louis Basse, Fatoumata Diawara."
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 
 ---

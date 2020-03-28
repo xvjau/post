@@ -2,7 +2,7 @@
 imdb: "1964418"
 
 date: "2015-11-23"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Tomorrowland: Um Lugar Onde Nada é Impossível"
 stars: "3/5"
 desc: "Tomorrowland: Um Lugar Onde Nada é Impossível. Tomorrowland (USA, 2015). Dirigido por Brad Bird. Escrito por Damon Lindelof, Brad Bird, Damon Lindelof, Brad Bird, Jeff Jensen. Com George Clooney, Hugh Laurie, Britt Robertson, Raffey Cassidy, Tim McGraw, Kathryn Hahn, Keegan-Michael Key, Chris Bauer, Thomas Robinson."

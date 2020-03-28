@@ -3,7 +3,7 @@
 imdb: "4285496"
 
 date: "2016-02-18"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "O Abraço da Serpente"
 stars: "4/5"
 desc: "O Abraço da Serpente. El abrazo de la serpiente (Colombia, 2015). Dirigido por Ciro Guerra. Escrito por Ciro Guerra, Theodor Koch-Grunberg, Richard Evans Schultes, Jacques Toulemonde Vidal. Com Nilbio Torres, Jan Bijvoet, Antonio Bolivar, Brionne Davis, Yauenkü Migue, Nicolás Cancino, Luigi Sciamanna."

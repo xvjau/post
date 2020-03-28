@@ -4,7 +4,7 @@ title: "Boas Intenções"
 imdb: "9016296"
 desc: "Best Intentions. France, 2018. Dirigido por Gilles Legrand, escrito por Léonore Confino, Gilles Legrand. Com Agnès Jaoui, Alban Ivanov, Claire Sermonne."
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 
 ---

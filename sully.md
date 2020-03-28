@@ -2,7 +2,7 @@
 imdb: "3263904"
 
 date: "2017-01-05"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Sully: O Herói do Rio Hudson"
 stars: "5/5"
 desc: "Sully: O Herói do Rio Hudson. Sully (USA, 2016). Dirigido por Clint Eastwood. Escrito por Todd Komarnicki, Chesley Sullenberger, Jeffrey Zaslow. Com Tom Hanks (Chesley 'Sully' Sullenberger), Aaron Eckhart (Jeff Skiles), Valerie Mahaffey (Diane Higgins), Delphi Harrington (Lucille Palmer), Mike O'Malley (Charles Porter), Jamey Sheridan (Ben Edwards), Anna Gunn (Elizabeth Davis), Holt McCallany (Mike Cleary), Ahmed Lucan (Egyptian Driver)."

@@ -4,7 +4,7 @@ title: "O Que Fazemos nas Sombras"
 desc: "What We Do in the Shadows. Nova Zelândia, EUA, 2014. Escrito e dirigido por Jemaine Clement e Taika Waititi. Com Jemaine Clement, Taika Waititi, Cori Gonzalez-Macuer."
 imdb: "3416742"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 Taika Waititi é um diretor neo-zelandês. Ele uma fez fez um filme chamado [Loucos por Nada](/loucos-por-nada), um indie onde estrelava o curioso ator Jemaine Clement. Sete anos depois os dois dirigem e estrelam este O Que Fazemos nas Sombras, que é uma versão mais longa de um trabalho homônimo feito em 2005. Então, vejam bem, esses cineastas estão empenhados em explorar as partes bizarras da existência humana, como seus mitos, em forma de mocumentário.

@@ -1,7 +1,7 @@
 ---
 date: 2018-05-23T13:26:03-03:00
 title: "Extraordinário"
-tags: [ "movies" ]
+tags: [ "movie" ]
 imdb: "2543472"
 
 stars: "4/5"

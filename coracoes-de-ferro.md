@@ -2,7 +2,7 @@
 imdb: "2713180"
 
 date: "2015-07-14"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Corações de Ferro"
 stars: "4/5"
 desc: "Corações de Ferro. Fury (USA, 2014). Dirigido por David Ayer. Escrito por David Ayer. Com Brad Pitt, Shia LaBeouf, Logan Lerman, Michael Peña, Jon Bernthal, Jim Parrack, Brad William Henke, Kevin Vance, Xavier Samuel."

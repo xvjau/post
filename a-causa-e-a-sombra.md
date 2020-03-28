@@ -2,7 +2,7 @@
 imdb: "5291602"
 
 date: "2016-10-31"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "A Causa e a Sombra"
 stars: "2/5"
 desc: "A Causa e a Sombra. A Causa e a Sombra (Portugal, 2015). Dirigido por Tiago Afonso. Escrito por Tiago Afonso."

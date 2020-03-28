@@ -3,7 +3,7 @@ date: "2019-10-17"
 title: "O Século da Fumaça"
 desc: '"Century of Smoke" (Bélgica e França, 2019), escrito por Nicolas Graux, dirigido por Nicolas Graux, com Pyawqdzei Dzanrbo, Lome Armyovq e Byevpyawq Dzanrbo. Escrito por CinemAqui na cobertura da #mostrasp.'
 imdb: "9810932"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 ---
 O Século da Fumaça parece uma reprise. Eu me lembro de ter visto um filme muito semelhante em outras mostras há um bom tempo, mas a data de produção de 2018 aponta para sua triste atualidade.

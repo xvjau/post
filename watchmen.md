@@ -2,7 +2,7 @@
 imdb: "0409459"
 
 date: "2011-09-04"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Watchmen O Filme"
 stars: "5/5"
 desc: "Watchmen O Filme. Watchmen (USA, 2009). Dirigido por Zack Snyder. Escrito por David Hayter, Alex Tse, Dave Gibbons, Alan Moore. Com Malin Akerman, Billy Crudup, Matthew Goode, Jackie Earle Haley, Jeffrey Dean Morgan, Patrick Wilson, Carla Gugino, Matt Frewer, Stephen McHattie."

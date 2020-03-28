@@ -2,7 +2,7 @@
 imdb: "1462758"
 
 date: "2010-12-10"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Enterrado vivo"
 stars: "4/5"
 desc: "Enterrado vivo. Buried (Spain, 2010). Dirigido por Rodrigo Cortés. Escrito por Chris Sparling. Com Ryan Reynolds, José Luis García Pérez, Robert Paterson, Stephen Tobolowsky, Samantha Mathis, Ivana Miño, Warner Loughlin, Erik Palladino, Kali Rocha."

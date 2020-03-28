@@ -3,7 +3,7 @@ date: "2019-08-23"
 title: "Era Uma Vez em... Hollywood"
 desc: '"Once Upon a Time... in Hollywood" (EUA, Reino Unido, China, 2019), escrito por Quentin Tarantino, dirigido por Quentin Tarantino, com Leonardo DiCaprio, Brad Pitt e Margot Robbie. Vi no cinema comercial, cercado de pessoas que adoravam comentar sobre referências do Tarantino em vez de assistir ao filme.'
 imdb: "7131622"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 Os últimos filmes de Quentin Tarantino são ótimos, mas me incomodam por terem que ser filmes do Tarantino. Explico. Ele é um ótimo diretor e já trabalhou com roteiros muito mais coesos, como [Kill Bill](/kill-bill-volume-1), ou transcendentais, como [Pulp Fiction: Tempo de Violência](/pulp-fiction-tempo-de-violencia). A vantagem desses dois filmes é que eles pedem sangue e momentos violentos, o que se encaixa certinho no esquema do diretor. Porém, "Era Uma Vez em... Hollywood" não precisa, e é aí que seu último trabalho, como filme, começa a colapsar.

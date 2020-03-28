@@ -4,7 +4,7 @@ title: "O Homem Que Matou Dom Quixote"
 desc: "The Man Who Killed Don Quixote (Espanha, Bélgica, França, Portugal, Reino Unido, 2018), escrito por Terry Gilliam, Tony Grisoni, dirigido por Terry Gilliam, com Adam Driver, Jonathan Pryce, Stellan Skarsgård. Literatura. #mostrasp"
 imdb: "1318517"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "2/5"
 
 ---

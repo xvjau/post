@@ -3,7 +3,7 @@ date: "2019-11-26"
 title: "Seguindo o Coração"
 desc: '"Lovefucked" (Índia, 2019), dirigido por Aadish Keluskar, com Himanshu Kohli, Rohit Kokate e Khushboo Upadhyay. Assisti na Netflix.'
 imdb: "8998738"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 Este é um [Antes do Amanhecer](/antes-do-amanhecer) feito com diálogos medíocres e um elenco menor que Ethan Hawke e Julie Delpy, que nasceram para seus Jesse e Céline. De certa forma Seguindo o Coração ironiza a perfeição com que os filmes de Richard Linklater trata seus adoráveis personagens se desenvolvendo. O realismo por trás das falas do casal de Before Sunrise é apenas aparente, pois funciona bem demais por muito tempo.

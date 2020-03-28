@@ -4,7 +4,7 @@ title: "Por Que Somos Criativos"
 desc: " Why Are We"
 imdb: "8804436"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "2/5"
 
 ---

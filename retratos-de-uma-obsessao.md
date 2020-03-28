@@ -2,7 +2,7 @@
 imdb: "0265459"
 
 date: "2013-07-21"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Retratos de uma Obsessão"
 stars: "4/5"
 desc: "Retratos de uma Obsessão. One Hour Photo (USA, 2002). Dirigido por Mark Romanek. Escrito por Mark Romanek. Com Robin Williams, Connie Nielsen, Michael Vartan, Dylan Smith, Erin Daniels, Paul Hansen Kim, Lee Garlington, Gary Cole, Marion Calvert."

@@ -3,7 +3,7 @@ date: "2019-10-17"
 title: "Wasp Network"
 desc: '"Wasp Network" (França, Espanha e Bélgica, 2019), escrito por Olivier Assayas, dirigido por Olivier Assayas, com Ana de Armas, Penélope Cruz, Edgar Ramírez, Wagner Moura, Gael García Bernal e Harlys Becerra. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "6760876"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 ---
 Wasp Network faz o melhor com o que tem para contar uma história confusa sem protagonista definido, e o diretor/roteirista Olivier Assayas nos traz um filme leve quando essa opção seria a única que não poderia ser escolhida.

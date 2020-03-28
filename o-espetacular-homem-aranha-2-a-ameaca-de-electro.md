@@ -2,7 +2,7 @@
 imdb: "1872181"
 
 date: "2014-05-06"
-tags: [ "movies" ]
+tags: [ "movie" ]
 count: 2
 title: "O Espetacular Homem-Aranha 2 A Ameaça de Electro"
 stars: "3/5"

@@ -2,7 +2,7 @@
 imdb: "0381940"
 
 date: "2010-11-01"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Cargo"
 stars: "3/5"
 desc: "Cargo. Cargo (Switzerland, 2009). Dirigido por Ivan Engler, Ralph Etter. Escrito por Arnold Bucher, Ivan Engler, Arnold Bucher, Ivan Engler, Patrik Steinmann, Thilo Röscheisen, Johnny Hartmann. Com Anna Katharina Schwabroh, Martin Rapold, Regula Grauwiller, Yangzom Brauen, Pierre Semmler, Claude-Oliver Rudolph, Michael Finger, Gilles Tschudi, Maria Boettner."

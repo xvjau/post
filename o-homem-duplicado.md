@@ -3,7 +3,7 @@ imdb: "2316411"
 
 date: "2015-03-13"
 review: [ "2016" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Homem Duplicado"
 stars: "4/5"
 desc: "O Homem Duplicado. Enemy (Canada, 2013). Dirigido por Denis Villeneuve. Escrito por José Saramago, Javier Gullón. Com Jake Gyllenhaal, Mélanie Laurent, Sarah Gadon, Isabella Rossellini, Joshua Peace, Tim Post, Kedar Brown, Darryl Dinn, Misha Highstead."

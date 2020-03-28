@@ -4,7 +4,7 @@ title: "Dolls"
 desc: "Dolls. Japão, 2002. Dirigido e escrito por Takeshi Kitano. Com Miho Kanno, Hidetoshi Nishijima, Tatsuya Mihashi, Chieko Matsubara, Kyoko Fukada, Tsutomu Takeshige."
 imdb: "0330229"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "5/5"
 ---
 Dolls é um filme lento, mas suas três histórias de amor são arrebatadoras. Não são convencionais, e muitos não chamariam de amor, mas não se pode dizer que não são histórias fortes, que mexem com nossos instintos de preservação. Essas pessoas entregaram suas vidas ao destino. Nenhuma é recompensada. E ainda é um filme lindo.

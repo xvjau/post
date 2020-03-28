@@ -3,7 +3,7 @@ date: "2019-08-01"
 title: "The Battle Over Citizen Kane"
 desc: "The Battle Over Citizen Kane. United States, 1996. Dirigido por Michael Epstein, Thomas Lennon, escrito por Richard Ben Cramer, Thomas Lennon. Com William Alland, Thomas Anderson, Peter Bogdanovich."
 imdb: "0115634"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 Se Cidadão Kane, de 1941, caiu no esquecimento do grande público por tanto tempo, The Battle Over Citizen Kane, de 1996, veio reavivar a fogueira das vaidades de dois gigantescos egos lutando por seu lugar ao sol em uma poderosa Hollywood, palco de contradições desde seu nascimento.

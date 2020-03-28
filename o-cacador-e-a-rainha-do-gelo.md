@@ -4,7 +4,7 @@ title: "O Caçador e a Rainha do Gelo"
 desc: "Escrito por Evan Spiliotopoulos e Craig Mazin baseados nos personagens de Evan Daugherty. Dirigido por Cedric Nicolas-Troyan. Com Chris Hemsworth, Jessica Chastain, Charlize Theron."
 imdb: "2381991"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "2/5"
 ---
 Continuação previsível, baixo orçamento, mas mantém o mesmo universo e alguns efeitos bem impressionantes. A história central é poderosa, pesa no final, mas todo o resto é um passeio monótono, pois praticamente tudo é previsível.

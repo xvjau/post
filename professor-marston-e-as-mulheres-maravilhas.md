@@ -3,7 +3,7 @@ date: "2019-12-17"
 title: "Professor Marston e as Mulheres-Maravilhas"
 desc: '"Professor Marston & the Wonder Women" (United States, 2017), escrito por Angela Robinson, dirigido por Angela Robinson, com Luke Evans, Rebecca Hall e Bella Heathcote. Assisti na casa do Incrível enquanto as meninas trabalhavam.'
 imdb: "6133130"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "2/5"
 ---
 Este é um filme que não entende muito bem seu papel no mundo. Ele quer afirmar que não há nada de errado em um pai e duas mães constituírem família, mas toda essa compreensão sobre formas diferentes de amar não serve para compreender que o resto do mundo não é mal, mas apenas vive em sua própria época, seguindo seus próprios valores.

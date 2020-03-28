@@ -3,7 +3,7 @@
 imdb: "4598764"
 
 date: "2016-04-30"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Nós, Eles e Eu"
 stars: "3/5"
 desc: "Nós, Eles e Eu. NEY: Nosotros, ellos y yo (Argentina, 2015). Dirigido por Nicolás Avruj. Escrito por Nicolás Avruj, Alejandro Dujovne, Andrea Kleinman. Com Nur Al Levi, Frieda Geffner, Abu Harbed, Sebastián Muller, Iosef Shai."

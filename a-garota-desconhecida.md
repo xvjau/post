@@ -2,7 +2,7 @@
 imdb: "4630550"
 
 date: "2017-01-24"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "A Garota Desconhecida"
 stars: "4/5"
 desc: "A Garota Desconhecida. La fille inconnue (Belgium, 2016). Dirigido por Jean-Pierre Dardenne, Luc Dardenne. Escrito por Jean-Pierre Dardenne, Luc Dardenne. Com Adèle Haenel (Jenny Davin), Olivier Bonnaud (Julien), Jérémie Renier (Le père de Bryan), Louka Minnella (Bryan), Christelle Cornil (La mère de Bryan), Nadège Ouedraogo (La caissière du cybercafé), Olivier Gourmet (Le fils Lambert), Pierre Sumkay (Le père Lambert), Yves Larec (Le docteur Habran)."

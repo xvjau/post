@@ -2,7 +2,7 @@
 imdb: "1865505"
 
 date: "2015-04-02"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Song of the Sea"
 stars: "5/5"
 desc: "Song of the Sea. Song of the Sea (Ireland, 2014). Dirigido por Tomm Moore. Escrito por Will Collins, Tomm Moore. Com David Rawle, Brendan Gleeson, Lisa Hannigan, Fionnula Flanagan, Lucy O'Connell, Jon Kenny, Pat Shortt, Colm Ó'Snodaigh, Liam Hourican."

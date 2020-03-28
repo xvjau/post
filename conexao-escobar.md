@@ -3,7 +3,7 @@
 imdb: "1355631"
 
 date: "2016-08-20"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Conexão Escobar"
 stars: "5/5"
 desc: "Conexão Escobar. The Infiltrator (UK, 2016). Dirigido por Brad Furman. Escrito por Ellen Sue Brown, Robert Mazur. Com Bryan"

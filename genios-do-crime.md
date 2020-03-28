@@ -3,7 +3,7 @@
 imdb: "2461150"
 
 date: "2016-08-12"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Gênios do Crime"
 stars: "3/5"
 desc: "Gênios do"

@@ -2,7 +2,7 @@
 imdb: "4284010"
 
 date: "2016-02-17"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "What Happened, Miss Simone?"
 stars: "5/5"
 desc: "What Happened, Miss Simone?. What Happened, Miss Simone? (USA, 2015). Dirigido por Liz Garbus. Com James Baldwin, Stokely Carmichael, Walter"

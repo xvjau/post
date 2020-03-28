@@ -2,7 +2,7 @@
 imdb: "5821276"
 
 date: "2016-10-26"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Bench Cinema"
 stars: "4/5"
 desc: "Bench Cinema. Bench Cinema (Iran, 2017). Dirigido por Mohammad Rahmanian. Escrito por Mohammad Rahmanian. Com Mohammad Amir Naji, Ashkan Khatibi, Mahtab Nasirpour, Hooman Barghnavard, Ali Omrani."

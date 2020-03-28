@@ -4,7 +4,7 @@ title: "Amor e Revoluçao"
 desc: "Colonia. Alemanha, França, Luxemburgo, Reino Unido, EUA, 2015. Dirigido por Florian Gallenberger, escrito por Torsten Wenzel e Gallenberger. Com Emma Watson, Daniel Brühl, Michael Nyqvist."
 imdb: "4005402"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 Esse filme com a Emma Watson, a Hermione que virou feminista (portanto feia), conta uma história baseada em fatos reais como um drama, mas vira uma piada pronta. Começa com os bonitos revolucionários comunistas tentando se proteger do feio golpe militar de direita, mas quando o casal de crushes são enviados para um campo de trabalhos forçados onde se planta e se descasca muita batata e onde ninguém pode sair, ou seja, o paraíso comunista, eles não gostam. Difícil agradar jovenzinhos revolucionários.

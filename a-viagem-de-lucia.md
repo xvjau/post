@@ -2,7 +2,7 @@
 imdb: "1463167"
 
 date: "2011-09-07"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "A Viagem de Lucia"
 stars: "3/5"
 desc: "A Viagem de Lucia. Il richiamo (Argentina, 2009). Dirigido por Stefano Pasetto. Escrito por Stefano Pasetto, Veronica Cascelli. Com Sandra Ceccarelli, Francesca Inaudi, César Bordón, Guillermo Pfening, Arturo Goetz, Julieta Cardinali, Hilda Bernard, Maria Lourdes Argiz, Lola Berthet."

@@ -2,7 +2,7 @@
 imdb: "0138704"
 
 date: "2015-06-26"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Pi"
 stars: "4/5"
 desc: "Pi. Pi (USA, 1998). Dirigido por Darren Aronofsky. Escrito por Darren Aronofsky, Darren Aronofsky, Sean Gullette, Eric Watson, Darren Aronofsky, Sean Gullette. Com Sean Gullette, Mark Margolis, Ben Shenkman, Pamela Hart, Stephen Pearlman, Samia Shoaib, Ajay Naidu, Kristyn Mae-Anne Lao, Espher Lao Nieves."

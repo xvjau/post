@@ -1,7 +1,7 @@
 ---
 date: 2018-05-03T14:15:27-03:00
 title: "A Câmera de Claire"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 imdb: "5989220"
 
 stars: "3/5"

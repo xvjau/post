@@ -2,7 +2,7 @@
 imdb: "1356928"
 
 date: "2011-06-12"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Pai dos Meus Filhos"
 stars: "3/5"
 desc: "O Pai dos Meus Filhos. Le père de mes enfants (France, 2009). Dirigido por Mia Hansen-Løve. Escrito por Mia Hansen-Løve. Com Louis-Do de Lencquesaing, Chiara Caselli, Alice de Lencquesaing, Alice Gautier, Manelle Driss, Eric Elmosnino, Sandrine Dumas, Dominique Frot, Antoine Mathieu."

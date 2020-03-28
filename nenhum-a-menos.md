@@ -4,7 +4,7 @@ title: "Nenhum a Menos"
 imdb: "0209189"
 desc: "Not One Less. China, 1999. Dirigido por Yimou Zhang, escrito por Xiangsheng Shi. Com Minzhi Wei, Huike Zhang, Zhenda Tian."
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 Um filme lindo de superação, baseado em história real e a porra toda. Se passa na China. Começa em um vilarejo e termina na cidade. É uma lição de vida para todos os brasileiros que reclamam da situação precária das escolas.

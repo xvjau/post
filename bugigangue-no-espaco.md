@@ -2,7 +2,7 @@
 imdb: "5812510"
 
 date: "2017-02-14"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "BugiGangue no Espaço"
 stars: "2/5"
 desc: "BugiGangue no Espaço. Gadgetgang in Outerspace (USA, 2016). Dirigido por Ale McHaddo. Escrito por Ale McHaddo."

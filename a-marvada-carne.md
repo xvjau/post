@@ -2,7 +2,7 @@
 imdb: "0138596"
 
 date: "2012-04-24"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "A Marvada Carne"
 stars: "3/5"
 desc: "A Marvada Carne. A Marvada Carne (Brazil, 1985). Dirigido por André Klotzel. Escrito por André Klotzel, Cornélio Pires, Carlos Alberto Sofredini. Com Dionísio Azevedo, Adilson Barros, Chiquinho Brandão, Regina Casé, Tio Celso, Henrique Lisboa, Lucélia Maquiavelli, Geny Prado, Paco Sanches."

@@ -4,7 +4,7 @@ title: "Família Rodante"
 desc: "Familia rodante. Argentina, Brasil, França, Alemanha, Espanha, Reino Unido, 2004. De Pablo Trapero, com Graciana Chironi, Nicolás López, Liliana Capurro."
 imdb: "0359254"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 Pablo Trapero nos entrega a experiência completa do que era uma família no tempo de nossos pais/avós. (Era, porque a família foi destroçada pelos marxistas culturais.) Todos os elementos estão no filme. As fotos inapropriadas que servirão para os mais velhos alimentarem suas memórias. O amor juvenil entre primos e as traições, que fazem rima com as declarações de amor eterno dos noivos. A matriarca e suas opiniões antiquadas, que soam familiares e por isso não conseguimos simplesmente dizer que ela está errada. Quem diria isso para a própria mãe ou avó?

@@ -4,7 +4,7 @@ title: "Special"
 desc: "Special. EUA, 2019. Criado por Ryan O'Connell. Com Ryan O'Connell, Jessica Hecht, Punam Patel."
 imdb: "9381622"
 
-tags: [ "series" ]
+tags: [ "tv" ]
 stars: "4/5"
 ---
 Ryan O'Connel criou e é o astro de sua própria série. Ele tem paralisia cerebral, é gay (pelo menos na série) e não tem vergonha de sair do armário. Por ser gay. Já por ser aleijado...

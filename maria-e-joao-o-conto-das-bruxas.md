@@ -3,7 +3,7 @@ date: "2020-02-07"
 title: "Maria e João - O Conto das Bruxas"
 desc: '"Gretel & Hansel" (Canadá, Irlanda, EUA e África do Sul, 2020), escrito por Rob Hayes, dirigido por Oz Perkins, com Sophia Lillis, Charles Babalola e Alice Krige.'
 imdb: "9086228"
-tags: [ "movies", "cinemaqui" ]
+tags: [ "movie", "cinemaqui" ]
 stars: "3/5"
 ---
 "Maria e João - O Conto das Bruxas" já nos conta a que veio da inversão de nomes no título até seu subtítulo tacanho e revelador. Assim como o divertidinho "João e Maria: Caçadores de Bruxas", de 2013, protagonizado por  Jeremy Renner e Gemma Arterton com energia de sobra, esta é uma subversão da história original, já que todos sabem que ninguém será processado por uma fábula de domínio público.

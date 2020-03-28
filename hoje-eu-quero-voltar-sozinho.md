@@ -2,7 +2,7 @@
 imdb: "1702014"
 
 date: "2014-04-23"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Hoje Eu Quero Voltar Sozinho"
 stars: "4/5"
 desc: "Hoje Eu Quero Voltar Sozinho. Hoje Eu Quero Voltar Sozinho (Brazil, 2014). Dirigido por Daniel Ribeiro. Escrito por Daniel Ribeiro. Com Ghilherme Lobo, Fabio Audi, Tess Amorim, Lúcia Romano, Eucir de Souza, Selma Egrei, Isabela Guasco, Victor Filgueiras, Pedro Carvalho."

@@ -4,7 +4,7 @@ title: "Jurassic World: Reino Ameaçado"
 desc: "Jurassic World: Fallen Kingdom. EUA, 2018. Escrito por Derek Connolly e Colin Trevorrow baseado nos personagens de Michael Crichton. Dirigido por J.A. Bayona. Com Chris Pratt, Bryce Dallas Howard, Rafe Spall."
 imdb: "4881806"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "2/5"
 ---
 O tema sério de Jurassic Park, sobre a responsabilidade do ser humano sobre o planeta, incluindo a própria natureza (uma mensagem bíblica contida em um livro de sci-fi?), já foi torcida e retorcida tantas vezes que hoje em dia só sai uma gotinha de arrepio. Há uma gotinha extra, de sangue, para a diversão inconsequente. É lá que estão os milhões gastos em produções como essas.

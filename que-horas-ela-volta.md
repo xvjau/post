@@ -2,7 +2,7 @@
 imdb: "3742378"
 
 date: "2015-09-15"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Que Horas Ela Volta?"
 stars: "5/5"
 desc: "Que Horas Ela Volta?. Que Horas Ela Volta? (Brazil, 2015). Dirigido por Anna Muylaert. Escrito por Anna Muylaert. Com Regina Casé, Michel Joelsas, Camila Márdila, Karine Teles, Lourenço Mutarelli, Helena Albergaria, Bete Dorgam, Luis Miranda, Theo Werneck."

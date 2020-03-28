@@ -2,7 +2,7 @@
 imdb: "0087755"
 
 date: "2012-07-20"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Os Muppets Conquistam Nova Iorque"
 stars: "4/5"
 desc: "Os Muppets Conquistam Nova Iorque. The Muppets Take Manhattan (USA, 1984). Dirigido por Frank Oz. Escrito por Tom Patchett, Jay Tarses, Frank Oz, Tom Patchett, Jay Tarses. Com Jim Henson, Frank Oz, Dave Goelz, Steve Whitmire, Richard Hunt, Jerry Nelson, Juliana Donald, Lonny Price, Louis Zorich."

@@ -3,7 +3,7 @@
 imdb: "5341098"
 
 date: "2016-11-22"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "O Filho Eterno"
 stars: "3/5"
 desc: "O Filho Eterno. O Filho Eterno (Brazil, 2016). Dirigido por Paulo Machline. Escrito por Leonardo Levis,"

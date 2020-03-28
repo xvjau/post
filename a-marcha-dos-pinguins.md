@@ -4,7 +4,7 @@ title: "A Marcha dos Pinguins"
 desc: "La marche de l'empereur. França, 2005. Escrito e dirigido por Luc Jacquet (a narração americana é de Jordan Roberts). Com Charles Berling, Romane Bohringer, Jules Sitruk e Morgan Freeman fez a voz na versão americana."
 imdb: "0428803"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 Um documentário sobre o pinguim imperador, que vive no polo sul e que possui um frágil mecanismo para se reproduzir, que requer o comprometimento do macho e da fêmea da relação. A diferença? O filme é narrado como uma historinha contada por uma dessas famílias de pinguins.

@@ -4,7 +4,7 @@ imdb: "3019796"
 
 date: "2014-12-18"
 review: [ "2015" ]
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "As Férias do Pequeno Nicolau"
 stars: "4/5"
 desc: "As Férias do Pequeno Nicolau. Les vacances du petit Nicolas (France, 2014). Dirigido por Laurent Tirard. Escrito por René Goscinny, Jean-Jacques Sempé, Laurent Tirard, Jaco Van Dormael, Grégoire Vigneron. Com Valérie Lemercier, Kad Merad, Dominique Lavanant, François-Xavier Demaison, Bouli Lanners, Mathéo Boisselier, Luca Zingaretti, Judith Henry, Francis Perrin."

@@ -2,7 +2,7 @@
 imdb: "2400463"
 
 date: "2016-07-16"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "the Invitation"
 stars: "4/5"
 desc: "the Invitation. The Invitation (USA, 2015). Dirigido por Karyn Kusama. Escrito por Phil Hay, Matt Manfredi. Com Logan Marshall-Green, Emayatzy Corinealdi, Aiden Lovekamp, Michelle Krusiec, Mike Doyle, Jordi Vilasuso, Jay Larson, Marieh Delfino, Tammy Blanchard."

@@ -3,7 +3,7 @@
 imdb: "5142532"
 
 date: "2016-07-28"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Fome"
 stars: "3/5"
 desc: "Fome. Hunger (Brazil, 2015). Dirigido por"

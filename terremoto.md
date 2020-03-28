@@ -3,7 +3,7 @@ date: "2020-03-08"
 title: "Terremoto"
 desc: '"Skjelvet" (Noruega, 2018), escrito por John Kåre Raake e Harald Rosenløw-Eeg, dirigido por John Andreas Andersen, com Kristoffer Joner, Ane Dahl Torp e Edith Haagenrud-Sande.'
 imdb: "6523720"
-tags: [ "movies", "cinemaqui" ]
+tags: [ "movie", "cinemaqui" ]
 stars: "3/5"
 ---
 Terremoto é sobre o sensível balanço entre nossas vidas em ordem e o caos violento da natureza com que temos que conviver. Seria este um alerta ecológico ou um filme-catástrofe? Ele consegue ser os dois, e evita tomar um caminho ou outro por definitivo. E esse é o seu valor, que se mede pela quantidade de passos de distância dos filmes-catástrofe norte-americanos.

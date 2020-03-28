@@ -4,7 +4,7 @@ title: "Ilha dos Cachorros"
 desc: "Isle of Dogs (Alemanha, EUA 2018), dirigido e escrito por Wes Anderson baseado na história de Roman Coppola, Jason Schwartzman, Kunichi Nomura, com Bryan"
 imdb: "5104604"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 
 ---

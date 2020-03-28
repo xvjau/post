@@ -2,7 +2,7 @@
 imdb: "1816518"
 
 date: "2015-06-04"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Ernest and Célestine"
 stars: "3/5"
 desc: "Ernest and Célestine. Ernest et Célestine (France, 2012). Dirigido por Stéphane Aubier, Vincent Patar, Benjamin Renner. Escrito por Gabrielle Vincent, Daniel Pennac. Com Forest Whitaker, Lambert Wilson, Pauline Brunner, Mackenzie Foy, Lauren Bacall, Anne-Marie Loop, Paul Giamatti, Patrice Melennec, William H. Macy."

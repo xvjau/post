@@ -2,7 +2,7 @@
 imdb: "1454910"
 
 date: "2011-10-11"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Copacabana"
 stars: "5/5"
 desc: "Copacabana. Copacabana (France, 2010). Dirigido por Marc Fitoussi. Escrito por Marc Fitoussi. Com Isabelle Huppert, Aure Atika, Lolita Chammah, Jurgen Delnaet, Chantal Banlier, Magali Woch, Nelly Antignac, Guillaume Gouix, Joachim Lombard."

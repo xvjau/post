@@ -2,7 +2,7 @@
 imdb: "1424797"
 
 date: "2015-10-16"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Eu Matei Minha Mãe"
 stars: "5/5"
 desc: "Eu Matei Minha Mãe. J'ai tué ma mère (Canada, 2009). Dirigido por Xavier Dolan. Escrito por Xavier Dolan, Xavier Dolan. Com Anne Dorval, Xavier Dolan, François Arnaud, Suzanne Clément, Patricia Tulasne, Niels Schneider, Monique Spaziani, Pierre Chagnon, Justin Caron."

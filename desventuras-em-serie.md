@@ -2,7 +2,7 @@
 imdb: "0339291"
 
 date: "2015-11-29"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Desventuras em Série"
 stars: "4/5"
 desc: "Desventuras em Série. Lemony Snicket's A Series of Unfortunate Events (USA, 2004). Dirigido por Brad Silberling. Escrito por Robert Gordon, Daniel Handler. Com Jim Carrey, Liam Aiken, Emily Browning, Kara Hoffman, Shelby Hoffman, Jude Law, Timothy Spall, Catherine O'Hara, Billy Connolly."

@@ -4,7 +4,7 @@ title: "António Um Dois Três"
 desc: "António Um Dois Três (Brasil, Portugal, 2017), escrito e dirigido por Leonardo Mouramateus, com Mauro Soares, Deborah Viegas, Daniel Pizamiglio."
 imdb: "6275840"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 
 ---

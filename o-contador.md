@@ -2,7 +2,7 @@
 imdb: "2140479"
 
 date: "2016-10-28"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Contador"
 stars: "4/5"
 desc: "O Contador. The Accountant (USA, 2016). Dirigido por Gavin O'Connor. Escrito por Bill Dubuque. Com Ben Affleck (Christian Wolff), Anna Kendrick (Dana Cummings), J.K. Simmons (Ray King), Jon Bernthal (Brax), Jeffrey Tambor (Francis Silverberg), Cynthia Addai-Robinson (Marybeth Medina), John Lithgow (Lamar Black), Jean Smart (Rita Blackburn), Andy Umberger (Ed Chilton)."

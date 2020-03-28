@@ -2,7 +2,7 @@
 imdb: "1142977"
 
 date: "2012-11-16"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Frankenweenie"
 stars: "4/5"
 desc: "Frankenweenie. Frankenweenie (USA, 2012). Dirigido por Tim Burton. Escrito por Leonard Ripps, Tim Burton, John August. Com Catherine O'Hara, Martin Short, Martin Landau, Charlie Tahan, Atticus Shaffer, Winona Ryder, Robert Capron, James Hiroyuki Liao, Conchata Ferrell."

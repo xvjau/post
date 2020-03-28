@@ -4,7 +4,7 @@ title: "Animal Político"
 desc: "Animal Político (Brasil, 2016), escrito e dirigido por Tião, com Rodrigo Bolzan, Elisa Heidrich, Victor Laet."
 imdb: "5531346"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 
 ---

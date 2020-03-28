@@ -3,7 +3,7 @@
 imdb: "3324494"
 
 date: "2015-06-08"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Na Próxima, Acerto no Coração"
 stars: "4/5"
 desc: "Na Próxima, Acerto no Coração. La prochaine fois je viserai le coeur (France, 2014). Dirigido por Cédric Anger. Escrito por Cédric Anger, Yvan Stefanovitch. Com Guillaume Canet, Ana Girardot, Jean-Yves Berteloot, Patrick Azam, Arnaud Henriet, Douglas Attal, Pierick Tournier, Alexandre Carrière, François-Dominique Blin."

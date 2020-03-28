@@ -2,7 +2,7 @@
 date: "2020-03-21"
 title: "Todo Mundo Quase Morto"
 desc: '"Shaun of the Dead" (United Kingdom e France, 2004), escrito por Simon Pegg e Edgar Wright, dirigido por Edgar Wright, com Simon Pegg, Kate Ashfield e Nick Frost.'
-tags: [ "movies" ]
+tags: [ "movie" ]
 imdb: "0365748"
 stars: "2/5"
 ---

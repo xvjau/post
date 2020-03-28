@@ -2,7 +2,7 @@
 imdb: "1034427"
 
 date: "2013-05-23"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Alexandra"
 stars: "3/5"
 desc: "Alexandra. Aleksandra (Russia, 2007). Dirigido por Aleksandr Sokurov. Escrito por Aleksandr Sokurov. Com Galina Vishnevskaya, Vasily Shevtsov, Raisa Gichaeva, Andrei Bogdanov, Aleksandr Kladko, Aleksei Neymyshev, Rustam Shakhgireev, Evgeniy Tkachuk."

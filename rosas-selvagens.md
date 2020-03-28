@@ -4,7 +4,7 @@ title: "Rosas Selvagens"
 desc: "Dzikie róze (Polônia, 2017), escrito e dirigido por Anna Jadowska, com Marta Nieradkiewicz, Michal Zurawski, Natalia Bartnik. #mostrasp"
 imdb: "5774796"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "2/5"
 
 ---

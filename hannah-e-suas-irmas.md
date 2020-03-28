@@ -3,7 +3,7 @@ date: "2019-08-14"
 title: "Hannah e Suas Irmãs"
 desc: '"Hannah and Her Sisters" (EUA, 1986), escrito por Woody Allen, dirigido por Woody Allen, com Barbara Hershey, Carrie Fisher, Michael Caine, Mia Farrow, Dianne Wiest, Maureen O''Sullivan, Lloyd Nolan, Max von Sydow, Woody Allen e Lewis Black. Peguei do box de DVDs do cineasta.'
 imdb: "0091167"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "5/5"
 ---
 Terminar um filme do Woody Allen como Hannah e Suas Irmãs é voltar a ter esperança na humanidade. Não que o filme tenha essa mensagem, mas é que seu diretor e roteirista demonstra um conhecimento tão absurdo da alma humana que é como se você não estivesse mais sozinho no mundo. Como se alguém finalmente desse o sinal de vida: "Eu existo. E eu sei como tudo isso é tão sem sentido."

@@ -2,7 +2,7 @@
 imdb: "3183660"
 
 date: "2016-12-15"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Animais Fantásticos e Onde Habitam"
 stars: "4/5"
 desc: "Animais Fantásticos e Onde Habitam. Fantastic Beasts and Where to Find Them (UK, 2016). Dirigido por David Yates. Escrito por J.K. Rowling. Com Eddie Redmayne (Newt), Sam Redford (Customs Official), Scott Goldman (Customs Official), Tim Bentinck (Witness), Tom Clarke Hill (Photographer 2), Tristan Tait (Reporter), Colin Farrell (Graves), Matthew Sim (Photographer 1), Katherine Waterston (Tina)."

@@ -4,7 +4,7 @@ title: "Missão Impossível: Efeito Fallout"
 desc: "Mission: Impossible - Fallout (EUA, 2018), escrito e dirigido por Christopher McQuarrie (baseado na série de Bruce Geller), com Tom"
 imdb: "4912910"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 
 ---

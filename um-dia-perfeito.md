@@ -3,7 +3,7 @@
 imdb: "3577624"
 
 date: "2016-07-05"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Um Dia Perfeito"
 stars: "4/5"
 desc: "Um Dia Perfeito. A Perfect Day (Spain, 2015). Dirigido por Fernando León de Aranoa. Escrito por Fernando León de Aranoa, Diego Farias, Paula Farias. Com Benicio Del Toro, Tim Robbins, Olga Kurylenko, Mélanie Thierry, Fedja Stukan, Eldar Residovic, Sergi López, Nenad Vukelic, Morten Suurballe."

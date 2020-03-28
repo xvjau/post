@@ -3,7 +3,7 @@
 imdb: "2217859"
 
 date: "2016-03-19"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Mais Forte Que Bombas"
 stars: "4/5"
 desc: "Mais Forte Que Bombas. Louder Than Bombs (Norway, 2015). Dirigido por Joachim Trier. Escrito por Joachim Trier, Eskil Vogt. Com Rachel Brosnahan, Jesse Eisenberg, Amy Ryan, Gabriel Byrne, Ruby Jerins, David Strathairn, Isabelle Huppert, Devin Druid, Megan Ketch."

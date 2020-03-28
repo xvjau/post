@@ -2,7 +2,7 @@
 imdb: "6397576"
 
 date: "2017-03-08"
-tags: [ "series" ]
+tags: [ "tv" ]
 title: "Abstract: The Art of Design"
 stars: "4/5"
 desc: "Abstract: The Art of Design. Dirigido por Morgan Neville. Com Christoph Niemann (Himself), Tom Selleck, Lisa Zeitz (Herself - Christoph's Wife)."

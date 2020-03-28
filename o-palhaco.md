@@ -3,7 +3,7 @@ imdb: "1921043"
 
 date: "2011-11-06"
 review: [ "2014" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Palhaço"
 stars: "5/5"
 desc: "O Palhaço. O Palhaço (Brazil, 2011). Dirigido por Selton Mello. Escrito por Selton Mello, Marcelo Vindicato. Com Selton Mello, Paulo José, Larissa Manoela, Giselle Motta, Teuda Bara, Álamo Facó, Cadu Fávero, Erom Cordeiro, Hossen Minussi."

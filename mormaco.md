@@ -4,7 +4,7 @@ title: "Mormaço"
 desc: "Mormaço (Brasil, 2018), escrito por Felipe Bragança e Marina Meliande e dirigido por Meliande, com Marina Provenzzano, Sandra Maria, Pedro Gracindo."
 imdb: "8169178"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "5/5"
 
 ---

@@ -2,7 +2,7 @@
 imdb: "2125435"
 
 date: "2013-03-05"
-tags: [ "movies" ]
+tags: [ "movie" ]
 count: 2
 title: "Indomável Sonhadora"
 stars: "4/5"

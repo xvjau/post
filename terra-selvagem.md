@@ -3,7 +3,7 @@
 imdb: "5362988"
 
 date: 2017-10-27T18:39:12
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Terra Selvagem"
 stars: "4/5"
 desc: "Terra Selvagem. Wind River (UK, 2017). Dirigido por Taylor Sheridan. Escrito por Taylor Sheridan. Com Kelsey Asbille (Natalie), Jeremy Renner (Cory Lambert), Julia Jones (Wilma), Teo Briones (Casey), Apesanahkwat (Dan"

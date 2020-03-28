@@ -2,7 +2,7 @@
 imdb: "1054606"
 
 date: "2014-03-22"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Mundo Imaginário do Doutor Parnassus"
 stars: "2/5"
 desc: "O Mundo Imaginário do Doutor Parnassus. The Imaginarium of Doctor Parnassus (UK, 2009). Dirigido por Terry Gilliam. Escrito por Terry Gilliam, Charles McKeown. Com Andrew Garfield, Christopher Plummer, Richard Riddell, Katie Lyons, Richard Shanks, Lily Cole, Verne Troyer, Bruce Crawford, Johnny Harris."

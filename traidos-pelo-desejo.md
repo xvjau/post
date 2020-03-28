@@ -4,7 +4,7 @@ title: "Traídos pelo Desejo"
 imdb: "0104036"
 desc: "The Crying Game. United Kingdom, Japan, United States, 1992. Dirigido por Neil Jordan, escrito por Neil Jordan. Com Forest Whitaker, Miranda Richardson, Stephen Rea, Jaye Davidson."
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "5/5"
 ---
 Vou ser sincero com você, caro leitor. E explícito. Se aguente, são minhas memórias. Quando eu assisti esse filme pela Videoteca da Folha, uma [coleção de Fitas VHS](https://lista.mercadolivre.com.br/vhs-traidos-pelo-desejo-videoteca) lançado aos domingos, eu me lembro claramente de um pintão surgindo na pequena tela de tubo. Não porque foi traumático, nem porque foi excitante, mas principalmente porque este é o momento em que para o personagem de Stephen Rea o futuro perfeito que ele havia imaginado simplesmente virou de cabeça pra baixo.

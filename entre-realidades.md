@@ -3,7 +3,7 @@ date: "2020-02-14"
 title: "Entre Realidades"
 desc: '"Horse Girl" (EUA, 2020), escrito por Jeff Baena e Alison Brie, dirigido por Jeff Baena, com Alison Brie, Molly Shannon e Goldenite. Mais um filme bacaninha da Netflix. Atualizei em 2020-03-17 para publicar no CinemAqui.'
 imdb: "11388406"
-tags: [ "movies", "cinemaqui" ]
+tags: [ "movie", "cinemaqui" ]
 stars: "3/5"
 ---
 Entre Realidades tem cara de independente e hipster. Foi escrito pela atriz Alison Brie e pelo diretor Jeff Baena, que ficou conhecido pelo ótimo [Vida Após Beth](/life-after-beth), com Aubrey Plaza. Filmado pela Netflix em Los Angeles, faz pensar em como qualquer tipo de espectador hoje em dia é um espectador de streaming. (Essa frase foi escrita antes da pandemia do Corona Vírus, mas agora é sério e literal, pelo menos nas próximas semanas: todo espectador é um espectador de streaming. Por favor, fiquem em casa.)

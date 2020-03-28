@@ -4,7 +4,7 @@ title: "Maus Hábitos"
 desc: "Entre tinieblas. Espanha, 1983. Dirigido e escrito por Pedro Almodóvar. Com Cristina Sánchez Pascual, Will More, Laura Cepeda, Julieta Serrano, Marisa Paredes, Carmen Maura."
 imdb: "0085496"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 Às vezes fico na dúvida se gosto mais da fase do Almodóvar raiz ou nutella, mas revendo Maus Hábitos me dou conta que a versão raiz é muito mais atraente. É de baixo orçamento, mas mais despojada, onde ele fazia muito (e mais) com pouco.

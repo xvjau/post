@@ -4,7 +4,7 @@ title: "O Animal Cordial"
 desc: "O Animal Cordial (Brasil, 2017), escrito e dirigido por Gabriela Amaral Almeida, com Murilo Benício, Luciana Paes, Irandhir Santos."
 imdb: "5126274"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 
 ---

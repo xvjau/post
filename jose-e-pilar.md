@@ -2,7 +2,7 @@
 imdb: "1789810"
 
 date: "2010-11-05"
-tags: [ "movies" ]
+tags: [ "movie" ]
 count: 2
 title: "José e Pilar"
 stars: "5/5"

@@ -3,7 +3,7 @@ date: "2019-12-27"
 title: "Harry Potter e a Câmara Secreta"
 desc: '"Harry Potter and the Chamber of Secrets" (Reino Unido, EUA e Alemanha, 2002), escrito por Steve Kloves adaptando o livro de J.K. Rowling, dirigido por Chris Columbus, com Daniel Radcliffe, Rupert Grint e Emma Watson. Revisitando a série em BDB.'
 imdb: "0295297"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 Esta segunda aventura da série de adaptações cinematográficas dos livros infanto-juvenis da escritora J. K. Rowling já soa mais episódica que [seu primeiro e antecessor](/harry-potter-e-a-pedra-filosofal), mas mantém na magia, nas reviravoltas e nas ótimas atuações de seu elenco um pouco do lampejo de seu original. É óbvio que esta é uma produção que quer chamar mais atenção para seus efeitos, que convertem o fundo verde em torno de um carro "voador" para a magia de sobrevoar os céus de Londres em plena luz do dia. Mais detalhes sobre as relações entre bruxos e trouxas são revelados, e principalmente entre bruxos e bruxos.

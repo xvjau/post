@@ -3,7 +3,7 @@
 imdb: "3411572"
 
 date: "2016-02-22"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Amor em Sampa"
 stars: "3/5"
 desc: "Amor em Sampa. Amor em Sampa (Brazil, 2016). Dirigido por Carlos Alberto Riccelli, Kim Riccelli. Escrito por Bruna Lombardi. Com Bruna Lombardi, Eduardo Moscovis, Rodrigo Lombardi, Mariana Lima, Carlos Alberto Riccelli, Tiago Abravanel, Marcello Airoldi, Miá Mello, Kim Riccelli."

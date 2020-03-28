@@ -2,7 +2,7 @@
 date: 2018-03-15T00:00:03
 imdb: "5639354"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 title: "Uma Mulher Fantástica"
 desc: "Uma Mulher Fantástica."

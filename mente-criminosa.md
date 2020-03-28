@@ -3,7 +3,7 @@
 imdb: "3014866"
 
 date: "2016-04-07"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Mente Criminosa"
 stars: "4/5"
 desc: "Mente"

@@ -2,7 +2,7 @@
 imdb: "3691740"
 
 date: "2016-07-31"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "O Bom Gigante Amigo"
 stars: "3/5"
 desc: "O Bom Gigante Amigo. The BFG (UK, 2016). Dirigido por Steven Spielberg. Escrito por Melissa Mathison, Roald Dahl. Com Mark Rylance, Ruby Barnhill, Penelope Wilton, Jemaine Clement, Rebecca Hall, Rafe Spall, Bill Hader, Ólafur Darri Ólafsson, Adam Godley."

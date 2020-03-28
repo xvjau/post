@@ -2,7 +2,7 @@
 imdb: "0449059"
 
 date: "2017-01-22"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Pequena Miss Sunshine"
 stars: "5/5"
 desc: "Pequena Miss Sunshine. Little Miss Sunshine (USA, 2006). Dirigido por Jonathan Dayton, Valerie Faris. Escrito por Michael Arndt. Com Abigail Breslin (Olive Hoover), Greg Kinnear (Richard Hoover), Paul Dano (Dwayne), Alan Arkin (Grandpa Edwin Hoover), Toni Collette (Sheryl Hoover), Steve Carell (Frank Ginsberg), Marc Turtletaub (Doctor #1), Jill Talley (Cindy), Brenda Canela (Diner Waitress)."

@@ -3,7 +3,7 @@ date: "2020-01-07"
 title: "Ameaça Profunda"
 desc: '"Underwater" (EUA, 2020), escrito por Brian Duffield e Adam Cozad, dirigido por William Eubank, com Kristen Stewart, T.J. Miller e Jessica Henwick. Escrito para o CinemAqui.'
 imdb: "5774060"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "2/5"
 ---
 Ameaça Profunda é um candidato a "Alien: O Oitavo Passageiro" embaixo da água, só que em uma versão alternativa onde todas as grandes sacadas do filme de Ridley Scott deram errado ou sequer foram cogitadas. Este é um exemplo de filme de terror que, diferente dos outros filmes da década deste gênero, não evoluiu. Irá passar despercebido nos cinemas e será visto ocasionalmente em canais por assinatura às três da manhã ou em serviços de streaming que vão acabar o recomendando no final de um outro filme porque pagaram barato e alguém precisa assistir para justificar a compra.

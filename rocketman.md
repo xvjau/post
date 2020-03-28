@@ -3,7 +3,7 @@ date: "2019-12-03"
 title: "Rocketman"
 desc: '"Rocketman" (Reino Unido, Canadá e EUA, 2019), escrito por Lee Hall, dirigido por Dexter Fletcher, com Taron Egerton, Jamie Bell e Richard Madden. Assistindo para o top10 2019.'
 imdb: "2066051"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 Diferente do burocrático [Bohemian Rhapsody](/bohemian-rhapsody), cujos títulos das músicas, sua concepção e sua letra jamais nos permitem adentrar em um verdadeiro drama de quem já tem fama e dinheiro, Rocketman da metade para o final se torna um mergulho íntimo e doloroso para dentro das dores de um ser e de sua existência.

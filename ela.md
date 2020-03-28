@@ -2,7 +2,7 @@
 imdb: "1798709"
 
 date: "2014-03-07"
-tags: [ "movies" ]
+tags: [ "movie" ]
 count: 2
 title: "Ela"
 stars: "5/5"

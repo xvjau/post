@@ -3,7 +3,7 @@
 imdb: "4466490"
 
 date: "2016-11-30"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Sieranevada"
 stars: "5/5"
 desc: "Sieranevada. Sieranevada (Romania, 2016). Dirigido por"

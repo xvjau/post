@@ -5,7 +5,7 @@ imdb: "2873282"
 stars: "4/5"
 title: "Operação Red Sparrow"
 date: 2018-02-21T17:42:57
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 desc: "Operação Red Sparrow."
 ---
 Operação Red Sparrow é um filme para quem gosta de histórias de espionagem sem a ação dos filmes de James Bond e com um jogo de gato e rato intelectual que irá fazer você sair do cinema pensando por um bom tempo sobre o que foi que aconteceu.

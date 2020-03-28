@@ -3,7 +3,7 @@ date: "2019-08-01"
 title: "My Hero Academia: 2 Heróis - O Filme"
 desc: "My Hero Academia: Two Heroes. Japan, 2018. Dirigido por Kenji Nagasaki, escrito por Kôhei Horikoshi, Yôsuke Kuroda, Kôhei Horikoshi. Com Justin Briner, Christopher Sabat, Ray Chase. Escrito originalmente para o CinemAqui."
 imdb: "7745068"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 ---
 Acho engraçado esses animes que viram filme e querem apresentar todo o contexto já no título. Esse é o caso de My Hero Academia: 2 Heróis - O Filme, que depois do mangá virar anime e agora virar filme tem dois subtítulos. Imagino o título do futuro live action que será lançado: My Hero Academia: 2 Heróis - O Filme - Live Action - Dublagem Especial Contratada Pela Sato Company: A Revanche.

@@ -3,7 +3,7 @@
 imdb: "3089326"
 
 date: "2016-04-14"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "A Garota de Fogo"
 stars: "5/5"
 desc: "A Garota de Fogo. Magical Girl (Spain, 2014). Dirigido por Carlos Vermut. Escrito por Carlos Vermut. Com José Sacristán, Marina Andruix, Raimundo Reyes de los, Lucía Pollán, Luis Bermejo, Alberto Chaves, Julián Génisson, Roser Pujol, Toña Medina."

@@ -4,7 +4,7 @@ title: "Shiki Oriori: O Sabor da Juventude"
 desc: "Dirigido (e escrito?) por Haoling Li, Yoshitaka Takeuch, Xiaoxing Yi. Com Taito Ban, Dorothy Elias-Fahn, Matt Fowler (todos na versão internacional em inglês)."
 imdb: "8176578"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 Este é um filme que dá sono. Aliás, estes são três curtas. Que dão sono. Mas apesar dos bocejos e das pescadas, há algo de muito bonitinho acontecendo em Shiki Oriori, lançada pela Netflix que se orgulha em anunciar que é do mesmo estúdio de [Your Name](/your-name), o ultra-pop sucesso de Makoto Shinkai. Aqui nós temos três diretores diferentes trazendo uma percepção temática parecida entre as três histórias: a nostalgia de algo perdido em nossa juventude e que na fase adulta bate à porta.

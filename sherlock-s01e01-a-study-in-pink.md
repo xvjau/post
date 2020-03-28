@@ -2,7 +2,7 @@
 date: 2018-01-25T00:06:49
 imdb: "1665071"
 
-tags: [ "series" ]
+tags: [ "tv" ]
 stars: "4/5"
 title: "Sherlock Temporada 1, Episódio 1: A Study in Pink"
 desc: "Sherlock - Terceira Temporada. Sherlock (UK, 2010). Dirigido por Paul McGuigan. Escrito por Mark Gatiss, Steven Moffat, Arthur Conan Doyle, Steve Thompson. Com Benedict Cumberbatch, Martin Freeman, Rupert Graves, Una Stubbs, Louise Brealey, Mark Gatiss, Andrew Scott, Jonathan Aris."

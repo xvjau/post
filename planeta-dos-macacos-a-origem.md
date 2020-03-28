@@ -3,7 +3,7 @@ imdb: "1318514"
 
 date: "2011-08-31"
 review: [ "2016" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Planeta dos Macacos A Origem"
 stars: "4/5"
 desc: "Planeta dos Macacos A Origem. Rise of the Planet of the Apes (USA, 2011). Dirigido por Rupert Wyatt. Escrito por Rick Jaffa, Amanda Silver, Pierre Boulle. Com Andy Serkis, Karin Konoval, Terry Notary, Richard Ridings, Christopher Gordon, Devyn Dalton, Jay Caputo, James Franco, Freida Pinto."

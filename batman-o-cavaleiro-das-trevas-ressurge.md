@@ -2,7 +2,7 @@
 imdb: "1345836"
 
 date: "2012-08-17"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Batman O Cavaleiro das Trevas Ressurge"
 stars: "4/5"
 desc: "Batman O Cavaleiro das Trevas Ressurge. The Dark Knight Rises (USA, 2012). Dirigido por Christopher Nolan. Escrito por Jonathan Nolan, Christopher Nolan, Christopher Nolan, David S. Goyer, Bob Kane. Com Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt, Anne Hathaway, Marion Cotillard, Morgan Freeman, Michael Caine, Matthew Modine."

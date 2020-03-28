@@ -2,7 +2,7 @@
 imdb: "3790172"
 
 date: "2017-03-28"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "O Mundo Fora do Lugar"
 stars: "3/5"
 desc: "O Mundo Fora do Lugar. Die abhandene Welt (Germany, 2015). Dirigido por Margarethe von Trotta. Escrito por Margarethe von Trotta. Com Katja Riemann (Sophie), Barbara Sukowa (Caterina Fabiani / Evelyn Kromberger), Matthias Habich (Paul Kromberger), Robert Seeliger (Philip), Gunnar Möller (Ralf Kromberger), Karin Dor (Rosa), August Zirner (Georg), Tom Beck (Florian), Arne Jansen (Piet)."

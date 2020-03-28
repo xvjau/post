@@ -3,7 +3,7 @@
 imdb: "5333110"
 
 date: "2016-12-09"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Estados Unidos Pelo Amor"
 stars: "4/5"
 desc: "Estados Unidos Pelo Amor. Zjednoczone stany milosci (Poland, 2016). Dirigido por Tomasz Wasilewski. Escrito por Tomasz Wasilewski. Com Julia Kijowska (Agata), Magdalena Cielecka (Iza), Dorota Kolak (Renata), Marta Nieradkiewicz (Marzena), Tomasz Tyndyk (Adam), Andrzej Chyra (Karol), Lukasz Simlat (Jacek), Marcin Czarnik (Robert), Jedrzej Wielecki (Piotrek)."

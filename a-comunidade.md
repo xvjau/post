@@ -3,7 +3,7 @@
 imdb: "3082854"
 
 date: "2016-08-04"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "A Comunidade"
 stars: "5/5"
 desc: "A Comunidade. Kollektivet (Denmark, 2016). Dirigido por Thomas Vinterberg. Escrito por Tobias Lindholm, Thomas Vinterberg. Com Ulrich Thomsen, Fares Fares, Trine Dyrholm, Julie Agnete Vang, Helene Reingaard Neumann, Lars Ranthe, Ole Dupont, Martha Sofie Wallstrøm Hansen, Magnus Millang."

@@ -3,7 +3,7 @@ date: "2019-10-26"
 title: "A Odisseia dos Tontos"
 desc: '"La odisea de los giles" (Argentina, Espanha, 2019), escrito por Sebastián Borensztein baseado no livro de Eduardo Sacheri, dirigido por Sebastián Borensztein, com Ricardo Darín, Luis Brandoni e Chino Darín. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "10384744"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 ---
 Fermín Perlassi, personagem de Ricardo Darín, acaba de explicar seu plano de empreender em uma cooperativa local onde a economia da vida de vários moradores servirão para o início do projeto. Ele termina dizendo a famigerada pergunta retórica "o que pode dar errado?", e duas linhas de letreiros "respondem", uma após a outra, deixando claro que A Odisseia dos Tontos não poderia ter um título melhor. A primeira linha: Argentina. A segunda linha: agosto de 2001.

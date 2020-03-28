@@ -2,7 +2,7 @@
 imdb: "1430607"
 
 date: "2011-07-12"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Operação Presente"
 stars: "4/5"
 desc: "Operação Presente. Arthur Christmas (UK, 2011). Dirigido por Sarah Smith, Barry Cook. Escrito por Peter Baynham, Sarah Smith. Com James McAvoy, Hugh Laurie, Bill Nighy, Jim Broadbent, Imelda Staunton, Ashley Jensen, Marc Wootton, Laura Linney, Eva Longoria."

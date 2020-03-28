@@ -2,7 +2,7 @@
 imdb: "0113627"
 
 date: "2011-10-22"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Despedida em Las Vegas"
 stars: "5/5"
 desc: "Despedida em Las Vegas. Leaving Las Vegas (USA, 1995). Dirigido por Mike Figgis. Escrito por John O'Brien, Mike Figgis. Com Nicolas Cage, Elisabeth Shue, Julian Sands, Richard Lewis, Steven Weber, Kim Adams, Emily Procter, Stuart Regen, Valeria Golino."

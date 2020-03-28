@@ -4,7 +4,7 @@ title: "Morte Na Escadaria (Staircase)"
 desc: "Soupçons. França, 2004. Com Michael Peterson, David Rudolf, Ron Guerette."
 imdb: "0388644"
 
-tags: [ "series" ]
+tags: [ "tv" ]
 stars: "4/5"
 ---
 Mais uma série que demonstra a incompetência e/ou a má fé do sistema americano de justiça. Ou podemos dizer a má fé de qualquer sistema de justiça estatal? Perdoem-me os religiosos, mas um sistema que paga juiz e advogado de acusação pela mesma folha não tem muitas chances de ser algo remotamente imparcial.

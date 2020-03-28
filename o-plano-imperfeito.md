@@ -4,7 +4,7 @@ title: "O Plano Imperfeito"
 desc: "Set It Up. EUA, 2018. Escrito por Katie Silberman, dirigido por Claire Scanlon. Com Zoey Deutch, Glen Powell, Lucy Liu."
 imdb: "5304992"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "2/5"
 ---
 Você já sabe a história pelo trailer, e até algumas das piadas. Ele e ela são assistentes de Lucy Liu e um outro cara (Taye Diggs), que fazem o estilo obcecados pelo trabalho da Meryl Streep em [O Diabo Veste Prada](/o-diabo-veste-prada), mas sem o charme, o carisma, a inteligência e o motivo de assim serem. Logo, são apenas egoístas mimados que sugam todo o tempo de seus subordinados, evitando que eles também tenham uma vida social, aguardando pela grande guinada de suas vidas. Quando ambos se encontram na mesma situação lamentável de trabalharem até tarde todos os dias resolvem bancar o cupido para que os dois mimados fiquem juntos e assim tenham mais tempo para suas próprias vidas. O que ocorre se assemelha a tantos outros tabalhos, com as piadas modernizadas para "first world problems" dos 2010s.

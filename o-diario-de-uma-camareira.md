@@ -3,7 +3,7 @@ date: "2020-02-06"
 title: "O Diario De Uma Camareira"
 desc: '"Le journal d''une femme de chambre" (França e Itália, 1964), escrito por Octave Mirbeau, Luis Buñuel e Jean-Claude Carrière, dirigido por Luis Buñuel, com Jeanne Moreau, Georges Géret e Daniel Ivernel. Um DVD daqueles de arte.'
 imdb: "0058249"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 Meu primeiro Luis Buñuel, este maluco surrealista (como deve ser todo surrealista) que abdica da razão para conseguir atingir a emoção freudiana. Com medo de se tornar o tipo mais comum e surrado das teorias do psicanalista, o neurótico, o cineasta escreve errado por linhas apagadas e conta a história de uma camareira deliciosa de Paris e como todos os homens do interior adorariam fazer qualquer coisa com ela.

@@ -2,7 +2,7 @@
 imdb: "0088846"
 
 date: "2016-08-09"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Brazil: O Filme"
 stars: "5/5"
 desc: "Brazil: O Filme. Brazil (UK, 1985). Dirigido por Terry Gilliam. Escrito por Terry Gilliam, Tom Stoppard, Charles McKeown. Com Jonathan Pryce, Robert De Niro, Katherine Helmond, Ian Holm, Bob Hoskins, Michael Palin, Ian Richardson, Peter Vaughan, Kim Greist."

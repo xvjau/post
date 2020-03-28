@@ -2,7 +2,7 @@
 imdb: "1951265"
 
 date: "2015-04-19"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Jogos Vorazes: A Esperança - Parte 1"
 stars: "5/5"
 desc: "Jogos Vorazes: A Esperança - Parte 1. The Hunger Games: Mockingjay - Part 1 (USA, 2014). Dirigido por Francis Lawrence. Escrito por Peter Craig, Danny Strong, Suzanne Collins, Suzanne Collins. Com Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Donald Sutherland, Philip Seymour Hoffman, Julianne Moore, Willow Shields, Sam Claflin."

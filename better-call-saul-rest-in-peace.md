@@ -3,7 +3,7 @@ date: "2020-03-19"
 title: "Better Call Saul: Rest in Peace?"
 desc: '"Better Call Saul" (United States, 2015), escrito por Vince Gilligan, Peter Gould e Gordon Smith, com Bob Odenkirk, Jonathan Banks e Rhea Seehorn.'
 imdb: "3032476"
-tags: [ "series" ]
+tags: [ "tv" ]
 stars: "2/5"
 ---
 Os episódios 4 e 5 dessa quinta temporada parecem finalmente ter saído do trilho que mantém a qualidade das obras de Vince Gilligan para TV. Vemos nossos personagens queridos falando mais do que deviam, em específico Mike, que parece não pertencer mais a ele mesmo e revela fraquezas de interpretação de Jonathan Banks que, assim como as de Dean Norris e seu Hank Schrader, poderiam ter ficado de fora sem ceder à pressão inócua dos fãs. Vemos no próprio roteiro o tradicional mistério do início da história que costuma ser revelado no final de maneira engenhosa aqui ser usado como quase um fetiche vingativo bobo e, se não previsível, é porque ele é bobo demais. Ele é a versão menor, mundana, da cena que termina com uma geral onde aparece uma placa de um carrão de certo personagem escrito "Namastê", que por si só já nos joga de imediato para várias críticas sobre como seres humanos resolvem suas contradições internas da maneira mais superficial possível, em um processo de auto-enganação sistêmico e doentio. E Howard Hamlin não precisou deixar de ser Howard Hamlin para isso.

@@ -4,7 +4,7 @@ title: "O Nome da Morte"
 desc: "O Nome da Morte (Brasil, 2018), escrito por Henrique Goldman e George Moura, com colaboração de Vitor Leite, dirigido por Goldman, com André Mattos, Marco Pigossi, Marie Paquim."
 imdb: "5991954"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 
 ---

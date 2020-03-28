@@ -2,7 +2,7 @@
 imdb: "0266697"
 
 date: "2010-09-09"
-tags: [ "movies" ]
+tags: [ "movie" ]
 count: 2
 title: "Kill Bill Volume 1"
 stars: "5/5"

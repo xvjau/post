@@ -2,7 +2,7 @@
 imdb: "0993846"
 
 date: 2018-10-07
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Lobo de Wall Street"
 stars: "5/5"
 desc: "O Lobo de Wall Street. The Wolf of Wall Street (USA, 2013). Dirigido por Martin Scorsese. Escrito por Terence Winter, Jordan Belfort. Com Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey, Kyle Chandler, Rob Reiner, Jon Bernthal, Jon Favreau, Jean Dujardin."

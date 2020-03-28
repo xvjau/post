@@ -3,7 +3,7 @@ imdb: "0078748"
 
 date: "2011-12-04"
 review: [ "2015" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Alien o Oitavo Passageiro"
 stars: "5/5"
 desc: "Alien o Oitavo Passageiro. Alien (USA, 1979). Dirigido por Ridley Scott. Escrito por Dan O'Bannon, Ronald Shusett, Dan O'Bannon. Com Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton, John Hurt, Ian Holm, Yaphet Kotto, Bolaji Badejo, Helen Horton."

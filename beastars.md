@@ -2,7 +2,7 @@
 date: "2020-03-22"
 title: "Beastars"
 desc: '"Beastars" (Japan, 2019), escrito por Nanami Higuchi e Paru Itagaki, com Jonah Scott, Chikahiro Kobayashi e Lara Jill Miller.'
-tags: [ "series" ]
+tags: [ "tv" ]
 imdb: "11043632"
 stars: "3/5"
 ---

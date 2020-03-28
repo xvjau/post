@@ -3,7 +3,7 @@ date: 2019-06-19T17:55:21-03:00
 title: "Blade Runner: O Caçador de Androides"
 desc: "Blade Runner"
 imdb: "0083658"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "5/5"
 
 ---

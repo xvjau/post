@@ -1,7 +1,7 @@
 ---
 date: 2018-05-10T14:54:06-03:00
 title: "O Renascimento do Parto 2"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "1/5"
 desc: "O Renascimento Do Parto 2 (Brasil, 2018), dirigido por Eduardo Chauvet."
 

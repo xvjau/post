@@ -2,7 +2,7 @@
 imdb: "1201607"
 review: [ "2019" ]
 date: "2011-07-22"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Harry Potter e as Relíquias da Morte Parte 2"
 stars: "5/5"
 desc: "Harry Potter e as Relíquias da Morte Parte 2. Harry Potter and the Deathly Hallows: Part 2 (USA, 2011). Dirigido por David Yates. Escrito por Steve Kloves, J.K. Rowling. Com Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe, Rupert Grint, Emma Watson, Evanna Lynch, Domhnall Gleeson, Clémence Poésy."

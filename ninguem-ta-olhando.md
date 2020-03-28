@@ -3,7 +3,7 @@ date: "2019-12-02"
 title: "Ninguém Tá Olhando"
 desc: '"Ninguém Tá Olhando" (Brasil, 2019), escrito por Carolina Markowicz, Teodoro Poppovic e Daniel Rezende, com Kéfera Buchmann, Danilo de Moura e Victor Lamoglia. Netflix.'
 imdb: "11131980"
-tags: [ "series" ]
+tags: [ "tv" ]
 stars: "1/5"
 ---
 É gostoso assistir a uma série nova e sua ideia fresca, com algumas sacadas que revisitam temas anteriores, mas sob um novo olhar: o olhar brazuca. É assim que chega Ninguém Tá Olhando na Netflix, um trabalho conjunto entre uma cineasta de curtas documentais de aspecto social (Carolina Markowicz), o autor da terrível série [3%](/3-perc) (Teodoro Poppovic) e um editor de filmes com forte fundo social, como [Tropa de Elite](/tropa-de-elite) e [Cidade de Deus](/cidade-de-deus) (Daniel Rezende), que justamente por conta de seus criadores e do formato televisito da rede de streaming vira uma maçaroca de dar dó já no seu terceiro episódio.

@@ -2,7 +2,7 @@
 imdb: "1645170"
 
 date: "2012-09-06"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Ditador"
 stars: "4/5"
 desc: "O Ditador. The Dictator (USA, 2012). Dirigido por Larry Charles. Escrito por Sacha Baron Cohen, Alec Berg, David Mandel, Jeff Schaffer. Com Sacha Baron Cohen, Sayed Badreya, Rocky Citron, Liam Campora, Aasif Mandvi, Rizwan Manji, Rick Chambers, Elsayed Mohamed, Adeel Akhtar."

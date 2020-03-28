@@ -4,7 +4,7 @@ title: "Nos Vemos no Paraíso"
 desc: "Au revoir là-haut (França/Canadá, 2017), escrito por Albert Dupontel adaptado do livro de Pierre Lemaitre, que participou do roteiro; dirigido por Dupontel. Com Nahuel Pérez Biscayart, Albert Dupontel, Laurent Lafitte."
 imdb: "5258850"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 
 ---

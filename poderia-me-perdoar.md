@@ -4,7 +4,7 @@ title: "Poderia Me Perdoar?"
 desc: "Can You Ever Forgive Me? (EUA, 2018), escrito por Nicole Holofcener e Jeff Whitty, dirigido por Marielle Heller, com Melissa McCarthy, Richard E. Grant, Dolly Wells. #mostrasp"
 imdb: "4595882"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 
 ---

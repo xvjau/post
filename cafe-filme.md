@@ -4,7 +4,7 @@ title: "Café"
 desc: "Caffè (Bélgica/China/Itália, 2016), escrito por"
 imdb: "4947672"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 
 ---

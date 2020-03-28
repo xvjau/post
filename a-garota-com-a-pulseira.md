@@ -3,7 +3,7 @@ date: "2019-10-17"
 title: "A Garota com a Pulseira"
 desc: '"La Fille au Bracelet" (França, 2019), escrito por Stéphane Demoustier, dirigido por Stéphane Demoustier, com Melissa Guers, Roschdy Zem e Anaïs Demoustier. Escrito para o CinemAqui na cobertura da #mostrap.'
 imdb: "7766886"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 ---
 É uma moda constante os filmes com "A Garota...". Este A Garota com a Pulseira é um filme de júri, o que já faz 90% do trabalho, pois já chama atenção automaticamente do espectador, que vai querer desde o começo até o final saber a resolução do caso (e corre o sério risco de não saber, pois este é um filme francês...). Porém, este não é um roteiro 100% preguiçoso, apesar de usar velhos temas de júri e de julgamentos que fazemos das pessoas todos os dias.

@@ -2,7 +2,7 @@
 imdb: "1294688"
 
 date: "2012-06-18"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Apenas uma Noite"
 stars: "4/5"
 desc: "Apenas uma Noite. Last Night (USA, 2010). Dirigido por Massy Tadjedin. Escrito por Massy Tadjedin. Com Keira Knightley, Sam Worthington, Guillaume Canet, Eva Mendes, Daniel Eric Gold, Scott Adsit, Griffin Dunne, Stephanie Romanov, Anson Mount."

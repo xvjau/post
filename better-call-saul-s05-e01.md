@@ -3,7 +3,7 @@ date: "2020-03-02"
 title: "Better Call Saul (S05 E01)"
 desc: '"Better Call Saul" (United States, 2015), escrito por Vince Gilligan, Peter Gould e Gordon Smith, com Bob Odenkirk, Jonathan Banks e Rhea Seehorn.'
 imdb: "3032476"
-tags: [ "series" ]
+tags: [ "tv" ]
 stars: "5/5"
 ---
 Avançando no futuro e no passado, eis que chegamos ao momento que Jimmy se torna Saul. E não é nada glamoroso. Causa uma estranheza um advogado com ternos coloridos de tamanhos inadequados aparecer de repente, como uma borboleta defeituosa, com uma asa faltando, que surge do casulo.

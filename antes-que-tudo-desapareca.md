@@ -1,7 +1,7 @@
 ---
 date: 2018-04-03T17:49:59-03:00
 title: "Antes que Tudo Desapareça"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 imdb: "5999530"
 
 stars: "2/5"

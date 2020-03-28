@@ -4,7 +4,7 @@ title: "The Umbrella Academy"
 desc: "The Umbrella Academy. Criado por Jeremy Slater (conhecido por péssimos trabalhos), com Ellen Page, Tom Hopper, David Castañeda e mais uma galerinha do barulho."
 imdb: "1312171"
 
-tags: [ "series" ]
+tags: [ "tv" ]
 stars: "3/5"
 ---
 Estava assistindo The Umbrella Academy e lá pelo terceiro episódio tive uma ideia genial: assistir já o último. A ideia para um crítico de cinema como eu é clara: não há nada que seja desenvolvido nos episódios intermediários que não será citado ou terá referências no season finale, e se houver não importa tanto assim. Tempo economizado, pretendo fazer isso com todas as séries se o começo não tiver indícios de que o resto seja acima da média.

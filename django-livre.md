@@ -2,7 +2,7 @@
 imdb: "1853728"
 
 date: "2013-02-05"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Django Livre"
 stars: "4/5"
 desc: "Django Livre. Django Unchained (USA, 2012). Dirigido por Quentin Tarantino. Escrito por Quentin Tarantino. Com Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, Samuel L. Jackson, Walton Goggins, Dennis Christopher, James Remar, David Steen."

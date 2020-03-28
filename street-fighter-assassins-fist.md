@@ -2,7 +2,7 @@
 imdb: "3069212"
 
 date: "2014-10-05"
-tags: [ "series" ]
+tags: [ "tv" ]
 title: "Street Fighter: Assassin's Fist"
 stars: "2/5"
 desc: "Street Fighter: Assassin's Fist. Street Fighter: Assassin's Fist (UK, 2014). Dirigido por Joey Ansah. Escrito por Joey Ansah, Christian Howard. Com Togo Igawa, Christian Howard, Mike Moh, Akira Koieyama, Shogen, Gaku Space, Joey Ansah, Hyunri."

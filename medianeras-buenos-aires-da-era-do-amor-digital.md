@@ -3,7 +3,7 @@ imdb: "1235841"
 
 date: "2011-09-11"
 review: [ "2013" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Medianeras Buenos Aires da Era do Amor Virtual"
 stars: "3/5"
 desc: "Medianeras Buenos Aires da Era do Amor Virtual. Medianeras (Argentina, 2011). Dirigido por Gustavo Taretto. Escrito por Gustavo Taretto. Com Javier Drolas, Pilar López de Ayala, Inés Efron, Adrián Navarro, Rafael Ferro, Carla Peterson, Jorge Lanata, Alan Pauls, Romina Paula."

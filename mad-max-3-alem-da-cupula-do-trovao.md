@@ -4,7 +4,7 @@ title: "Mad Max 3: Além da Cúpula do Trovão"
 desc: "Mad Max Beyond Thunderdome. Austrália, 1985. Dirigido por George Miller e George Ogilvie, escrito por Terry Hayes e George Miller. Com Mel Gibson, Tina Turner, Bruce Spence, Paul Larsson como The Blaster e Angelo Rossitto como The Master."
 imdb: "0089530"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 "Mad Max 3: Além da Cúpula do Trovão" já possui um lindo nome e no Brasil decidem apenas traduzir o subtítulo. Muito bem, não se mexe onde está ganhando. Traz Tina Turner junto de Mel Gibson nos créditos principais, mas o principal trabalho da cantora está menos no filme e mais nas músicas de abertura e encerramento do espetáculo. Você vai se lembrar da música do final, por isso não desligue antes dos créditos.

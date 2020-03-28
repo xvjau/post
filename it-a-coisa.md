@@ -4,7 +4,7 @@ title: "It: A Coisa"
 desc: "It. EUA, Canadá, 2017. Escrito por Chase Palmer, Cary Fukunaga e Gary Dauberman, baseados no romance de Stephen King. Dirigido por Andy Muschietti. Com Bill Skarsgård, Jaeden Lieberher, Finn Wolfhard."
 imdb: "1396484"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 O que é o medo? Eis uma pergunta extremamente importante para os que desejam adaptar a obra icônica de Stephen King, "It", onde o medo é descrito de maneira literária. E abstrata. Ela não é um palhaço aterrorizante, nem criaturas que saem dos quadros, nem qualquer clichê cinematográfico de filmes de horror.

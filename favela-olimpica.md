@@ -3,7 +3,7 @@
 imdb: "7169096"
 
 date: 2017-10-24T01:41:35
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Favela Olimpica"
 stars: "5/5"
 desc: "Favela Olimpica. Favela Olímpica (Switzerland, 2017). Dirigido por Samuel Chalard."

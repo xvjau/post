@@ -3,7 +3,7 @@
 imdb: "3790756"
 
 date: 2017-09-05T17:32:54
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "A Gente"
 stars: "4/5"
 desc: "A Gente. A Gente (Brazil, 2013). Dirigido por Aly Muritiba. Escrito por Aly Muritiba."

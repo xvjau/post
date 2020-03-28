@@ -2,7 +2,7 @@
 imdb: "0451279"
 
 date: "2017-06-01"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Mulher-Maravilha"
 stars: "2/5"
 desc: "Mulher-Maravilha. Wonder Woman (USA, 2017). Dirigido por Patty Jenkins. Escrito por Allan Heinberg, Zack Snyder, Jason Fuchs, William Moulton Marston. Com Gal Gadot (Diana), Chris Pine (Steve Trevor), Connie Nielsen (Hippolyta), Robin Wright (Antiope), Danny Huston (Ludendorff), David Thewlis (Sir Patrick), Saïd Taghmaoui (Sameer), Ewen Bremner (Charlie), Eugene Brave Rock (The Chief)."

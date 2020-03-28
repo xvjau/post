@@ -3,7 +3,7 @@ imdb: "1375666"
 
 date: "2010-08-06"
 review: [ "2015" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "A Origem"
 stars: "5/5"
 desc: "A Origem. Inception (USA, 2010). Dirigido por Christopher Nolan. Escrito por Christopher Nolan. Com Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy, Ken Watanabe, Dileep Rao, Cillian Murphy, Tom Berenger, Marion Cotillard."

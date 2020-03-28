@@ -2,7 +2,7 @@
 imdb: "3072174"
 
 date: "2017-07-01"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Os Pobres Diabos"
 stars: "1/5"
 desc: "Os Pobres Diabos. Os Pobres Diabos (Brazil, 2013). Dirigido por Rosemberg Cariry. Escrito por Rosemberg Cariry. Com Sâmia Bittencourt, Sílvia Buarque (Creusa), Gero Camilo (Zeferino), Georgina Castro, Chico Díaz (Lazarino), Nanego Lira, Zezita Matos (Zezivalda), Everaldo Pontes (Arnaldo)."

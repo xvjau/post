@@ -3,7 +3,7 @@
 imdb: "5221004"
 
 date: 2017-08-17T17:07:09
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Doidas e Santas"
 stars: "2/5"
 desc: "Doidas e Santas. Doidas e Santas (Brazil, 2016). Dirigido por Paulo Thiago. Escrito por Martha Medeiros, Paulo Thiago. Com Maria Paula (Beatriz), Georgiana Góes (Berenice), Flávia Alessandra, Jonas Bloch, Roberto Bonfim, Nicette Bruno (Elda), Fernando Caruso, Zeca Carvalho (Cadu), Iván Espeche (Juan)."

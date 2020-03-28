@@ -2,7 +2,7 @@
 imdb: "0126886"
 
 date: "2015-12-02"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Eleição"
 stars: "5/5"
 desc: "Eleição. Election (USA, 1999). Dirigido por Alexander Payne. Escrito por Tom Perrotta, Alexander Payne, Jim Taylor. Com Matthew Broderick, Reese Witherspoon, Chris Klein, Jessica Campbell, Mark Harelik, Phil Reeves, Molly Hagan, Delaney Driscoll, Colleen Camp."

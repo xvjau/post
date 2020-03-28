@@ -2,7 +2,7 @@
 imdb: "1823672"
 
 date: "2015-05-26"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Chappie"
 stars: "3/5"
 desc: "Chappie. Chappie (USA, 2015). Dirigido por Neill Blomkamp. Escrito por Neill Blomkamp, Terri Tatchell. Com Sharlto Copley, Dev Patel, Ninja, Yo-Landi Visser, Jose Pablo Cantillo, Hugh Jackman, Sigourney Weaver, Brandon Auret, Johnny Selema."

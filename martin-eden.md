@@ -3,7 +3,7 @@ date: "2020-02-06"
 title: "Martin Eden"
 desc: '"Martin Eden" (Itália, França e Alemanha, 2019), escrito por Maurizio Braucci e Pietro Marcello baseados no livro de Jack London, dirigido por Pietro Marcello, com Luca Marinelli, Jessica Cressy e Vincenzo Nemolato.'
 imdb: "4516162"
-tags: [ "movies", "cinemaqui" ]
+tags: [ "movie", "cinemaqui" ]
 stars: "4/5"
 ---
 Martin Eden... Martin Eden... Martin Eden. Ouvimos esse nome tantas vezes neste filme que ele se torna inconfundível. Um nome que pode significar tantas coisas acaba se tornando indecifrável. No final ele se confunde com a espuma do mar. Nunca existiu este escritor, e nunca existirá, mas ele é a síntese de todos os que já existiram.

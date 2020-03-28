@@ -4,7 +4,7 @@ review: [ "2019" ]
 title: "Corra!"
 desc: '"Get Out" (EUA e Japão, 2017), escrito por Jordan Peele, dirigido por Jordan Peele, com Daniel Kaluuya, Allison Williams e Catherine Keener.'
 imdb: "5052448"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 "Os brancos estão por cima faz uns 200 anos. Agora o negro está na moda." Essa frase de "Corra!" basicamente resume o filme e a época em que vivemos. Uma época onde o mérito é ter um passado vitimista e ter a cor da pele certa. Uma época racista ao inverso, onde ser negro é ser cool, onde sua genética é exaltada e onde não há nada mais natural que um filme de terror sobre isso.

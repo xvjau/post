@@ -2,7 +2,7 @@
 imdb: "3606752"
 
 date: "2017-07-08"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Carros 3"
 stars: "3/5"
 desc: "Carros 3. Cars 3 (USA, 2017). Dirigido por Brian Fee. Escrito por Brian Fee, Ben Queen, Eyal Podell, Jonathon E. Stewart, Kiel Murray, Bob Peterson, Mike Rich. Com Owen Wilson (Lightning McQueen),"

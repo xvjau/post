@@ -3,7 +3,7 @@
 imdb: "3068194"
 
 date: "2016-07-06"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Amor e Amizade"
 stars: "3/5"
 desc: "Amor e Amizade. Love & Friendship (Ireland, 2016). Dirigido por Whit Stillman. Escrito por Jane Austen, Whit Stillman. Com Kate Beckinsale, Morfydd Clark, Tom Bennett, Jenn Murray, Lochlann O'Mearáin, Sophie Radermacher, Chloë Sevigny, Stephen Fry, Jordan Waller."

@@ -3,7 +3,7 @@ date: "2019-08-05"
 title: "Mulheres Armadas, Homens na Lata"
 desc: "Rebelles (aka Rebels). France, 2019. Dirigido por Allan Mauduit, escrito por Jérémie Guez, Jérémie Guez, Allan Mauduit. Com Cécile de France, Yolande Moreau, Audrey Lamy. Escrito originalmente para o CinemAqui."
 imdb: "8083606"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 ---
 Um espectro sonda a Europa -- o espectro do feminismo. Todas as nações europeias já o estão conjurando, sobretudo a França. Mulheres Armadas, Homens na Lata é o resultado. Um filme leve, dinâmico, divertido e que se tem uma preocupação que seja, é fazer essas garotas saírem por cima a qualquer custo.

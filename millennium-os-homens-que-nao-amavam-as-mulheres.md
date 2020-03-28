@@ -2,7 +2,7 @@
 imdb: "1568346"
 
 date: "2012-02-19"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Millennium Os Homens que Não Amavam as Mulheres"
 stars: "5/5"
 desc: "Millennium Os Homens que Não Amavam as Mulheres. The Girl with the Dragon Tattoo (USA, 2011). Dirigido por David Fincher. Escrito por Steven Zaillian, Stieg Larsson. Com Daniel Craig, Rooney Mara, Christopher Plummer, Stellan Skarsgård, Steven Berkoff, Robin Wright, Yorick van Wageningen, Joely Richardson, Geraldine James."

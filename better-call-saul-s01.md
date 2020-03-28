@@ -2,7 +2,7 @@
 imdb: "3032476"
 
 date: "2016-04-22"
-tags: [ "series" ]
+tags: [ "tv" ]
 title: "Better Call Saul - Primeira Temporada"
 stars: "5/5"
 desc: "Better Call Saul - Primeira Temporada. Better Call Saul (USA, 2015). Dirigido por Colin Bucksey. Escrito por Vince Gilligan, Peter Gould, Gennifer Hutchison, Thomas Schnauz, Gordon Smith. Com Bob Odenkirk, Jonathan Banks, Rhea Seehorn, Patrick Fabian, Michael Mando, Michael McKean."

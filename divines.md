@@ -2,7 +2,7 @@
 imdb: "4730986"
 
 date: "2016-11-27"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Divines"
 stars: "3/5"
 desc: "Divines. Divines (France, 2016). Dirigido por Houda Benyamina. Escrito por Houda Benyamina, Romain Compingt, Malik Rumeau. Com Oulaya Amamra (Dounia), Déborah Lukumuena (Maimouna), Kevin Mischel (Djigui), Jisca Kalvanda (Rebecca), Yasin Houicha (Samir), Majdouline Idrissi (la mère Myriam), Bass Dhem (Monsieur Camara), Farid Larbi (Reda), Maryama Soumare (Madame Camara)."

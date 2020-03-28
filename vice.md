@@ -4,7 +4,7 @@ title: "Vice"
 desc: "Vice (EUA, 2018), escrito e dirigido por Adam McKay, com Christian Bale como Dick Cheney, Amy Adams como Lynne Cheney, Steve Carell como Donald Rumsfeld, Sam Rockwell como George W. Bush."
 imdb: "6266538"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 
 ---

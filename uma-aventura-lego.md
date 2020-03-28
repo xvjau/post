@@ -3,7 +3,7 @@ imdb: "1490017"
 
 date: "2014-03-03"
 review: [ "2015", "2016", "2019" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Uma Aventura LEGO"
 stars: "5/5"
 desc: "Uma Aventura LEGO. The Lego Movie (Australia, 2014). Dirigido por Phil Lord, Christopher Miller. Escrito por Phil Lord, Christopher Miller, Dan Hageman, Kevin Hageman, Phil Lord, Christopher Miller. Com Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie, David Burrows, Anthony Daniels, Charlie Day, Amanda Farinos, Keith Ferguson."

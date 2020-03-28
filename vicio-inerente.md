@@ -2,7 +2,7 @@
 imdb: "1791528"
 
 date: "2015-03-27"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Vício Inerente"
 stars: "4/5"
 desc: "Vício Inerente. Inherent Vice (USA, 2014). Dirigido por Paul Thomas Anderson. Escrito por Paul Thomas Anderson, Thomas Pynchon. Com Joanna Newsom, Katherine Waterston, Joaquin Phoenix, Jordan Christian Hearn, Taylor Bonin, Jeannie Berlin, Josh Brolin, Eric Roberts, Serena Scott Thomas."

@@ -2,7 +2,7 @@
 imdb: "1234721"
 
 date: "2014-02-24"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "RoboCop"
 stars: "4/5"
 desc: "RoboCop. RoboCop (USA, 2014). Dirigido por José Padilha. Escrito por Joshua Zetumer, Edward Neumeier, Michael Miner, Edward Neumeier, Michael Miner. Com Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish, Jackie Earle Haley, Michael Kenneth Williams, Jennifer Ehle, Jay Baruchel, Marianne Jean-Baptiste."

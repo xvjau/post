@@ -4,7 +4,7 @@ title: "Os Raptores"
 desc: "Os Raptores. Brasil, 1969. Dirigido por Aurélio Teixeira que fez o roteiro com base na história de Acyr G. Ferreira. Com Sindoval Aguiar, Jotta Barroso, Maurício Barroso, Carlos Eduardo Dolabella, Ary Fontoura, Milton Gonçalves, Sebastião Vasconcelos."
 imdb: "0201003"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 Um dos DVDs perdidos por aqui é esse Os Raptores, policial brasileiro do final dos anos 60, que se você assistir vai chegar à seguinte conclusão: havia muitos Fuscas no Rio e as pessoas falavam um português formal muito engraçado.

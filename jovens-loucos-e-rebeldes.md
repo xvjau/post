@@ -2,7 +2,7 @@
 imdb: "0106677"
 
 date: "2016-09-09"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Jovens, Loucos e Rebeldes"
 stars: "5/5"
 desc: "Jovens, Loucos e Rebeldes. Dazed and Confused (USA, 1993). Dirigido por Richard Linklater. Escrito por Richard Linklater. Com Jason London, Joey Lauren Adams, Milla Jovovich, Shawn Andrews, Rory Cochrane, Adam Goldberg, Anthony Rapp, Sasha Jenson, Marissa Ribisi."

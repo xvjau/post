@@ -2,7 +2,7 @@
 imdb: "1211837"
 
 date: "2016-11-17"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Doutor Estranho"
 stars: "3/5"
 desc: "Doutor Estranho. Doctor Strange (USA, 2016). Dirigido por Scott Derrickson. Escrito por Jon Spaihts, Scott Derrickson, C. Robert Cargill, Steve Ditko. Com Benedict Cumberbatch (Dr. Stephen Strange), Chiwetel Ejiofor (Mordo), Rachel McAdams (Christine Palmer), Benedict Wong (Wong), Mads Mikkelsen (Kaecilius), Tilda Swinton (The Ancient One), Michael Stuhlbarg (Dr. Nicodemus West), Benjamin Bratt (Jonathan Pangborn), Scott Adkins (Lucian / Strong Zealot)."

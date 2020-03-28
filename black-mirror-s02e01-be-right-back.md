@@ -2,7 +2,7 @@
 imdb: "2085059"
 
 date: "2015-12-13"
-tags: [ "series" ]
+tags: [ "tv" ]
 title: "Black Mirror - S02E01 - Be Right Back"
 stars: "5/5"
 desc: "Be Right Back. Black Mirror (UK, 2011). Dirigido por Owen Harris. Escrito por Charlie Brooker. Com Hayley Atwell, Domhnall Gleeson, Claire Keelan."

@@ -3,7 +3,7 @@ date: "2015-12-27"
 title: "A Viagem de Chihiro"
 desc: "A Viagem de Chihiro. Sen to Chihiro no kamikakushi (Japan, 2001). Dirigido por Hayao Miyazaki. Escrito por Hayao Miyazaki. Com Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô, Yasuko Sawaguchi, Tatsuya Gashûin, Ryûnosuke Kamiki, Yumi Tamai, Yô Ôizumi."
 imdb: "0245429"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "5/5"
 review: [ "2020" ]
 ---

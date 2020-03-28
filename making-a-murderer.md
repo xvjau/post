@@ -2,7 +2,7 @@
 imdb: "5189670"
 
 date: "2016-02-07"
-tags: [ "series" ]
+tags: [ "tv" ]
 title: "Making a Murderer"
 stars: "5/5"
 desc: "Making a Murderer. Making a Murderer (USA, 2015). Dirigido por Moira Demos, Laura Ricciardi. Escrito por Moira Demos, Laura Ricciardi. Com Steven Avery."

@@ -3,7 +3,7 @@ date: "2019-10-22"
 title: "Fotográfo De Guerra"
 desc: '"War Photographer" (Dinamarca e Iraque, 2019), dirigido por Boris B. Bertram, com Marie Bitsch-Larsen, Elias Sekjær Grarup e Jan Grarup. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "9016026"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 ---
 Fotógrafo de Guerra é um filme quase cru, sem substância, cujo titulo já anuncia sem rodeios seu conteúdo, que pode ser chocante para a maioria das pessoas, mas como espectadores nos acostumamos com o que vemos.

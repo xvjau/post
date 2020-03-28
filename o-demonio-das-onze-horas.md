@@ -4,7 +4,7 @@ title: "O Demônio das Onze Horas"
 desc: "Pierrot le fou. Por Jean-Luc Godard, com Jean-Paul Belmondo, Anna Karina, Graziella Galvani."
 imdb: "0059592"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "2/5"
 ---
 Godard coloca em prática seu objetivo de destruir a linguagem cinematográfica porque é coisa de burguês, mas seu jeito mimado e francês de criticar o establishment vira um tiro pela culatra em filme chato que apenas enfatiza que crianças como ele devem ser mantidas longe da câmera.

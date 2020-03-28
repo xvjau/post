@@ -2,7 +2,7 @@
 imdb: "0458413"
 
 date: "2015-01-11"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Uma Longa Queda"
 stars: "2/5"
 desc: "Uma Longa Queda. A Long Way Down (UK, 2014). Dirigido por Pascal Chaumeil. Escrito por Nick Hornby, Jack Thorne. Com Pierce Brosnan, Toni Collette, Imogen Poots, Aaron Paul, Zara White, Joe Cole, Evelyn Duah, Therese Bradley, Sam Neill."

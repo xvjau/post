@@ -2,7 +2,7 @@
 imdb: "0345950"
 
 date: "2012-08-01"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Bob Esponja O Filme"
 stars: "4/5"
 desc: "Bob Esponja O Filme. The SpongeBob SquarePants Movie (USA, 2004). Dirigido por Stephen Hillenburg, Mark Osborne. Escrito por Stephen Hillenburg, Stephen Hillenburg, Derek Drymon, Tim Hill, Stephen Hillenburg, Kent Osborne, Aaron Springer, Paul Tibbitt. Com Tom Kenny, Clancy Brown, Rodger Bumpass, Bill Fagerbakke, Mr. Lawrence, Jill Talley, Carolyn Lawrence, Mary Jo Catlett, Jeffrey Tambor."

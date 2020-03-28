@@ -2,7 +2,7 @@
 imdb: "2625598"
 
 date: "2015-09-20"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Living on One Dollar"
 stars: "4/5"
 desc: "Living on One Dollar. Living on One Dollar (USA, 2013). Dirigido por Zach Ingrasci, Sean Leonard, Chris Temple. Com Ryan Christoffersen, Zach Ingrasci, Sean Leonard, Chris Temple."

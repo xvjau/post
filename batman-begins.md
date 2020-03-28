@@ -4,7 +4,7 @@ title: "Batman Begins"
 desc: "Batman Begins. EUA, Reino Unido, 2005. Dirigido por Christopher Nolan, escrito por Nolan e David S. Goyer baseado nos personagens de quadrinhos de Bob Kane. Com Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson, Katie Holmes, Tom Wilkinson, Cillian Murphy."
 imdb: "0372784"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 Batman Begins hoje é óbvio, mas para entender a verdadeira força desse reboot você precisa relacionar com um outro filme chamado Batman e Robin. Assista esse. Eu espero. Esse é o tamanho do gap que se formou entre as duas franquias.

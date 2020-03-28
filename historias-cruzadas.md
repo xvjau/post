@@ -2,7 +2,7 @@
 imdb: "1454029"
 
 date: "2012-12-18"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Histórias Cruzadas"
 stars: "3/5"
 desc: "Histórias Cruzadas. The Help (USA, 2011). Dirigido por Tate Taylor. Escrito por Tate Taylor, Kathryn Stockett. Com Emma Stone, Viola Davis, Bryce Dallas Howard, Octavia Spencer, Jessica Chastain, Ahna O'Reilly, Allison Janney, Anna Camp, Eleanor Henry."

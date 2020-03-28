@@ -2,7 +2,7 @@
 imdb: "5698496"
 
 date: "2016-10-25"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "A Menina Sem Mãos"
 stars: "3/5"
 desc: "A Menina Sem Mãos. La jeune fille sans mains (France, 2016). Dirigido por Sébastien Laudenbach. Escrito por Jacob Grimm, Wilhelm Grimm, Sébastien Laudenbach. Com Anaïs Demoustier (La jeune fille), Jérémie Elkaïm (Le prince), Philippe Laudenbach (Le diable), Olivier Broche (Le père), Françoise Lebrun (La mère), Sacha Bourdo (Le jardinier), Elina Löwensohn (La déesse de l'eau)."

@@ -2,7 +2,7 @@
 imdb: "3398268"
 
 date: "2015-09-13"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Quando Estou Com Marnie"
 stars: "4/5"
 desc: "Quando Estou Com Marnie. Omoide no Mânî (Japan, 2014). Dirigido por Hiromasa Yonebayashi. Escrito por Joan G. Robinson, Keiko Niwa, Masashi Ando, Hiromasa Yonebayashi, David Freedman. Com Sara Takatsuki, Kasumi Arimura, Nanako Matsushima, Susumu Terajima, Toshie Negishi, Ryôko Moriyama, Kazuko Yoshiyuki, Hitomi Kuroki, Ava Acres."

@@ -2,7 +2,7 @@
 imdb: "0121765"
 
 date: "2011-05-29"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Star Wars Episódio II Ataque dos Clones"
 stars: "5/5"
 desc: "Star Wars Episódio II Ataque dos Clones. Star Wars: Episode II - Attack of the Clones (USA, 2002). Dirigido por George Lucas. Escrito por George Lucas, George Lucas, Jonathan Hales. Com Ewan McGregor, Natalie Portman, Hayden Christensen, Christopher Lee, Samuel L. Jackson, Frank Oz, Ian McDiarmid, Pernilla August, Temuera Morrison."

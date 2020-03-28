@@ -2,7 +2,7 @@
 imdb: "6230488"
 
 date: "2017-04-18"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Ninguém Entra, Ninguém Sai"
 stars: "2/5"
 desc: "Ninguém Entra, Ninguém Sai. Ninguém Entra, Ninguém Sai (Brazil, 2017). Dirigido por Hsu Chien Hsin. Escrito por Paulo Halm, Luis Fernando Verissimo. Com Catarina Abdalla (Jéssica), Karolina Albertassi (Laís), Monique Alfradique (Severino), Leo Bahia (Roberto / Robert), Renata Castro Barbosa (Edilene), Bruno Bebianno (Médico), Paulo Bellei (Papado), Ricardo Boechat (Repórter Oscar Ribeiro), Alex Cabral (Motoboy Alex)."

@@ -2,7 +2,7 @@
 imdb: "5912454"
 
 date: "2016-12-10"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Blue Jay"
 stars: "4/5"
 desc: "Blue Jay. Blue Jay (USA, 2016). Dirigido por Alexandre Lehmann. Escrito por Mark Duplass. Com Mark Duplass (Jim), Sarah Paulson (Amanda), Clu Gulager (Waynie), James Andrews (Background), Harris Benbury (Background), Daniel Brooks (Background), Mary Brooks (Background), Bill Greer (Background), Cindy Greer (Background)."

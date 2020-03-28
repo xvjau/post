@@ -4,7 +4,7 @@ title: "A Era da Inocência"
 desc: "L'âge des ténèbres (ou Days of Darknes em inglês). Escrito e dirigido por Denys Arcand. Com Marc Labrèche, Diane Kruger, Sylvie Léonard."
 imdb: "0819953"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 A Era da Inocência é conhecida em sua versão inglesa como Day of Darkness (e assim o é no original em francês). Isso tem um pouco a dizer sobre o teor do filme, que apesar de se passar em um ambiente depressivo (e opressivo), seu exagero sugere uma certa inocência em sua abordagem. Isso porque o diretor/escritor Denys Arcand está a todo vapor desde As Invasões Bárbaras, filme onde ele já atacava com todas as forças a ideia pré-concebida que o resto do mundo tem que o Canadá é um primeiro mundo ideal e desejável por todos, quando na verdade o sistema de saúde celebrado por todos é um pesadelo distópico digno de filmes como [Brazil](/brazil-o-filme), [THX 1138](/thx-1138) ou até mesmo [1984](/1984).

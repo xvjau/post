@@ -2,7 +2,7 @@
 imdb: "0116282"
 
 date: "2012-08-16"
-tags: [ "movies" ]
+tags: [ "movie" ]
 count: 2
 title: "Fargo"
 stars: "5/5"

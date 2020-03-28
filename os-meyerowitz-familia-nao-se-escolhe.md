@@ -2,7 +2,7 @@
 date: 2018-01-31T23:40:19
 imdb: "5536736"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 title: "Os Meyerowitz: Família Não se Escolhe"
 desc: "Os Meyerowitz: Família Não se Escolhe."

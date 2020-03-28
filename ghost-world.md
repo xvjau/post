@@ -3,7 +3,7 @@ date: 2019-06-22T12:00:55-03:00
 title: "Ghost World: Aprendendo a Viver"
 desc: "Ghost World. United States, United Kingdom, Germany, 2001. Dirigido por Terry Zwigoff, escrito por Daniel Clowes, Terry Zwigoff. Com Thora Birch, Scarlett Johansson, Steve Buscemi."
 imdb: "0162346"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 
 ---

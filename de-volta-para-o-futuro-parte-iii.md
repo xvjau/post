@@ -2,7 +2,7 @@
 imdb: "0099088"
 
 date: 2016-03-20
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "De Volta para o Futuro Parte III"
 stars: "5/5"
 desc: "De Volta para o Futuro Parte III. Back to the Future Part III (USA, 1990). Dirigido por Robert Zemeckis. Escrito por Robert Zemeckis, Bob Gale, Robert Zemeckis, Bob Gale, Bob Gale. Com Michael J. Fox, Christopher Lloyd, Mary Steenburgen, Thomas F. Wilson, Lea Thompson, Elisabeth Shue, Matt Clark, Richard Dysart, Pat Buttram."

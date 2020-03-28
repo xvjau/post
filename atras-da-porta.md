@@ -2,7 +2,7 @@
 imdb: "1194577"
 
 date: "2013-03-11"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Atrás da Porta"
 stars: "3/5"
 desc: "Atrás da Porta. The Door (Hungary, 2012). Dirigido por István Szabó. Escrito por Magda Szabó, István Szabó, Andrea Vészits. Com Helen Mirren, Martina Gedeck, Károly Eperjes, Gábor Koncz, Enikö Börcsök, Ági Szirtes, Erika Marozsán, Ildikó Tóth, Mari Nagy."

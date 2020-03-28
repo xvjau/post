@@ -2,7 +2,7 @@
 imdb: "1253863"
 
 date: "2014-03-25"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "300 A Ascensão do Império"
 stars: "2/5"
 desc: "300 A Ascensão do Império. 300: Rise of an Empire (USA, 2014). Dirigido por Noam Murro. Escrito por Zack Snyder, Kurt Johnstad, Frank Miller. Com Sullivan Stapleton, Eva Green, Lena Headey, Hans Matheson, Callan Mulvey, David Wenham, Rodrigo Santoro, Jack O'Connell, Andrew Tiernan."

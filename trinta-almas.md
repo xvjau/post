@@ -4,7 +4,7 @@ title: "Trinta Almas"
 desc: "Trinta Lumes (aka Thirty Souls) (Espanha, 2017), dirigido por Diana Toucedo, com Alba Arias, Samuel Vilariño. Fotografia, mockumentary, terror. #mostrasp"
 imdb: "3886454"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "2/5"
 
 ---

@@ -4,7 +4,7 @@ title: "Beetlejuice: Os Fantasmas Se Divertem"
 desc: "Beetlejuice. EUA, 1988. Dirigido por Tim Burton, escrito por Michael McDowell, Warren Skaaren e Larry Wilson. Com Alec Baldwin, Geena Davis, Michael Keaton, Winona Ryder."
 imdb: "0094721"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 Se vocês assistiram [Uma Aventura Lego 2](/uma-aventura-lego-2) recentemente, podem confiar na opinião do Batman: Michael Keaton está ótimo em Beetlejuice.

@@ -1,7 +1,7 @@
 ---
 date: 2018-04-17T14:00:24-03:00
 title: "A Cidade do Futuro"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 imdb: "6182402"
 
 stars: "4/5"

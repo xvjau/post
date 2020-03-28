@@ -3,7 +3,7 @@
 imdb: "3906650"
 
 date: "2016-03-30"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Sinfonia da Necrópole"
 stars: "3/5"
 desc: "Sinfonia da Necrópole. Sinfonia da Necrópole (Brazil, 2014). Dirigido por Juliana Rojas. Escrito por Juliana Rojas. Com Eduardo Gomes, Paulo Jordão, Germano Melo, Adriana Mendonça, Luís Mármora, Luciana Paes, Augusto Pompeo, Antonio Velloso, Hugo Villavicenzio."

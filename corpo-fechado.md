@@ -3,7 +3,7 @@ date: "2019-07-24"
 title: "Corpo Fechado"
 desc: "Unbreakable. United States, 2000. Dirigido por M. Night Shyamalan, escrito por M. Night Shyamalan. Com Bruce Willis, Samuel L. Jackson, Robin Wright."
 imdb: "0217869"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 O que segura Corpo Fechado do começo ao fim é o seu tema, que se resume em uma pergunta, a mais instigante das perguntas: seriam os heróis dos gibis exageros do mundo real?

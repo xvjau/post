@@ -3,7 +3,7 @@
 imdb: "3118696"
 
 date: "2015-04-08"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Club Sandwich"
 stars: "5/5"
 desc: "Club Sandwich. Club Sándwich (Mexico, 2013). Dirigido por Fernando Eimbcke. Escrito por Fernando Eimbcke. Com Lucio Giménez Cacho, Carolina Politi, María Renée Prudencio, Danae Reynaud."

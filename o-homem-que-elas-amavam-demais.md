@@ -3,7 +3,7 @@
 imdb: "2929890"
 
 date: "2015-05-21"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "O Homem Que Elas Amavam Demais"
 stars: "3/5"
 desc: "O Homem Que Elas Amavam Demais. L'homme qu'on aimait trop (France, 2014). Dirigido por André Téchiné. Escrito por Cédric Anger, Jean-Charles Le Roux, Renée Le Roux, André Téchiné. Com Guillaume Canet, Catherine Deneuve, Adèle Haenel, Judith Chemla, Mauro Conte, Jean Corso, Hugo Sablic, Jean-Pierre Getti, Pascal Mercier."

@@ -2,7 +2,7 @@
 imdb: "0488120"
 
 date: "2013-04-21"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Um Crime de Mestre"
 stars: "4/5"
 desc: "Um Crime de Mestre. Fracture (USA, 2007). Dirigido por Gregory Hoblit. Escrito por Daniel Pyne, Glenn Gers, Daniel Pyne. Com Anthony Hopkins, Ryan Gosling, David Strathairn, Rosamund Pike, Embeth Davidtz, Billy Burke, Cliff Curtis, Fiona Shaw, Bob Gunton."

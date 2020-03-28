@@ -3,7 +3,7 @@ date: "2019-09-24"
 title: "Ad Astra: Rumo às Estrelas"
 desc: '"Ad Astra" (China, Brasil, EUA, 2019), escrito por James Gray e Ethan Gross, dirigido por James Gray, com Brad Pitt, Tommy Lee Jones e Ruth Negga. Escrito para o CinemAqui.'
 imdb: "2935510"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 ---
 Ad Astra é um filme de mais de cem milhões de dólares indo para o espaço sobre um Brad Pitt aprendendo a deixar seu pai ir embora (Tommy Lee Jones). No caminho, percebendo as referências, aprendemos como alguns filmes icônicos de sci-fi deixaram sua marca nas mentes dos millennials, e junto do personagem de Pitt iremos testemunhar a farofa mais realista que você irá ver sobre exploração espacial esse ano.

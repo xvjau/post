@@ -4,7 +4,7 @@ title: "A Sombra do Pai"
 desc: "A Sombra do Pai (Brasil, 2018), escrito e dirigido por Gabriela Amaral, com Nina Medeiros, Luciana Paes, Dinho Lima Flor."
 imdb: "6388464"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 
 ---

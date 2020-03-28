@@ -3,7 +3,7 @@ date: "2020-02-19"
 title: "Doce Entardecer na Toscana"
 desc: '"Dolce fine giornata" (Polônia, 2019), escrito por Jacek Borcuch, Marcin Cecko e Szczepan Twardoch, dirigido por Jacek Borcuch, com Krystyna Janda, Kasia Smutniak e Antonio Catania.'
 imdb: "9358106"
-tags: [ "movies", "cinemaqui" ]
+tags: [ "movie", "cinemaqui" ]
 stars: "4/5"
 ---
 Parece haver infinitas maneiras de abordar o tema dos refugiados e terrorismo de nossos tempos. Isso já deixou de ser novidade há mais de uma década, mas agora está sendo usado à exaustão pelas artes e pela mídia. Encontraram o filão dramático que precisavam no momento certo, quando faltam pobres até na China para que as artes se aproveitassem daquela miséria lírica tão bem explorada no século passado. E eis que surge Doce Entardecer na Toscana, um trabalho fantasioso e de interpretação aberta cujo objetivo mais nobre é fazer pensar, e o menos nobre é não saber exatamente sobre o quê.

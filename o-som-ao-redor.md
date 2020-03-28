@@ -2,7 +2,7 @@
 imdb: "2190367"
 
 date: "2013-01-14"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Som ao Redor"
 stars: "4/5"
 desc: "O Som ao Redor. O Som ao Redor (Brazil, 2012). Dirigido por Kleber Mendonça Filho. Escrito por Kleber Mendonça Filho. Com Ana Rita Gurgel, Caio Almeida, Maeve Jinkings, Dida Maia, Felipe Bandeira, Gustavo Jahn, Irma Brown, Mauricéia Conceição, Graziela Santos da Rocha."

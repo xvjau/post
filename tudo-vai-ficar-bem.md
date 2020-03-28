@@ -3,7 +3,7 @@
 imdb: "1707380"
 
 date: "2016-03-01"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Tudo Vai Ficar Bem"
 stars: "4/5"
 desc: "Tudo Vai Ficar Bem. Every Thing Will Be Fine (Germany, 2015). Dirigido por Wim Wenders. Escrito por Bjørn Olaf Johannessen. Com Rachel McAdams, James Franco, Peter Stormare, Charlotte Gainsbourg, Julia Sarah Stone, Marie-Josée"

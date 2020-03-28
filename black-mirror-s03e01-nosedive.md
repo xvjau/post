@@ -2,7 +2,7 @@
 imdb: "5497778"
 
 date: "2016-10-23"
-tags: [ "series" ]
+tags: [ "tv" ]
 title: "Black Mirror - S03E01 - Nosedive"
 stars: "5/5"
 desc: "Nosedive. Black Mirror (UK, 2011). Dirigido por Joe Wright. Escrito por Rashida Jones, Michael Schur, Charlie Brooker. Com Bryce Dallas Howard, Alice Eve, Cherry Jones."

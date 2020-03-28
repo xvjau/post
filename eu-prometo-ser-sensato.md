@@ -3,7 +3,7 @@ date: "2019-10-21"
 title: "Eu Prometo Ser Sensato"
 desc: "'Je promets d'être sage' (França, 2019), escrito por Ronan Le Page, dirigido por Ronan Le Page, com Pio Marmaï, Léa Drucker e Mélodie Richard. Escrito para o CinemAqui na cobertura da #mostrasp."
 imdb: "9041234"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "2/5"
 ---
 No começo de Eu Prometo Ser Sensato testemunhamos o último desastre de Franck, um diretor de teatro completamente fora de controle. Não é uma situação engraçada, mas trágica, para o elenco, o público e ele mesmo. E este ironicamente é o resumo do filme inteiro de Ronan Le Page: sem sentido, sem paixão e sem controle. Não há nada neste filme que você irá sentir falta quando ele acabar.

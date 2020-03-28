@@ -4,7 +4,7 @@ title: "Animais Fantásticos: Os Crimes De Grindelwald"
 desc: "Fantastic Beasts: The Crimes of Grindelwald. Reino Unido, EUA, 2018. Escrito por J.K. Rowling baseada nos personagens de... J.K. Rowling. Dirigido por um cansado David Yates. Eddie Redmayne, Katherine Waterston, Dan Fogler. Harry Potter sem Harry Potter."
 imdb: "4123430"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "2/5"
 ---
 Antes que me esqueça: não há animais fantásticos nesse filme que justifique seu título. Ou se há, então toda a magia da ambiguidade do [primeiro e encantador filme](/animais-fantasticos-e-onde-habitam) se desfez na primeira cena. Sabe, aquela ambiguidade entre os humanos serem animais também... ah, esqueça. Este não é um filme de sutilezas. Ele vai direto ao ponto: ele quer nos dividir e lançar suas asinhas políticas em um movimento supostamente anti-nazista. Quer coisa mais anti-harry-potterana que querer meter política nua e crua em um universo cheio de maneiras melhores de dizer a mesma coisa?

@@ -2,7 +2,7 @@
 imdb: "2381941"
 
 date: "2015-03-13"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Golpe Duplo"
 stars: "4/5"
 desc: "Golpe Duplo. Focus (USA, 2015). Dirigido por Glenn Ficarra, John Requa. Escrito por Glenn Ficarra, John Requa. Com Will Smith, Margot Robbie, Adrian Martinez, Gerald McRaney, Rodrigo Santoro, BD Wong, Brennan Brown, Robert Taylor, Dotan Bonen."

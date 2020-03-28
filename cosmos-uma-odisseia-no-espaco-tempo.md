@@ -3,7 +3,7 @@ imdb: "2395695"
 
 date: "2014-09-25"
 review: [ "2015" ]
-tags: [ "series" ]
+tags: [ "tv" ]
 title: "Cosmos: Uma Odisséia do Espaço-Tempo"
 stars: "5/5"
 desc: "Cosmos: Uma Odisséia do Espaço-Tempo. Cosmos: A Spacetime Odyssey (USA, 2014). Dirigido por Brannon Braga, Ann Druyan, Bill Pope. Escrito por Ann Druyan, Carl Sagan, Steven Soter. Com Neil deGrasse Tyson."

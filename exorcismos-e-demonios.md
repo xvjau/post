@@ -1,7 +1,7 @@
 ---
 date: 2018-03-27T22:31:52-03:00
 title: "Exorcismos e Demônios"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 imdb: "4181782"
 
 stars: "2/5"

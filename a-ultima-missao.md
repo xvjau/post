@@ -2,7 +2,7 @@
 date: 2018-01-17T23:21:21
 imdb: "0070290"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 title: "A Última Missão"
 desc: "A Última Missão."

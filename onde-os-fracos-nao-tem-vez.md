@@ -2,7 +2,7 @@
 imdb: "0477348"
 
 date: "2014-03-04"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Onde os Fracos não Têm Vez"
 stars: "4/5"
 desc: "Onde os Fracos não Têm Vez. No Country for Old Men (USA, 2007). Dirigido por Ethan Coen, Joel Coen. Escrito por Joel Coen, Ethan Coen, Cormac McCarthy. Com Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson, Kelly Macdonald, Garret Dillahunt, Tess Harper, Barry Corbin, Stephen Root."

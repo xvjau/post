@@ -2,7 +2,7 @@
 imdb: "2103217"
 
 date: 2017-11-30T00:07:56
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Maníaco"
 stars: "4/5"
 desc: "Maníaco. Maniac (France, 2012). Dirigido por Franck Khalfoun. Escrito por Alexandre Aja, Grégory Levasseur, Joe Spinell. Com Nora Arnezeder (Anna), Brian Ames (80's Man 1), America Olivo (Frank's Mother), Genevieve Alexandra (Jessica), Liane Balaban (Judy), Jan Broberg (Rita), Aaron Colom (Alley Man), Joshua Delagarza (Martin Nunez), Alex Diaz (Puppeteer #2), Elijah Wood (Frank)."

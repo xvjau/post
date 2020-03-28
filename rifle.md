@@ -3,7 +3,7 @@
 imdb: "3476694"
 
 date: 2017-07-26T16:56:50
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Rifle"
 stars: "2/5"
 desc: "Rifle. Rifle (Brazil, 2016). Dirigido por Davi Pretto. Escrito por Davi Pretto, Richard Tavares. Com Dione Avila De Oliveira (Dione), Evaristo Pimentel Goularte (Evaristo), Francisco Fabrício Dutra dos Santos (Mariano), Sofia Ferreira (Vitória), Andressa Nogueira Goularte (Andressa)."

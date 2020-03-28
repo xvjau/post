@@ -3,7 +3,7 @@ date: "2019-10-19"
 title: "System Crasher"
 desc: '"System Crasher" (Alemanha, 2019), escrito por Nora Fingscheidt, dirigido por Nora Fingscheidt, com Helena Zengel, Albrecht Schuch e Gabriela Maria Schmeide. Escrito para o CinemAqui na cobertura da #mostrasp.'
 imdb: "8535968"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 ---
 System Crasher evita a todo custo julgar sua jovem e impossível protagonista, mas não se pode dizer o mesmo dos espectadores, que saíram da sessão vociferando palavras de ordem e disciplina como solução para uma menina de uns 10 anos que com inteligência acima da média e ataques explosivos é uma versão em miniatura de uma delinquente juvenil. Mas a grande questão para quem quiser analisar além das emoções primárias que o filme evoca é sua camada imediatamente superior: quais os objetivos de um filme como esse?

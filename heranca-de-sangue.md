@@ -3,7 +3,7 @@
 imdb: "3647498"
 
 date: "2016-09-04"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Herança de Sangue"
 stars: "4/5"
 desc: "Herança de Sangue. Blood Father (France, 2016). Dirigido por Jean-François Richet. Escrito por Peter"

@@ -3,7 +3,7 @@ date: "2020-01-14"
 title: "A Pequena Jerusalém"
 desc: '"La petite Jérusalem" (França, 2005), escrito por Karin Albou, dirigido por Karin Albou, com Fanny Valette, Elsa Zylberstein e Bruno Todeschini.'
 imdb: "0428965"
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 A Pequena Jerusalém é filme de judeu para judeu. Ele demonstra como é difícil para nós, gentios, infiéis, entenderem o que se passa na cabeça e nos corações desse povo que segue rituais arcaicos e valores bizarros dissociados da vida moderna em plena Paris. Um não judeu que o assista não terá a mínima empatia sobre a cultura e as pessoas que a seguem, o que por si só já explica o sentimento anti-semita de todo o resto do mundo civilizado.

@@ -2,7 +2,7 @@
 date: 2018-02-10T22:30:31
 imdb: "7115328"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "3/5"
 title: "Paulistas"
 desc: "Paulistas."

@@ -3,7 +3,7 @@
 imdb: "3501632"
 
 date: 2017-10-25T00:05:52
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Thor Ragnarök"
 stars: "3/5"
 desc: "Thor Ragnarök. Thor: Ragnarok (USA, 2017). Dirigido por Taika Waititi. Escrito por Eric Pearson,"

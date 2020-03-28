@@ -2,7 +2,7 @@
 imdb: "0084827"
 
 date: "2010-12-04"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Tron Uma Odisséia Eletrônica"
 stars: "3/5"
 desc: "Tron Uma Odisséia Eletrônica. TRON (USA, 1982). Dirigido por Steven Lisberger. Escrito por Steven Lisberger, Steven Lisberger, Bonnie MacBird. Com Jeff Bridges, Bruce Boxleitner, David Warner, Cindy Morgan, Barnard Hughes, Dan Shor, Peter Jurasik, Tony Stephano, Craig Chudy."

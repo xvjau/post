@@ -2,7 +2,7 @@
 imdb: "0292542"
 
 date: "2013-01-21"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Filho da Noiva"
 stars: "3/5"
 desc: "O Filho da Noiva. El hijo de la novia (Argentina, 2001). Dirigido por Juan José Campanella. Escrito por Juan José Campanella, Fernando Castets. Com Ricardo Darín, Héctor Alterio, Norma Aleandro, Eduardo Blanco, Natalia Verbeke, Gimena Nóbile, David Masajnik, Claudia Fontán, Atilio Pozzobon."

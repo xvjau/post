@@ -4,7 +4,7 @@ title: "Os Incríveis 2"
 desc: "Incredibles 2. Dirigido e escrito por Brad Bird. Com Craig T. Nelson, Holly Hunter, Sarah Vowell (os dubladores brasileiros não faço ideia porque tem que ficar catando coquinho na internet)."
 imdb: "3606756"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "3/5"
 ---
 Se passaram 14 anos desde que Os Incríveis estrearam, também dirigido e escrito por Brad Bird. Na época a Pixar ainda estava engatinhando e emplacando seus maiores sucessos, sempre baseados em uma direção de arte maravilhosa, uma qualidade criativa impecável e elevando o nível da sétima arte pelo bem da arte, e ainda conseguindo ganhar rios de dinheiro em cima disso. Hoje os rios de dinheiro continuam, a direção de arte continua estupenda e a qualidade criativa está entregue a um marasmo que só consegue pedir desculpas para os movimentos sociais, uma atitude que ironicamente é patética e nada heróica.

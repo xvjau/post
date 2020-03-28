@@ -2,7 +2,7 @@
 imdb: "0475290"
 
 date: "2016-08-01"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Ave, César!"
 stars: "4/5"
 desc: "Ave, César!. Hail, Caesar! (UK, 2016). Dirigido por Ethan Coen, Joel Coen. Escrito por Joel Coen, Ethan Coen. Com Josh Brolin, George Clooney, Alden Ehrenreich, Ralph Fiennes, Scarlett Johansson, Tilda Swinton, Channing Tatum, Frances McDormand, Jonah Hill."

@@ -2,7 +2,7 @@
 date: "2020-02-17"
 title: "Fim de Festa"
 desc: '"Fim de Festa" (Brasil, 2019), escrito por Hilton Lacerda, dirigido por Hilton Lacerda, com Irandhir Santos, Gustavo Patriota e Amanda Beça.'
-tags: [ "movies", "cinemaqui" ]
+tags: [ "movie", "cinemaqui" ]
 stars: "4/5"
 ---
 Fim de Festa é uma guerra declarada contra a lógica opressora burguesa, dessas que abomina o Carnaval e exige que lindas mulheres cubram os seios em público, mas ao mesmo tempo é uma diversão acompanhar essa aventura investigativa sob os olhos de quem pensa diferente: os subversivos. Que de subversivos não têm nada. É a elite brasileira que é careta, mesmo.

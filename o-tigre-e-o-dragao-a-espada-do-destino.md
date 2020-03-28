@@ -2,7 +2,7 @@
 imdb: "2652118"
 
 date: "2016-03-09"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "O Tigre e o Dragão: A Espada do Destino"
 stars: "2/5"
 desc: "O Tigre e o Dragão: A Espada do Destino."

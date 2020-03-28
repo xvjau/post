@@ -1,7 +1,7 @@
 ---
 imdb: "5013056"
 date: 2017-07-25T11:23:01
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Dunkirk"
 stars: "5/5"
 desc: "Dunkirk. Dunkirk (UK, 2017). Dirigido por Christopher Nolan. Escrito por Christopher Nolan. Com Fionn Whitehead (Tommy), Damien Bonnard (French Soldier), Aneurin Barnard (Gibson), Lee Armstrong (Grenadier), James Bloor (Irate Soldier), Barry Keoghan (George), Mark Rylance (Mr. Dawson), Tom Glynn-Carney (Peter), Tom Hardy (Farrier), Kenneth Branagh (Commander Bolton)."

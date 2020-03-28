@@ -2,7 +2,7 @@
 date: 2018-03-14T23:36:56
 imdb: "6285776"
 
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 title: "Górgona"
 desc: "Górgona."

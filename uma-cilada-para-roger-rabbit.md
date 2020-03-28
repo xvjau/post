@@ -2,7 +2,7 @@
 imdb: "0096438"
 
 date: "2016-01-19"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Uma Cilada para Roger Rabbit"
 stars: "5/5"
 desc: "Uma Cilada para Roger Rabbit. Who Framed Roger Rabbit (USA, 1988). Dirigido por Robert Zemeckis. Escrito por Gary K. Wolf, Jeffrey Price, Peter S. Seaman. Com Bob Hoskins, Christopher Lloyd, Joanna Cassidy, Charles Fleischer, Stubby Kaye, Alan Tilvern, Richard LeParmentier, Lou Hirsch, Betsy Brantley."

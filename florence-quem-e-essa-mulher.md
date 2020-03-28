@@ -3,7 +3,7 @@
 imdb: "4136084"
 
 date: "2016-06-10"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Florence - Quem é Essa Mulher?"
 stars: "4/5"
 desc: "Florence - Quem é Essa Mulher?. Florence Foster Jenkins (UK, 2016). Dirigido por Stephen Frears. Escrito por Nicholas Martin. Com Rebecca Ferguson, Meryl Streep, Hugh Grant, Simon Helberg, Neve Gachev, Nina Arianda, John Kavanagh, Elliot Levey, Dilyana Bouklieva."

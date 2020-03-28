@@ -3,7 +3,7 @@ date: "2020-03-04"
 title: "Zombi Child"
 desc: '"Zombi Child" (França, 2019), escrito por Bertrand Bonello, dirigido por Bertrand Bonello, com Louise Labeque, Wislanda Louimat e Katiana Milfort.'
 imdb: "9056192"
-tags: [ "movies", "cinemaqui" ]
+tags: [ "movie", "cinemaqui" ]
 stars: "3/5"
 ---
 Das profundezas do meu inconsciente trasheiro, eu esperava, sinceramente, ver zumbis cinematográficos em Zombi Child, um filme que não desiste de apresentar sua "revelação final" mesmo que depois de quinze minutos de tela nós espectadores já soubéssemos qual é.

@@ -4,7 +4,7 @@ title: "Irmão Sol, Irmã Lua"
 desc: "Fratello sole, sorella luna. Reino Unido, Itália, 1972. Escrito por Suso Cecchi D'Amico, Charles Dyer, Kenneth Ross, Lina Wertmüller, Franco Zeffirelli e dirigido por Zeffirelli. Com Graham Faulkner como São Francisco de Assis, Judi Bowker como Clare, Leigh Lawson como Bernardo, Kenneth Cranham como Paulo, Alec Guinness como Papa Inocente III."
 imdb: "0069824"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "5/5"
 ---
 Este filme é uma descrição sincera e pura da epifania que São Francisco de Assis teve no momento-chave de sua vida. Mas se acompanharmos a história em todos os seus detalhes, você também poderá concluir que quando um maluco aleatório surgia nos tempos antigos alguns acreditavam ser um sábio, e a roda da história não consegue desprovar o que é provado por revelação. Então temos o seguinte dilema que Franco Zeffirelli nos entrega aqui: seria Francisco o cristão mais lúcido que já pisou nesta terra (com os pés descalços) ou o maluco mais bem-intencionado que já se teve notícia?

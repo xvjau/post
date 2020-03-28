@@ -3,7 +3,7 @@ date: "2019-09-18"
 title: "Foro Íntimo"
 desc: '"Foro Íntimo (aka Inner Court)" (Brasil, 2017), escrito por Guilherme Lessa e Ricardo Mehedff, dirigido por Ricardo Mehedff, com Gustavo Werneck, Jefferson da Fonseca e Beatriz França. Escrito para o CinemAqui.'
 imdb: "7064620"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "4/5"
 ---
 Foro Íntimo é uma viagem claustofóbica e tensa que usa todos os artifícios técnicos do cinema para contar uma história e manter seu efeito por toda sua interminável hora e pouco, se esquecendo até do motivo por trás do clima deste pesadelo em forma de filme.

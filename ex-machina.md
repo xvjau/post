@@ -2,7 +2,7 @@
 imdb: "0470752"
 
 date: "2015-05-19"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Ex Machina"
 review: [ "2016" ]
 stars: "4/5"

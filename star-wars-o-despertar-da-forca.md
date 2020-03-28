@@ -3,7 +3,7 @@ imdb: "2488496"
 
 date: "2019-05-15"
 review: [ "2019" ]
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Star Wars: O Despertar da Força"
 stars: "4/5"
 desc: "Star Wars: The Force Awakens (USA, 2015). Dirigido por J.J. Abrams. Escrito por Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas. Com Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Lupita Nyong'o, Andy Serkis. Texto original de 2016-01-08."

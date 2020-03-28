@@ -2,7 +2,7 @@
 imdb: "5029608"
 
 date: "2017-05-26"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "Frantz"
 stars: "5/5"
 desc: "Frantz. Frantz (France, 2016). Dirigido por François Ozon. Escrito por François Ozon, Philippe Piazzo, Ernst Lubitsch, Reginald Berkeley, Samson Raphaelson, Ernest Vajda, Maurice Rostand. Com Pierre Niney (Adrien Rivoire), Paula Beer (Anna), Ernst Stötzner (Doktor Hans Hoffmeister), Marie Gruber (Magda Hoffmeister), Johann von Bülow (Kreutz), Anton von Lucke (Frantz Hoffmeister), Cyrielle Clair (La mère d'Adrien), Alice de Lencquesaing (Fanny), Axel Wandtke (Le réceptionniste de l'hôtel)."

@@ -2,7 +2,7 @@
 imdb: "0076085"
 
 date: "2010-12-20"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "Um Dia Muito Especial"
 stars: "4/5"
 desc: "Um Dia Muito Especial. Una giornata particolare (Italy, 1977). Dirigido por Ettore Scola. Escrito por Maurizio Costanzo, Ruggero Maccari, Ettore Scola. Com Sophia Loren, Marcello Mastroianni, John Vernon, Françoise Berd, Patrizia Basso, Tiziano De Persio, Maurizio Di Paolantonio, Antonio Garibaldi, Vittorio Guerrieri."

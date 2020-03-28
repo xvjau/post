@@ -3,7 +3,7 @@
 imdb: "4686692"
 
 date: "2016-12-03"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 title: "O Ídolo"
 stars: "3/5"
 desc: "O Ídolo. Ya tayr el tayer (Occupied Palestinian Territory, 2015). Dirigido por Hany Abu-Assad. Escrito por Hany Abu-Assad, Sameh Zoabi. Com Tawfeek Barhom (Mohammed Assaf), Kais Attalah (Mohammed Assaf), Hiba Attalah (Nour), Ahmad Qasem (Young Ahmad), Abdel Kareem Barakeh (Young Omar), Teya Hussein (Young Amal), Dima Awawdeh (Amal), Ahmed Al Rokh (Omar), Saber Shreim (Ahmad)."

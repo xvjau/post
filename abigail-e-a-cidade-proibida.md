@@ -3,7 +3,7 @@ date: "2019-09-05"
 title: "Abigail e a Cidade Proibida"
 desc: '"Abigail" (EUA, Rússia, 2019), escrito por Aleksandr Boguslavskiy e Dmitriy Zhigalov, dirigido por Aleksandr Boguslavskiy, com Tinatin Dalakishvili, Eddie Marsan e Gleb Bochkov. Escrito para o CinemAqui.'
 imdb: "7025388"
-tags: [ "movies" , "cinemaqui" ]
+tags: [ "movie" , "cinemaqui" ]
 stars: "1/5"
 ---
 Abigail e a Cidade Proibida é a história de alguém que bateu forte a cabeça e começou a escrever uma lista dos clichês mais insuportáveis do século 20 na literatura, no cinema e no teatro. Depois ele conseguiu convencer algumas pessoas da indústria a filmar o que vamos chamar aqui de "história". E ele estava com sorte, porque para ser um big boss nessa área você também deve desenvolver um tino para clichês, ou ter nascido desse jeito. É o que chamamos de um dom natural.

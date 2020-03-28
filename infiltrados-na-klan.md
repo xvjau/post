@@ -4,7 +4,7 @@ title: "Infiltrados Na Klan"
 desc: "BlacKkKlansman. EUA, 2018. Escrito por Charlie Wachtel, David Rabinowitz, Kevin Willmott e Spike Lee baseados no livro de Ron Stallworth. Dirigido por Spike Lee. Com John David Washington, Adam Driver, Laura Harrier."
 imdb: "7349662"
 
-tags: [ "movies" ]
+tags: [ "movie" ]
 stars: "4/5"
 ---
 Spike Lee retorna aqui com a temática do racismo de "Faça a Coisa Certa" de várias décadas atrás. E coincidentemente seu astro apareceu em outro filme político do diretor, Malcolm X (embora completamente desconhecido, "como Estudante na Sala de Harlem"). Aqui junto com Adam Drive eles realizam os mesmos passos descritos no livro autobiográfico de Ron Stallworth, primeiro policial e detetive negro do departamento de polícia de Colorado Springs e que se infiltrou em um movimento da Ku Klux Klan no final dos anos 70. Essa história possui requintes surreais e parece extraordinária demais para ser séria.

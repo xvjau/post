@@ -2,7 +2,7 @@
 imdb: "4263482"
 
 date: "2016-06-24"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "A Bruxa"
 stars: "5/5"
 desc: "A Bruxa. The VVitch: A New-England Folktale (USA, 2015). Dirigido por Robert Eggers. Escrito por Robert Eggers. Com Anya Taylor-Joy, Ralph Ineson, Kate Dickie, Harvey Scrimshaw, Ellie Grainger, Lucas Dawson, Julian Richings, Bathsheba Garnett, Sarah Stephens."

@@ -2,7 +2,7 @@
 imdb: "0088763"
 
 date: 2016-03-20
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "De Volta para o Futuro"
 stars: "5/5"
 desc: "De Volta para o Futuro. Back to the Future (USA, 1985). Dirigido por Robert Zemeckis. Escrito por Robert Zemeckis, Bob Gale. Com Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover, Thomas F. Wilson, Claudia Wells, Marc McClure, Wendie Jo Sperber, George DiCenzo."

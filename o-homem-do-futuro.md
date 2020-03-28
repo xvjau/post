@@ -2,7 +2,7 @@
 imdb: "2027178"
 
 date: "2011-09-11"
-tags: [ "movies" ]
+tags: [ "movie" ]
 title: "O Homem do Futuro"
 stars: "4/5"
 desc: "O Homem do Futuro. O Homem do Futuro (Brazil, 2011). Dirigido por Cláudio Torres. Escrito por Cláudio Torres. Com Wagner Moura, Alinne Moraes, Maria Luísa Mendonça, Fernando Ceylão, Gabriel Braga Nunes, Daniel Uemura, José Steimberg, Malu Rodrigues, Gregório Duvivier."
