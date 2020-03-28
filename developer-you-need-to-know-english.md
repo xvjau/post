@@ -1,7 +1,7 @@
 ---
 date: "2007-09-28"
 title: 'Developer: you need to know English!'
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 Eu realmente gostei desse negócio de [_tagging_](http://www.google.com/search?q=caloni%20tagging). =)
 

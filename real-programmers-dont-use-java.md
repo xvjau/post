@@ -1,7 +1,7 @@
 ---
 date: "2014-02-20"
 title: Real Programmers Don't Use Java
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 [![real-programmer](/images/RwtN7j8.png)](/images/RwtN7j8.png)
 

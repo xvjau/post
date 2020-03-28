@@ -1,7 +1,7 @@
 ---
 date: "2012-01-11"
 title: RValue é o novo LValue
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 [![](/images/N5uv6gS.jpg)](/images/N5uv6gS.jpg)
 

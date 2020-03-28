@@ -1,7 +1,7 @@
 ---
 date: "2008-04-25"
 title: "Seminário CCPP Portabilidade e Performance"
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 Reserve sua cadeira. Está marcado para o último dia do mês de maio o [primeiro seminário de nosso grupo nacional de programadores e aficionados por C e C++](http://www.temporealeventos.com.br/?area=101). É bom ou não é?
 

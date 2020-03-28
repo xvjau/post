@@ -1,6 +1,6 @@
 ---
 title: Sobre a BitForge
-tags: [ "blogue" ]
+tags: [ "blog" ]
 date: 2014-07-03
 ---
 Minha empresa e onde eu trabalho; nos contrate para resolver seu problema aqui.

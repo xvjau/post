@@ -1,7 +1,7 @@
 ---
 imdb: "3472226"
 date: "2015-10-29"
-tags: [ "blogue" ]
+tags: [ "blog" ]
 title: "Kung Fury"
 stars: "3/5"
 desc: "Kung Fury. Kung Fury (Sweden, 2015). Dirigido por David Sandberg. Escrito por David Sandberg. Com David Sandberg, Jorma Taccone, Steven Chew, Leopold Nilsson, Andreas Cahling, Per-Henrik Arvidius, Erik Hörnqvist, Frank Sanderson, Eleni Young."

@@ -1,7 +1,7 @@
 ---
 date: "2011-03-22"
 title: Houaiss no Kindle
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 O blogue de José Ribeiro Pena Neto, aparentemente recém-criado, conseguiu utilizar minha solução de conversão do dicionário [Houaiss para Babylon](/houaiss-para-babylon-12) em algo mais incrívei ainda: [converter, em alguns passos, a base de dados do Houaiss para o Amazon Kindle](http://zeribeiropena.wordpress.com/2011/03/21/dicionario-houaiss-e-babylon-no-kindle/#comment-3).
 

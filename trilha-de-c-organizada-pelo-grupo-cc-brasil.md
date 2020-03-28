@@ -1,7 +1,7 @@
 ---
 date: "2011-06-10"
 title: Trilha de C++ organizada pelo grupo C/C++ Brasil
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 Sim, nós temos C++! Apesar de ser uma linguagem dita ultrapassada pelos brazucas, o [TDC desse ano terá uma trilha de C++](http://thedevelopersconference.com.br/tdc/2011/saopaulo/trilha-ccc#programacao) disponível para todo tipo de público que aprecia ou precisa dos poderes de C++ em seu dia-a-dia.
 

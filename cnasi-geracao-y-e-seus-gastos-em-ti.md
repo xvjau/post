@@ -1,7 +1,7 @@
 ---
 date: "2008-09-25"
 title: Cnasi, geração Y e seus gastos em TI
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 [![Eu invadindo o sistema da Cnasi e me auto-promovendo gerente!](/images/3cwJBwk.jpg)](/images/3cwJBwk.jpg)Hoje descemos a rua para almoçar no shopping e aproveitamos para dar uma passada no último dia da feirinha de empresas de segurança, vulgo [Cnasi](http://www.cnasi.com.br/), para "prestigiar" a nossa participação nesse evento singular.
 

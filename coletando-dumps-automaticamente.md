@@ -1,7 +1,7 @@
 ---
 date: "2012-05-17"
 title: Coletando dumps automaticamente
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 | Value               | Description | Type          | Default value             |
 |---------------------|-------------|---------------|---------------------------|

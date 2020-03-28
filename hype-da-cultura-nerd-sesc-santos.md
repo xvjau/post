@@ -1,6 +1,6 @@
 ---
 date: "2015-07-28"
-tags: [ "blogue" ]
+tags: [ "blog" ]
 title: "Hype da Cultura Nerd em Sesc Santos"
 desc: "Hype da Cultura Nerd em Sesc Santos."
 ---

@@ -2,7 +2,7 @@
 date: 2018-12-15T14:42:06-02:00
 title: "Como o Sistema de Estrelas como Nota Funciona"
 desc: "Como o Sistema de Estrelas como Nota Funciona (ou como ele não funciona)"
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 Não é a primeira vez que me questionam que apesar de ter escrito no meu blogue muito mal sobre um filme eu tenha dado três estrelas como nota, como se três estrelas fosse admissível apenas para trabalhos minimamente positivos. Bom, é uma questão complicada. Imagine você compactar todo o texto analisando uma obra em apenas um número entre 1 e 5.
 

@@ -1,7 +1,7 @@
 ---
 date: "2015-06-22"
 title: Escolha de palestras para o TDC 2015 Sampa
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 ![](/images/oS9PUDR.jpg)
 

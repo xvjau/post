@@ -2,7 +2,7 @@
 date: "2019-11-17"
 title: "Is There a Cure for Film Criticism? by Pauline Kael (excerpts)"
 desc: "Trechos do artigo Is There a Cure for Film Criticism? (or, Some Unhappy Thoughts on Siegfried Kracauer's Theory of Film: The Redemption of Physical Reality) por Pauline Kael."
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 Retirado do blog [Keeping My Brain Alive](http://keepingmybrainalive.blogspot.com/2006/09/is-there-cure-for-film-criticism-or.html).
 

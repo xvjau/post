@@ -1,6 +1,6 @@
 ---
 date: "2014-10-03"
-tags: [ "blogue" ]
+tags: [ "blog" ]
 title: "Walter de Carvalho"
 desc: "Walter de Carvalho."
 ---

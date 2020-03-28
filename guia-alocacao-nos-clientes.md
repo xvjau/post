@@ -1,7 +1,7 @@
 ---
 date: "2015-03-04"
 title: Guia de alocação (nos clientes)
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 ![](/images/QAvPgDf.jpg)
 

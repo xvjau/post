@@ -1,7 +1,7 @@
 ---
 date: "2007-06-13"
 title: "Résumé"
-tags: [ "blogue" ]
+tags: [ "blog" ]
 css: "<style>.subtitle, .taglist, .gitinfo { visibility: hidden; }</style>"
 ---
 # Wanderley Caloni

@@ -1,7 +1,7 @@
 ---
 date: "2015-08-04"
 title: "Por que as startups brasileiras precisam de outsourcing"
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 ![](/images/sG2RKEH.jpg)
 

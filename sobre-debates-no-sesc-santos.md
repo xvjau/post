@@ -1,6 +1,6 @@
 ---
 date: "2015-08-03"
-tags: [ "blogue" ]
+tags: [ "blog" ]
 title: "Sobre debates no SESC Santos"
 desc: "Sobre debates no SESC Santos."
 ---

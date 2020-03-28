@@ -1,7 +1,7 @@
 ---
 date: "2010-05-19"
 title: Analogicamente perfeito
-tags: [ "blogue" ]
+tags: [ "blog" ]
 ---
 É possível explicar tudo no mundo da informática através de analogias?
 
