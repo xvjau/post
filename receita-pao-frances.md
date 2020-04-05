@@ -6,9 +6,20 @@ tags: [ "food" ]
 ---
 Tirado do [vídeo do canal](https://youtu.be/KCe85lhkfOg) do YouTube Pão da Casa.
 
-**Ingredientes**: 500g de farinha (9 pães), 5g fermento seco, 50g fermento natural, 300ml de água (60%), 10g sal, 5g açúcar, 1 colher de chá de gordura.
+# Ingredientes
 
-**Preparo**: Sovar por uns 15 min até ficar elástico, descansar por 10 a 15 min, fazer a dobra como um livro e uma bola, descansando na geladeira por 12 horas. Após isso dividir em 9 pedaços, enrolando as dobras nelas mesmas. Após isso, moldar da mesma forma, gerando tensão ao puxar durante a formação do rolinho (em nenhum dos passos, desde a divisão, expulsar muito o ar da massa; mantê-la homogênea e um pouco fofinha). Esperar dobrar de tamanho já em uma forma untada. Logo antes de dobrar pré-aquecer o forno a 250 graus, fazer o corte de ponta a ponta com ângulo baixo (para a abertura da orelha), polvilhar de farinha se gostar e cobrir a forma com papel alumínio. Levar ao forno por 15 a 20 mins, depois retirar o papel e deixar dourar a casca, por mais uns 15 mins no forno.
+500g de farinha (9 pães), 5g fermento seco, 50g fermento natural, 300ml de água (60%), 10g sal, 5g açúcar, 1 colher de chá de gordura.
 
+# Preparo
+
+Sovar por uns 15 min até ficar elástico. Descansar por 10 a 15 min. Após isso fazer uma dobra como um livro que se fecha em quatro, e depois uma bola, descansando na geladeira por 12 horas enquanto cresce (muito). Após esse tempo retirar da geladeira e dividir em 9 pedaços, o que dará pães de 100g mais ou menos. Para cada pedaço amasse com delicadeza para abaixar o tamanho, como massageando, mas não muito, pois não queremos tirar todo o ar e fofura do pão. Depois vá enrolando cada pedaço nele mesmo, puxando um pouco antes de dar uma volta para dar tensão. Após feito com todos os pedaços, moldar da mesma forma, massageando delicadamente o pão e gerando tensão ao puxar durante a formação do novo rolinho (em nenhum dos passos, desde a divisão, expulsar muito o ar da massa; mantê-la homogênea e um pouco fofinha). Reservar cada pãozinho em uma forma ligeriamente untada de óleo com um bom espaço entre eles, pois irão dobrar de tamanho. Logo antes de dobrar pré-aquecer o forno a 240 a 250 graus, fazer o corte em cada um deles de ponta a ponta com ângulo baixo (para a abertura da orelha), polvilhar de farinha se gostar e cobrir a forma com papel alumínio. Ele demora para assar entre 25 minutos até meia-hora, mas depois de 15 a 20 minutos no forno retirar o papel alumínio para caramelizar o resto do tempo.
+
+# Dicas
+
+Depois de assado pode congelar no freezer. Para descongelar, retirar do freezer e deixar em temperatura ambiente uns 10 a 15 minutos, aquecendo o forno em temperatura média. Depois de aquecido coloque o pão por uns minutinhos e logo estará vibrante e crocante como novo. Ah, deixe a manteiga já fora da geladeira para ir derretendo.
+
+# Histórico
+
+ - 2020-04-05 Segunda fornada aprovada com sucesso. O segredo parece ser sovar direito por 15 minutos, ou usar farinha decente (T45).
  - 2019-12-29 Ficou quase perfeito, esqueci de cortar, mas a massa não ficou azeda e manteve o desenho da tensão da massa. Cresceu bem rápido. Próxima vez vou tentar deixar crescer mais para ficar maior e mais leve.
 
