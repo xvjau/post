@@ -3,7 +3,6 @@ date: "2020-04-07"
 title: "Meu Try Lock de Pelúcia"
 desc: "Era uma vez em um IRQL muito alto. Programação em kernel. BSOD. Windows tela azul. IRQL_NOT_LESS_OR_EQUAL."
 tags: [ "blog", "code" ]
-draft: true
 ---
 Alguns implementam mutex pero no mucho, que é aquele mutex que não faz nada porque ele sabe que só tem uma thread rodando no processo. É uma solução elegante para abstrair o uso de lock em um processo que pode ou não rodar multithread.
 
