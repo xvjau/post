@@ -2,7 +2,7 @@
 date: "2020-04-11"
 title: "O Dia em que Dorival Encarou a Guarda"
 desc: '"O Dia em Que Dorival Encarou a Guarda" (Brazil, 1986), escrito por Giba Assis Brasil, Ana Luiza Azevedo e Jorge Furtado, dirigido por Jorge Furtado e José Pedro Goulart, com João Acaiabe, Sirmar Antunes e Zé Adão Barbosa.'
-tags: [ "movie" ]
+tags: [ "short" ]
 imdb: "0125721"
 stars: "3/5"
 ---
