@@ -1,7 +1,7 @@
 ---
 date: "2020-04-11"
 title: "Da Colina Kokuriko"
-desc: '"Kokuriko-zaka kara" (Japão, 2011), escrito por Tetsurô Sayama, Hayao Miyazaki e Keiko Niwa, dirigido por Gorô Miyazaki, com Masami Nagasawa, Jun'ichi Okada e Keiko Takeshita.'
+desc: '"Kokuriko-zaka kara" (Japão, 2011), escrito por Tetsurô Sayama, Hayao Miyazaki e Keiko Niwa, dirigido por Gorô Miyazaki, com Masami Nagasawa, Jun''ichi Okada e Keiko Takeshita.'
 tags: [ "movie" ]
 imdb: "1798188"
 stars: "3/5"
