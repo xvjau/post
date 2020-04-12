@@ -1,7 +1,7 @@
 ---
 date: "2015-06-11"
 title: TDC SP 2015 (Call for Papers)
-tags: [ "blog" ]
+tags: [ "blog", "tdc" ]
 ---
 ![](/images/IDKzf2Q.png)
 

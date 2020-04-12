@@ -1,7 +1,7 @@
 ---
 date: "2015-07-13"
 title: TDC 2015 No More
-tags: [ "blog" ]
+tags: [ "blog", "tdc" ]
 ---
 ![](/images/QElrQv5.png)
 

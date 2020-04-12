@@ -1,7 +1,7 @@
 ---
 date: "2008-07-04"
 title: VirtualBox
-tags: [ "blog" ]
+tags: [ "blog", "vm" ]
 ---
 O [VirtualBox](http://www.virtualbox.org) parece ser o concorrente mais próximo atualmente da [VMWare](http://www.vmware.com). Descobrimos ele essa semana e resolvemos fazer alguns testes. O resultado foi bem animador.
 

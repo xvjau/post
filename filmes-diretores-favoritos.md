@@ -1,7 +1,7 @@
 ---
 date: 2017-08-23T09:56:39-03:00
 title: "Filmes e Diretores Favoritos"
-tags: [ "blog" ]
+tags: [ "cinema" ]
 ---
 Essas perguntas no estilo de listas me fazem travar. Minha resposta sempre será injusta porque eu vou esquecer filmes e diretores que gosto mais do que os que eu citar. 
 

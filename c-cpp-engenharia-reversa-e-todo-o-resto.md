@@ -1,7 +1,7 @@
 ---
 date: "2015-04-27"
 title: C, C++, Engenharia Reversa e Todo o Resto
-tags: [ "blog" ]
+tags: [ "blog", "ccpp", "reversing" ]
 ---
 ![](/images/p3q06SA.png)
 

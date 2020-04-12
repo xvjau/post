@@ -1,8 +1,8 @@
 ---
 date: "2019-10-07"
-title: "Seleção de Filmes da 43a. #mostrasp."
+title: "Seleção de Filmes da 43a MostraSP"
 desc: "Batendo a seleção de diretores com os textos já disponíveis."
-tags: [ "blog" ]
+tags: [ "cinema", "mostrasp", "list" ]
 ---
 Foi divulgada [a lista dos filmes para a mostra desse ano](http://43.mostra.org/br/conteudo/noticias-e-eventos/819). Já conheço alguns diretores por filmes anteriores.
 

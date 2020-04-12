@@ -1,7 +1,7 @@
 ---
 date: "2008-08-07"
 title: Aprendizado em kernel mode
-tags: [ "blog" ]
+tags: [ "blog", "kernel" ]
 ---
 Hoje terminei minha primeira leitura de [Memory Dump Analysis Vol. 1](http://www.amazon.com/Memory-Dump-Analysis-Anthology-Vol/dp/0955832802), e qual não foi a minha surpresa ao encontrar entre os últimos posts justamente o que eu estava precisando: um [guia de livros](http://www.dumpanalysis.org/blog/index.php/2007/08/26/moving-to-kernel-space-updated-references/) que se deve ler para começar a programar em kernel mode.
 

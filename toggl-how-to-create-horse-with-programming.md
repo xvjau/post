@@ -1,7 +1,7 @@
 ---
 date: 2018-01-31T12:55:18-02:00
 title: "Toggl: como criar um cavalo com programação"
-tags: [ "blog" ]
+tags: [ "blog", "fun" ]
 ---
 Cansado do transporte moderno? Um monte de feno rolando por aí? Parece que você poderia estar melhor no mercado de cavalos. Mas talvez não um construído com uma linguagem de programação. Por que não? Bom, você verá...
 

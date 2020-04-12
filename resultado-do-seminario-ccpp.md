@@ -1,7 +1,7 @@
 ---
 date: "2008-06-03"
 title: Resultado do Seminário CCPP
-tags: [ "blog" ]
+tags: [ "blog", "essay" ]
 ---
 Aconteceu nesse fim-de-semana, como era previsto, o nosso primeiro [Seminário CCPP Brasil](http://www.temporealeventos.com.br/?area=101), com direito a pessoas de todas as idades e origens, mas todas com algo em comum: a paixão e o interesse pelas linguagens-mestre do mundo da programação.
 

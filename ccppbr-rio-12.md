@@ -1,7 +1,7 @@
 ---
 date: "2015-08-16"
 title: CCPPBRRio12
-tags: [ "blog" ]
+tags: [ "blog", "ccppbr" ]
 ---
 Esse foi o segundo encontro do nosso grupo no Rio de Janeiro, Cidade Maravilhosa, Cidade do Bixcoito de Polvinho. E foi o primeiro encontro a ser [exibido em streamming e gravado para o YouTube](https://www.youtube.com/watch?v=JjANXR-diTM&feature=youtu.be), graças ao suporte da [RioSoft](http://www.riosoft.org.br/), uma organização que incentiva o mercado de desenvolvimento de software no Brasil, e onde foi realizado o evento.
 

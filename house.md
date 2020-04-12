@@ -1,7 +1,7 @@
 ---
 date: "2010-01-25"
 title: House
-tags: [ "blog" ]
+tags: [ "blog", "essay" ]
 ---
 Depois da [analogia entre depuração e CSI](/csi-crashed-server-investigation), nada como fazer o mesmo com o seriado [estilo House](http://pt.wikipedia.org/wiki/House,_M.D.).
 

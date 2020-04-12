@@ -2,7 +2,7 @@
 date: "2019-11-17"
 title: "Interview Pauline Kael (Modern Maturity)"
 desc: "Entrevista de Pauline Kael feita por Susan Goodman, a contributing editor for MODERN MATURITY, em 1998."
-tags: [ "blog" ]
+tags: [ "cinema" ]
 ---
 Retirado do blog [Keeping My Brain Alive](http://keepingmybrainalive.blogspot.com/2006/09/interview-pauline-kael-modern-maturity.html).
 

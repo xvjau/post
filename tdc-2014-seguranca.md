@@ -1,7 +1,7 @@
 ---
 date: "2014-07-16"
 title: 'TDC 2014: Segurança'
-tags: [ "blog" ]
+tags: [ "blog", "tdc" ]
 ---
 Nesse TDC, além da minha palestra usual na [trilha C/C++](http://www.thedevelopersconference.com.br/tdc/2014/saopaulo/trilha-c-e-cmaismais) irei participar da [trilha de segurança](http://www.thedevelopersconference.com.br/tdc/2014/saopaulo/trilha-seguranca), voltando às minhas origens, quando programava em empresas da segurança da informação. [Foram 10 anos!](/caloni)
 
