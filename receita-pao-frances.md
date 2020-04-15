@@ -16,10 +16,12 @@ Sovar por uns 15 min até ficar elástico. Descansar por 10 a 15 min. Após isso
 
 # Dicas
 
-Depois de assado pode congelar no freezer. Para descongelar, retirar do freezer e deixar em temperatura ambiente uns 10 a 15 minutos, aquecendo o forno em temperatura média. Depois de aquecido coloque o pão por uns minutinhos e logo estará vibrante e crocante como novo. Ah, deixe a manteiga já fora da geladeira para ir derretendo.
+ - Depois de assado pode congelar no freezer. Para descongelar, retirar do freezer e deixar em temperatura ambiente uns 10 a 15 minutos, aquecendo o forno em temperatura média. Depois de aquecido coloque o pão por uns minutinhos e logo estará vibrante e crocante como novo. Ah, deixe a manteiga já fora da geladeira para ir derretendo.
+ - Uma opção é fazer pães maiores e rechear com calabresa fatiada e queijo ralado. A forma de enrolar é a mesma, só mudando o tamanho do pão. Metade dessa receita já dá um pão grandinho se bem recheado, para duas pessoas comerem por dois ou três dias.
 
 # Histórico
 
+ - 2020-04-13 Pela segunda vez fiz na versão recheada com calabresa e queijo (veja dicas acima). É muito bom, mas estraga mais rápido. Bom pra fazer em turma ou em tamanhos modestos.
  - 2020-04-05 Segunda fornada aprovada com sucesso. O segredo parece ser sovar direito por 15 minutos, ou usar farinha decente (T45).
  - 2019-12-29 Ficou quase perfeito, esqueci de cortar, mas a massa não ficou azeda e manteve o desenho da tensão da massa. Cresceu bem rápido. Próxima vez vou tentar deixar crescer mais para ficar maior e mais leve.
 
