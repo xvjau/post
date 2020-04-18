@@ -17,7 +17,7 @@ Colaborador frequente do Grupo C/C++ Brasil, ele e Strauss se consideram fundado
 
 ### O trabalho nos torna livres
 
-Caloni trabalhou por dez anos na área de Segurança da Informação, principalmente em um [Sistema de Controle de Acesso a Usuários e Aplicações 100% brasileiro](http://www.scua.com.br) e [Análise de Trojans com Engenharia Reversa](http://www.opencs.com.br). Em seguida migrou para a [Área Financeira](http://www.ezmarket.com.br), vindo a ser sócio de uma empresa especializada, também desenvolvedora de [sua própria solução](http://www.intelitrader.com.br). Hoje é um dos sócios da [BitForge](http://www.bitforge.com.b4), uma empresa que auxilia empresas e equipes de desenvolvimento em problemas complexos, seja em arquitetura, metodologias, cursos ou escovação de bits, mesmo.
+Caloni trabalhou por dez anos na área de Segurança da Informação, principalmente em um [Sistema de Controle de Acesso a Usuários e Aplicações 100% brasileiro](http://www.scua.com.br) e [Análise de Trojans com Engenharia Reversa](http://www.opencs.com.br). Em seguida migrou para a [Área Financeira](http://www.ezmarket.com.br), vindo a ser sócio de uma empresa especializada, também desenvolvedora de [sua própria solução](http://www.intelitrader.com.br). Hoje é um dos sócios da [BitForge](http://www.bitforge.com.br), uma empresa que auxilia empresas e equipes de desenvolvimento em problemas complexos, seja em arquitetura, metodologias, cursos ou escovação de bits, mesmo. Também é sócio da [Intelitrader](http://www.intelitrader.com.br), mais focada em mercado financeiro.
 
 ### Quem não sabe ensina
 
